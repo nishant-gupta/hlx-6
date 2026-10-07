@@ -1,0 +1,25 @@
+/* archetype: contact — new module: definition-driven contact form (live dynamicformv2).
+ * lift: stardust/replica/lift/contact-{1440,360}.json. Labels: Inter-Medium declared at 500, rendered at 700 →
+ * synthetic bold exactly as on live. Select chevron: the live data-URI, verbatim. */
+.title--center, .text--center { text-align: center; }
+.form-wrap { padding: 0 16px; }
+@media (min-width: 768px) { .form-wrap { padding: 0; } }
+.form { display: flex; flex-direction: column; }
+.form__group { margin: 16px 0; }
+@media (min-width: 768px) { .form__group { margin: 20px 0; } }
+.form__label { display: block; margin-bottom: 4px; font: 700 16px/20px var(--font-medium); color: var(--graphite); }
+.form__req { color: var(--magenta); font: 700 12px/18px var(--font-medium); }
+.form__control { display: block; width: 100%; height: 66px; padding: 16px 18px; border: 1px solid var(--border-grey); border-radius: 4px; background: var(--white); color: var(--graphite); font: 16px/24px var(--font-body); }
+.form__control::placeholder { color: var(--label); opacity: 1; }
+.form__control--select { appearance: none; -webkit-appearance: none; padding-right: 24px; background: var(--white) url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADeSURBVHgB7ZRBDoIwEEWnsHHp3gTKLUxkUXsCl95CbwDuvI4nEBPvQUM8gBeAOmNCgkBkSoyrvqQwKe1/maYBwOP5KRutj2ulJMxE4d5UqUN3LmyLVOtMAJxx7FZSXh7GPMEBCq+FuEIQ7KM4hsqYG80HnTXi/RBChrjQpZM23OLebtZHB1VZFlGS0AeFkiW3k0F405zuRZEPBHMkU+EDgYuEEz4q4Ei44YSAL+DNyvGVUW2tNbW12wXW3PBJwZiErh03nAhhgv5xAQ1mOEvQl7iEO0PHhb+CHDyev/IC0NKRV26Yt4UAAAAASUVORK5CYII=") no-repeat calc(100% - 8px) 50% / 16px; }
+.form__control--textarea { height: 138px; resize: vertical; }
+.form__group--check { margin: 0 0 12px; }
+@media (min-width: 768px) { .form__group--check { margin-bottom: 22px; } }
+.form__check { display: flex; align-items: center; font: 16px/24px var(--font-body); }
+.form__check input { accent-color: var(--magenta); margin: 3px 5px 3px 0; }
+.form__check a { color: var(--magenta); text-decoration: underline; }
+.form__group--actions { text-align: center; }
+.form__error { color: var(--magenta); font: 12px/18px var(--font-medium); margin-top: 4px; }
+.form__error[hidden], .form__notice[hidden] { display: none; }
+.form__notice { margin: 0 0 20px; padding: 12px 16px; border-left: 4px solid var(--magenta); background: var(--mist); }
+.form__submit:hover { opacity: .8; }

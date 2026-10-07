@@ -17,6 +17,54 @@ document.querySelectorAll('.social').forEach((social) => {
   }));
 });
 
+/* HCP self-certification gate (dynamics M-1; observed gate-probe: "yes" hides the modal and the
+ * choice survives reload). Remembered for data-expiry-minutes (live data-expiry-time="120"). */
+document.querySelectorAll('.hcp-gate').forEach((gate) => {
+  const KEY = 'hcp-selfcert';
+  const until = +localStorage.getItem(KEY) || 0;
+  const close = () => { gate.hidden = true; document.documentElement.classList.remove('hcp-gate-open'); };
+  if (until > Date.now()) { close(); return; }
+  document.documentElement.classList.add('hcp-gate-open');
+  gate.querySelector('.self-certify-yes').addEventListener('click', () => {
+    localStorage.setItem(KEY, String(Date.now() + (+gate.dataset.expiryMinutes || 120) * 60000));
+    close();
+  });
+});
+
+/* Contact form (dynamics F-1, hands-off A-2): required fields show the live error copy; a valid
+ * submission is captured locally and the notice states plainly that no backend is connected. When an
+ * endpoint is configured (data-endpoint), the payload { data, page, timestamp } is POSTed as JSON. */
+document.querySelectorAll('form[data-form]').forEach((form) => {
+  const groups = [...form.querySelectorAll('.form__group')];
+  const check = (g) => {
+    const c = g.querySelector('[required]');
+    if (!c) return true;
+    const ok = c.type === 'checkbox' ? c.checked : c.value.trim() !== '';
+    const err = g.querySelector('.form__error');
+    if (err) err.hidden = ok;
+    c.setAttribute('aria-invalid', String(!ok));
+    return ok;
+  };
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const valid = groups.map(check).every(Boolean);
+    if (!valid) return;
+    const data = Object.fromEntries(new FormData(form));
+    const payload = { data, page: location.pathname, timestamp: new Date().toISOString() };
+    const endpoint = form.dataset.endpoint;
+    if (endpoint) await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) });
+    else {
+      const key = `form:${form.dataset.form}`;
+      const stored = JSON.parse(localStorage.getItem(key) || '[]');
+      stored.push(payload);
+      localStorage.setItem(key, JSON.stringify(stored));
+    }
+    form.querySelector('.form__notice').hidden = false;
+    form.reset();
+  });
+  groups.forEach((g) => g.querySelectorAll('input, select, textarea').forEach((c) => c.addEventListener('change', () => check(g))));
+});
+
 /* In-page tabs (observed motion/product-listing.json): click swaps tab--active / tabpanel--active;
  * the tab list gets the sticky class (position:fixed, top 0) once window.scrollY passes the tabs' top —
  * same trigger and same mechanism as live (.cmp-tabs__tablist--sticky). */

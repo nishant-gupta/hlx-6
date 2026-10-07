@@ -22,6 +22,14 @@
     "invalidatedRuns": [
      "home-1440 first iter1 (excluded from the cap)"
     ]
+   },
+   {
+    "what": "gate.sh captures the build side without overlay dismissal — the prototype HCP modal was measured (pattrns 90% false diff)",
+    "fix": "round.sh captures build with the same --dismiss .self-certify-yes as live and runs pixel-compare directly (identity assertion kept via curl marker)",
+    "invalidatedRuns": [
+     "pattrns-1440 iter1",
+     "pattrns-360 iter1 (excluded from the cap)"
+    ]
    }
   ],
   "hoverDead": [
@@ -394,6 +402,156 @@
     "CTA text margins 16 0 (desktop) / 10 16 (mobile), link margin 20 0 0",
     "sticky tab list (seam repeat in stitched capture)"
    ]
+  },
+  "form": {
+   "archetype": "contact",
+   "source": "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+   "prototype": "stardust/prototypes/contact-proposed.html",
+   "css": [
+    "canon",
+    "product-tab",
+    "contact"
+   ],
+   "breakpoints": {
+    "360": {
+     "iterations": 1,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 0.93,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.79,
+       "breadcrumbBand": 3.13,
+       "footer": 1.19
+      },
+      "pass": true
+     },
+     "residuals": [
+      {
+       "region": "breadcrumb band",
+       "pct": 3.13,
+       "cause": "font-substitution at 10px (as therapy-area)",
+       "flaggedFor": "user"
+      }
+     ]
+    },
+    "1440": {
+     "iterations": 1,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 0.29,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.45,
+       "footer": 0
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "🟡 MISSING \"<% function getAdditionalAttributesString…\" / \"<div class=cmp-dynamicform__dropdown…\"",
+       "why": "live client-side template source leaking into the DOM — not content"
+      },
+      {
+       "probe": "content",
+       "flag": "🟡 MISSING \"Dieses Feld ist erforderlich\"",
+       "why": "present in build as hidden error copy (hidden attr excluded by the inventory); shown on invalid submit"
+      },
+      {
+       "probe": "content",
+       "flag": "🟡 EXTRA local-capture notice",
+       "why": "dynamics F-1 / hands-off A-2: no intake backend on the new host — notice says so explicitly"
+      }
+     ]
+    }
+   },
+   "motion": {
+    "observed": "stardust/replica/motion/contact.json",
+    "implemented": [
+     "submit button hover opacity .8",
+     "required validation with live error copy",
+     "local capture + notice (no backend)"
+    ],
+    "dead": [
+     "checkbox link hover",
+     "field hover"
+    ],
+    "flowTest": {
+     "emptySubmitErrors": 6,
+     "filledSubmitStored": true,
+     "pageErrors": 0
+    }
+   }
+  },
+  "unique": {
+   "archetype": "pattrns",
+   "source": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+   "prototype": "stardust/prototypes/pattrns-proposed.html",
+   "css": [
+    "canon",
+    "product-tab",
+    "pattrns"
+   ],
+   "breakpoints": {
+    "360": {
+     "iterations": 1,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 1.46,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.85,
+       "footer": 1.19
+      },
+      "pass": true
+     }
+    },
+    "1440": {
+     "iterations": 1,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 0.95,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.74,
+       "footer": 0
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ]
+    }
+   },
+   "motion": {
+    "observed": "stardust/replica/motion/pattrns.json + gate-probe (modal state machine)",
+    "implemented": [
+     "HCP gate: visible on first load, yes → hidden + remembered 120 min, patient → amyloidose-schweiz.ch",
+     "band button hover opacity .8"
+    ],
+    "dead": [
+     "teaser action hover",
+     "teaser title link hover"
+    ],
+    "gateGeometry": {
+     "360": "box 34,304,292x292 = live",
+     "1440": "box 360,138,720x278 = live"
+    }
+   }
   }
+ },
+ "wideViewportCheck": {
+  "width": 1920,
+  "pages": [
+   "home",
+   "therapy-area"
+  ],
+  "result": "all container/image boxes match; only title <p> box widths differ (live shrink-to-fit, build block) — same rendered position, not a fluid-model defect"
  }
 }

@@ -34,16 +34,27 @@
       "locale": "de",
       "type": "form",
       "template": "contact",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-contact-us-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/contact-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:25:07.665Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-html",
@@ -51,16 +62,27 @@
       "locale": "de",
       "type": "landing",
       "template": "home",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/home-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:24:39.489Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-produkte-html",
@@ -68,16 +90,27 @@
       "locale": "de",
       "type": "listing",
       "template": "product-listing",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-produkte-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/product-listing-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:25:04.235Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-produkte-trixeo-aerosphere-technologie-html",
@@ -204,16 +237,27 @@
       "locale": "de",
       "type": "article",
       "template": "resource-detail",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-copd-datenblatt-de-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/resource-detail-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:35:53.193Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-produkte-trixeo-ressourcen-copd-und-lungenkrebs-de-html",
@@ -476,16 +520,27 @@
       "locale": "de",
       "type": "program",
       "template": "product-tab",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-uberblick-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/product-tab-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:34:36.107Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-produkte-trixeo-wirksamkeit-html",
@@ -612,16 +667,27 @@
       "locale": "de",
       "type": "unique",
       "template": "pattrns",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/pattrns-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:24:36.389Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
@@ -748,16 +814,27 @@
       "locale": "de",
       "type": "article",
       "template": "therapy-area",
-      "status": "extracted",
+      "status": "approved",
       "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-ri-asthma-html.json",
-      "prototypePath": null,
+      "prototypePath": "stardust/prototypes/therapy-area-proposed.html",
       "migratedPath": null,
       "history": [
         {
           "status": "extracted",
           "at": "2026-10-07T10:24:56.417Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-10-07T12:43:35.073Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-10-07T12:43:35.073Z",
+          "approvedBy": "hands-off",
+          "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
         }
-      ]
+      ],
+      "archetype": true
     },
     {
       "slug": "de-startseite-therapiegebiete-ri-copd-html",
@@ -2085,5 +2162,35 @@
         }
       ]
     }
-  ]
+  ],
+  "templates": {
+    "home": {
+      "archetype": "de-startseite-html",
+      "prototype": "stardust/prototypes/home-proposed.html"
+    },
+    "therapy-area": {
+      "archetype": "de-startseite-therapiegebiete-ri-asthma-html",
+      "prototype": "stardust/prototypes/therapy-area-proposed.html"
+    },
+    "product-listing": {
+      "archetype": "de-startseite-produkte-html",
+      "prototype": "stardust/prototypes/product-listing-proposed.html"
+    },
+    "contact": {
+      "archetype": "de-startseite-contact-us-html",
+      "prototype": "stardust/prototypes/contact-proposed.html"
+    },
+    "product-tab": {
+      "archetype": "de-startseite-produkte-trixeo-uberblick-html",
+      "prototype": "stardust/prototypes/product-tab-proposed.html"
+    },
+    "resource-detail": {
+      "archetype": "de-startseite-produkte-trixeo-ressourcen-copd-datenblatt-de-html",
+      "prototype": "stardust/prototypes/resource-detail-proposed.html"
+    },
+    "pattrns": {
+      "archetype": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+      "prototype": "stardust/prototypes/pattrns-proposed.html"
+    }
+  }
 }
