@@ -1,0 +1,6 @@
+/* archetype: resource-detail — new module: resource teaser with pretitle h1 (live teaser--pretitle-core:
+ * position:relative; top:10px; margin-top:-10px). lift: stardust/replica/lift/resource-detail-{1440,360}.json */
+.resource { display: flex; flex-direction: column; gap: 16px; padding: 24px 16px; }
+.resource__title { position: relative; top: 10px; margin-top: -10px; color: var(--plum); font: 36px/40px var(--font-head); }
+@media (min-width: 768px) { .resource { padding: 0 15px 0 0; } }
+@media (min-width: 1280px) { .resource__title { font-size: 56px; line-height: 60px; } }

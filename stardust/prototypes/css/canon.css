@@ -276,3 +276,38 @@ sup { font-size: 10px; line-height: 0; }
 .root { position: relative; }
 .revision { position: absolute; top: 100%; left: 0; right: 4px; margin-top: 4px; padding-bottom: 40px; text-align: center; }
 @media (min-width: 1280px) { .revision { left: auto; right: calc((100% - var(--container)) / 2); margin-top: 51px; text-align: left; } }
+
+/* ============================================================ shared modules first gated on therapy-area (cumulative canon) */
+/* section rhythm variants (live container--desktop-tb-space[-md]: 0 on mobile) */
+.space-desktop-md, .space-desktop { padding-top: 0; padding-bottom: 0; }
+@media (min-width: 768px) {
+  .space-desktop-md { padding-top: 40px; padding-bottom: 40px; }
+  .space-desktop { padding-top: 20px; padding-bottom: 20px; }
+}
+
+/* intro title (cmp-title--h2): 36/40 mobile, 46/50 desktop */
+.title--h2 { font-size: 36px; line-height: 40px; }
+@media (min-width: 1280px) { .title--h2 { font-size: 46px; line-height: 50px; } }
+
+/* rich text */
+.rte ul, .rte ol { padding: 4px 0 10px 20px; list-style-position: outside; }
+.rte ul { list-style: disc; }
+.rte ol { list-style: decimal; }
+@media (min-width: 768px) { .rte ul, .rte ol { padding-bottom: 12px; } }
+.text--b0 { margin-bottom: 0; }
+.text--spaced.text--b0 { margin-bottom: 0; }
+.text--small, .text--small .rte { font: 12px/20px var(--font-medium); }
+.text--small b { font-family: var(--font-bold); }
+.text--small a { text-decoration: underline; }
+.text--refs { margin-top: 10px; }
+@media (min-width: 768px) { .text--refs { margin-top: 16px; } }
+
+/* stat card description keeps canon card; titles are 26/34 */
+/* media + text teaser (alternating): image always on top at mobile */
+.media-text__title { font: 26px/34px var(--font-head); }
+.media-text--left .media-text__body { text-align: left; }
+.media-text .rte ul { text-align: left; }
+@media (min-width: 768px) {
+  .media-text--image-left .media-text__media { order: 0; padding: 0 15px 0 0; }
+  .media-text--image-left .media-text__body { order: 1; padding: 0 0 0 15px; }
+}

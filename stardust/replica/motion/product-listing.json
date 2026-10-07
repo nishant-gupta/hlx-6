@@ -1,0 +1,184 @@
+{
+  "url": "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".cmp-tabs__tab:nth-child(2)",
+      "frames": [
+        {
+          "t": 15887.59999999404,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16090,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16292.800000011921,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16495.19999998808,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".cmp-tabs__tab:not(.cmp-tabs__tab--active)",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(208, 0, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".cmp-container--protected-cta-content a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(208, 0, 111)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(208, 0, 111)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".hero__action a, .teaser--home-hero .cmp-teaser__action-link",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(208, 0, 111)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(208, 0, 111)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "cmp-tabs__tablist--sticky"
+        ],
+        "el": "div.container.responsivegrid.aem-GridColumn > div.cmp-container > div.tabs.panelcontainer.tabs--list-items-fixed-width > div.cmp-tabs > div.cmp-tabs__tablist-wrapper.cmp-tabs__tablist--sticky",
+        "y": 528
+      },
+      {
+        "added": [
+          "cmp-tabs__tablist--sticky"
+        ],
+        "el": "div.container.responsivegrid.aem-GridColumn > div.cmp-container > div.tabs.panelcontainer.tabs--list-items-fixed-width > div.cmp-tabs > div.cmp-tabs__tablist-wrapper.cmp-tabs__tablist--sticky",
+        "y": 475
+      },
+      {
+        "added": [
+          "cmp-tabs__tabpanel--active"
+        ],
+        "el": "div.container.responsivegrid.aem-GridColumn > div.cmp-container > div.tabs.panelcontainer.tabs--list-items-fixed-width > div.cmp-tabs > div.cmp-tabs__tabpanel.cmp-tabs__tabpanel--active",
+        "y": 51
+      },
+      {
+        "added": [
+          "cmp-tabs__tab--active"
+        ],
+        "el": "div.tabs.panelcontainer.tabs--list-items-fixed-width > div.cmp-tabs > div.cmp-tabs__tablist-wrapper > ol.cmp-tabs__tablist > li.cmp-tabs__tab.cmp-tabs__tab--active",
+        "y": 51
+      },
+      {
+        "added": [
+          "cmp-tabs__tablist--sticky"
+        ],
+        "el": "div.container.responsivegrid.aem-GridColumn > div.cmp-container > div.tabs.panelcontainer.tabs--list-items-fixed-width > div.cmp-tabs > div.cmp-tabs__tablist-wrapper.cmp-tabs__tablist--sticky",
+        "y": 580
+      }
+    ]
+  }
+}

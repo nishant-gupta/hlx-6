@@ -190,6 +190,209 @@
     "word-break: break-word on .text/a/lists (live text.css) — mobile ref wrap +20px",
     "breadcrumb li inline-block (live whitespace between items)",
     "login label wrapped in span (role parity)"
+   ],
+   "siblingArchetypes": [
+    {
+     "archetype": "resource-detail",
+     "source": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+     "prototype": "stardust/prototypes/resource-detail-proposed.html",
+     "css": [
+      "canon",
+      "product-tab",
+      "resource-detail"
+     ],
+     "breakpoints": {
+      "360": {
+       "iterations": 1,
+       "result": {
+        "structuralRed": 0,
+        "pixelPct": 1.79,
+        "heightDelta": 0,
+        "chrome": {
+         "header": 1.91,
+         "footer": 1.19
+        },
+        "pass": true
+       }
+      },
+      "1440": {
+       "iterations": 1,
+       "result": {
+        "structuralRed": 0,
+        "pixelPct": 1.12,
+        "heightDelta": 0,
+        "chrome": {
+         "header": 1.99,
+         "footer": 0
+        },
+        "pass": true
+       }
+      }
+     },
+     "motion": {
+      "observed": "same modules as product-tab (social, paywall) — reuses product-tab observation",
+      "implemented": [
+       "as product-tab"
+      ],
+      "dead": []
+     }
+    }
+   ]
+  },
+  "program": {
+   "archetype": "product-tab",
+   "source": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+   "prototype": "stardust/prototypes/product-tab-proposed.html",
+   "css": [
+    "canon",
+    "product-tab"
+   ],
+   "breakpoints": {
+    "360": {
+     "iterations": 2,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 2.59,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.73,
+       "footer": 1.19
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo; ® reported as Lexia→sys because the probe resolves the unloaded brand name first)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ]
+    },
+    "1440": {
+     "iterations": 2,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 1.78,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.45,
+       "footer": 0
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo; ® reported as Lexia→sys because the probe resolves the unloaded brand name first)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ],
+     "residuals": [
+      {
+       "band": "y 500–1000",
+       "pct": 2.9,
+       "cause": "56px page title in substituted face",
+       "flaggedFor": "user"
+      }
+     ]
+    }
+   },
+   "motion": {
+    "observed": "stardust/replica/motion/product-tab.json",
+    "implemented": [
+     "section-tab link hover magenta",
+     "paywall cmp-button hover opacity .8"
+    ],
+    "dead": [],
+    "pixelAfterMotion": {
+     "360": 2.59,
+     "1440": 1.78
+    }
+   },
+   "fixesFromInstruments": [
+    "shared rich-text/small-text modules promoted to canon (approval code line-height 24→20)"
+   ]
+  },
+  "listing": {
+   "archetype": "product-listing",
+   "source": "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+   "prototype": "stardust/prototypes/product-listing-proposed.html",
+   "css": [
+    "canon",
+    "product-tab",
+    "product-listing"
+   ],
+   "breakpoints": {
+    "360": {
+     "iterations": 4,
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 1.81,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.77,
+       "footer": 1.19
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo; ® reported as Lexia→sys because the probe resolves the unloaded brand name first)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ],
+     "captureState": [
+      {
+       "what": "CTA banner title + button overflow the 119px mobile banner image (live quirk)",
+       "where": "cta-banner @360",
+       "policy": "replicated"
+      }
+     ]
+    },
+    "1440": {
+     "iterations": 4,
+     "iterationNote": "iter3 measured a self-introduced interaction regression (fixed tab list collapsed its space → content jump); iter3b restored the observed no-jump behaviour. Logged honestly as 4 rounds (cap 3).",
+     "result": {
+      "structuralRed": 0,
+      "pixelPct": 1.04,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.32,
+       "footer": 0
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo; ® reported as Lexia→sys because the probe resolves the unloaded brand name first)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ]
+    }
+   },
+   "motion": {
+    "observed": "stardust/replica/motion/product-listing.json",
+    "implemented": [
+     "tabs click (active tab + panel)",
+     "tab list sticky on scroll past its top (fixed, top 0, centred) with space reserved",
+     "tab hover magenta"
+    ],
+    "dead": [
+     "protected CTA link hover",
+     "banner button hover"
+    ]
+   },
+   "fixesFromInstruments": [
+    "banner title is h2>a>p+p(&nbsp;) (role swap cta)",
+    "revision container tb-space-md",
+    "CTA text margins 16 0 (desktop) / 10 16 (mobile), link margin 20 0 0",
+    "sticky tab list (seam repeat in stitched capture)"
    ]
   }
  }

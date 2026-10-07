@@ -17,6 +17,37 @@ document.querySelectorAll('.social').forEach((social) => {
   }));
 });
 
+/* In-page tabs (observed motion/product-listing.json): click swaps tab--active / tabpanel--active;
+ * the tab list gets the sticky class (position:fixed, top 0) once window.scrollY passes the tabs' top —
+ * same trigger and same mechanism as live (.cmp-tabs__tablist--sticky). */
+document.querySelectorAll('.tabs').forEach((tabs) => {
+  const list = tabs.querySelector('.tabs__list-wrap');
+  const tabEls = [...tabs.querySelectorAll('.tabs__tab')];
+  tabEls.forEach((tab) => {
+    const activate = () => tabEls.forEach((t) => {
+      const on = t === tab;
+      t.classList.toggle('is-active', on);
+      t.setAttribute('aria-selected', String(on));
+      t.tabIndex = on ? 0 : -1;
+      const panel = document.getElementById(t.getAttribute('aria-controls'));
+      if (panel) panel.hidden = !on;
+    });
+    tab.addEventListener('click', activate);
+    tab.addEventListener('keydown', (e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); activate(); } });
+  });
+  if (list) {
+    // live keeps the list's space while it is fixed (no content jump): reserve it
+    const onScroll = () => {
+      const stick = window.scrollY > tabs.getBoundingClientRect().top + window.scrollY;
+      if (stick && !list.classList.contains('is-sticky')) tabs.style.paddingTop = `${list.offsetHeight}px`;
+      if (!stick) tabs.style.paddingTop = '';
+      list.classList.toggle('is-sticky', stick);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+});
+
 (() => {
   const header = document.querySelector('.site-header');
   if (!header) return;
