@@ -143,11 +143,48 @@ function decorateButtons(main) {
 }
 
 /**
+ * Applies `section-metadata` / `metadata` blocks the delivery pipeline did not render
+ * server-side (the local dev server serves raw documents). On the published origin these blocks
+ * are already consumed upstream, so this is a no-op there. Mirrors the pipeline: section
+ * `style` → classes, other keys → data-* attributes; page metadata → <meta> tags.
+ * @param {Element} main The main element
+ */
+function applyUnrenderedMetadata(main) {
+  const rows = (block) => [...block.children]
+    .map((r) => [...r.children].map((c) => c.textContent.trim()))
+    .filter((r) => r.length >= 2 && r[0]);
+  main.querySelectorAll(':scope > div > div.section-metadata').forEach((block) => {
+    const section = block.parentElement;
+    rows(block).forEach(([key, value]) => {
+      const k = key.toLowerCase();
+      if (k === 'style') value.split(',').map((v) => v.trim().toLowerCase().replace(/[^a-z0-9]+/g, '-')).filter(Boolean).forEach((c) => section.classList.add(c));
+      else section.dataset[k.replace(/[^a-z0-9]+([a-z0-9])/g, (m, ch) => ch.toUpperCase())] = value;
+    });
+    block.remove();
+  });
+  main.querySelectorAll(':scope > div > div.metadata').forEach((block) => {
+    rows(block).forEach(([key, value]) => {
+      const name = key.toLowerCase();
+      if (name === 'title') { document.title = value; return; }
+      if (document.head.querySelector(`meta[name="${name}"]`)) return;
+      const meta = document.createElement('meta');
+      meta.name = name;
+      meta.content = value;
+      document.head.append(meta);
+    });
+    const section = block.parentElement;
+    block.remove();
+    if (!section.children.length) section.remove();
+  });
+}
+
+/**
  * Decorates the main element.
  * @param {Element} main The main element
  */
 // eslint-disable-next-line import/prefer-default-export
 export function decorateMain(main) {
+  applyUnrenderedMetadata(main);
   decorateIcons(main);
   buildAutoBlocks(main);
   decorateSections(main);
@@ -160,7 +197,9 @@ export function decorateMain(main) {
  * @param {Element} doc The container element
  */
 async function loadEager(doc) {
-  document.documentElement.lang = 'en';
+  // site locales live in the first path segment (/de/, /fr/, /it/, /en/)
+  const locale = window.location.pathname.replace(/^\/content/, '').split('/')[1];
+  document.documentElement.lang = ['de', 'fr', 'it', 'en'].includes(locale) ? locale : 'de';
   decorateTemplateAndTheme();
   const main = doc.querySelector('main');
   if (main) {

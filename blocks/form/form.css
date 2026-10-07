@@ -1,0 +1,88 @@
+/* form — live dynamicformv2 contact form (canon contact.css; labels are Inter-Medium declared 500,
+ * rendered 700 → synthetic bold exactly as on live; select chevron is the live data-URI) */
+main .form-container > .form-wrapper { padding: 0 var(--gutter); }
+
+.form .form {
+  display: flex;
+  flex-direction: column;
+}
+.form .form-group { margin: 16px 0; }
+
+.form .form-label {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--graphite);
+  font: 700 16px/20px var(--medium-font-family);
+}
+
+.form .form-req {
+  color: var(--magenta);
+  font: 700 12px/18px var(--medium-font-family);
+}
+
+.form .form-control {
+  display: block;
+  width: 100%;
+  height: 66px;
+  border: 1px solid var(--border-grey);
+  border-radius: 4px;
+  padding: 16px 18px;
+  background: var(--white);
+  color: var(--graphite);
+  font: 16px/24px var(--body-font-family);
+}
+
+.form .form-control::placeholder {
+  color: var(--label);
+  opacity: 1;
+}
+
+.form .form-control-select {
+  appearance: none;
+  padding-right: 24px;
+  background: var(--white) url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADeSURBVHgB7ZRBDoIwEEWnsHHp3gTKLUxkUXsCl95CbwDuvI4nEBPvQUM8gBeAOmNCgkBkSoyrvqQwKe1/maYBwOP5KRutj2ulJMxE4d5UqUN3LmyLVOtMAJxx7FZSXh7GPMEBCq+FuEIQ7KM4hsqYG80HnTXi/RBChrjQpZM23OLebtZHB1VZFlGS0AeFkiW3k0F405zuRZEPBHMkU+EDgYuEEz4q4Ei44YSAL+DNyvGVUW2tNbW12wXW3PBJwZiErh03nAhhgv5xAQ1mOEvQl7iEO0PHhb+CHDyev/IC0NKRV26Yt4UAAAAASUVORK5CYII=") no-repeat calc(100% - 8px) 50% / 16px;
+}
+
+.form .form-control-textarea {
+  height: 138px;
+  resize: vertical;
+}
+.form .form-group-check { margin: 0 0 12px; }
+
+.form .form-check {
+  display: flex;
+  align-items: center;
+  font: 16px/24px var(--body-font-family);
+}
+
+.form .form-check input {
+  margin: 3px 5px 3px 0;
+  accent-color: var(--magenta);
+}
+
+.form .form-check a:any-link {
+  color: var(--magenta);
+  text-decoration: underline;
+}
+.form .form-group-actions { text-align: center; }
+.form .form-submit:hover { opacity: 0.8; }
+
+.form .form-error {
+  margin-top: 4px;
+  color: var(--magenta);
+  font: 12px/18px var(--medium-font-family);
+}
+.form .form-error[hidden], .form .form-notice[hidden] { display: none; }
+
+.form .form-notice {
+  margin: 0 0 20px;
+  border-left: 4px solid var(--magenta);
+  padding: 12px 16px;
+  background: var(--mist);
+}
+
+@media (width >= 768px) {
+  main .form-container > .form-wrapper { padding: 0; }
+  .form .form-group { margin: 20px 0; }
+  .form .form-group-check { margin: 0 0 22px; }
+}

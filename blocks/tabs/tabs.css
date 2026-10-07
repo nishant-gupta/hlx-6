@@ -1,0 +1,57 @@
+/* tabs — live cmp-tabs (tabs-list-items-fixed-width tabs-sticky), canon product-listing */
+main .tabs-container > .tabs-wrapper { max-width: none; }
+main > .section.tab-hidden { display: none !important; }
+
+.tabs .tabs-list-inner {
+  width: 100%;
+  margin: 0 auto;
+  border-bottom: 1px solid var(--mist);
+  padding: 8px 0;
+  background: var(--white);
+  overflow: hidden;
+}
+
+@media (width >= 1280px) {
+  .tabs .tabs-list-inner { max-width: var(--container); }
+}
+
+.tabs .tabs-list {
+  display: block;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  list-style: none;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+
+.tabs .tabs-tab {
+  display: inline-block;
+  border-bottom: 1px solid transparent;
+  padding: 10px 16px;
+  color: var(--graphite);
+  font: 14px/18px var(--heading-font-family);
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.tabs .tabs-tab:hover { color: var(--magenta); }
+
+.tabs .tabs-tab.is-active {
+  border-bottom-color: var(--magenta);
+  color: var(--magenta);
+}
+
+/* observed sticky state (live .cmp-tabs-tablist-sticky): fixed, top 0, centred */
+.tabs .tabs-list-wrap.is-sticky {
+  position: fixed;
+  z-index: 3;
+  top: 0;
+  left: 50%;
+  width: 100%;
+  transform: translateX(-50%);
+}
+
+@media (width >= 768px) {
+  .tabs .tabs-tab { line-height: 16px; }
+}

@@ -1,0 +1,1159 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:32:37.907Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-startseite-therapiegebiete-ri-copd-html",
+  "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:32:37.907Z",
+  "finalUrl": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+  "title": "COPD - Symptoms, diagnosis and treatment",
+  "description": "Learn more about chronic obstructive pulmonary disease (COPD): its causes, symptoms, current treatment strategies, and important clinical information for healthcare professionals.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/chronic-obstructive-pulmonary-disease/copd-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Chronic obstructive pulmonary disease"
+    },
+    {
+      "tag": "h2",
+      "text": "Overview of chronic obstructive pulmonary disease"
+    },
+    {
+      "tag": "h4",
+      "text": "Prevalence in Switzerland"
+    },
+    {
+      "tag": "h4",
+      "text": "Exacerbations"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortality"
+    },
+    {
+      "tag": "h3",
+      "text": "What is COPD?"
+    },
+    {
+      "tag": "h3",
+      "text": "GOLD classification of COPD"
+    },
+    {
+      "tag": "h2",
+      "text": "Symptoms of COPD"
+    },
+    {
+      "tag": "h3",
+      "text": "What are the typical symptoms of COPD?"
+    },
+    {
+      "tag": "h2",
+      "text": "Diagnosis of COPD and screening criteria"
+    },
+    {
+      "tag": "h3",
+      "text": "At-risk groups"
+    },
+    {
+      "tag": "h3",
+      "text": "Confirmation of the diagnosis by spirometry"
+    },
+    {
+      "tag": "h3",
+      "text": "Initial clinical assessment of COPD"
+    },
+    {
+      "tag": "h3",
+      "text": "GOLD 2026 Pocket Guide"
+    },
+    {
+      "tag": "h3",
+      "text": "COPD Pocket Guide"
+    },
+    {
+      "tag": "h2",
+      "text": "Treatment of COPD and therapeutic options in Switzerland"
+    },
+    {
+      "tag": "h3",
+      "text": "Treatment of COPD: inhalers, rehabilitation and oxygen therapy"
+    },
+    {
+      "tag": "h3",
+      "text": "Pharmacological treatment of COPD:"
+    },
+    {
+      "tag": "h3",
+      "text": "Treatment according to GOLD-ABE guidelines:"
+    },
+    {
+      "tag": "h3",
+      "text": "Inhaled treatment / inhalation systems"
+    },
+    {
+      "tag": "h3",
+      "text": "Oxygen therapy"
+    },
+    {
+      "tag": "h3",
+      "text": "Pulmonary rehabilitation"
+    },
+    {
+      "tag": "h3",
+      "text": "Non-pharmacological treatment and prevention of COPD"
+    },
+    {
+      "tag": "h2",
+      "text": "Recognising and treating COPD exacerbations"
+    },
+    {
+      "tag": "h3",
+      "text": "Recognising an acute exacerbation of COPD (AECOPD)"
+    },
+    {
+      "tag": "h3",
+      "text": "Acute management of COPD exacerbation"
+    },
+    {
+      "tag": "h3",
+      "text": "COPD: when is hospitalisation indicated?"
+    },
+    {
+      "tag": "h3",
+      "text": "Follow-up and prevention"
+    },
+    {
+      "tag": "h4",
+      "text": "COPD information sheet"
+    },
+    {
+      "tag": "h2",
+      "text": "Recommendations and resources"
+    },
+    {
+      "tag": "h4",
+      "text": "COPD Pocket Guide 2025"
+    },
+    {
+      "tag": "h4",
+      "text": "GOLD Guidelines 2026"
+    },
+    {
+      "tag": "h4",
+      "text": "GOLD 2026 Pocket Guide"
+    },
+    {
+      "tag": "h2",
+      "text": "FAQ"
+    },
+    {
+      "tag": "h4",
+      "text": "What are the typical symptoms of COPD?"
+    },
+    {
+      "tag": "h4",
+      "text": "How is the diagnosis made according to the ‘COPD Pocketguide’?"
+    },
+    {
+      "tag": "h4",
+      "text": "What treatment is recommended for Group B of the GOLD classification?"
+    },
+    {
+      "tag": "h4",
+      "text": "When is triple therapy indicated for COPD?"
+    },
+    {
+      "tag": "h4",
+      "text": "When is oxygen therapy necessary in cases of COPD?"
+    },
+    {
+      "tag": "h4",
+      "text": "What is the role of pulmonary rehabilitation?"
+    },
+    {
+      "tag": "h2",
+      "text": "Act on COPD"
+    },
+    {
+      "tag": "h2",
+      "text": "Useful product information"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Our medicines Cardiovascular, Renal & Metabolism Heart Failure Forxiga® (Dapagliflozin) Chronic Kidney Disease (CKD) Forxiga® (Dapagliflozin) Type 2 diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidosis Wainzua® (Eplontersen) Respiratory & Immunology COPD Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophilic granulomatosis with polyangiitis (EGPA) Fasenra® (Benralizumab) Systemic lupus erythematosus (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Oncology & Hematology Breast Cancer Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hematology Calquence® (Acalabrutinib) Hepatocellular Carcinoma Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Biliary Tract Cancer Imfinzi® (Durvalumab) Lung Cancer Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarian Cancer Lynparza® (Olaparib) Endometrial Cancer Imfinzi® (Durvalumab) Prostate Cancer Lynparza® (Olaparib) Muscle Invasive Bladder Cancer Imfinzi® (Durvalumab) Pancreatic Cancer Lynparza® (Olaparib) Gastric Cancer & Gastroesophageal adenocarcinoma (GC/GEJC) Enhertu® (Trastuzumab Deruxtecan) Imfinzi® (Durvalumab) Tumor Agnostic Enhertu® (Trastuzumab Deruxtecan) View all Medicines",
+    "Therapeutic Areas Cardiovascular, Renal & Metabolism Acute care Chronic Kidney Disease (CKD) Diabetes Heart failure Respiratory & Immunology Asthma COPD Systemic lupus erythematosus (SLE) Oncology Breast Cancer Liver and gallbladder cancer Ovarian cancer Haematology Lung cancer",
+    "Contact us",
+    "Home",
+    "Therapy areas",
+    "R&I",
+    "Chronic obstructive pulmonary disease",
+    "Chronic obstructive",
+    "pulmonary disease",
+    "Definition",
+    "Symptoms",
+    "Diagnosis",
+    "Management",
+    "Exacerbations",
+    "Recommendations",
+    "FAQ",
+    "COPD (chronic obstructive pulmonary disease) is a progressive respiratory condition that affects around 400,000 people in Switzerland and causes more than 3 million deaths worldwide each year.1 Smoking and air pollution are among the main risk factors.2.",
+    "Prevalence in Switzerland",
+    "In Switzerland, around 400,000 people suffer from COPD.1",
+    "Exacerbations",
+    "Over 70 per cent of patients with COPD experience exacerbations within three years of diagnosis.1,3,4",
+    "Mortality",
+    "One in five patients dies within a year of their first hospital admission due to a COPD exacerbation.5",
+    "Chronic obstructive pulmonary disease (COPD) is a common chronic respiratory condition that causes reduced airflow and breathing difficulties.2,6 COPD is characterised by chronic bronchitis and/or pulmonary emphysema.1,6 Various processes can cause the airways to narrow: damage to certain parts of the lungs, mucus blocking the airways and/or inflammation and swelling of the airway lining.2",
+    "COPD develops slowly over time, with smoking and air pollution being the most common causes.2 One in two smokers over the age of 40 suffers from chronic bronchitis.1 People with COPD are at increased risk of developing other health problems.2",
+    "COPD is the third leading cause of death worldwide and accounts for more than 3 million deaths each year.2",
+    "Possible consequences of COPD include:1",
+    "Heart failure",
+    "Various other heart conditions",
+    "Pulmonary failure",
+    "Isolation and depression resulting from severely reduced functional capacity",
+    "COPD is characterised by the occurrence of exacerbations, i.e. sudden worsening of COPD symptoms that require additional treatment and contribute to the progression of the disease.7 Exacerbations are associated with an accelerated loss of lung function and a lasting impairment of quality of life.8",
+    "Furthermore, a moderate exacerbation has been associated with a significant increase in the risk of severe cardiovascular events within the first 30 days.9 Severe exacerbations have even been linked to an increased risk of secondary cardiovascular events for up to one year.9 Furthermore, cardiopulmonary causes are the leading cause of death in patients with COPD.10",
+    "The GOLD classification of COPD describes the severity of airway obstruction and disease activity. It is used internationally and is also recommended by the SGP.6,11",
+    "The GOLD-ABE classification categorises patients according to their symptom burden and risk of exacerbation. Symptoms are assessed using standardised scores (mMRC or CAT), and the risk of exacerbation is determined on the basis of medical history. This enables targeted and individualised treatment planning.15, 16",
+    "In Switzerland, COPD generally presents as exertional dyspnoea, a chronic cough and sputum production, as well as exacerbations that significantly impair the daily lives and quality of life of those affected.1,3,11",
+    "What are the typical symptoms of COPD?",
+    "The most common symptoms include exertional breathlessness, a chronic cough and sputum production. Breathing difficulties initially occur during physical exertion (exertional breathlessness) and may, over time, persist even at rest . Many patients report limited physical capacity and reduced stamina in their daily lives.1,3",
+    "COPD is also characterised by exacerbations, i.e. acute worsening of symptoms that require additional medication. Warning signs of an exacerbation must be closely monitored, as exacerbations are clinically significant and are associated with an accelerated loss of lung function, a persistent decline in quality of life and a poor prognosis.3,4",
+    "In addition to pulmonary symptoms, COPD may be accompanied by systemic symptoms such as fatigue, weight loss and sleep disturbances, as well as psychiatric symptoms such as depression and anxiety, which significantly impair quality of life.5",
+    "Back to top",
+    "The diagnosis of COPD is based on a combination of clinical symptoms, risk factors and objective measures of lung function. The aim is to detect the disease at an early stage and to accurately assess its severity.6,11",
+    "According to the GOLD guidelines, a COPD screening assessment should be carried out from around the age of 35 in people with significant exposure (e.g. tobacco smoke, indoor/outdoor air pollution, occupational exposure) and/or respiratory symptoms.6 In particular, spirometry to screen for COPD should be carried out in people over the age of 40 with a smoking history of at least 10 pack-years and who have at least one key symptom (phlegm, cough or shortness of breath).11",
+    "Spirometry is the gold standard for confirming a diagnosis of COPD. The key diagnostic criterion is a FEV₁/FVC ratio < 0.7 following bronchodilation, which indicates airway obstruction that is not fully reversible. Spirometry is an objective and easily reproducible method; it should be performed in all patients in whom COPD is suspected.6,11",
+    "In addition to confirming the diagnosis, spirometry enables the degree of airway obstruction to be classified according to the four GOLD stages (GOLD 1 to 4).6",
+    "GOLD stage",
+    "FEV₁ (% of the assigned)",
+    "degree of obstruction",
+    "GOLD 1",
+    "≥ 80 %",
+    "mild",
+    "GOLD 2",
+    "50-79 %",
+    "moderate",
+    "OR 3",
+    "30-49 %",
+    "severe",
+    "OR 4",
+    "< 30 %",
+    "very severe",
+    "Adapted from GOLD 2026, Fig. 2.106",
+    "This spirometric classification is used primarily to assess prognosis and only partially reflects the clinical burden of the disease.6",
+    "Imaging techniques (such as CT scans or X-rays) are used for differential diagnosis and to rule out other possible causes, but do not replace spirometry.6",
+    "To assess the severity of COPD and determine the optimal treatment, a comprehensive approach is required that takes into account several clinical dimensions. In this regard, functional limitations, clinical symptoms, disease activity and relevant associated factors must be considered together.6,11",
+    "The following aspects should be taken into account in the initial assessment:6",
+    "Functional severity of airway obstruction: assessed by spirometry (FEV₁/FVC > 0.7 after bronchodilation)",
+    "Clinical symptom burden: assessed in a standardised manner, for example using the COPD Assessment Test (CAT) or the mMRC dyspnoea score15,16 Download the CAT questionnaire Download the mMRC questionnaire",
+    "Download the CAT questionnaire",
+    "Download the mMRC questionnaire",
+    "History of moderate and severe exacerbations as markers of disease activity",
+    "Smoking as a key risk factor and a lever for preventive measures",
+    "Blood eosinophil count (EOS) as a supporting biomarker for treatment decisions",
+    "Screening for α₁-antitrypsin deficiency, a potential genetic cause of COPD",
+    "Associated conditions, particularly cardiovascular, metabolic and mental health comorbidities",
+    "The combination of symptom burden and history of exacerbations enables the GOLD group to be determined, which facilitates the practical classification of patients into treatment groups. The GOLD-ABE classification, based on symptoms and exacerbations, now forms the basis for treatment decisions.6",
+    "GOLD group",
+    "Symptom burden",
+    "Risk of exacerbation",
+    "Low: mMRC 0–1 or CAT < 10",
+    "0 moderate or severe exacerbations in the past year",
+    "High: mMRC ≥ 2 or CAT ≥ 10",
+    "0 moderate or severe exacerbations in the p past year",
+    "Regardless of symptom burden",
+    "≥ 1 moderate or severe exacerbation in the past yearxml-ph-0000@deepl.internal",
+    "Adapted from GOLD 2026, Fig. 2.136",
+    "Regardless of the initial classification, it is recommended that a structured and regular reassessment of symptoms, exacerbations and response to treatment be carried out throughout the course of the disease, as the clinical situation and therapeutic needs may change over time.6,11",
+    "The GOLD Pocket Guide is a concise summary of the current GOLD guidelines and facilitates the management of patients with COPD in accordance with the guidelines in everyday practice, both in general practice and in hospital settings.12",
+    "The Swiss Lung Association’s COPD Pocket Guide provides a practical summary of the Swiss guidelines on the diagnosis, classification and treatment of COPD, taking into account the national healthcare system and in accordance with Swiss guidelines.11",
+    "Back to top",
+    "Modern treatment of COPD is based on the GOLD guidelines and is supplemented by the Swiss Lung Association’s pocket guide to COPD. It is based on the use of inhaled bronchodilators as first-line treatment, with individualised adjustment of the inhalation regimen for COPD, targeted escalation up to triple inhaled therapy, as well as complementary measures such as oxygen therapy for COPD and the early integration of pulmonary rehabilitation – depending on the severity, symptom burden and risk of exacerbation.6,11",
+    "Treatment of COPD: inhalers, rehabilitation and oxygen therapy",
+    "COPD is incurable. However, consistent, long-term treatment of COPD is essential to slow the progression of the disease, relieve symptoms and reduce exacerbations.1,6 In accordance with current GOLD guidelines and the Swiss Lung Association’s pocket guide, treatment is implemented in stages and is based on the severity of the disease, the history of exacerbations and the burden of symptoms. Regular reassessment is an integral part of the treatment plan.6,11",
+    "Pharmacological treatment of COPD relies primarily on the inhalation of bronchodilators. Short-acting β₂-agonists (SABAs) and short-acting muscarinic antagonists (SAMAs) are used as and when required to provide rapid symptom relief. For maintenance treatment, long-acting β₂-agonists (LABAs) and long-acting muscarinic antagonists (LAMAs) form the basis of treatment.6,11",
+    "Pharmacological treatment of COPD relies primarily on inhaled bronchodilator therapy. Short-acting β₂-agonists (SABAs) and short-acting muscarinic antagonists (SAMAs) are used as ‘as-needed’ medications for rapid symptom relief. For maintenance treatment, long-acting β₂-agonists (LABAs) and long-acting muscarinic antagonists (LAMAs) form the basis of drug therapy.6,11",
+    "GOLD Group",
+    "Initial",
+    "Escalation",
+    "LABA or LAMA",
+    "LABA + LAMA",
+    "LABA + LAMA",
+    "for Eos ≥ 100: LABA + LAMA + CSI*,#",
+    "New in GOLD 2026:",
+    "Already ≥ 1 moderate exacerbation → group E6",
+    "* Fixed-dose triple therapy (LABA + LAMA + ICS) is not authorised in Switzerland for initial treatment.13 AstraZeneca cannot and is not permitted to recommend the use of its products outside theofficial indication (www.swissmedicinfo-pro.ch).",
+    "Inhaled corticosteroids (ICS) are not routinely indicated, but should be used selectively in patients with frequent exacerbations and eosinophilia.11",
+    "Escalation of treatment in the event of persistent exacerbations:",
+    "Roflumilast may be considered in cases of persistent exacerbations despite optimised inhaled therapy in patients with severe airway obstruction and chronic bronchitis.6",
+    "Azithromycin may be used, particularly in former smokers, to reduce the rate of exacerbations.6",
+    "If exacerbations persist despite optimised inhaled treatment (including triple therapy in accordance with the GOLD treatment escalation guidelines), broader treatment options such as biologics (e.g. dupilumab or mepolizumab) may be considered.6,11",
+    "Inhalation is the preferred route of administration in COPD, as it allows for targeted action in the airways whilst limiting systemic exposure. Therapeutic success depends not only on the active ingredient, but also, and above all, on the inhalation device and its correct use.6",
+    "Available inhalation systems:6",
+    "System",
+    "Prerequisites6",
+    "Limitations6",
+    "Dry powder inhalers (DPI)",
+    "Sufficient inspiratory flow",
+    "Less suitable for patients with low respiratory capacity",
+    "Metered-dose inhalers (pMDI)",
+    "Good hand-breathing coordination, sufficient inspiratory flow",
+    "Coordination errors; use of an inhalation chamber may be necessary",
+    "Soft mist inhalers (SMI)",
+    "Slow, deep inhalation; inspiratory force required ly lower than that for DPI/pMDI",
+    "Slightly more complex to use",
+    "Nebuliser",
+    "Requires virtually no active participation from the patient; suitable when DPI/pMDI/SMI cannot be used",
+    "Time-consuming and offers reduced mobility",
+    "The choice must be made on a case-by-case basis, taking into account factors such as inspiratory flow rate, coordination, cognitive abilities and patient preferences. Structured training in inhalation technique, as well as regular monitoring of this technique, form an integral part of therapeutic follow-up.6",
+    "Long-term oxygen therapy is indicated, in cases of stable COPD, exclusively in patients with severe chronic hypoxaemia. The primary aim is not to relieve symptoms, but to improve the prognosis. In patients without significant resting hypoxaemia, oxygen therapy is not routinely recommended. The indication must be established on the basis of objective measurements and reassessed regularly.6",
+    "Pulmonary rehabilitation is a central component of non-pharmacological treatment for COPD and is recommended for patients, regardless of the severity of their disease, who have a significant symptom burden or an increased risk of exacerbation. It comprises physical training, respiratory therapy, patient education and psychosocial support. Evidence shows that rehabilitation improves exercise capacity, alleviates dyspnoea and enhances quality of life, whilst reducing the risk of subsequent events and hospitalisations, particularly following exacerbations. It is recommended that rehabilitation be incorporated from the outset of the treatment plan and assessed regularly, as its effects are independent of the severity determined by spirometry.6",
+    "Motivation to stop smoking: giving up smoking is the most effective individual measure for slowing the progression of COPD.6,11",
+    "Vaccinations: to reduce COPD exacerbations, hospitalisations and mortality, the SGP recommends regular vaccinations, in particular: 11",
+    "Influenza: annually",
+    "SARS-CoV-2: in accordance with the FOPH’s recommendations for at-risk patients",
+    "Pneumococcal: PCV15 or PCV20 (tailored to age and risk profile)",
+    "RSV/herpes zoster: vaccination against RSV and herpes zoster in high-risk elderly patients as well as in certain selected patients.",
+    "Furthermore, support with self-management (including monitoring of symptoms, management of medication and decision-making) can improve resilience, quality of life and prognosis. A personalised action plan for managing exacerbations can boost patients’ self-efficacy and enable early detection and treatment of worsening symptoms.11",
+    "Back to top",
+    "The management of exacerbations follows a clear protocol, based on the GOLD and SGP guidelines. The aim is to detect acute deterioration early, stabilise the airways rapidly, avoid complications and prevent further exacerbations. A structured assessment helps to determine whether outpatient treatment or hospital management is appropriate.6,11",
+    "Recognising an acute exacerbation of COPD (AECOPD)",
+    "An exacerbation of COPD is defined as an acute worsening of respiratory symptoms that exceeds normal day-to-day variability and requires an adjustment to treatment. It is generally characterised by a worsening of the main symptoms – shortness of breath, cough and sputum production – as well as by fever.",
+    "Exacerbations are often caused by viral or bacterial infections, but may also be triggered by air pollution, heat stress or comorbidities. COPD during an exacerbation is one of the most common causes of A&E visits and hospital admissions.6,11",
+    "The severity of an acute exacerbation of COPD is assessed on the basis of clinical symptoms, vital signs and, where appropriate, laboratory test results. Classification as mild, moderate or severe determines the intensity of treatment and the setting in which care is provided.6,11",
+    "Initial",
+    "criteria6",
+    "Mild exacerbation",
+    "Mild acute worsening accompanied by:",
+    "increased shortness of breath (EVA < 5)",
+    "respiratory rate < 24/min, heart rate < 95/min",
+    "SpO₂ at rest ≥ 92% on room air (or a decrease of ≤ 3% from the baseline value)",
+    "No signs of respiratory failure or significant comorbidities",
+    "CRP (C-reactive protein) ~3 to 6 mg/L",
+    "Moderate exacerbation",
+    "If at least three of the following criteria are met:",
+    "Significant increase in dyspnoea (EVA ≥ 5)",
+    "Respiratory rate ≥ 24/min or heart rate ≥ 95/min",
+    "SpO₂ at rest < 92% or a drop of > 3%",
+    "CRP ≥ 10 mg/l (if measured)",
+    "Where applicable, mild hypoxaemia (PaO₂ approx. 70–80 mmHg)",
+    "Severe exacerbation",
+    "Signs of respiratory failure or systemic involvement, such as",
+    "a marked increase in dyspnoea (EVA ≥ 5)",
+    "Respiratory rate ≥ 24/min or heart rate ≥ 95/min",
+    "SpO₂ at rest < 92% or a drop of > 3%",
+    "CRP ≥ 10 mg/l (if measured)",
+    "Hypoxaemia (PaO₂ ≤ 60 mmHg) and/or hypercapnia (PaCO₂ > 45 mmHg) and respiratory acidosis (pH < 7.35)",
+    "Treatment of an exacerbation of COPD is carried out in stages and must be initiated early:6,11",
+    "Bronchodilation by increasing the dose of short-acting β₂-agonists (SABA) ± anticholinergics (SAMA)",
+    "Systemic corticosteroids",
+    "Antibiotics in cases of purulent sputum, signs of bacterial infection or severe exacerbation",
+    "In the event of respiratory acidosis or hypercapnia, non-invasive ventilation (NIV) should be considered as soon as possible, as it has been shown to reduce the rate of intubation, the length of hospital stay and mortality.",
+    "In some cases, high-flow nasal therapy (HFNT) may also be used.",
+    "In cases of mild to moderate COPD exacerbation, outpatient treatment with a follow-up appointment within 48 hours is possible. In cases of severe exacerbation, frequent check-ups are required after 24 to 48 hours.6,11",
+    "Hospitalisation is indicated in the following cases:6,11",
+    "no clinical improvement",
+    "persistent hypoxaemia",
+    "signs of respiratory failure or significant comorbidities",
+    "Following an exacerbation, a structured reassessment is essential.6,11",
+    "This includes:",
+    "optimising and, where necessary, stepping up maintenance inhaled treatment (e.g. dual or triple therapy)",
+    "Checking inhalation technique and adherence to treatment",
+    "the early initiation of pulmonary rehabilitation",
+    "Management of comorbidities and risk factors.",
+    "Link to the COPD information sheet",
+    "COPD information sheet",
+    "A two-page information sheet for patients with COPD – It aims to help patients better understand COPD and to facilitate communication between respiratory specialists, GPs and patients. It brings together essential information on a double-page spread – current status of the condition, biomarkers measured, vaccination status, emergency plan and current treatments – and makes it easy to quickly record any updates.",
+    "DE FR",
+    "COPD Pocket Guide 2025",
+    "GOLD Guidelines 2026",
+    "GOLD 2026 Pocket Guide",
+    "Back to top",
+    "#TRIXEO AEROSPHERE is indicated for maintenance treatment in adult patients with chronic obstructive pulmonary disease (COPD) who are not adequately controlled by a combination of an inhaled corticosteroid and a long-acting beta-2-agonist, or by a combination of a long-acting beta-2-agonist and a long-acting muscarinic receptor antagonist (for effects on symptom control and the prevention of exacerbations, see the ‘Clinical Efficacy’ section).13 AstraZeneca cannot and is not authorised to recommend the use of its products outside the official indication (www.swissmedicinfo-pro.ch).",
+    "AECOPD: acute exacerbation of COPD; FOPH: Federal Office of Public Health; CAT: COPD assessment test; COPD: chronic obstructive pulmonary disease; CRP: C-reactive protein; CT scan: computed tomography; DP: dry powder inhaler; EOS: blood eosinophils (cells/µl); FEV₁: forced expiratory volume in one second; FVC: forced vital capacity; GOLD: Global Initiative for Chronic Obstructive Pulmonary Disease; HFOT: high-flow oxygen therapy; ICS: inhaled corticosteroid; LABA: long-acting beta-2 agonist; LAMA:long-acting muscarinic antagonist; LTOT: long-term oxygen therapy; mMRC: modified Medical Research Council dyspnoea scale; NIV: non-invasive ventilation; PaCO₂: arterial partial pressure of carbon dioxide; PaO₂: arterial partial pressure of oxygen; PCV: pneumococcal conjugate vaccine; MDI: metered-dose inhaler; RSV: respiratory syncytial virus; SABA: short-acting beta-2 agonist; SAMA: short-acting muscarinic antagonist; SARS-CoV-2: severe acute respiratory syndrome coronavirus 2; SGP: Swiss Society of Pneumology; SMI: soft mist inhaler; SpO₂: peripheral oxygen saturation; EVA: visual analogue scale.",
+    "References:",
+    "FOPH, Chronic liver disease. Updated: 20 November 2020. Available online at: https://www.bag.admin.ch/fr/affections-respiratoires-chroniques. Last accessed: January 2026.",
+    "WHO, Fact sheet on COPD. Updated: 6 November 2024. Available online at: https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd). Last accessed: 01/2026.",
+    "Vogelmeier CF, et al. Goals of COPD treatment: Focus on symptoms and exacerbations. Respir Med. 2020;166:105938.",
+    "Hurst JR, et al. Susceptibility to exacerbation in chronic obstructive pulmonary disease. N Engl J Med. 2010;363(12):1128–38.",
+    "Ho T-W, et al. In-hospital and one-year mortality and their predictors in patients hospitalised for first-ever chronic obstructive pulmonary disease exacerbations: A nationwide population-based study. PLoS One. 2014;9:e114866.",
+    "Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global strategy for the diagnosis, management, and prevention of COPD (2026 report). GOLD website: https://goldcopd.org/2026-gold-report/ Last accessed: 01/2026",
+    "Barnes N, et al. Chronic obstructive pulmonary disease and exacerbations: patient insights from the global Hidden Depths of COPD survey. BMC Pulm Med. 2013;13:54.",
+    "Stolz D, et al. Towards the elimination of chronic obstructive pulmonary disease: a Lancet Commission. Lancet. 2022;400(10356):921–72.",
+    "Vogelmeier C, et al. Increased risk of severe cardiovascular events following exacerbations of COPD: a multi-database cohort study. Eur Respir J 2023;62:PA3013 (Abstract).",
+    "Mannino DM, et al. Global Initiative on Obstructive Lung Disease (GOLD) classification of lung disease and mortality: findings from the Atherosclerosis Risk in Communities (ARIC) study. Respir Med. 2006;100:115–22.",
+    "Swiss Society of Pneumology (SGP); Swiss Lung League. COPD Pocket Guide – Diagnosis and Management Support: A Practical Guide for Healthcare Professionals. 2025/3rd edition. Available online at: https://www.lungenliga.ch/de/copd-pocket-guide. Last accessed: 01/2026.",
+    "Global Initiative for Chronic Obstructive Lung Disease (GOLD). GOLD Pocket Guide to COPD Diagnosis, Management, and Prevention. 2026 Edition. Available online at: https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf Last accessed: 01/2026.",
+    "TRIXEO AEROSPHERE® Professional Information. Available at www.swissmedicinfo-pro.ch. Last accessed: 03/2026.",
+    "Soler-Cataluña JJ, et al. Risk validation of a new quantitative score for clinical control of chronic obstructive pulmonary disease: The RADAR score. Arch Bronconeumol. 2026;62(1):28–34.",
+    "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/",
+    "https://www.inanutshell.ch/rechner/copd-assessment-test/",
+    "Discover the real impact of COPD exacerbations and how to identify patients at risk.",
+    "We draw on our extensive expertise in research and development throughout the entire lifecycle of a medicine.",
+    "Discover our indications now or browse our full range of products!",
+    "Back to top",
+    "CH-12804 05/2026",
+    "This website is intended for healthcare professionals in Switzerland only.",
+    "Cookie policy",
+    "Contact",
+    "Terms of use",
+    "Report side effects",
+    "Report quality complaint",
+    "Medical enquiries"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "Contact us",
+      "href": "/en/startseite/contact-us.html"
+    },
+    {
+      "label": "Login",
+      "href": "/en/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/en/startseite.html"
+    },
+    {
+      "label": "Therapy areas",
+      "href": "/en/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "R&I",
+      "href": "/en/startseite/therapiegebiete/ri.html"
+    },
+    {
+      "label": "Definition",
+      "href": "#definition"
+    },
+    {
+      "label": "Symptoms",
+      "href": "#symptome"
+    },
+    {
+      "label": "Diagnosis",
+      "href": "#diagnose"
+    },
+    {
+      "label": "Management",
+      "href": "#behandlung"
+    },
+    {
+      "label": "Exacerbations",
+      "href": "#exazerbationen"
+    },
+    {
+      "label": "Recommendations",
+      "href": "#leitllinien"
+    },
+    {
+      "label": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "label": "Back to top",
+      "href": "#top"
+    },
+    {
+      "label": "Download the CAT questionnaire",
+      "href": "https://www.inanutshell.ch/rechner/copd-assessment-test/?output=pdf"
+    },
+    {
+      "label": "Download the mMRC questionnaire",
+      "href": "https://www.inanutshell.ch/en/digital-doctors-bag/mmrc-dyspnea-scale/"
+    },
+    {
+      "label": "Download the GOLD Pocket Guide",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "Download the COPD Pocket Guide",
+      "href": "https://www.lungenliga.ch/sites/default/files/documents/2307_lungeliga_pocketguidecopd_d.pdf"
+    },
+    {
+      "label": "Back to top",
+      "href": "#top"
+    },
+    {
+      "label": "www.swissmedicinfo-pro.ch",
+      "href": "http://www.swissmedicinfo-pro.ch"
+    },
+    {
+      "label": "Back to top",
+      "href": "#top"
+    },
+    {
+      "label": "the COPD information sheet",
+      "href": "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+    },
+    {
+      "label": "DE",
+      "href": "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr.html"
+    },
+    {
+      "label": "COPD Pocket Guide 2025",
+      "href": "https://www.lungenliga.ch/sites/default/files/documents/2307_lungeliga_pocketguidecopd_d.pdf"
+    },
+    {
+      "label": "PDF Download",
+      "href": "https://www.lungenliga.ch/sites/default/files/documents/2307_lungeliga_pocketguidecopd_d.pdf"
+    },
+    {
+      "label": "GOLD Guidelines 2026",
+      "href": "https://goldcopd.org/2026-gold-report-and-pocket-guide/"
+    },
+    {
+      "label": "PDF Download",
+      "href": "https://goldcopd.org/2026-gold-report-and-pocket-guide/"
+    },
+    {
+      "label": "GOLD 2026 Pocket Guide",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "PDF Download",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "Back to top",
+      "href": "#top"
+    },
+    {
+      "label": "What are the typical symptoms of COPD?",
+      "href": null
+    },
+    {
+      "label": "How is the diagnosis made according to the ‘COPD Pocketguide’?",
+      "href": null
+    },
+    {
+      "label": "What treatment is recommended for Group B of the GOLD classification?",
+      "href": null
+    },
+    {
+      "label": "When is triple therapy indicated for COPD?",
+      "href": null
+    },
+    {
+      "label": "When is oxygen therapy necessary in cases of COPD?",
+      "href": null
+    },
+    {
+      "label": "What is the role of pulmonary rehabilitation?",
+      "href": null
+    },
+    {
+      "label": "www.swissmedicinfo-pro.ch",
+      "href": "https://www.swissmedicinfo-pro.ch/"
+    },
+    {
+      "label": "https://www.bag.admin.ch/fr/affections-respiratoires-chroniques",
+      "href": "https://www.bag.admin.ch/fr/affections-respiratoires-chroniques"
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)"
+    },
+    {
+      "label": "https://goldcopd.org/2026-gold-report/",
+      "href": "https://goldcopd.org/2026-gold-report/"
+    },
+    {
+      "label": "https://www.lungenliga.ch/de/copd-pocket-guide",
+      "href": "https://www.lungenliga.ch/de/copd-pocket-guide"
+    },
+    {
+      "label": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "www.swissmedicinfo-pro.ch",
+      "href": "https://www.swissmedicinfo-pro.ch/"
+    },
+    {
+      "label": "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/",
+      "href": "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/"
+    },
+    {
+      "label": "https://www.inanutshell.ch/rechner/copd-assessment-test/",
+      "href": "https://www.inanutshell.ch/rechner/copd-assessment-test/"
+    },
+    {
+      "label": "Find out now",
+      "href": "https://www.actoncopd.ch/en/index.html"
+    },
+    {
+      "label": "Discover now",
+      "href": "/de/startseite/produkte.html#tabs-3e5292059f-item-9d20e2744b-tab"
+    },
+    {
+      "label": "Back to top",
+      "href": "#top"
+    },
+    {
+      "label": "Cookie policy",
+      "href": "//policy.cookiereports.com/b50c8635-en-gb.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.astrazeneca.ch/en/contact-us.html"
+    },
+    {
+      "label": "Terms of use",
+      "href": "https://www.astrazeneca.ch/en/terms-of-use.html"
+    },
+    {
+      "label": "Report side effects",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html"
+    },
+    {
+      "label": "Report quality complaint",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medical enquiries",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    },
+    {
+      "label": "Cookie Notice on our websites",
+      "href": "https://cookienotice.astrazeneca.com/"
+    },
+    {
+      "label": "Allow All Cookies",
+      "href": "#"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": "#"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/en/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/en/user/login.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#definition",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#symptome",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#diagnose",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#behandlung",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#exazerbationen",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#leitllinien",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#faq",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#top",
+    "https://www.inanutshell.ch/rechner/copd-assessment-test/?output=pdf",
+    "https://www.inanutshell.ch/en/digital-doctors-bag/mmrc-dyspnea-scale/",
+    "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf",
+    "https://www.lungenliga.ch/sites/default/files/documents/2307_lungeliga_pocketguidecopd_d.pdf",
+    "http://www.swissmedicinfo-pro.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr.html",
+    "https://goldcopd.org/2026-gold-report-and-pocket-guide/",
+    "https://www.swissmedicinfo.ch/",
+    "https://www.swissmedicinfo-pro.ch/",
+    "https://www.bag.admin.ch/fr/affections-respiratoires-chroniques",
+    "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)",
+    "https://goldcopd.org/2026-gold-report/",
+    "https://www.lungenliga.ch/de/copd-pocket-guide",
+    "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/",
+    "https://www.inanutshell.ch/rechner/copd-assessment-test/",
+    "https://www.actoncopd.ch/en/index.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html#tabs-3e5292059f-item-9d20e2744b-tab",
+    "https://policy.cookiereports.com/b50c8635-en-gb.html",
+    "https://www.astrazeneca.ch/en/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-en/privacy-notices.html",
+    "https://www.astrazeneca.ch/en/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com",
+    "https://cookienotice.astrazeneca.com/",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html#",
+    "https://www.digitalcontrolroom.com/",
+    "https://www.digitalcontrolroom.com/privacy-policy/",
+    "https://tealium.com/",
+    "https://tealium.com/privacy/",
+    "https://www.vmware.com/",
+    "https://www.vmware.com/help/privacy.html",
+    "https://aws.amazon.com/elasticloadbalancing/",
+    "https://aws.amazon.com/privacy/",
+    "https://www.amazon.com/",
+    "https://www.amazon.com/privacy",
+    "https://www.microsoft.com/",
+    "https://privacy.microsoft.com/",
+    "https://www.adobe.com/",
+    "https://www.adobe.com/privacy/policy.html",
+    "https://www.adobe.com/privacy.html",
+    "https://www.innovid.com/",
+    "https://www.innovid.com/privacy-policy/",
+    "https://mouseflow.com/",
+    "https://mouseflow.com/privacy/",
+    "https://www.flashtalking.com/",
+    "https://www.flashtalking.com/privacypolicy",
+    "https://www.google.com/",
+    "https://policies.google.com/privacy",
+    "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.google.com/chrome/answer/95647?hl=en",
+    "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/en/Header/master/_jcr_content/root/image.coreimg.svg/1789487620440/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 82,
+        "h": 20
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 82,
+        "h": 20
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1785845451675/header-banner.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/chronic-obstructive-pulmonary-disease/header-banner-mob.jpg",
+        "alt": "",
+        "w": 540,
+        "h": 525
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1680127268/container_1905038694/teaser.coreimg.80.1920.jpeg/1785764589570/inzidenz-copd.jpeg",
+        "alt": "Inzidenz - COPD",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/inzidenz-copd-mob.jpg",
+        "alt": "Inzidenz - COPD",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1680127268/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1785764621796/exazerbationen-copd.jpeg",
+        "alt": "Exazerbationen - COPD",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/exazerbationen-mob.jpg",
+        "alt": "Exazerbationen - COPD",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1680127268/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1785764678131/mortalit-copd.jpeg",
+        "alt": "Mortalität - COPD",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/mortalit-copd-mob.jpg",
+        "alt": "Mortalität - COPD",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1785765743553/symptome-copd.jpeg",
+        "alt": "Symptome - COPD",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/symptome-copd-mob.jpg",
+        "alt": "Symptome - COPD",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__784982179/teaser.coreimg.80.1920.jpeg/1785765926857/diagnose-copd.jpeg",
+        "alt": "Diagnose - COPD",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/diagnose-copd-mob.jpg",
+        "alt": "Diagnose - COPD",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__873886125/teaser.coreimg.80.1920.jpeg/1785790122300/behandlung-copd.jpeg",
+        "alt": "Behandlung - COPD",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/behandlung-copd-mob.jpg",
+        "alt": "Behandlung - COPD",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__1225550176/teaser.coreimg.80.1920.png/1785769989889/copd-symptoms-breathing.png",
+        "alt": "",
+        "w": 575,
+        "h": 324
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/copd-symptoms-breathing.png",
+        "alt": "",
+        "w": 575,
+        "h": 324
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1949147900_1834551155/container/teaser_copy_copy_cop.coreimg.80.1920.jpeg/1785774420206/copd-personal-data-sheet-de.jpeg",
+        "alt": "",
+        "w": 582,
+        "h": 235
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/produkte/trixeo/documents/copd-personal-data-sheet-de.jpg",
+        "alt": "",
+        "w": 776,
+        "h": 314
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1606333159/container/teaser.coreimg.80.1920.png/1785790781742/copd-pocket-guide-2024.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/copd-pocket-guide-2024.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1606333159/container/teaser_copy.coreimg.80.1920.png/1785790813828/gold-guidelines-pocketguide.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/gold-guidelines-pocketguide.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1606333159/container/teaser_copy_264313487.coreimg.80.1920.png/1785790850894/gold-pocket-guide-2026.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/gold-pocket-guide-2026.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__2022525959/teaser.coreimg.80.1920.jpeg/1785776400033/act-on-copd-desk.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/act-on-copd-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__1971080805/teaser.coreimg.80.1920.jpeg/1785791020462/nutzliche-produktinformationen.jpeg",
+        "alt": "Nützliche Produktinformationen",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/nutzliche-produktinformationen-mob.jpg",
+        "alt": "Nützliche Produktinformationen",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/en/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337901081/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 82,
+        "h": 20
+      }
+    ],
+    "allImgCount": 32,
+    "cssBackgrounds": [],
+    "modals": [
+      "CookiesIn addition to cookies to provide functions of our website, we also use cookies that analyse the use of the website, the content you visit and its use, enable the display of personalized content, and provide social media functions. By default, only cookies required to provide the website are stored. However, if you click on the “Accept all cookies” button, you consent to the storage of all cookies on your device. If you click on “Accept all cookies”, you agree that your data will be processed by service providers from third countries worldwide, including outside the European Economic Area (in particular the USA), which do not have an adequate level of data protection. In this case, it is possible that authorities can access the data without legal remedies. If you click on “Reject optional cookies,” the transmission described above will not take place. You can adjust your preferences, obtain additional information, and withdraw or change your consent at any time via the “Cookie Preferences” menu or via the information about cookies linked on the page. For more information about the use of cookies, please see our Cookie Notice on our websites .Allow All CookiesCookie PreferencesConfirm Your PreferencesNecessary cookies only12Strictly Necessary CookiesThe strictly necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You may be able to decline these cookies through your browser, but necessary parts of the site will not then work. These cookies do not store any personally identifiable information.Detailed description of cookies categorised as: Strictly Necessary Cookies. CookieExpiryDomainCompanyPurposewscrCookieConsent1 yearwww.myastrazeneca.chDigital Control Room LtdYour visitStores your cookie consent session for our site. It contains no information other than whether you have opted in or out for each cookie level.Digital Control Room Ltd - Privacy Policy (Digital Control Room Ltd)+ ▼Stores your cookie consent session for our site. It contains no information other than whether you have opted in or out for each cookie level.Digital Control Room Ltd - Privacy Policy (Digital Control Room Ltd)utag_main_ses_id1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main_vapi_domain1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__pn1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__se1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__sn1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__ss1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__st1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)_vapi<digits>+Sessionmyastrazeneca.chVMware, IncYour visitCookie that contains a session identifier used to authenticate the use and deliver different APIs. The cookie is dynamic so it cannot be updated, as each customer will have a unique cookie.VMware, Inc - Privacy Policy (VMware, Inc)+ ▼Cookie that contains a session identifier used to authenticate the use and deliver different APIs. The cookie is dynamic so it cannot be updated, as each customer will have a unique cookie.VMware, Inc - Privacy Policy (VMware, Inc)AWSALB1 hourwww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Your visitUsed by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)+ ▼Used by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)AWSALBCORS1 weekwww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Your visitUsed by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)+ ▼Used by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)JSESSIONIDSessionwww.myastrazeneca.chEIS, Microsoft CorporationYour visitStores session data during a website visit, issued by Jetty Web Server.Microsoft Corporation - Privacy Policy (Microsoft Corporation)+ ▼Stores session data during a website visit, issued by Jetty Web Server.Microsoft Corporation - Privacy Policy (Microsoft Corporation)0Functional CookiesConsent for: Functional CookiesThese cookies enable the website to provide enhanced functionality, aid site personalisation, maintain user-selected options and site navigation aids. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.We do not use any cookies in this category.35Performance and Operational CookiesConsent for: Performance and Operational CookiesThese cookies allow us to count visits and traffic sources, perform customer surveys and other web analytics, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. The information these cookies collect is aggregated and in some instances limited identifiable data may be collected.Detailed description of cookies categorised as: Performance and Operational Cookies. CookieExpiryDomainCompanyPurposeeverest_g_v22 yearseveresttech.netAdobe Inc.AnalyticsThese cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼These cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)everest_session_v2Sessioneveresttech.netAdobe Inc.AnalyticsThese cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼These cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)im_cookie_ccreativeSessionmyastrazeneca.chAdobe Inc.AnalyticsRecords the Campaign ID used to navigate to the website+ ▼Records the Campaign ID used to navigate to the websitetestSessionmyastrazeneca.chAdobe Inc.AnalyticsInternal cookie written by Adobe Analytics to test browser cookie support.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Internal cookie written by Adobe Analytics to test browser cookie support.Adobe Inc. - Privacy Policy (Adobe Inc.)im_cookie_cadpubSessionmyastrazeneca.chAstraZenecaAnalyticsAll the im_ cookies are Analytics cookies. This specific example is a session cookie used to store the campaign advertiser publisher (cadpub) URL parameter during the session so it can be used for data analytics in the data captured.+ ▼All the im_ cookies are Analytics cookies. This specific example is a session cookie used to store the campaign advertiser publisher (cadpub) URL parameter during the session so it can be used for data analytics in the data captured.im_cookie_cmediumSessionmyastrazeneca.chAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.+ ▼Used for analytics of navigation methods to the website.im_cookie_cnameSessionmyastrazeneca.chAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.+ ▼Used for analytics of navigation methods to the website.uuid90 daysinnovid.comAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.AstraZeneca - Privacy Policy (AstraZeneca)+ ▼Used for analytics of navigation methods to the website.AstraZeneca - Privacy Policy (AstraZeneca)mf_*Sessionmyastrazeneca.chMouseflow ApSAnalyticsMeasure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)+ ▼Measure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)mf_user90 daysmyastrazeneca.chMouseflow ApSAnalyticsMeasure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)+ ▼Measure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)im_cookie_session_idSessionmyastrazeneca.chAdobe, Adobe Inc.AnalyticsManages user session for site functionality, expiring when browser closes.+ ▼Manages user session for site functionality, expiring when browser closes.im_cookie_visitor_uid27 years, 4 monthsmyastrazeneca.chAdobe, Adobe Inc.AnalyticsTracks visitor behaviour across multiple sessions to improve user experience, with a long-term expiry.+ ▼Tracks visitor behaviour across multiple sessions to improve user experience, with a long-term expiry.AMCVS_*AdobeOrgSessionmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsSession cookie with Adobe. It indicates that a session has been initialized. The organisation ID helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Session cookie with Adobe. It indicates that a session has been initialized. The organisation ID helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)AMCV_*AdobeOrg2 yearsmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsHelps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)astrazenecauklimited!mboxPC1 dayastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)astrazenecauklimited!mboxSession30 minutesastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)at_checkSessionmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor, when experimenting with which content should be served to the visitor.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor, when experimenting with which content should be served to the visitor.Adobe Inc. - Privacy Policy (Adobe Inc.)gpv_pn30 minutesmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsThis cookie is set and read by the Adobe Analytics JavaScript code when the page is loaded. Captures Adobe Analytics page name. No Personally Identifiable Information collected.+ ▼This cookie is set and read by the Adobe Analytics JavaScript code when the page is loaded. Captures Adobe Analytics page name. No Personally Identifiable Information collected.mbox2 yearsmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsThis cookie is used to control which elements should be shown to a visitor and gives website operators the ability to test which online content and offers are more relevant to visitors.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼This cookie is used to control which elements should be shown to a visitor and gives website operators the ability to test which online content and offers are more relevant to visitors.Adobe Inc. - Privacy Policy (Adobe Inc.)demdex2 yearsdemdex.netAdobe Media Optimizer, Adobe Inc.Analytics​Used to recognize a returning visitor, build unique audience profiles and deliver targeted messages using Adobe Analytics.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼​Used to recognize a returning visitor, build unique audience profiles and deliver targeted messages using Adobe Analytics.Adobe Inc. - Privacy Policy (Adobe Inc.)dextp6 monthsdemdex.netAdobe Media Optimizer, Adobe Inc.AnalyticsAdobe Audience Manager sets this cookie to record the last time it made a data synchronization call.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Adobe Audience Manager sets this cookie to record the last time it made a data synchronization call.Adobe Inc. - Privacy Policy (Adobe Inc.)dpm2 yearsdpm.demdex.netAdobe Media Optimizer, Adobe Inc.AnalyticsUsed to help Adobe Audience Manager perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etcAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Used to help Adobe Audience Manager perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etcAdobe Inc. - Privacy Policy (Adobe Inc.)flashtalkingad12 yearsflashtalking.comFlashtalking, Simplicity Marketing LtdAnalyticsCollects anonymous data and determines what advertising has been delivered to the user already, on behalf of Advertising platform Flashtalking by Simplicity Marketing Ltd.Flashtalking - Privacy Policy (Flashtalking)+ ▼Collects anonymous data and determines what advertising has been delivered to the user already, on behalf of Advertising platform Flashtalking by Simplicity Marketing Ltd.Flashtalking - Privacy Policy (Flashtalking)s_ccSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsStores whether cookies are enabled, on behalf of the SiteCatalyst Analytics platform.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Stores whether cookies are enabled, on behalf of the SiteCatalyst Analytics platform.Adobe Inc. - Privacy Policy (Adobe Inc.)s_getDaysSinceLastVisit3 yearsmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)s_getDaysSinceLastVisit_s3 yearsmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)s_getNewRepeat30 daysmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsDetermines whether a visitor is a new visitor or a repeat visitor, and captures this information in an Analytics variable.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Determines whether a visitor is a new visitor or a repeat visitor, and captures this information in an Analytics variable.Adobe Inc. - Privacy Policy (Adobe Inc.)s_invisit30 minutesmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsThis cookie is used by an Omniture plugin to count the visit numbers per month for a specific user of the web page.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼This cookie is used by an Omniture plugin to count the visit numbers per month for a specific user of the web page.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pltSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pltpSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)s_ppvSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsStores the percentage of the page that was displayed vertically to the end user.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Stores the percentage of the page that was displayed vertically to the end user.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pvsSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)s_tpSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: Adobe Consulting PluginAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: Adobe Consulting PluginAdobe Inc. - Privacy Policy (Adobe Inc.)s_tpsSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)s_vnum30 daysmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsEnables Visit Number By Month tracking for the SiteCatalyst Analytics platform by recording how you arrived at the site.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Enables Visit Number By Month tracking for the SiteCatalyst Analytics platform by recording how you arrived at the site.Adobe Inc. - Privacy Policy (Adobe Inc.)3Marketing and targeted advertising CookiesConsent for: Marketing and targeted advertising CookiesThese cookies are used to track our visitors browsing habits and activity across our websites. They can be used to build up a profile of search and/or browsing history for every visitor. Identifiable or unique data may be collected which enables us to show you relevant/personalized marketing content. We do not store directly personal information, but information that uniquely identify your browser and internet device and use this to display targeted advertising and/or share this data with third parties for the same purpose. If you do not allow these cookies, you will experience less personalized marketing content and targeted advertising.Detailed description of cookies categorised as: Marketing and targeted advertising Cookies. CookieExpiryDomainCompanyPurpose_gcl_au3 monthsmyastrazeneca.chAdSense, Google LLCAdvertisingGoogle AdSense gather statistics on the use of their service to help inform marketing decisionsGoogle LLC - Privacy Policy (Google LLC)+ ▼Google AdSense gather statistics on the use of their service to help inform marketing decisionsGoogle LLC - Privacy Policy (Google LLC)IDE2 yearsdoubleclick.netDoubleClick, Google LLCAdvertisingContains a unique code to determine which advertisements have been shown on a device, on behalf of Google Inc. Advertising platform DoubleClick. Allows monitoring of the effectiveness of the ads and make the ads more relevant to the user.Google LLC - Privacy Policy (Google LLC)+ ▼Contains a unique code to determine which advertisements have been shown on a device, on behalf of Google Inc. Advertising platform DoubleClick. Allows monitoring of the effectiveness of the ads and make the ads more relevant to the user.Google LLC - Privacy Policy (Google LLC)test_cookie15 minutesdoubleclick.netGoogle Analytics, Google LLCAdvertisingTests if the user's browser supports cookies, on behalf of Google Inc. Advertising platform DoubleClick.Google LLC - Privacy Policy (Google LLC)+ ▼Tests if the user's browser supports cookies, on behalf of Google Inc. Advertising platform DoubleClick.Google LLC - Privacy Policy (Google LLC)Manage Your CookiesWhat are cookies, how are they used and how are they managed? Cookies are small text files that contain letters and numbers and are placed on your computer or device. Cookies are set when you visit a website that uses cookies and may be used to keep track of pages visited within the site, help you continue where you left off or remember your preferences, such as language settings. Cookies are very important to help us make online services easier to use, to monitor the use of our site and to help us improve the service to you. To make it easier for you to understand the way a website uses cookies, we have grouped them into easy to understand categories. The category to which a cookie belongs can be seen in the Cookie Panel. The information in the Cookie Panel is provided to you in an open and transparent way, so that you can see how cookies are used to enrich your visitor experience and make an informed choice to allow their usage. However, if you wish to control and remove cookies, this can be done via settings in your web browser. Please be aware that restricting cookies may impact the functionality of a website. Many of the interactive functions offered by websites are dependent on cookies and disabling or blocking cookies can prevent these services from working or reduce their usefulness. Different web browsers may use different methods for managing cookies. Please follow the instructions below, from the web browser manufacturers directly, to configure your browser settings*. Microsoft Edge Google Chrome Apple Safari Mozilla Firefox * These links are to third party sites, over which we have no control – no liability can be claimed if they are inaccurate.Last updated 2026-09-20Powered by Digital Control Room"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 2,
+    "distinctHeadings": 40,
+    "mainTextLen": 54395,
+    "realImageCount": 32,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 0,
+      "thirdPartyScriptHosts": 3,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-startseite-therapiegebiete-ri-copd-html.png",
+  "renderedHtml": "pages/en-startseite-therapiegebiete-ri-copd-html.html",
+  "slots": {
+    "headline": "Chronic obstructive pulmonary disease",
+    "sections": [
+      "Overview of chronic obstructive pulmonary disease",
+      "Prevalence in Switzerland",
+      "Exacerbations",
+      "Mortality",
+      "What is COPD?",
+      "GOLD classification of COPD",
+      "Symptoms of COPD",
+      "What are the typical symptoms of COPD?",
+      "Diagnosis of COPD and screening criteria",
+      "At-risk groups",
+      "Confirmation of the diagnosis by spirometry",
+      "Initial clinical assessment of COPD",
+      "GOLD 2026 Pocket Guide",
+      "COPD Pocket Guide",
+      "Treatment of COPD and therapeutic options in Switzerland",
+      "Treatment of COPD: inhalers, rehabilitation and oxygen therapy",
+      "Pharmacological treatment of COPD:",
+      "Treatment according to GOLD-ABE guidelines:",
+      "Inhaled treatment / inhalation systems",
+      "Oxygen therapy",
+      "Pulmonary rehabilitation",
+      "Non-pharmacological treatment and prevention of COPD",
+      "Recognising and treating COPD exacerbations",
+      "Recognising an acute exacerbation of COPD (AECOPD)",
+      "Acute management of COPD exacerbation",
+      "COPD: when is hospitalisation indicated?",
+      "Follow-up and prevention",
+      "COPD information sheet",
+      "Recommendations and resources",
+      "COPD Pocket Guide 2025",
+      "GOLD Guidelines 2026",
+      "GOLD 2026 Pocket Guide",
+      "FAQ",
+      "What are the typical symptoms of COPD?",
+      "How is the diagnosis made according to the ‘COPD Pocketguide’?",
+      "What treatment is recommended for Group B of the GOLD classification?",
+      "When is triple therapy indicated for COPD?",
+      "When is oxygen therapy necessary in cases of COPD?",
+      "What is the role of pulmonary rehabilitation?",
+      "Act on COPD",
+      "Useful product information"
+    ],
+    "references": true
+  }
+}

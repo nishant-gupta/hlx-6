@@ -1,0 +1,564 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:39.829Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "it-startseite-therapiegebiete-cvrm-diabetes-html",
+  "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:39.829Z",
+  "finalUrl": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+  "title": "Informazioni chiave sul diabete mellito",
+  "description": "Ottieni informazioni sui fattori di rischio del diabete, sulla diagnosi e sulle terapie che aiutano a proteggere la salute del cuore e dei reni.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/diabetes-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Diabete"
+    },
+    {
+      "tag": "h2",
+      "text": "Il diabete in sintesi: informazioni specialistiche e aggiornate"
+    },
+    {
+      "tag": "h4",
+      "text": "Incidenza"
+    },
+    {
+      "tag": "h4",
+      "text": "Complicazioni"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalità"
+    },
+    {
+      "tag": "h4",
+      "text": "Sintomi"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnosi"
+    },
+    {
+      "tag": "h4",
+      "text": "Trattamento"
+    },
+    {
+      "tag": "h3",
+      "text": "Informazioni utili sui prodotti"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "I nostri medicinali Cardiovascolare, renale & metabolismo Insufficienza cardiaca Forxiga ® (Dapagliflozina) Malattia renale cronica (MRC) Forxiga ® (Dapagliflozina) Diabete di tipo 2 Forxiga ® (Dapagliflozina) Xigduo® (Dapagliflozina/Metformina HCl) Amiloidosi Wainzua® (Eplontersen) Iperkaliemia Lokelma® (Sodium zirconium cyclosilicate) Respiratorio & Immunologia Broncopneumopatia cronica ostruttiva Trixeo® (Formoterolo/Glicopirronio/Budesonide) Granulomatosi eosinofilica con poliangioite (EGPA) Fasenra® (Benralizumab) Lupus eritematoso sistemico (LES) Saphnelo® (Anifrolumab) Asma Fasenra® (Benralizumab) Symbicort® (Budesonide/Formoterolo) Tezspire® (Tezepelumab) Oncologia ed Ematologia Carcinoma della mammella Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Ematologia Calquence® (Acalabrutinib) Carcinoma delle vie biliari Imfinzi® (Durvalumab) Carcinoma epatocellulare Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Carcinoma polmonare Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Carcinoma ovarico Lynparza® (Olaparib) Carcinoma endometriale Imfinzi® (Durvalumab) Carcinoma della prostata Lynparza® (Olaparib) Carcinoma della vescica muscolo-invasivo Imfinzi® (Durvalumab) Carcinoma gastrico (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Carcinoma del pancreas Lynparza® (Olaparib) Trattamento tumor-agnostico Enhertu® (Trastuzumab Deruxtecan) Vedi tutti i medicinali",
+    "Aree terapeutiche Cardiovascolare, renale & metabolismo Assistenza acuta Malattia renale cronica (MRC) Diabete Insufficienza cardiaca Respiratorio & Immunologia Asma Broncopneumopatia cronica ostruttiva Lupus eritematoso sistemico (LES) Oncologia Tumore del fegato e della cistifellea Tumore ovarico Ematologia Tumore al polmone Cancro al seno",
+    "Contattaci",
+    "Home",
+    "Aree terapeutiche",
+    "CVRM",
+    "Diabete",
+    "Diabete",
+    "Il diabete mellito è una malattia metabolica cronica. Si verifica quando la produzione di insulina da parte del pancreas viene interrotta o quando le cellule dell’organismo diventano insensibili all’insulina (insulino-resistenza).1 L’iperglicemia è una conseguenza comune del diabete non controllato e nel tempo porta a gravi danni a molti organi, in particolare al cuore, ai reni, ai nervi e ai vasi sanguigni.2 Circa la metà delle persone con diabete di tipo 2 sviluppa una malattia renale cronica3 e il rischio di insufficienza cardiaca cronica aumenta di 2-5 volte.4",
+    "Il numero di persone affette da diabete mellito nel mondo è passato da 108 milioni nel 1980 a 422 milioni nel 2014.2 In Svizzera, circa mezzo milione di persone sono affette da diabete mellito, con il diabete di tipo 2 che è di gran lunga la forma più comune di diabete, presente in circa il 90% delle persone affette.1 I fattori di rischio genetici, ambientali e metabolici sono interconnessi e contribuiscono allo sviluppo del diabete di tipo 2. Una storia familiare, l’età, l’obesità e la mancanza di esercizio fisico caratterizzano le persone con il rischio più elevato.5",
+    "Incidenza",
+    "In Svizzera, circa 500 000 persone soffrono di diabete1",
+    "Complicazioni",
+    "Il diabete è una delle principali cause di insufficienza renale, infarto, ictus, cecità e amputazione degli arti inferiori2",
+    "Mortalità",
+    "Nel 2019, il diabete e le malattie renali legate al diabete hanno causato circa 2 milioni di morti nel mondo6",
+    "Sintomi",
+    "I principali sintomi del diabete mellito comprendono:8",
+    "Livelli elevati di zucchero nel sangue per un periodo di tempo prolungato",
+    "Minzione frequente",
+    "Aumento della sete",
+    "Aumento dell’appetito",
+    "Altri segni possono essere i seguenti:8",
+    "Visione offuscata",
+    "Infezioni frequenti o ferite a lenta guarigione",
+    "Perdita di peso, anche con un’aumentata assunzione di cibo (diabete di tipo 1)",
+    "Formicolio, dolore o intorpidimento delle mani o dei piedi (diabete di tipo 2)",
+    "Diagnosi",
+    "Il diabete mellito può essere diagnosticato sulla base dei livelli di glucosio nel sangue. È possibile determinare il valore di glucosio a digiuno e/o effettuare un test orale di tolleranza al glucosio. Inoltre, il valore di HbA1c può essere utilizzato per determinare il valore della glicemia a lungo termine.9",
+    "Poiché il diabete mellito non trattato può portare a gravi complicazioni, è importante una diagnosi precoce.7",
+    "Trattamento",
+    "La Società Svizzera di Endocrinologia e Diabetologia (SSED) raccomanda come primo passo per il trattamento del diabete di tipo 2 un cambiamento nello stile di vita (dieta, esercizio fisico) e un trattamento multifattoriale (trattamento dell’ipertensione arteriosa, riduzione del colesterolo LDL e cessazione del fumo).10 Il focus della terapia farmacologica è, da un lato, la protezione cardiorenale e la prevenzione o il trattamento dell’insufficienza cardiaca e renale e, dall’altro, l’importanza della riduzione del peso e dell’abbassamento dei livelli di glucosio nel sangue.10,11",
+    "Il trattamento medico iniziale deve quindi consistere in una combinazione di un derivato biguanidico (metformina) con un inibitore di SGLT2 o un agonista del recettore del GLP-1.",
+    "Se questa doppia combinazione iniziale non è sufficiente, si consiglia una tripla combinazione con tutti e tre i principi attivi. Se la tripla combinazione non è sufficiente a ridurre il valore di HbA1c al valore target desiderato, è necessario un trattamento insulinico. Tuttavia, se inizialmente il fattore predominante è la carenza di insulina, il trattamento insulinico è la base della terapia.10",
+    "GLP-1: glucagon-like peptide-1; HbA1c: emoglobina A1c; SGLT2: sodium-dependent glucose co-transporter 2 (trasportatore di glucosio sodio-dipendente di tipo 2)",
+    "Riferimenti:",
+    "Ufficio federale della sanità pubblica. Malattie da A-Z, Diabete. Disponibile online all’indirizzo: https://www.bag.admin.ch/it/diabete-it. Ultimo accesso: 18.06.2026.",
+    "WHO Factsheet Diabetes. Disponibile online all’indirizzo: https://www.who.int/news-room/fact-sheets/detail/diabetes. Aggiornato al 5 aprile 2023. Ultimo accesso: 18.06.2026.",
+    "Thomas MG, et al. Diabetic kidney disease. Nat Rev Dis Primers. 2015 Jul 30;1:15018.",
+    "Nichols GA, et al. Congestive heart failure in type 2 diabetes: prevalence, incidence, and risk factors. Diabetes Care. 2001 Sep;24(9):1614-9.",
+    "Fletcher B, Gulanick M, Lamendola C. Risk factors for type 2 diabetes mellitus. J Cardiovasc Nurs. 2002 Jan;16(2):17-23.",
+    "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2019. Results. Institute for Health Metrics and Evaluation. 2020. Disponibile online all’indirizzo: https://vizhub.healthdata.org/gbd-results/. Ultimo accesso: 18.06.2026.",
+    "Alam S, et al. Diabetes Mellitus: lnsights from Epidemiology, Biochemistry, Risk Factors, Diagnosis, Complications and Comprehensive Management. Diabetology. 2021; 2(2):36-50.",
+    "Good to Know: Diabetes Symptoms and Tests. Clin Diabetes. 2020 Jan;38(1):108.",
+    "EISayed NA, et al. on behalf of the American Diabetes Association. 2. Classification and Diagnosis of Diabetes: Standards of Care in Diabetes-2023. Diabetes Care. 2023 Jan 1;46(Suppl 7):S19-S40.",
+    "Empfehlungen der Schweizerischen Gesellschaft für Endokrinologie und Diabetologie (SGED/SSED) für die Behandlung von Diabetes mellitus Typ 2 (2023). Disponibile online all’indirizzo: https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long Recommendations_2023_de.pdf. Ultimo accesso: 18.06.2026.",
+    "Davies MJ, et al. Management of Hyperglycemia in Type 2 Diabetes, 2022. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2022 Nov 1;45(11):2753-2786.",
+    "Gli operatori sanitari possono richiedere le pubblicazioni menzionate ad AstraZeneca.",
+    "Applichiamo la nostra vasta esperienza nei settori della ricerca e dello sviluppo durante l’intero ciclo di vita di un medicamento.",
+    "Scopra subito le nostre indicazioni o esplori tutti i nostri prodotti!",
+    "CH-12953-Revision date 06/2026",
+    "Questi contenuti sono destinati esclusivamente al personale medico in Svizzera.",
+    "AstraZeneca Svizzera©",
+    "Normativa sui cookie",
+    "Contatti",
+    "Informativa sulla privacy",
+    "Condizioni di utilizzo",
+    "Notifica di effetti collaterali",
+    "Segnalare un difetto di qualità",
+    "Richieste mediche"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "Contattaci",
+      "href": "/it/startseite/contact-us.html"
+    },
+    {
+      "label": "Accedi",
+      "href": "/it/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/it/startseite.html"
+    },
+    {
+      "label": "Aree terapeutiche",
+      "href": "/it/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "CVRM",
+      "href": "/it/startseite/therapiegebiete/cvrm.html"
+    },
+    {
+      "label": "https://www.bag.admin.ch/it/diabete-it",
+      "href": "https://www.bag.admin.ch/it/diabete-it "
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+    },
+    {
+      "label": "https://vizhub.healthdata.org/gbd-results/",
+      "href": "https://vizhub.healthdata.org/gbd-results/"
+    },
+    {
+      "label": "https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long Recommendations_2023_de.pdf",
+      "href": "https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long_Recommendations_2023_de.pdf"
+    },
+    {
+      "label": "Scopri ora",
+      "href": "/it/startseite/produkte.html"
+    },
+    {
+      "label": "Normativa sui cookie",
+      "href": "//policy.cookiereports.com/b50c8635-it-ch.html"
+    },
+    {
+      "label": "Contatti",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Informativa sulla privacy",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html"
+    },
+    {
+      "label": "Condizioni di utilizzo",
+      "href": "https://www.astrazeneca.ch/it/terms-of-use.html"
+    },
+    {
+      "label": "Notifica di effetti collaterali",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html"
+    },
+    {
+      "label": "Segnalare un difetto di qualità",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Richieste mediche",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/it/user/login.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm.html",
+    "https://www.bag.admin.ch/it/diabete-it",
+    "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "https://vizhub.healthdata.org/gbd-results/",
+    "https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long_Recommendations_2023_de.pdf",
+    "https://policy.cookiereports.com/b50c8635-it-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html",
+    "https://www.astrazeneca.ch/it/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_copy/teaser.coreimg.80.1920.jpeg/1743381835558/banner-header.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 250
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/banner-header-mobile.jpg",
+        "alt": "",
+        "w": 475,
+        "h": 488
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.png/1743034497644/inzidenz-desktop.png",
+        "alt": "",
+        "w": 1617,
+        "h": 655
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/inzidenz-mob.jpg",
+        "alt": "",
+        "w": 2021,
+        "h": 819
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.png/1743034532026/folgeerkrankung-desktop.png",
+        "alt": "",
+        "w": 1618,
+        "h": 655
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/folgeerkrankung-mob.jpg",
+        "alt": "",
+        "w": 2023,
+        "h": 819
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.png/1743034563307/mortalitaat-desktop.png",
+        "alt": "",
+        "w": 1617,
+        "h": 655
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/mortalitaat-mob.jpg",
+        "alt": "",
+        "w": 2426,
+        "h": 983
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1743034727432/symptome-desktop.jpeg",
+        "alt": "",
+        "w": 898,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/symptome-mob.jpg",
+        "alt": "",
+        "w": 324,
+        "h": 203
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105__416683368/teaser.coreimg.80.1920.jpeg/1744016736782/diagnose-desktop.jpeg",
+        "alt": "",
+        "w": 863,
+        "h": 420
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/diagnose-mob.jpg",
+        "alt": "",
+        "w": 324,
+        "h": 203
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105__1653227932/teaser.coreimg.80.1920.jpeg/1743035068863/behandlung-desktop.jpeg",
+        "alt": "",
+        "w": 773,
+        "h": 376
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/behandlung-mob.jpg",
+        "alt": "",
+        "w": 324,
+        "h": 203
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105__544491192/teaser.coreimg.80.1920.jpeg/1742304119207/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 9956,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/it-startseite-therapiegebiete-cvrm-diabetes-html.png",
+  "renderedHtml": "pages/it-startseite-therapiegebiete-cvrm-diabetes-html.html",
+  "slots": {
+    "headline": "Diabete",
+    "sections": [
+      "Il diabete in sintesi: informazioni specialistiche e aggiornate",
+      "Incidenza",
+      "Complicazioni",
+      "Mortalità",
+      "Sintomi",
+      "Diagnosi",
+      "Trattamento",
+      "Informazioni utili sui prodotti"
+    ],
+    "references": true
+  }
+}

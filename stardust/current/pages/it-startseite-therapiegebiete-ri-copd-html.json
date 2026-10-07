@@ -1,0 +1,1153 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:54.823Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "it-startseite-therapiegebiete-ri-copd-html",
+  "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:54.823Z",
+  "finalUrl": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+  "title": "BPCO - Sintomi, diagnosi e trattamento",
+  "description": "Scopra di più sulla broncopneumopatia cronica ostruttiva (BPCO): le sue cause, i suoi sintomi, le attuali strategie terapeutiche e importanti informazioni cliniche per i professionisti della salute.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/chronic-obstructive-pulmonary-disease/copd-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Broncopneumopatia cronica ostruttiva"
+    },
+    {
+      "tag": "h2",
+      "text": "Panoramica sulla broncopneumopatia cronica ostruttiva"
+    },
+    {
+      "tag": "h4",
+      "text": "Incidenza in Svizzera"
+    },
+    {
+      "tag": "h4",
+      "text": "Esacerbazioni"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalità"
+    },
+    {
+      "tag": "h3",
+      "text": "Che cos’è la BPCO?"
+    },
+    {
+      "tag": "h3",
+      "text": "Classificazione GOLD della BPCO"
+    },
+    {
+      "tag": "h2",
+      "text": "Sintomi della BPCO"
+    },
+    {
+      "tag": "h3",
+      "text": "Quali sono i sintomi tipici della BPCO?"
+    },
+    {
+      "tag": "h2",
+      "text": "Diagnosi della BPCO e criteri di screening"
+    },
+    {
+      "tag": "h3",
+      "text": "Gruppi a rischio"
+    },
+    {
+      "tag": "h3",
+      "text": "Conferma della diagnosi mediante spirometria"
+    },
+    {
+      "tag": "h3",
+      "text": "Valutazione clinica iniziale della BPCO"
+    },
+    {
+      "tag": "h3",
+      "text": "Guida tascabile GOLD 2026"
+    },
+    {
+      "tag": "h3",
+      "text": "Guida tascabile sulla BPCO"
+    },
+    {
+      "tag": "h2",
+      "text": "Trattamento della BPCO e opzioni terapeutiche in Svizzera"
+    },
+    {
+      "tag": "h3",
+      "text": "Trattamento della BPCO: inalatori, riabilitazione e ossigenoterapia"
+    },
+    {
+      "tag": "h3",
+      "text": "Trattamento farmacologico della BPCO:"
+    },
+    {
+      "tag": "h3",
+      "text": "Trattamento secondo le raccomandazioni GOLD-ABE:"
+    },
+    {
+      "tag": "h3",
+      "text": "Terapia per via inalatoria / sistemi di inalazione"
+    },
+    {
+      "tag": "h3",
+      "text": "Ossigenoterapia"
+    },
+    {
+      "tag": "h3",
+      "text": "Riabilitazione polmonare"
+    },
+    {
+      "tag": "h3",
+      "text": "Trattamento non farmacologico e prevenzione della BPCO"
+    },
+    {
+      "tag": "h2",
+      "text": "Riconoscere e trattare le riacutizzazioni della BPCO"
+    },
+    {
+      "tag": "h3",
+      "text": "Riconoscimento di un’esacerbazione acuta della BPCO (AECOPD)"
+    },
+    {
+      "tag": "h3",
+      "text": "Trattamento acuto della BPCO in fase di esacerbazione"
+    },
+    {
+      "tag": "h3",
+      "text": "BPCO: quando è indicato il ricovero ospedaliero?"
+    },
+    {
+      "tag": "h3",
+      "text": "Follow-up e prevenzione"
+    },
+    {
+      "tag": "h4",
+      "text": "Scheda informativa sulla BPCO"
+    },
+    {
+      "tag": "h2",
+      "text": "Raccomandazioni e risorse"
+    },
+    {
+      "tag": "h4",
+      "text": "Guida tascabile sulla BPCO 2025"
+    },
+    {
+      "tag": "h4",
+      "text": "Raccomandazioni GOLD 2026"
+    },
+    {
+      "tag": "h4",
+      "text": "Guida tascabile GOLD 2026"
+    },
+    {
+      "tag": "h2",
+      "text": "Domande frequenti"
+    },
+    {
+      "tag": "h4",
+      "text": "Quali sono i sintomi tipici della BPCO?"
+    },
+    {
+      "tag": "h4",
+      "text": "Come viene formulata la diagnosi secondo la «COPD Pocketguide»?"
+    },
+    {
+      "tag": "h4",
+      "text": "Quale trattamento è raccomandato per il gruppo B della classificazione GOLD?"
+    },
+    {
+      "tag": "h4",
+      "text": "Quando è indicata una triterapia in caso di BPCO?"
+    },
+    {
+      "tag": "h4",
+      "text": "Quando è necessaria l’ossigenoterapia in caso di BPCO?"
+    },
+    {
+      "tag": "h4",
+      "text": "Qual è il ruolo della riabilitazione polmonare?"
+    },
+    {
+      "tag": "h2",
+      "text": "Act on COPD"
+    },
+    {
+      "tag": "h2",
+      "text": "Informazioni utili sui prodotti"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "I nostri medicinali Cardiovascolare, renale & metabolismo Insufficienza cardiaca Forxiga ® (Dapagliflozina) Malattia renale cronica (MRC) Forxiga ® (Dapagliflozina) Diabete di tipo 2 Forxiga ® (Dapagliflozina) Xigduo® (Dapagliflozina/Metformina HCl) Amiloidosi Wainzua® (Eplontersen) Iperkaliemia Lokelma® (Sodium zirconium cyclosilicate) Respiratorio & Immunologia Broncopneumopatia cronica ostruttiva Trixeo® (Formoterolo/Glicopirronio/Budesonide) Granulomatosi eosinofilica con poliangioite (EGPA) Fasenra® (Benralizumab) Lupus eritematoso sistemico (LES) Saphnelo® (Anifrolumab) Asma Fasenra® (Benralizumab) Symbicort® (Budesonide/Formoterolo) Tezspire® (Tezepelumab) Oncologia ed Ematologia Carcinoma della mammella Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Ematologia Calquence® (Acalabrutinib) Carcinoma delle vie biliari Imfinzi® (Durvalumab) Carcinoma epatocellulare Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Carcinoma polmonare Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Carcinoma ovarico Lynparza® (Olaparib) Carcinoma endometriale Imfinzi® (Durvalumab) Carcinoma della prostata Lynparza® (Olaparib) Carcinoma della vescica muscolo-invasivo Imfinzi® (Durvalumab) Carcinoma gastrico (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Carcinoma del pancreas Lynparza® (Olaparib) Trattamento tumor-agnostico Enhertu® (Trastuzumab Deruxtecan) Vedi tutti i medicinali",
+    "Aree terapeutiche Cardiovascolare, renale & metabolismo Assistenza acuta Malattia renale cronica (MRC) Diabete Insufficienza cardiaca Respiratorio & Immunologia Asma Broncopneumopatia cronica ostruttiva Lupus eritematoso sistemico (LES) Oncologia Tumore del fegato e della cistifellea Tumore ovarico Ematologia Tumore al polmone Cancro al seno",
+    "Contattaci",
+    "Home",
+    "Aree terapeutiche",
+    "R&I",
+    "Broncopneumopatia cronica ostruttiva",
+    "Broncopneumopatia",
+    "cronica ostruttiva",
+    "Definizione",
+    "Sintomi",
+    "Diagnosi",
+    "Trattamento",
+    "Esacerbazioni",
+    "Raccomandazioni",
+    "Domande frequenti",
+    "La BPCO (broncopneumopatia cronica ostruttiva) è una malattia respiratoria progressiva che colpisce circa 400'000 persone in Svizzera e causa oltre 3 milioni di decessi all'anno in tutto il mondo.1 Il tabagismo e l'inquinamento atmosferico sono tra i principali fattori di rischio.2",
+    "Incidenza in Svizzera",
+    "In Svizzera, circa 400'000 persone soffrono di BPCO.1",
+    "Esacerbazioni",
+    "Oltre il 70% dei pazienti affetti da BPCO presenta esacerbazioni entro tre anni dalla diagnosi.1,3,4",
+    "Mortalità",
+    "Un paziente su cinque muore entro un anno dal primo ricovero ospedaliero dovuto a un'esacerbazione della BPCO.5",
+    "La broncopneumopatia cronica ostruttiva (BPCO) è una comune malattia respiratoria cronica che comporta una riduzione del flusso d’aria e difficoltà respiratorie.2,6 La BPCO si basa su una bronchite cronica e/o su un enfisema polmonare.1,6 Diversi processi possono essere all’origine del restringimento delle vie aeree: lesioni che colpiscono alcune parti dei polmoni, muco che ostruisce le vie aeree e/o infiammazione e gonfiore delle mucose delle vie aeree.2",
+    "La BPCO si sviluppa lentamente nel corso del tempo; il fumo e l’inquinamento atmosferico ne sono le cause più frequenti.2 Un fumatore su due di età superiore ai 40 anni soffre di bronchite cronica.1 Le persone affette da BPCO presentano un rischio maggiore di sviluppare altri problemi di salute.2",
+    "La BPCO è la terza causa di morte al mondo e provoca oltre 3 milioni di decessi ogni anno.2",
+    "Tra le possibili conseguenze della BPCO si possono citare:1",
+    "Insufficienza cardiaca",
+    "Varie altre malattie cardiache",
+    "Insufficienza polmonare",
+    "Isolamento e depressione dovuti a una capacità funzionale fortemente ridotta",
+    "La BPCO è caratterizzata dalla comparsa di esacerbazioni, ovvero improvvisi aggravamenti dei sintomi della BPCO che richiedono un trattamento aggiuntivo e favoriscono la progressione della malattia.7 Le esacerbazioni sono associate a una perdita accelerata della funzione polmonare e a un deterioramento duraturo della qualità della vita.8",
+    "Inoltre, un’esacerbazione moderata è stata associata a un aumento significativo del rischio di eventi cardiovascolari gravi nei primi 30 giorni.9 Le esacerbazioni gravi sono state addirittura associate a un aumento del rischio di eventi cardiovascolari secondari che può protrarsi fino a un anno.9 Inoltre, le cause cardiopolmonari rappresentano la principale causa di morte nei pazienti affetti da BPCO.10",
+    "La classificazione GOLD della BPCO descrive il grado di gravità dell’ostruzione delle vie aeree e l’attività della malattia. È utilizzata a livello internazionale ed è raccomandata anche dalla SGP.6,11",
+    "La classificazione GOLD-ABE classifica i pazienti in base al carico sintomatico e al rischio di esacerbazione. I sintomi vengono valutati utilizzando punteggi standardizzati (mMRC o CAT) e il rischio di esacerbazione viene determinato sulla base dell’anamnesi. Ciò consente una pianificazione terapeutica mirata e personalizzata.15,16",
+    "In Svizzera, la BPCO si manifesta generalmente con dispnea da sforzo, tosse cronica ed espettorazione, nonché con esacerbazioni che compromettono notevolmente la vita quotidiana e la qualità della vita delle persone colpite.1,3,11",
+    "Quali sono i sintomi tipici della BPCO?",
+    "Tra i sintomi più frequenti figurano la dispnea da sforzo, la tosse cronica e l’espettorazione. La difficoltà respiratoria si manifesta inizialmente durante lo sforzo fisico (dispnea da sforzo) e, con il passare del tempo, può persistere anche al l riposo. Molti pazienti riferiscono una capacità fisica limitata e una resistenza ridotta nella vita quotidiana.1,3",
+    "La BPCO è caratterizzata anche da esacerbazioni, ovvero aggravamenti acuti dei sintomi che richiedono un trattamento farmacologico supplementare. I segni premonitori di un’esacerbazione devono essere monitorati attentamente, poiché le esacerbazioni sono clinicamente significative e sono associate a una perdita accelerata della funzione polmonare, a un deterioramento persistente della qualità della vita e a una prognosi sfavorevole.3,4",
+    "Oltre ai sintomi polmonari, la BPCO può essere accompagnata da disturbi sistemici quali affaticamento, perdita di peso e disturbi del sonno, nonché da sintomi psichiatrici quali depressione e ansia, che compromettono notevolmente la qualità della vita.5",
+    "Torna all’inizio della pagina",
+    "La diagnosi della BPCO si basa su una combinazione di sintomi clinici, fattori di rischio e misurazioni oggettive della funzione polmonare. L’obiettivo è individuare la malattia in fase precoce e valutarne correttamente il grado di gravità.6,11",
+    "Secondo le raccomandazioni GOLD, uno screening per la BPCO dovrebbe essere effettuato a partire dai 35 anni circa nelle persone che presentano un’esposizione significativa (ad esempio, fumo di tabacco, inquinamento dell’aria interna/esterna, esposizione professionale) e/o sintomi respiratori.6 In particolare, una spirometria finalizzata allo screening della BPCO dovrebbe essere effettuata nelle persone di età superiore ai 40 anni con una storia di tabagismo di almeno 10 pacchetti-anno e che presentino almeno un sintomo chiave (espettorazione, tosse o dispnea).11",
+    "La spirometria è il test di riferimento per confermare la diagnosi di BPCO. Il criterio diagnostico determinante è un rapporto VEMS₁/CVF < 0,7 dopo broncodilatazione, che indica un'ostruzione delle vie aeree non completamente reversibile. La spirometria è un metodo oggettivo e facilmente riproducibile; deve essere eseguita in tutti i pazienti in cui si sospetta una BPCO.6,11",
+    "Oltre a confermare la diagnosi, la spirometria consente di classificare il grado di ostruzione delle vie aeree secondo i quattro stadi del GOLD (da GOLD 1 a 4).6",
+    "Stadio GOLD",
+    "VEMS₁ (% del valore e assegnato)",
+    "Grado di ostruzione",
+    "GOLD 1",
+    "≥ 80 %",
+    "lieve",
+    "GOLD 2",
+    "dal 50 al 79 %",
+    "moderata",
+    "OR 3",
+    "dal 30 al 49%",
+    "grave",
+    "OR 4",
+    "30%",
+    "molto grave",
+    "Adattato da GOLD 2026, fig. 2.106",
+    "Questa classificazione spirometrica serve principalmente a valutare la prognosi e riflette solo in parte il carico clinico della malattia.6",
+    "Le tecniche di imaging (come la TAC o la radiografia) servono alla diagnosi differenziale e all’esclusione di altre possibili cause, ma non sostituiscono la spirometria.6",
+    "Per valutare la gravità della BPCO e definire un trattamento ottimale, è necessario adottare un approccio globale che tenga conto di diverse dimensioni cliniche. A tal proposito, occorre considerare congiuntamente le limitazioni funzionali, i sintomi clinici, l’attività della malattia e i fattori associati rilevanti.6,11",
+    "Nella valutazione iniziale devono essere presi in considerazione i seguenti aspetti:6",
+    "Gravità funzionale dell’ostruzione delle vie aeree: valutata mediante spirometria (VEMS/CVF > 0,7 dopo broncodilatazione)",
+    "Carico sintomatico clinico: valutato in modo standardizzato, ad esempio utilizzando il COPD Assessment Test (CAT) o il punteggio di dispnea mMRC15,16 Scarica il questionario CAT Scarica il questionario mMRC",
+    "Scarica il questionario CAT",
+    "Scarica il questionario mMRC",
+    "Anamnesi di esacerbazioni moderate e gravi come indicatori dell’attività della malattia",
+    "Il tabagismo come fattore di rischio centrale e leva per misure preventive",
+    "Numero di eosinofili (EOS) nel sangue come biomarcatore di supporto alle decisioni terapeutiche",
+    "Screening del deficit di α₁-antitripsina, potenziale causa genetica della BPCO",
+    "Malattie associate, in particolare le comorbilità cardiovascolari, metaboliche e psichiche",
+    "La combinazione del carico sintomatico e dell’anamnesi delle esacerbazioni consente di determinare il gruppo GOLD, facilitando la classificazione pratica dei pazienti in gruppi terapeutici. La classificazione GOLD-ABE, basata sui sintomi e sulle esacerbazioni, costituisce oggi la base delle decisioni terapeutiche.6",
+    "Gruppo GOLD",
+    "Carico sintomatico",
+    "Rischio di esacerbazione",
+    "Basso: mMRC 0-1 o CAT < 10",
+    "0 esacerbazioni moderate o gravi nell’ultimo anno",
+    "Elevato: mMRC ≥ 2 o CAT ≥ 10",
+    "0 esacerbazioni moderate o gravi nel corso dell’anno trascorso",
+    "Indipendentemente dalla gravità dei sintomi",
+    "≥ 1 esacerbazione moderata o grave nell'ultimo anno xml-ph-0000@deepl.internal",
+    "Adattato da GOLD 2026, fig. 2.136",
+    "Indipendentemente dalla classificazione iniziale, si raccomanda di effettuare una rivalutazione strutturata e regolare dei sintomi, delle esacerbazioni e della risposta al trattamento nel corso dell’evoluzione della malattia, poiché la situazione clinica e le esigenze terapeutiche possono cambiare nel tempo.6,11",
+    "La GOLD Pocket Guide è una sintesi concisa delle attuali raccomandazioni GOLD e facilita la gestione dei pazienti affetti da BPCO in conformità con le raccomandazioni nella pratica quotidiana in ambulatorio e in ambito ospedaliero.12",
+    "La Guida tascabile sulla BPCO della Lega polmonare svizzera offre una sintesi pratica delle raccomandazioni svizzere relative alla diagnosi, alla classificazione e al trattamento della BPCO, tenendo conto delle strutture sanitarie nazionali e nel rispetto delle direttive svizzere.11",
+    "Torna all’inizio della pagina",
+    "Il trattamento moderno della BPCO si basa sulle linee guida GOLD ed è integrato dalla guida tascabile sulla BPCO della Lega polmonare svizzera. Si fonda sull’uso di broncodilatatori per via inalatoria come terapia di base, con un adattamento individuale della terapia inalatoria per la BPCO, un'intensificazione mirata che può arrivare fino a una triterapia per via inalatoria, nonché misure complementari quali l'ossigenoterapia per la BPCO e l'integrazione precoce della riabilitazione polmonare – a seconda del grado di gravità, del carico sintomatico e del rischio di esacerbazione.6,11",
+    "Trattamento della BPCO: inalatori, riabilitazione e ossigenoterapia",
+    "La BPCO è incurabile. Tuttavia, un trattamento della BPCO seguito con costanza e a lungo termine è essenziale per rallentare la progressione della malattia, alleviare i sintomi e ridurre le esacerbazioni.1,6 In conformità con le attuali raccomandazioni del GOLD e con la guida tascabile della Lega polmonare svizzera, il trattamento viene attuato per fasi e si basa sulla gravità della malattia, sulla storia delle esacerbazioni e sul carico sintomatico. Una rivalutazione regolare è parte integrante del programma terapeutico.6,11",
+    "Il trattamento farmacologico della BPCO si basa principalmente sull’inalazione di broncodilatatori. Gli agonisti β₂ a breve durata d’azione (SABA) e gli antagonisti muscarinici a breve durata d’azione (SAMA) vengono utilizzati su richiesta per alleviare rapidamente i sintomi. Per il trattamento di mantenimento, gli agonisti β₂ a lunga durata d’azione (LABA) e gli antagonisti muscarinici a lunga durata d’azione (LAMA) costituiscono la base della terapia.6,11",
+    "Il trattamento farmacologico della BPCO si basa principalmente sulla terapia inalatoria a base di broncodilatatori. Gli agonisti β₂ a breve durata d’azione (SABA) e gli antagonisti muscarinici a breve durata d’azione (SAMA) vengono utilizzati come farmaci a richiesta per un rapido sollievo dei sintomi. Per il trattamento di mantenimento, gli agonisti β₂ a lunga durata d’azione (LABA) e gli antagonisti muscarinici a lunga durata d’azione (LAMA) costituiscono la base della terapia farmacologica.6,11",
+    "Gruppo GOLD",
+    "Iniziale",
+    "Intensificazione",
+    "LABA oppure LAMA",
+    "LABA + LAMA",
+    "LABA + LAMA",
+    "per Eos ≥ 100 LABA + LAMA + CSI*,#",
+    "Novità nel GOLD 2026:",
+    "Già ≥ 1 esacerbazione moderata → gruppo E6",
+    "* La triterapia a dosaggio fisso (LABA + LAMA + CSI) non è autorizzata in Svizzera per il trattamento iniziale.13AstraZeneca non può e non ha il diritto di raccomandare l’uso dei propri prodotti al di fuori dell’indicazione ufficiale (www.swissmedicinfo-pro.ch).",
+    "I corticosteroidi per via inalatoria (CSI) non sono indicati di routine, ma devono essere utilizzati in modo selettivo nei pazienti che presentano esacerbazioni frequenti ed eosinofilia.11",
+    "Intensificazione del trattamento in caso di esacerbazioni persistenti:",
+    "Il roflumilast può essere preso in considerazione in caso di esacerbazioni persistenti nonostante un trattamento per via inalatoria ottimizzato nei pazienti che presentano un’ostruzione respiratoria grave e una bronchite cronica.6",
+    "L’azitromicina può essere utilizzata, in particolare negli ex fumatori, per ridurre il tasso di esacerbazioni.6",
+    "In caso di persistenza delle riacutizzazioni nonostante una terapia inalatoria ottimizzata (compresa una triterapia conforme alla scala terapeutica GOLD), si possono prendere in considerazione opzioni farmacologiche più ampie, quali i farmaci biologici (ad esempio il dupilumab o il mepolizumab).6,11",
+    "L’inalazione è la via di somministrazione privilegiata nella BPCO, poiché consente un’azione mirata a livello delle vie respiratorie limitando al contempo l’esposizione sistemica. Il successo terapeutico dipende non solo dal principio attivo, ma anche, e soprattutto, dal sistema di inalazione e dal suo corretto utilizzo.6",
+    "Sistemi di inalazione disponibili:6",
+    "Sistema",
+    "Requisiti preliminari6",
+    "Limiti 6",
+    "Inalatori a polvere secca (DPI)",
+    "Flusso inspiratorio sufficiente",
+    "Meno indicati in caso di ridotta capacità espiratoria",
+    "Inalatori dosatori (pMDI)",
+    "Buona coordinazione mano-respirazione, flusso inspiratorio sufficiente",
+    "Errori di coordinazione; potrebbe essere necessario l’uso di una camera di inalazione",
+    "Inalatori a nebbia leggera (SMI)",
+    "Inalazione lenta e profonda; forza inspiratoria richiesta e inferiore a quella dei DPI/pMDI",
+    "Utilizzo leggermente più complesso",
+    "Nebulizzatore",
+    "Non richiede praticamente alcuna partecipazione attiva da parte del paziente; indicato quando DPI/pMDI/SMI non sono utilizzabili",
+    "Richiede tempo e offre una mobilità ridotta",
+    "La scelta deve essere effettuata caso per caso, tenendo conto di fattori quali la portata inspiratoria, la coordinazione, le capacità cognitive e le preferenze dei pazienti. Una formazione strutturata sulla tecnica di inalazione e un controllo regolare della stessa costituiscono parte integrante del follow-up terapeutico.6",
+    "L’ossigenoterapia a lungo termine è indicata, in caso di BPCO stabile, esclusivamente nei pazienti che presentano un’ipossiemia cronica grave. L’obiettivo non è in primo luogo il sollievo dei sintomi, ma il miglioramento della prognosi. Nei pazienti che non presentano un’ipossiemia significativa a riposo, l’ossigenoterapia non è raccomandata in modo sistematico. L’indicazione deve essere stabilita sulla base di misurazioni oggettive e rivalutata regolarmente.6",
+    "La riabilitazione polmonare è un elemento centrale del trattamento non farmacologico della BPCO ed è raccomandata per i pazienti, indipendentemente dal grado di gravità della loro malattia, che presentano un carico sintomatico significativo o un rischio aumentato di esacerbazione. Comprende l’allenamento fisico, la terapia respiratoria, l’educazione dei pazienti e il sostegno psicosociale. È dimostrato che la riabilitazione migliora la capacità di sforzo, attenua la dispnea e migliora la qualità della vita, riducendo al contempo il rischio di eventi successivi e di ricoveri ospedalieri, in particolare dopo le esacerbazioni. Si raccomanda di integrare la riabilitazione sin dall’inizio del piano terapeutico e di valutarla regolarmente, poiché i suoi effetti sono indipendenti dal grado di gravità determinato dalla spirometria.6",
+    "Motivazione a smettere di fumare: smettere di fumare è la misura individuale più efficace per rallentare la progressione della BPCO.6,11",
+    "Vaccinazioni: al fine di ridurre le riacutizzazioni della BPCO, i ricoveri ospedalieri e la mortalità, la SGP raccomanda vaccinazioni regolari, in particolare: 11",
+    "Influenza: ogni anno",
+    "SARS-CoV-2: in conformità con le raccomandazioni dell’UFSP per i pazienti a rischio",
+    "Pneumococco: PCV15 o PCV20 (in base all’età e al profilo di rischio)",
+    "RSV/herpes zoster: vaccinazione contro l’RSV e l’herpes zoster nei pazienti anziani ad alto rischio e in alcuni pazienti selezionati.",
+    "Inoltre, un supporto all’autogestione (che comprende il monitoraggio dei sintomi, la gestione delle terapie farmacologiche e il processo decisionale) può migliorare la resilienza, la qualità della vita e la prognosi. Un piano d’azione personalizzato per la gestione delle riacutizzazioni può rafforzare l’autoefficacia dei pazienti e consentire l’individuazione e il trattamento precoci delle riacutizzazioni.11",
+    "Torna all’inizio della pagina",
+    "Il trattamento delle riacutizzazioni segue uno schema chiaro, basato sulle raccomandazioni del GOLD e della SGP. L’obiettivo è individuare precocemente il deterioramento acuto, stabilizzare rapidamente le vie aeree, evitare le complicanze e prevenire nuove riacutizzazioni. Una valutazione strutturata consente di scegliere tra un trattamento ambulatoriale e una gestione ospedaliera.6,11",
+    "Riconoscimento di un’esacerbazione acuta della BPCO (AECOPD)",
+    "Un’esacerbazione della BPCO è definita come un aggravamento acuto dei sintomi respiratori che supera la variabilità giornaliera e richiede un aggiustamento della terapia. È generalmente caratterizzata da un aggravamento dei sintomi principali, quali dispnea, tosse ed espettorazione, ma anche da febbre.",
+    "Le esacerbazioni sono spesso causate da infezioni virali o batteriche, ma possono anche essere scatenate dall’inquinamento atmosferico, dallo stress termico o da comorbilità. La BPCO in fase di esacerbazione è una delle cause più frequenti di visite al pronto soccorso e di ricoveri ospedalieri.6,11",
+    "La gravità di un’esacerbazione della BPCO viene valutata sulla base dei sintomi clinici, dei parametri vitali e, se del caso, dei risultati delle analisi di laboratorio. La classificazione in forma lieve, moderata o grave è determinante per l’intensità del trattamento e il luogo di cura.6,11",
+    "Iniziali",
+    "Criteri6",
+    "Esacerbazione lieve",
+    "Lieve aggravamento acuto accompagnato da:",
+    "un aumento della dispnea (EVA < 5)",
+    "frequenza respiratoria < 24/min, frequenza cardiaca < 95/min",
+    "SpO₂ a riposo ≥ 92% all'aria ambiente (o diminuzione ≤ 3% rispetto al valore iniziale)",
+    "Nessun segno di insufficienza respiratoria né di comorbilità significative",
+    "CRP (proteina C-reattiva) ~3–6 mg/L",
+    "Esacerbazione moderata",
+    "Se sono soddisfatti almeno tre dei seguenti criteri:",
+    "Aumento significativo della dispnea (EVA ≥ 5)",
+    "Frequenza respiratoria ≥ 24/min o frequenza cardiaca ≥ 95/min",
+    "SpO₂ a riposo < 92 % o calo > 3 %",
+    "CRP ≥ 10 mg/l (se misurata)",
+    "Se del caso, lieve ipossiemia (PaO₂ circa 70–80 mmHg)",
+    "Esacerbazione grave",
+    "Segni di insufficienza respiratoria o di coinvolgimento sistemico, quali",
+    "un marcato aumento della dispnea (EVA ≥ 5)",
+    "Frequenza respiratoria ≥ 24/min o frequenza cardiaca ≥ 95/min",
+    "SpO₂ a riposo < 92 % o calo > 3 %",
+    "CRP ≥ 10 mg/l (se dosata)",
+    "Ipossiemia (PaO₂ ≤ 60 mmHg) e/o ipercapnia (PaCO₂ > 45 mmHg) e acidosi respiratoria (pH < 7,35)",
+    "Il trattamento dell’esacerbazione della BPCO avviene in più fasi e deve essere avviato precocemente:6,11",
+    "Broncodilatazione mediante intensificazione dei β₂-agonisti a breve durata d’azione (SABA) ± anticolinergici (SAMA)",
+    "Corticosteroidi sistemici",
+    "Antibiotici in caso di espettorato purulento, segni di infezione batterica o esacerbazione grave",
+    "In caso di acidosi respiratoria o ipercapnia, occorre prendere in considerazione la ventilazione non invasiva (VNI) il prima possibile, poiché è stato dimostrato che riduce il tasso di intubazione, la durata della degenza ospedaliera e la mortalità.",
+    "In alcuni casi, può essere utilizzata anche la terapia nasale ad alto flusso (HFNT).",
+    "In caso di AECOPD da lieve a moderata, è possibile un trattamento ambulatoriale con un controllo entro 48 ore. In caso di esacerbazione grave, sono necessari controlli frequenti dopo 24-48 ore.6,11",
+    "Il ricovero ospedaliero è indicato nei seguenti casi:6,11",
+    "assenza di miglioramento clinico",
+    "ipossiemia persistente",
+    "di segni di insufficienza respiratoria o di comorbilità significative",
+    "Guida tascabile sulla BPCO «Piano di emergenza», pagina 19",
+    "Dopo un'esacerbazione, è fondamentale effettuare una rivalutazione strutturata.6,11",
+    "Ciò comprende:",
+    "l’ottimizzazione e, se necessario, l’intensificazione della terapia inalatoria di mantenimento (ad esempio, terapia doppia o tripla)",
+    "la verifica della tecnica di inalazione e dell’aderenza al trattamento",
+    "l’avvio tempestivo di una riabilitazione polmonare",
+    "gestione delle comorbilità e dei fattori di rischio.",
+    "Link alla scheda informativa sulla BPCO",
+    "Scheda informativa sulla BPCO",
+    "Una scheda informativa di due pagine destinata ai pazienti affetti da BPCO – Ha lo scopo di aiutare i pazienti a comprendere meglio la BPCO e di facilitare la comunicazione tra pneumologi, medici di base e pazienti. Riunisce le informazioni essenziali su una doppia pagina – stato attuale della malattia, biomarcatori misurati, stato vaccinale, piano di emergenza e trattamenti in corso – e facilita l’inserimento rapido degli aggiornamenti.",
+    "DE FR",
+    "Guida tascabile sulla BPCO 2025",
+    "Raccomandazioni GOLD 2026",
+    "Guida tascabile GOLD 2026",
+    "Back to top",
+    "#TRIXEO AEROSPHERE è indicato nel trattamento di mantenimento nei pazienti adulti affetti da broncopneumopatia cronica ostruttiva (BPCO) che non sono sufficientemente controllati da una combinazione di un corticosteroide per via inalatoria e di un beta-2-agonista a lunga durata d’azione o da una combinazione di un beta-2-agonista a lunga durata d’azione e di un antagonista dei recettori muscarinici a lunga durata d’azione (per l’ i effetti sul controllo dei sintomi e sulla prevenzione delle riacutizzazioni, si veda la sezione «Efficacia clinica»).13 AstraZeneca non può e non è autorizzata a raccomandare l’uso dei propri prodotti al di fuori dell’indicazione ufficiale (www.swissmedicinfo-pro.ch).",
+    "AECOPD: esacerbazione acuta della BPCO; OFSP: Ufficio federale della sanità pubblica; CAT: test di valutazione della BPCO; BPCO: broncopneumopatia cronica ostruttiva; CRP: proteina C-reattiva; TC: tomografia computerizzata; DPI: inalatore a polvere secca; EOS: eosinofili nel sangue (cellule/µl); VEMS: volume espiratorio massimo in un secondo; CVF: capacità vitale forzata; GOLD: Iniziativa globale contro la broncopneumopatia cronica ostruttiva; HFNT: ossigenoterapia ad alto flusso; CSI: corticosteroide per via inalatoria; LABA: agonista beta-2 a lunga durata d’azione; LAMA: antagonista muscarinico a lunga durata d’azione; LTOT: ossigenoterapia a lungo termine; mMRC: scala di dispnea modificata del Medical Research Council; VNI: ventilazione non invasiva; PaCO₂: pressione parziale di anidride carbonica arteriosa; PaO₂: pressione parziale di ossigeno arteriosa; PCV: vaccino pneumococcico coniugato; PMDI: inalatore dosatore; RSV: virus respiratorio sinciziale; SABA: agonista beta-2 a breve durata d’azione; SAMA: antagonista muscarinico a breve durata d’azione; SARS-CoV-2: coronavirus 2 della sindrome respiratoria acuta grave; SGP: Società Svizzera di Pneumologia; SMI: inalatore a nebbia morbida; SpO₂: saturazione periferica di ossigeno; EVA: scala visiva analogica.",
+    "Riferimenti:",
+    "UFSP, Malattie respiratorie croniche. Aggiornato al: 20/11/2020. Disponibile online all’indirizzo: https://www.bag.admin.ch/it/malattie-croniche-delle-vie-respiratorie Ultimo accesso: 01/2026.",
+    "OMS, Scheda informativa sulla BPCO. Aggiornato al 6 novembre 2024. Disponibile online all’indirizzo: https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd). Ultimo accesso: 01/2026.",
+    "Vogelmeier CF, et al. Goals of COPD treatment: Focus on symptoms and exacerbations. Respir Med. 2020;166:105938.",
+    "Hurst JR, et al. Susceptibility to exacerbation in chronic obstructive pulmonary disease. N Engl J Med. 2010;363(12):1128-38.",
+    "Ho T-W, et al. In-Hospital and One-Year Mortality and Their Predictors in Patients Hospitalized for First-Ever Chronic Obstructive Pulmonary Disease Exacerbations: A Nationwide Population-Based Study.PLoS One. 2014;9:e114866.",
+    "Global Initiative for Chronic Obstructive Lung Disease (GOLD). Global strategy for the diagnosis, management, and prevention of COPD (2026 report). GOLD website: https://goldcopd.org/2026-gold-report/. Ultimo accesso: 01/2026",
+    "Barnes N, et al. Chronic obstructive pulmonary disease and exacerbations: patient insights from the global Hidden Depths of COPD survey. BMC Pulm Med. 2013;13:54.",
+    "Stolz D, et al. Towards the elimination of chronic obstructive pulmonary disease: a Lancet Commission. Lancet. 2022;400(10356):921-72.",
+    "Vogelmeier C, et al. Increased risk of severe cardiovascular events following exacerbations of COPD: a multi-database cohort study. Eur Respir J 2023;62:PA3013 (Abstract).",
+    "Mannino DM, et al. Global Initiative on Obstructive Lung Disease (GOLD) classification of lung disease and mortality: findings from the atherosclerosis risk in communities (ARIC) study. Respir Med. 2006;100:115-22.",
+    "Società Svizzera di Pneumologia (SGP); Lega Polmonare Svizzera. Guida tascabile sulla BPCO – Diagnostica e supporto alla gestione: una guida pratica per i professionisti. 2025/3ª edizione. Disponibile online all’indirizzo: https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf. Ultimo accesso: 01/2026.",
+    "Global Initiative for Chronic Obstructive Lung Disease (GOLD). GOLD Pocket Guide to COPD Diagnosis, Management, and Prevention. 2026 Edition. Online verfügbar unter: https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf Ultimo accesso: 01/2026: 01/2026.",
+    "Informazione professionale di TRIXEO AEROSPHERE®. Disponibili su: swissmedicinfo-pro.ch. Ultimo acesso: 03/2026.",
+    "Soler-Cataluña JJ, et al. Risk validation of a new quantitative score for clinical control of chronic obstructive pulmonary disease: The RADAR score. Arch Bronconeumol. 2026;62(1):28–34.",
+    "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/",
+    "https://www.inanutshell.ch/rechner/copd-assessment-test/",
+    "Scopri l’impatto reale delle riacutizzazioni della BPCO e come identificare i pazienti a rischio.",
+    "Mettiamo a frutto la nostra vasta esperienza nella ricerca e nello sviluppo durante l’intero ciclo di vita di un farmaco.",
+    "Scoprite subito le nostre indicazioni terapeutiche o sfogliate la nostra gamma completa di prodotti!",
+    "Torna all'inizio della pagina",
+    "CH-12804 05/2026",
+    "Questi contenuti sono destinati esclusivamente al personale medico in Svizzera.",
+    "AstraZeneca Svizzera©",
+    "Normativa sui cookie",
+    "Contatti",
+    "Informativa sulla privacy",
+    "Condizioni di utilizzo",
+    "Notifica di effetti collaterali",
+    "Segnalare un difetto di qualità",
+    "Richieste mediche"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "Contattaci",
+      "href": "/it/startseite/contact-us.html"
+    },
+    {
+      "label": "Accedi",
+      "href": "/it/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/it/startseite.html"
+    },
+    {
+      "label": "Aree terapeutiche",
+      "href": "/it/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "R&I",
+      "href": "/it/startseite/therapiegebiete/ri.html"
+    },
+    {
+      "label": "Definizione",
+      "href": "#definition"
+    },
+    {
+      "label": "Sintomi",
+      "href": "#symptome"
+    },
+    {
+      "label": "Diagnosi",
+      "href": "#diagnose"
+    },
+    {
+      "label": "Trattamento",
+      "href": "#behandlung"
+    },
+    {
+      "label": "Esacerbazioni",
+      "href": "#exazerbationen"
+    },
+    {
+      "label": "Raccomandazioni",
+      "href": "#leitllinien"
+    },
+    {
+      "label": "Domande frequenti",
+      "href": "#faq"
+    },
+    {
+      "label": "Torna all’inizio della pagina",
+      "href": "#top"
+    },
+    {
+      "label": "Scarica il questionario CAT",
+      "href": "https://www.inanutshell.ch/rechner/copd-assessment-test/?output=pdf"
+    },
+    {
+      "label": "Scarica il questionario mMRC",
+      "href": "https://www.inanutshell.ch/en/digital-doctors-bag/mmrc-dyspnea-scale/"
+    },
+    {
+      "label": "Scarica la Guida tascabile GOLD",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "Scarica la guida tascabile sulla BPCO",
+      "href": "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf"
+    },
+    {
+      "label": "Torna all’inizio della pagina",
+      "href": "#top"
+    },
+    {
+      "label": "www.swissmedicinfo-pro.ch",
+      "href": "https://www.swissmedicinfo-pro.ch"
+    },
+    {
+      "label": "Torna all’inizio della pagina",
+      "href": "#top"
+    },
+    {
+      "label": "Guida tascabile sulla BPCO «Piano di emergenza»,",
+      "href": "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf"
+    },
+    {
+      "label": "scheda informativa sulla BPCO",
+      "href": "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+    },
+    {
+      "label": "DE",
+      "href": "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr.html"
+    },
+    {
+      "label": "Guida tascabile sulla BPCO 2025",
+      "href": "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf"
+    },
+    {
+      "label": "Scarica il PDF",
+      "href": "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf"
+    },
+    {
+      "label": "Raccomandazioni GOLD 2026",
+      "href": "https://goldcopd.org/2026-gold-report-and-pocket-guide/"
+    },
+    {
+      "label": "Scarica il PDF",
+      "href": "https://goldcopd.org/2026-gold-report-and-pocket-guide/"
+    },
+    {
+      "label": "Guida tascabile GOLD 2026",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "Scarica il PDF",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "Back to top",
+      "href": "#top"
+    },
+    {
+      "label": "Quali sono i sintomi tipici della BPCO?",
+      "href": null
+    },
+    {
+      "label": "Come viene formulata la diagnosi secondo la «COPD Pocketguide»?",
+      "href": null
+    },
+    {
+      "label": "Quale trattamento è raccomandato per il gruppo B della classificazione GOLD?",
+      "href": null
+    },
+    {
+      "label": "Quando è indicata una triterapia in caso di BPCO?",
+      "href": null
+    },
+    {
+      "label": "Quando è necessaria l’ossigenoterapia in caso di BPCO?",
+      "href": null
+    },
+    {
+      "label": "Qual è il ruolo della riabilitazione polmonare?",
+      "href": null
+    },
+    {
+      "label": "www.swissmedicinfo-pro.ch",
+      "href": "https://www.swissmedicinfo-pro.ch/"
+    },
+    {
+      "label": "https://www.bag.admin.ch/it/malattie-croniche-delle-vie-respiratorie",
+      "href": "https://www.bag.admin.ch/it/malattie-croniche-delle-vie-respiratorie"
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)"
+    },
+    {
+      "label": "https://goldcopd.org/2026-gold-report/.",
+      "href": "https://goldcopd.org/2026-gold-report/."
+    },
+    {
+      "label": "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf",
+      "href": "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf"
+    },
+    {
+      "label": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf",
+      "href": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf"
+    },
+    {
+      "label": "swissmedicinfo-pro.ch",
+      "href": "https://swissmedicinfo-pro.ch/"
+    },
+    {
+      "label": "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/",
+      "href": "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/"
+    },
+    {
+      "label": "https://www.inanutshell.ch/rechner/copd-assessment-test/",
+      "href": "https://www.inanutshell.ch/rechner/copd-assessment-test/"
+    },
+    {
+      "label": "Scopri ora",
+      "href": "https://www.actoncopd.ch/fr/index.html"
+    },
+    {
+      "label": "Scopri ora",
+      "href": "/it/startseite/produkte.html#tabs-c87242b2f5-item-4e9fb3c53f-tab"
+    },
+    {
+      "label": "Torna all'inizio della pagina",
+      "href": "#top"
+    },
+    {
+      "label": "Normativa sui cookie",
+      "href": "//policy.cookiereports.com/b50c8635-it-ch.html"
+    },
+    {
+      "label": "Contatti",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Informativa sulla privacy",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html"
+    },
+    {
+      "label": "Condizioni di utilizzo",
+      "href": "https://www.astrazeneca.ch/it/terms-of-use.html"
+    },
+    {
+      "label": "Notifica di effetti collaterali",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html"
+    },
+    {
+      "label": "Segnalare un difetto di qualità",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Richieste mediche",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/it/user/login.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#definition",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#symptome",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#diagnose",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#behandlung",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#exazerbationen",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#leitllinien",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#faq",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html#top",
+    "https://www.inanutshell.ch/rechner/copd-assessment-test/?output=pdf",
+    "https://www.inanutshell.ch/en/digital-doctors-bag/mmrc-dyspnea-scale/",
+    "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf",
+    "https://www.legapolmonare.ch/sites/default/files/documents/lungeliga_pocketguidecopd_it_2023_0.pdf",
+    "https://www.swissmedicinfo-pro.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr.html",
+    "https://goldcopd.org/2026-gold-report-and-pocket-guide/",
+    "https://www.bag.admin.ch/it/malattie-croniche-delle-vie-respiratorie",
+    "https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)",
+    "https://goldcopd.org/2026-gold-report/",
+    "https://swissmedicinfo-pro.ch/",
+    "https://www.inanutshell.ch/rechner/mmrc-dyspnoeskala/",
+    "https://www.inanutshell.ch/rechner/copd-assessment-test/",
+    "https://www.actoncopd.ch/fr/index.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html#tabs-c87242b2f5-item-4e9fb3c53f-tab",
+    "https://policy.cookiereports.com/b50c8635-it-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html",
+    "https://www.astrazeneca.ch/it/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1785845414866/header-banner.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/chronic-obstructive-pulmonary-disease/header-banner-mob.jpg",
+        "alt": "",
+        "w": 540,
+        "h": 525
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1680127268/container_1905038694/teaser.coreimg.80.1920.jpeg/1785833989510/inzidenz-copd.jpeg",
+        "alt": "Inzidenz - COPD",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/inzidenz-copd-mob.jpg",
+        "alt": "Inzidenz - COPD",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1680127268/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1785834037310/exazerbationen-copd.jpeg",
+        "alt": "Exazerbationen - COPD",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/exazerbationen-mob.jpg",
+        "alt": "Exazerbationen - COPD",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1680127268/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1785834085579/mortalit-copd.jpeg",
+        "alt": "Mortalität - COPD",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/mortalit-copd-mob.jpg",
+        "alt": "Mortalität - COPD",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1785834884003/symptome-copd.jpeg",
+        "alt": "Symptome - COPD",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/symptome-copd-mob.jpg",
+        "alt": "Symptome - COPD",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__1419748815/teaser.coreimg.80.1920.jpeg/1785835010766/diagnose-copd.jpeg",
+        "alt": "Diagnose - COPD",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/diagnose-copd-mob.jpg",
+        "alt": "Diagnose - COPD",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__1812798969/teaser.coreimg.80.1920.jpeg/1785836825085/behandlung-copd.jpeg",
+        "alt": "Behandlung - COPD",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/behandlung-copd-mob.jpg",
+        "alt": "Behandlung - COPD",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__1246366292/teaser.coreimg.80.1920.png/1785839812371/copd-symptoms-breathing.png",
+        "alt": "",
+        "w": 575,
+        "h": 324
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/copd-symptoms-breathing.png",
+        "alt": "",
+        "w": 575,
+        "h": 324
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1949147900_276205293/image.coreimg.80.1920.png/1785846233042/aecopd-exacerbation-management-flowchart-it.png",
+        "alt": "Chart1",
+        "w": 1180,
+        "h": 886
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/aecopd-exacerbation-management-flowchart-IT.png",
+        "alt": "Chart1",
+        "w": 1180,
+        "h": 886
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1949147900_684342033/container/teaser_copy_copy_cop.coreimg.80.1920.jpeg/1785841715246/copd-personal-data-sheet-de.jpeg",
+        "alt": "",
+        "w": 582,
+        "h": 235
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/produkte/trixeo/documents/copd-personal-data-sheet-de.jpg",
+        "alt": "",
+        "w": 776,
+        "h": 314
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1606333159/container/teaser.coreimg.80.1920.png/1785846534494/copd-pocket-guide-2024.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/copd-pocket-guide-2024.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1606333159/container/teaser_copy.coreimg.80.1920.png/1785846596963/gold-guidelines-pocketguide.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/gold-guidelines-pocketguide.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_1606333159/container/teaser_copy_264313487.coreimg.80.1920.png/1785846628130/gold-pocket-guide-2026.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/gold-pocket-guide-2026.png",
+        "alt": "",
+        "w": 387,
+        "h": 218
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__768137712/teaser.coreimg.80.1920.jpeg/1785844559326/act-on-copd-desk.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/act-on-copd-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/_jcr_content/root/container/container_285268105__2002205825/teaser.coreimg.80.1920.jpeg/1785846869473/nutzliche-produktinformationen.jpeg",
+        "alt": "Nützliche Produktinformationen",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/chronisch-obstruktive-lungenerkrankung/nutzliche-produktinformationen-mob.jpg",
+        "alt": "Nützliche Produktinformationen",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 33,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 40,
+    "mainTextLen": 34505,
+    "realImageCount": 33,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/it-startseite-therapiegebiete-ri-copd-html.png",
+  "renderedHtml": "pages/it-startseite-therapiegebiete-ri-copd-html.html",
+  "slots": {
+    "headline": "Broncopneumopatia cronica ostruttiva",
+    "sections": [
+      "Panoramica sulla broncopneumopatia cronica ostruttiva",
+      "Incidenza in Svizzera",
+      "Esacerbazioni",
+      "Mortalità",
+      "Che cos’è la BPCO?",
+      "Classificazione GOLD della BPCO",
+      "Sintomi della BPCO",
+      "Quali sono i sintomi tipici della BPCO?",
+      "Diagnosi della BPCO e criteri di screening",
+      "Gruppi a rischio",
+      "Conferma della diagnosi mediante spirometria",
+      "Valutazione clinica iniziale della BPCO",
+      "Guida tascabile GOLD 2026",
+      "Guida tascabile sulla BPCO",
+      "Trattamento della BPCO e opzioni terapeutiche in Svizzera",
+      "Trattamento della BPCO: inalatori, riabilitazione e ossigenoterapia",
+      "Trattamento farmacologico della BPCO:",
+      "Trattamento secondo le raccomandazioni GOLD-ABE:",
+      "Terapia per via inalatoria / sistemi di inalazione",
+      "Ossigenoterapia",
+      "Riabilitazione polmonare",
+      "Trattamento non farmacologico e prevenzione della BPCO",
+      "Riconoscere e trattare le riacutizzazioni della BPCO",
+      "Riconoscimento di un’esacerbazione acuta della BPCO (AECOPD)",
+      "Trattamento acuto della BPCO in fase di esacerbazione",
+      "BPCO: quando è indicato il ricovero ospedaliero?",
+      "Follow-up e prevenzione",
+      "Scheda informativa sulla BPCO",
+      "Raccomandazioni e risorse",
+      "Guida tascabile sulla BPCO 2025",
+      "Raccomandazioni GOLD 2026",
+      "Guida tascabile GOLD 2026",
+      "Domande frequenti",
+      "Quali sono i sintomi tipici della BPCO?",
+      "Come viene formulata la diagnosi secondo la «COPD Pocketguide»?",
+      "Quale trattamento è raccomandato per il gruppo B della classificazione GOLD?",
+      "Quando è indicata una triterapia in caso di BPCO?",
+      "Quando è necessaria l’ossigenoterapia in caso di BPCO?",
+      "Qual è il ruolo della riabilitazione polmonare?",
+      "Act on COPD",
+      "Informazioni utili sui prodotti"
+    ],
+    "references": true
+  }
+}

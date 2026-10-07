@@ -1,0 +1,39 @@
+/* archetype: pattrns — new modules: HCP self-certification modal, bare list tabs, intro image,
+ * 2-column teasers, "Sie haben Fragen?" band. lift: stardust/replica/lift/pattrns-{1440,360}.json */
+
+/* HCP gate (live .cmp-selfcertification.modal--visible): fixed graphite .95 overlay, white box */
+.hcp-gate { position: fixed; inset: 0; z-index: 1000; display: flex; justify-content: center; align-items: center; padding: 0 34px; background: rgba(60, 66, 66, .95); }
+.hcp-gate[hidden] { display: none; }
+.hcp-gate__box { width: 100%; max-width: 720px; padding: 60px 16px 30px; background: var(--white); }
+.hcp-gate__title h1 { font-size: 0; line-height: 0; }
+.hcp-gate__content { display: flow-root; margin: 2px 0 14px; text-align: center; }
+.hcp-gate__content .text { margin: 10px 0; padding: 0; }
+.hcp-gate__actions { display: flex; flex-direction: row-reverse; flex-wrap: wrap; justify-content: center; gap: 10px; }
+@media (min-width: 768px) {
+  .hcp-gate { align-items: flex-start; padding-top: 138px; }
+  .hcp-gate__box { padding: 80px 46px 60px; }
+  .hcp-gate__content { margin: 8px 0; text-align: left; }
+  .hcp-gate__content .text { margin: 16px 0; }
+}
+html.hcp-gate-open { overflow: hidden; }
+
+/* list tabs without the experience-fragment frame */
+.section-tabs--bare { border: 0; padding: 0; }
+@media (max-width: 767px) { .section-tabs--bare { padding: 0; } }
+
+.page-title--spaced { padding-top: 20px; padding-bottom: 20px; }
+.intro-image img { width: 100%; height: auto; }
+
+/* 2-column teasers */
+.cards--2 { gap: 20px; }
+@media (min-width: 768px) { .cards--2 .card { flex: 0 0 calc(50% - 10px); max-width: calc(50% - 10px); } }
+.card__title a { text-decoration: none; }
+.card__title sup { font-size: 16px; }
+.card__action { margin-top: auto; }
+
+/* questions band */
+.band { background: var(--mist); text-align: center; }
+.band__title { color: var(--plum); font: 26px/34px var(--font-head); }
+@media (min-width: 1280px) { .band__title { font-size: 36px; line-height: 40px; } }
+.band__action { padding: 0 16px; }
+.band .btn:hover { opacity: .8; }

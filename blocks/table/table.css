@@ -1,0 +1,17 @@
+/* table — the live rich-text tables render with the browser's border="1" defaults; mirrored */
+.table table {
+  width: 100%;
+  border: 1px outset rgb(128 128 128);
+  border-collapse: separate;
+  border-spacing: 2px;
+}
+
+.table td {
+  border: 1px inset rgb(128 128 128);
+  padding: 1px;
+  vertical-align: middle;
+  font: 16px/24px var(--body-font-family);
+  overflow-wrap: anywhere; /* live rich text word-break: break-word — long compounds wrap, the table fits */
+}
+
+.table td p { margin: 0; }

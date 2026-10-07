@@ -1,0 +1,100 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics F-1 (form definition from the captured live DOM)",
+  "source": "stardust/dynamics/forms/contact-en.json",
+  "note": "notice text is the hands-off A-2 interim copy (no backend connected), not source copy"
+ },
+ "formId": "688868a0805e98000257e19e",
+ "endpoint": "",
+ "submit": "Send",
+ "required": "This field is mandatory",
+ "notice": "Your enquiry was captured locally. No receiving system is connected yet — the message was not sent.",
+ "fields": [
+  {
+   "name": "firstName",
+   "type": "text",
+   "label": "First Name",
+   "required": true,
+   "placeholder": "Enter Your First Name"
+  },
+  {
+   "name": "lastName",
+   "type": "text",
+   "label": "Last Name",
+   "required": true,
+   "placeholder": "Enter Your Last Name"
+  },
+  {
+   "name": "email",
+   "type": "text",
+   "label": "Email",
+   "required": true,
+   "placeholder": "Email"
+  },
+  {
+   "name": "areaOfInterest",
+   "type": "select",
+   "label": "Area of Interest",
+   "required": true,
+   "options": [
+    {
+     "value": "",
+     "text": "Select area of Interest"
+    },
+    {
+     "value": "Therapy Area : Respiratory & immunology",
+     "text": "Therapy Area : Respiratory & immunology"
+    },
+    {
+     "value": "Therapy Area : Oncology",
+     "text": "Therapy Area : Oncology"
+    },
+    {
+     "value": "Therapy Area: Cardiovascular, renal and metabolic diseases",
+     "text": "Therapy Area: Cardiovascular, renal and metabolic diseases"
+    },
+    {
+     "value": "Our Products",
+     "text": "Our Products"
+    },
+    {
+     "value": "Medical enquries",
+     "text": "Medical enquries"
+    },
+    {
+     "value": "Website Feedback",
+     "text": "Website Feedback"
+    },
+    {
+     "value": "Patient Safety",
+     "text": "Patient Safety"
+    },
+    {
+     "value": "General Enquiry",
+     "text": "General Enquiry"
+    }
+   ]
+  },
+  {
+   "name": "enquiryText",
+   "type": "textarea",
+   "label": "Enquiry Text(Optional)",
+   "required": false,
+   "placeholder": "Enquiry Text"
+  },
+  {
+   "name": "termsAndConditions",
+   "type": "checkbox",
+   "label": "Terms and Conditions",
+   "required": true,
+   "link": "https://www.astrazeneca.ch/en/terms-of-use.html"
+  },
+  {
+   "name": "privacyPolicy",
+   "type": "checkbox",
+   "label": "Privacy Policy",
+   "required": true,
+   "link": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-en/privacy-notices.html"
+  }
+ ]
+}

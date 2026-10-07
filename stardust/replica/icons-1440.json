@@ -1,0 +1,1057 @@
+{
+ "https://www.myastrazeneca.ch/de/startseite.html": [
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    633,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    785,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "form > div.cmp-searchbox__field > i.cmp-searchbox__icon.fa.fa-search",
+   "pseudo": "::before",
+   "cps": [
+    "U+F002"
+   ],
+   "family": "icomoon",
+   "size": "18px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1170,
+    49,
+    41,
+    18
+   ]
+  },
+  {
+   "host": "span.cmp-searchbox__clear-icon > a.cmp-searchbox-clear > i.fa.fa-times-circle.cmp-searchbox__clearText",
+   "pseudo": "::before",
+   "cps": [
+    "U+F00D"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html": [
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    633,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    785,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "form > div.cmp-searchbox__field > i.cmp-searchbox__icon.fa.fa-search",
+   "pseudo": "::before",
+   "cps": [
+    "U+F002"
+   ],
+   "family": "icomoon",
+   "size": "18px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1170,
+    49,
+    41,
+    18
+   ]
+  },
+  {
+   "host": "span.cmp-searchbox__clear-icon > a.cmp-searchbox-clear > i.fa.fa-times-circle.cmp-searchbox__clearText",
+   "pseudo": "::before",
+   "cps": [
+    "U+F00D"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    130,
+    86,
+    79,
+    28
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    225,
+    86,
+    120,
+    28
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    361,
+    86,
+    43,
+    28
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__like > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__like-icon-class.icon-class.fa-heart",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91D"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1190,
+    459,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__share > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__share-icon-class.icon-class.fa-share2",
+   "pseudo": "::before",
+   "cps": [
+    "U+E915"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1282,
+    459,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__favorite > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__favorite-icon-class.icon-class.fa-star-full",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91B"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1236,
+    459,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__wrapper > div.cmp-socialFeatures__social-share-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__err-msg.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__request-to-signin-content-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "https://www.myastrazeneca.ch/de/startseite/produkte.html": [
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    633,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    785,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "form > div.cmp-searchbox__field > i.cmp-searchbox__icon.fa.fa-search",
+   "pseudo": "::before",
+   "cps": [
+    "U+F002"
+   ],
+   "family": "icomoon",
+   "size": "18px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1170,
+    49,
+    41,
+    18
+   ]
+  },
+  {
+   "host": "span.cmp-searchbox__clear-icon > a.cmp-searchbox-clear > i.fa.fa-times-circle.cmp-searchbox__clearText",
+   "pseudo": "::before",
+   "cps": [
+    "U+F00D"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    130,
+    86,
+    79,
+    28
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__like > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__like-icon-class.icon-class.fa-heart",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91D"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1190,
+    407,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__share > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__share-icon-class.icon-class.fa-share2",
+   "pseudo": "::before",
+   "cps": [
+    "U+E915"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1282,
+    407,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__favorite > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__favorite-icon-class.icon-class.fa-star-full",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91B"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1236,
+    407,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__wrapper > div.cmp-socialFeatures__social-share-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__err-msg.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__request-to-signin-content-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "https://www.myastrazeneca.ch/de/startseite/contact-us.html": [
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    633,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    785,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "form > div.cmp-searchbox__field > i.cmp-searchbox__icon.fa.fa-search",
+   "pseudo": "::before",
+   "cps": [
+    "U+F002"
+   ],
+   "family": "icomoon",
+   "size": "18px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1170,
+    49,
+    41,
+    18
+   ]
+  },
+  {
+   "host": "span.cmp-searchbox__clear-icon > a.cmp-searchbox-clear > i.fa.fa-times-circle.cmp-searchbox__clearText",
+   "pseudo": "::before",
+   "cps": [
+    "U+F00D"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    130,
+    86,
+    79,
+    28
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__like > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__like-icon-class.icon-class.fa-heart",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91D"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1190,
+    265,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__share > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__share-icon-class.icon-class.fa-share2",
+   "pseudo": "::before",
+   "cps": [
+    "U+E915"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1282,
+    265,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__favorite > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__favorite-icon-class.icon-class.fa-star-full",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91B"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1236,
+    265,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__wrapper > div.cmp-socialFeatures__social-share-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__err-msg.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__request-to-signin-content-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-dynamicform__form-group.button-group > button.cmp-dynamicform__submit-btn > span.fa.fa-spinner.fa-spin",
+   "pseudo": "::before",
+   "cps": [
+    "U+F110"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html": [
+  {
+   "host": "div > button.cmp-selfcertification__continue.self-certify-yes > span.fa.fa-pulse.fa-spinner",
+   "pseudo": "::before",
+   "cps": [
+    "U+F110"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(255, 255, 255)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    633,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+   "pseudo": "::before",
+   "cps": [
+    "U+F078"
+   ],
+   "family": "icomoon",
+   "size": "14px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    785,
+    49,
+    14,
+    14
+   ]
+  },
+  {
+   "host": "form > div.cmp-searchbox__field > i.cmp-searchbox__icon.fa.fa-search",
+   "pseudo": "::before",
+   "cps": [
+    "U+F002"
+   ],
+   "family": "icomoon",
+   "size": "18px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1170,
+    49,
+    41,
+    18
+   ]
+  },
+  {
+   "host": "span.cmp-searchbox__clear-icon > a.cmp-searchbox-clear > i.fa.fa-times-circle.cmp-searchbox__clearText",
+   "pseudo": "::before",
+   "cps": [
+    "U+F00D"
+   ],
+   "family": "icomoon",
+   "size": "16px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    130,
+    86,
+    79,
+    28
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    225,
+    86,
+    120,
+    28
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    361,
+    86,
+    61,
+    28
+   ]
+  },
+  {
+   "host": "nav.breadcrumb__base.cmp-breadcrumb.cmp-breadcrumb--horizantal > ul.cmp-breadcrumb__list > li.cmp-breadcrumb__item",
+   "pseudo": "::after",
+   "cps": [
+    "U+F04B"
+   ],
+   "family": "\"Font Awesome\"",
+   "size": "10px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "6px 0px",
+   "visible": true,
+   "rect": [
+    438,
+    86,
+    131,
+    28
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__like > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__like-icon-class.icon-class.fa-heart",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91D"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1190,
+    410,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__share > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__share-icon-class.icon-class.fa-share2",
+   "pseudo": "::before",
+   "cps": [
+    "U+E915"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1282,
+    410,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "li.cmp-socialFeatures__item.cmp-socialFeatures__favorite > div.cmp-socialFeatures__icon > span.cmp-socialFeatures__favorite-icon-class.icon-class.fa-star-full",
+   "pseudo": "::before",
+   "cps": [
+    "U+E91B"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(208, 0, 111)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": true,
+   "rect": [
+    1236,
+    410,
+    20,
+    20
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__wrapper > div.cmp-socialFeatures__social-share-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__err-msg.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "host": "div.cmp-socialFeatures__base > div.cmp-socialFeatures__request-to-signin-content-wrapper.cmp-socialFeatures__popup-wrapper.hidden > span.cmp-socialFeatures__close-icon-class.icon-class.fa-close",
+   "pseudo": "::before",
+   "cps": [
+    "U+E90C"
+   ],
+   "family": "icomoon",
+   "size": "20px",
+   "color": "rgb(60, 66, 66)",
+   "weight": "400",
+   "margin": "0px 0px",
+   "visible": false,
+   "rect": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ]
+}

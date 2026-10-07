@@ -1,0 +1,72 @@
+/* social — live cmp-socialFeatures (canon .social + observed sign-in popup) */
+main .social-container > .social-wrapper { padding: 0 var(--gutter); }
+
+@media (width >= 768px) {
+  main .social-container > .social-wrapper { padding: 0; }
+}
+
+.social {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.social ul {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.social ul button {
+  display: block;
+  border: 0;
+  border-radius: 4px;
+  padding: 4px 8px;
+  background: none;
+  color: var(--magenta);
+  cursor: pointer;
+}
+
+.social .azi::before {
+  display: block;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.social .social-popup {
+  position: absolute;
+  z-index: 1050;
+  top: 40px;
+  right: 0;
+  width: 261px;
+  border-radius: 6px;
+  padding: 20px 40px;
+  background: var(--white);
+  box-shadow: 0 0 7px rgb(0 0 0 / 45%);
+}
+
+.social .social-popup[hidden] { display: none; }
+
+.social .social-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 20px;
+  height: 20px;
+  border: 0;
+  padding: 0;
+  background: none;
+  color: var(--graphite);
+  cursor: pointer;
+}
+
+.social .social-close .azi::before {
+  font-size: 20px;
+  line-height: 20px;
+}
+
+@media (width >= 768px) {
+  .social { justify-content: flex-end; }
+}

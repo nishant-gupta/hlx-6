@@ -1,0 +1,567 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:21.363Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "fr-startseite-therapiegebiete-ri-lupus-html",
+  "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:21.363Z",
+  "finalUrl": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+  "title": "Lupus Érythémateux Systémique: Symptômes, Diagnostic et Traitement | MyAstraZeneca",
+  "description": "En savoir plus sur le lupus érythémateux systémique (LES), ses causes, symptômes variés et options de traitement pour une prise en charge optimale, pour les professionnels de la santé.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/lupus-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Lupus érythémateux systémique"
+    },
+    {
+      "tag": "h2",
+      "text": "Le lupus, une maladie aux différents visages"
+    },
+    {
+      "tag": "h4",
+      "text": "Caractéristique"
+    },
+    {
+      "tag": "h4",
+      "text": "Inégalité entre les sexes"
+    },
+    {
+      "tag": "h4",
+      "text": "Prévalence"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptômes"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnostic"
+    },
+    {
+      "tag": "h4",
+      "text": "Traitement"
+    },
+    {
+      "tag": "h3",
+      "text": "Informations utiles sur les produits"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Nos médicaments Cardiovasculaire, rénal & métabolisme Insuffisance cardiaque Forxiga ® (Dapagliflozine) Maladie rénale chronique (MRC) Forxiga ® (Dapagliflozine) Diabète de type 2 Forxiga ® (Dapagliflozine) Xigduo® (Dapagliflozine/Metformine HCl) Amylose Wainzua® (Eplontersen) Hyperkaliémie Lokelma® (Sodium zirconium cyclosilicate) Respiratoire & Immunologie Bronchopneumopathie chronique obstructive Trixeo® (Formotérol/Glycopyrronium/Budésonide) Granulomatose éosinophilique avec polyangéite (EGPA) Fasenra® (Benralizumab) Lupus érythémateux systémique (LES) Saphnelo® (Anifrolumab) Asthme Fasenra® (Benralizumab) Symbicort® (Budésonide/Formotérol) Tezspire® (Tézépelumab) Oncologie et Hématologie Cancer du sein Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hématologie Calquence® (Acalabrutinib) Cancer des voies biliaires Imfinzi® (Durvalumab) Carcinome hépatocellulaire Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Cancer du poumon Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Cancer de l’ovaire Lynparza® (Olaparib) Cancer de l’endomètre Imfinzi® (Durvalumab) Cancer de la prostate Lynparza® (Olaparib) Cancer de la vessie infiltrant le muscle Imfinzi® (Durvalumab) Adénocarcinome de l'estomac ou de la jonction œsogastrique (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Cancer du pancréas Lynparza® (Olaparib) Cancer de l’estomac Imfinzi® (Durvalumab) Traitement agnostique de la tumeur Enhertu® (Trastuzumab Deruxtecan) Voir tous les médicaments",
+    "Aires thérapeutiques Cardiovasculaire, rénal & métabolisme Respiratoire & Immunologie Oncologie Cancer du foie et de la vésicule biliaire Cancer de l’ovaire Hématologie Cancer du poumon Cancer du sein",
+    "Contactez-nous",
+    "Home",
+    "Domaines thérapeutiques",
+    "R&I",
+    "Lupus",
+    "Lupus érythémateux systémique",
+    "Le lupus érythémateux systémique (LES) est une maladie auto-immune chronique qui peut affecter différents organes, notamment la peau, les articulations, le système nerveux central et les reins.1 Le LES se caractérise par la production d’auto-anticorps pathogènes et la perte de tolérance aux auto-antigènes nucléaires.2 Une hétérogénéité clinique, une évolution imprévisible et la survenue de poussées sont d’autres caractéristiques typiques du LES.3",
+    "Dans le monde, plus de 3,4 millions de personnes sont touchées par le LES4 , dont environ 90% sont des femmes.5 En Suisse, on estime qu’environ 1200 à 4000 patientes et patients souffrent de LES.5",
+    "L’apparition d’un LES est dans la plupart des cas d’origine multifactorielle.5 Des interactions génétiques avec des facteurs environnementaux, notamment l’exposition aux UV, l’infection par le virus Epstein-Barr et des facteurs hormonaux, peuvent déclencher la maladie et conduire à un dérèglement du système immunitaire.1",
+    "La charge physique et émotionnelle pour les personnes atteintes de LES est importante.7 La morbidité élevée, l’évolution chronique de la maladie et la dépendance à une corticothérapie contribuent à des lésions organiques à long terme, pouvant même conduire à des atteintes organiques systémiques mettant en jeu le pronostic vital.4 Grâce à de nouveaux médicaments et à une meilleure compréhension de la maladie, l’espérance de vie et la qualité de vie des personnes atteintes se sont toutefois nettement améliorées au cours des dernières années.5",
+    "Caractéristique",
+    "Le LES est une maladie auto-immune chronique qui peut toucher tous les organes et tissus6",
+    "Inégalité entre les sexes",
+    "9 personnes affectées sur 10 sont des femmes, principalement en âge de procréer5",
+    "Prévalence",
+    "La prévalence du LES est de 20 à 50 cas pour 100 000 habitants5",
+    "Symptômes",
+    "Les manifestations cliniques et le profil d’atteinte organique sont très hétérogènes dans le LES.6 Environ 70% des patientes et patients ont une évolution par poussées, les autres patientes et patients présentant une rémission prolongée plus homogène ou une maladie active persistante.3",
+    "Symptômes pouvant être présents au moment du diagnostic:8",
+    "douleurs articulaires (arthralgies/arthrite) (75%)",
+    "éruption cutanée photosensible (55%)",
+    "fatigue (48%)",
+    "chute des cheveux (alopécie) (41%)",
+    "éruption cutanée en forme d’ailes de papillon (érythème en ailes de papillon) (38%)",
+    "syndrome de Raynaud (31%)",
+    "modifications de la formule sanguine (anomalies hématologiques) (31%)",
+    "modifications des muqueuses dans la bouche (aphtes) (26%)",
+    "fièvre (22%)",
+    "inflammation de la plèvre/du péricarde (pleurésie/péricardite) (12%)",
+    "syndrome sec (8%)",
+    "anomalies urinaires (6%)",
+    "symptômes neuropsychiatriques (6%)",
+    "perte de poids/anorexie (3%)",
+    "Si la maladie n’est pas diagnostiquée à temps, des inflammations de la plèvre, du péricarde ou des valves cardiaques peuvent se produire. Les inflammations rénales (néphrite lupique) sont également une menace, car elles peuvent conduire à une insuffisance rénale et à la dialyse.5",
+    "Diagnostic",
+    "Le diagnostic de LES est généralement retardé en raison de symptômes souvent diffus. Aux États-Unis, on estime qu’il s’écoule environ 6 ans entre l’apparition des premiers symptômes et la pose du diagnostic.9",
+    "Le diagnostic de LES est clinique et est étayé par des examens de laboratoire qui indiquent une immunoréactivité ou une inflammation dans différents organes.3",
+    "Depuis 2019, l’EULAR et l’ACR ont établi de nouveaux critères de classification pour améliorer la détection du LES.10",
+    "Les caractéristiques suivantes sont prises en compte:10",
+    "constitutionnel: fièvre",
+    "hématologique: leucocytes < 4000, thrombocytes < 100 000, hémolyse",
+    "neuropsychiatrique: délire, psychose ou épilepsie mucocutané: lupus cutané aigu (papillon), lupus cutané subaigu ou discoïde, alopécie ou ulcères oraux",
+    "séreux: épanchement pleural ou péricardique ou péricardite aiguë",
+    "musculo-squelettique: atteinte articulaire (synovite, douleur à la pression, raideur matinale)",
+    "rénal: néphrite lupique, protéinurie > 0,5 g/jour",
+    "immunologique: anticorps antiphospholipides, faibles taux de protéines du complément (C3 et/ ou C4), anticorps spécifiques du LES (anticorps anti-ADNdb ou antiSmith)",
+    "Traitement",
+    "Le LES est incurable.5 Un diagnostic précoce, un dépistage régulier pour détecter d’éventuelles atteintes d’organes (en particulier une néphrite), une mise en route immédiate du traitement et une stricte observance du traitement sont indispensables pour prévenir les poussées et les lésions organiques, améliorer le pronostic et la qualité de vie.11",
+    "Des mesures non pharmacologiques telles que la protection solaire, l’absence de tabagisme, une alimentation saine et équilibrée et une activité physique régulière sont importantes pour améliorer les résultats thérapeutiques à long terme.11 Les traitements pharmacologiques dépendent du type et du grade de sévérité de l’atteinte organique, des comorbidités et du risque de lésions organiques progressives.11",
+    "Conformément aux recommandations EULAR de 2023, l’hydroxychloroquine est recommandée pour l’ensemble des patientes et patients, sauf contre-indication. Les glucocorticoïdes (GC) peuvent être utilisés comme «traitement de transition» pendant les phases d’activité de la maladie. Pour le traitement d’entretien, ils doivent être réduits à un niveau égal ou inférieur à 5 mg/jour (équivalent prednisone) et, si possible, arrêtés.11 En cas de contrôle insuffisant de la maladie et afin de faciliter la réduction/l’arrêt du traitement par GC, il convient d’envisager l’instauration précoce d’immunosuppresseurs (ISD) tels que le méthotrexate, l’azathioprine, le mycophénolate et/ou des agents biologiques tels que l’anifrolumab ou le bélimumab.11",
+    "ACR: American College of Rheumatology; ADNdb: ADN double brin; EULAR: European Alliance of Associations for Rheumatology; LES: lupus érythémateux systémique.",
+    "Références:",
+    "Kaul A, et al. Systemic lupus erythematosus. Nat Rev Dis Primers. 2016 Jun 16;2:16039.",
+    "Liu Z, Davidson A. Taming lupus-a new understanding of pathogenesis is leading to clinical advances. Nat Med. 2012 Jun 6;18(6):871-82.",
+    "Fanouriakis A, et al. Update an the diagnosis and management of systemic lupus erythematosus. Ann Rheum Dis. 2021 Jan;80(1):14-25.",
+    "Tian J, et al. Global epidemiology of systemic lupus erythematosus: a comprehensive systematic analysis and modelling study. Ann Rheum Dis. 2023 Mar;82(3):351-356.",
+    "Hôpital universitaire de Zurich, Krankheiten und Therapien, Systemischer Lupus erythematodes. Disponible en ligne sur: https://www.usz.ch/krankheit/systemischer-lupus-erythematodes/. Dernière consultation: 16.05.2024.",
+    "Fava A, Petri M. Systemic lupus erythematosus: Diagnosis and clinical management. J Autoimmun. 2019 Jan;96:1-13.",
+    "Ligue suisse contre le rhumatisme (2019): Lupus érythémateux disséminé. Disponible en ligne sur: https://rheumaliga-schweiz.ch/fr/shop/produits/publications/maladies-rhumatismales/lupus/lupus-erythemateux9/. Dernière consultation: 16.05.2024.",
+    "Kapsala NN, et al. From first symptoms to diagnosis of systemic lupus erythematosus: mapping the journey of patients in an observational study. Clin Exp Rheumatol. 2023 Jan;41(1):74-81.",
+    "Al Sawah S et al. Understanding Delay in Diagnosis, Access to Care and Satisfaction with Care in Lupus: Findings from a Cross-Sectional Online Survey in the United States. Annals of the Rheumatic Diseases. 74. 812.3-812. 10.1136/annrheumdis-2015-eular.1159.",
+    "Aringer M. EULAR/ACR classification criteria for SLE. Semin Arthritis Rheum. 2019 Dec;49(3S):S14-S17.",
+    "Fanouriakis A, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024 Jan 2;83(1):15-29.",
+    "Nous mettons à profit notre vaste expertise dans les domaines de la recherche et du développement tout au long du cycle de vie d’un médicament.",
+    "Découvrez maintenant nos indications ou parcourez tous nos produits!",
+    "CH-12949-Revision date 06/2026",
+    "Ces contenus sont exclusivement destinés aux professionnels de la santé en Suisse. AstraZeneca Suisse©",
+    "Règlement sur les cookies",
+    "Contact",
+    "Politique de confidentialité",
+    "Conditions d'utilisation",
+    "Déclaration d'effets secondaires",
+    "Rapport qualité défaut",
+    "Demandes médicales"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "Contactez-nous",
+      "href": "/fr/startseite/contact-us.html"
+    },
+    {
+      "label": "Se connecter",
+      "href": "/fr/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/fr/startseite.html"
+    },
+    {
+      "label": "Domaines thérapeutiques",
+      "href": "/fr/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "R&I",
+      "href": "/fr/startseite/therapiegebiete/ri.html"
+    },
+    {
+      "label": "https://www.usz.ch/krankheit/systemischer-lupus-erythematodes/",
+      "href": "https://www.usz.ch/krankheit/systemischer-lupus-erythematodes/"
+    },
+    {
+      "label": "https://rheumaliga-schweiz.ch/fr/shop/produits/publications/maladies-rhumatismales/lupus/lupus-erythemateux9/",
+      "href": "https://rheumaliga-schweiz.ch/fr/shop/produits/publications/maladies-rhumatismales/lupus/lupus-erythemateux9/"
+    },
+    {
+      "label": "Découvrir maintenant",
+      "href": "/fr/startseite/produkte.html"
+    },
+    {
+      "label": "Règlement sur les cookies",
+      "href": "https://policy.cookiereports.com/b50c8635-fr-ch.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.astrazeneca.ch/fr/contact-us.html"
+    },
+    {
+      "label": "Politique de confidentialité",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html"
+    },
+    {
+      "label": "Conditions d'utilisation",
+      "href": "https://www.astrazeneca.ch/fr/terms-of-use.html"
+    },
+    {
+      "label": "Déclaration d'effets secondaires",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/fr/amp-form.html"
+    },
+    {
+      "label": "Rapport qualité défaut",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Demandes médicales",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "http://www.enhertu.ch/.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://enhertu.ch/.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/fr/user/login.html",
+    "https://www.myastrazeneca.ch/fr/startseite.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri.html",
+    "https://www.usz.ch/krankheit/systemischer-lupus-erythematodes/",
+    "https://rheumaliga-schweiz.ch/fr/shop/produits/publications/maladies-rhumatismales/lupus/lupus-erythemateux9/",
+    "https://policy.cookiereports.com/b50c8635-fr-ch.html",
+    "https://www.astrazeneca.ch/fr/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html",
+    "https://www.astrazeneca.ch/fr/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/fr/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/fr/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1742814371607/lupus-desktop.jpeg",
+        "alt": "Lupus - header",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/lupus-mobile.jpg",
+        "alt": "Lupus - header",
+        "w": 360,
+        "h": 350
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1743406733400/karakteristieke-symbolen.jpeg",
+        "alt": "SLE Karakteristieke",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/charakteristik-mob.jpg",
+        "alt": "SLE Karakteristieke",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1742815259525/ungleiche-geschlechterverteilung-symbolen.jpeg",
+        "alt": "SLE Ungleiche Geschlechterverteilung",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/ungleiche-geschlechterverteilung-mob.jpg",
+        "alt": "SLE Ungleiche Geschlechterverteilung",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1743406760422/pr-valenz-symbolen.jpeg",
+        "alt": "SLE Prävalenz",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/pravalenz-lupus-mob.jpg",
+        "alt": "SLE Prävalenz",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1744006368766/symptome-von-lupus.jpeg",
+        "alt": "Symptome bei Systemischem Lupus Erythematodes",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/symptome-lupus-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105__164519467/teaser.coreimg.80.1920.jpeg/1742815939420/diagnose-von-lupus.jpeg",
+        "alt": "Klinische und labortechnische Methoden zur SLE-Diagnose",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/diagnose-lupus-mob.jpg",
+        "alt": "Klinische und labortechnische Methoden zur SLE-Diagnose",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105__1904761868/teaser.coreimg.80.1920.jpeg/1743406852796/behandlung-von-lupus.jpeg",
+        "alt": "SLE Vorsorge und Therapie zur Verbesserung der Lebensqualität",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/r-and-i/systematischer-lupus-erythematodes/behandlung-lupus-mob.jpg",
+        "alt": "SLE Vorsorge und Therapie zur Verbesserung der Lebensqualität",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105__1801289259/teaser_copy.coreimg.80.1920.jpeg/1742891450708/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/fr/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 11805,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 40,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/fr-startseite-therapiegebiete-ri-lupus-html.png",
+  "renderedHtml": "pages/fr-startseite-therapiegebiete-ri-lupus-html.html",
+  "slots": {
+    "headline": "Lupus érythémateux systémique",
+    "sections": [
+      "Le lupus, une maladie aux différents visages",
+      "Caractéristique",
+      "Inégalité entre les sexes",
+      "Prévalence",
+      "Symptômes",
+      "Diagnostic",
+      "Traitement",
+      "Informations utiles sur les produits"
+    ],
+    "references": true
+  }
+}

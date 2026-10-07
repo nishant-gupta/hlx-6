@@ -1,0 +1,106 @@
+<!-- archetype: pattrns · source stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html.json
+     dynamics M-1: HCP self-certification modal (rebuild-native; choice remembered 120 min = live data-expiry-time) -->
+<div class="hcp-gate" data-expiry-minutes="120" role="dialog" aria-modal="true" aria-label="Fachpersonal">
+  <div class="hcp-gate__box">
+    <div class="hcp-gate__title"><h1> </h1></div>
+    <div class="hcp-gate__content"><div class="text"><p>Die Inhalte dieser Webseite sind nur für medizinisches Fachpersonal in der Schweiz bestimmt.<br> </p></div></div>
+    <div class="hcp-gate__actions">
+      <div><button type="button" class="btn self-certify-yes">Ich bin Arzt/Ärztin</button></div>
+      <div><a href="https://www.amyloidose-schweiz.ch/" class="btn btn--secondary self-certify-no">Ich bin Patient:in.</a></div>
+    </div>
+  </div>
+</div>
+<nav class="breadcrumb wrap" aria-label="Breadcrumb"><ul>
+  <li><a href="/de/startseite.html"><span>Startseite</span> </a></li>
+  <li class="is-muted"><a href="/de/startseite/therapiegebiete.html"><span>Therapiegebiete</span> </a></li>
+  <li class="is-muted"><a href="/de/startseite/therapiegebiete/cvrm.html"><span>CVRM</span> </a></li>
+  <li><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"><span>See the pATTRns</span> </a></li>
+  <li><span>Home</span></li>
+</ul></nav>
+<main class="container responsivegrid">
+  <section class="hero" data-section="hero">
+    <div class="hero__media">
+      <img class="pic-desktop" src="assets/img/see-the-pattrns-banner.jpeg" alt="See the pATTRns Banner">
+      <img class="pic-mobile" src="assets/img/see-the-pattrns-banner-mobile.jpg" alt="See the pATTRns Banner mobile">
+    </div>
+    <div class="hero__content"></div>
+  </section>
+
+  <div class="container--fixed space-md" data-section="social-features">
+    <div class="cmp-container">
+      <div class="social">
+        <ul>
+          <li><button type="button" aria-label="Like" data-feature="like"><span class="icon icon--heart" aria-hidden="true"></span></button></li>
+          <li><button type="button" aria-label="Share" data-feature="share"><span class="icon icon--share" aria-hidden="true"></span></button></li>
+          <li><button type="button" aria-label="Save" data-feature="favorite"><span class="icon icon--star" aria-hidden="true"></span></button></li>
+        </ul>
+        <div class="social__popup" data-popup="error" hidden><button type="button" class="social__close" aria-label="Schließen"><span class="icon icon--close" aria-hidden="true"></span></button><p>errorMessage</p></div>
+        <div class="social__popup" data-popup="signin" hidden><button type="button" class="social__close" aria-label="Schließen"><span class="icon icon--close" aria-hidden="true"></span></button><p>requestToSignInContent</p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container--fixed" data-section="section-tabs">
+    <div class="cmp-container">
+      <nav class="section-tabs section-tabs--bare" aria-label="See the pATTRns"><div class="section-tabs__inner"><ul>
+        <li class="is-active"><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html" aria-current="page"><span>Home</span></a></li>
+        <li><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html"><span>Über ATTR Amyloidose</span></a></li>
+        <li><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html"><span>Symptome der ATTR Amyloidose erkennen</span></a></li>
+        <li><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html"><span>Diagnose</span></a></li>
+        <li><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.html"><span>Behandlung</span></a></li>
+      </ul></div></nav>
+    </div>
+  </div>
+
+  <div class="container--fixed space-md" data-section="intro">
+    <div class="cmp-container">
+      <h1 class="page-title page-title--spaced"><span>ATTR Amyloidose - Frühzeitige Erkennung und Behandlung</span></h1>
+      <div class="intro-image">
+        <img class="pic-desktop" src="assets/img/see-the-pattrns-banner-bild.jpeg" alt="See the pATTRns Bannerbild">
+        <img class="pic-mobile" src="assets/img/see-the-pattrns-banner-bild-mobile.jpg" alt="See the pATTRns Bannerbild mobile">
+      </div>
+    </div>
+  </div>
+
+  <div class="container--fixed space-sm" data-section="teasers">
+    <div class="cmp-container">
+      <div class="cards cards--2">
+        <article class="card">
+          <div class="card__media">
+            <img class="pic-desktop" src="assets/img/attr-amyloidose-formen.jpeg" alt="attr-amyloidose-formen">
+            <a class="pic-mobile" href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html"><img src="assets/img/attr-amyloidose-formen.jpg"></a>
+          </div>
+          <div class="card__body">
+            <h4 class="card__title"><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html"><p>Die ATTR-Amyloidose kann sich in verschiedenen Formen äussern.<sup>1-3</sup></p></a></h4>
+            <div class="card__text">{{td:0}}</div>
+            <div class="card__action"><a class="btn" href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html">Erfahren Sie mehr über Amiloidose und ATTR-Typen</a></div>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card__media">
+            <img class="pic-desktop" src="assets/img/attr-amyloidose-warnzeichen.jpeg" alt="Warnzeichen der ATTR Amyloidose">
+            <a class="pic-mobile" href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html"><img src="assets/img/attr-amyloidose-warnzeichen.jpg" alt="Warnzeichen der ATTR Amyloidose"></a>
+          </div>
+          <div class="card__body">
+            <h4 class="card__title"><a href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html"><p>Es ist wichtig, die Warnzeichen („Red Flags“) einer ATTR-Amyloidose frühzeitig zu erkennen.<sup>1</sup></p></a></h4>
+            <div class="card__text">{{td:1}}</div>
+            <div class="card__action"><a class="btn" href="/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html">Entdecken Sie die Warnzeichen einer ATTR-Amiloidose</a></div>
+          </div>
+        </article>
+      </div>
+    </div>
+  </div>
+
+  <div class="band space-sm" data-section="questions">
+    <div class="container--fixed"><div class="cmp-container">
+      <h3 class="title title--center band__title"><span>Sie haben Fragen?</span></h3>
+      <div class="text text--spaced text--center">{{rt:0}}</div>
+      <div class="band__action"><a class="btn" href="mailto:info.ch@astrazeneca.com"><span>Jetzt kontaktieren</span></a></div>
+    </div></div>
+  </div>
+
+  <div class="container--fixed space-sm" data-section="references">
+    <div class="cmp-container"><div class="text text--spaced text--small rte">{{rt:1}}</div></div>
+  </div>
+</main>
+<!--FOOTER-->

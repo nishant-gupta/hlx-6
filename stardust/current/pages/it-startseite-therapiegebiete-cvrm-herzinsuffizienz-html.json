@@ -1,0 +1,547 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:40.830Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html",
+  "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:40.830Z",
+  "finalUrl": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+  "title": "Insufficienza Cardiaca Cronica: Sintomi, Diagnosi, E Trattamento | AstraZeneca",
+  "description": "Scopri l'insufficienza cardiaca, cos'è, quali sono i sintomi più comuni, come viene diagnosticata e le opzioni di trattamento disponibili con gli operatori sanitari.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/herzinsuffizienz-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Insufficienza cardiaca cronica"
+    },
+    {
+      "tag": "h2",
+      "text": "L’insufficienza cardiaca in sintesi"
+    },
+    {
+      "tag": "h4",
+      "text": "Incidenza"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalità"
+    },
+    {
+      "tag": "h4",
+      "text": "Potenzialmente fatale"
+    },
+    {
+      "tag": "h4",
+      "text": "Sintomi dell’insufficienza cardiaca"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnosi"
+    },
+    {
+      "tag": "h4",
+      "text": "Trattamento"
+    },
+    {
+      "tag": "h3",
+      "text": "Informazioni utili sui prodotti"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "I nostri medicinali Cardiovascolare, renale & metabolismo Insufficienza cardiaca Forxiga ® (Dapagliflozina) Malattia renale cronica (MRC) Forxiga ® (Dapagliflozina) Diabete di tipo 2 Forxiga ® (Dapagliflozina) Xigduo® (Dapagliflozina/Metformina HCl) Amiloidosi Wainzua® (Eplontersen) Iperkaliemia Lokelma® (Sodium zirconium cyclosilicate) Respiratorio & Immunologia Broncopneumopatia cronica ostruttiva Trixeo® (Formoterolo/Glicopirronio/Budesonide) Granulomatosi eosinofilica con poliangioite (EGPA) Fasenra® (Benralizumab) Lupus eritematoso sistemico (LES) Saphnelo® (Anifrolumab) Asma Fasenra® (Benralizumab) Symbicort® (Budesonide/Formoterolo) Tezspire® (Tezepelumab) Oncologia ed Ematologia Carcinoma della mammella Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Ematologia Calquence® (Acalabrutinib) Carcinoma delle vie biliari Imfinzi® (Durvalumab) Carcinoma epatocellulare Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Carcinoma polmonare Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Carcinoma ovarico Lynparza® (Olaparib) Carcinoma endometriale Imfinzi® (Durvalumab) Carcinoma della prostata Lynparza® (Olaparib) Carcinoma della vescica muscolo-invasivo Imfinzi® (Durvalumab) Carcinoma gastrico (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Carcinoma del pancreas Lynparza® (Olaparib) Trattamento tumor-agnostico Enhertu® (Trastuzumab Deruxtecan) Vedi tutti i medicinali",
+    "Aree terapeutiche Cardiovascolare, renale & metabolismo Assistenza acuta Malattia renale cronica (MRC) Diabete Insufficienza cardiaca Respiratorio & Immunologia Asma Broncopneumopatia cronica ostruttiva Lupus eritematoso sistemico (LES) Oncologia Tumore del fegato e della cistifellea Tumore ovarico Ematologia Tumore al polmone Cancro al seno",
+    "Contattaci",
+    "Home",
+    "Aree terapeutiche",
+    "CVRM",
+    "Insufficienza cardiaca cronica",
+    "Insufficienza cardiaca cronica",
+    "L’insufficienza cardiaca è una malattia cronica progressiva dovuta a un’anomalia strutturale e/o funzionale del cuore che comporta un’inadeguata gittata cardiaca a riposo e/o sotto sforzo.1 Più di 64 milioni di persone nel mondo sono affette da insufficienza cardiaca.2",
+    "Nonostante i notevoli miglioramenti nel trattamento, la morbilità e la mortalità rimangono elevate: circa il 15% di pazienti muore entro un anno e circa il 50% entro 5 anni dalla diagnosi.3",
+    "Questo significa che il tasso di sopravvivenza è peggiore rispetto ad alcuni dei tumori più comuni.4",
+    "In Svizzera, circa 200 000 persone soffrono di insufficienza cardiaca, con circa 5000-10 000 nuovi casi ogni anno.5 Il rischio di insufficienza cardiaca aumenta con l’età e la prevalenza nelle persone anziane (≥ 85 anni) è fino al 21%.6",
+    "Le cause più comuni in Europa, responsabili dello sviluppo di insufficienza cardiaca in circa il 70-90% dei casi, sono la cardiopatia coronarica e l’ipertensione arteriosa.7",
+    "Molte/i pazienti con insufficienza cardiaca soffrono di malattie concomitanti che hanno un impatto negativo sulla prognosi:8-10",
+    "Oltre il 40% dei pazienti con insufficienza cardiaca presenta una malattia renale cronica8",
+    "Circa il 30% dei pazienti con insufficienza cardiaca soffre anche di diabete di tipo 29",
+    "Incidenza",
+    "In Svizzera, 200 000 persone soffrono di insufficienza cardiaca5",
+    "Mortalità",
+    "Il tasso di mortalità a 5 anni è del 50%3",
+    "Potenzialmente fatale",
+    "L’insufficienza cardiaca è pericolosa per la vita quanto alcuni dei tumori più comuni4",
+    "Sintomi dell’insufficienza cardiaca",
+    "I sintomi principali dell’insufficienza cardiaca sono fiato corto, edema alle caviglie, affaticamento e riduzione della resistenza fisica. Inoltre, possono verificarsi altri segni, come aumento della pressione venosa giugulare, crepitii polmonari ed edema periferico.1 Sintomi meno tipici includono anche tosse notturna, perdita di appetito, confusione, depressione, vertigini e svenimenti.1",
+    "Diagnosi",
+    "La diagnosi di insufficienza cardiaca richiede la presenza di sintomi e/o segni di insufficienza cardiaca e di prove oggettive di disfunzione cardiaca.1 Per stabilire la diagnosi sono necessari un esame clinico, un ECG, la misurazione dei peptidi natriuretici e l’ecocardiografia.1 Si consiglia anche una radiografia del torace per escludere altre possibili cause di dispnea.1",
+    "Se la diagnosi di insufficienza cardiaca viene confermata, si determina il fenotipo misurando la frazione di eiezione ventricolare sinistra.",
+    "Si distingue tra HFrEF (insufficienza cardiaca con frazione di eiezione ridotta), HFmrEF (insufficienza cardiaca con frazione di eiezione leggermente ridotta) e HFpEF (insufficienza cardiaca con frazione di eiezione conservata).1",
+    "Trattamento",
+    "Il trattamento delle/dei pazienti con insufficienza cardiaca mira a ridurre la mortalità, a prevenire le ospedalizzazioni ricorrenti dovute al peggioramento dell’insufficienza cardiaca e a migliorare le condizioni cliniche, la capacità funzionale e la qualità di vita delle/dei pazienti.1",
+    "In pazienti che soffrono di insufficienza cardiaca con frazione di eiezione ventricolare sinistra ridotta o leggermente ridotta (LVEF ≤ 40% o compresa tra 41% e 49%), si raccomanda una terapia composta da ACE-I/ARNI, betabloccanti, MRA, inibitori di SGLT2 e un diuretico dell’ansa (se necessario).1",
+    "In pazienti con frazione di eiezione conservata (≥ 50%), una volta si potevano solo alleviare i sintomi.1",
+    "Dal 2023, le linee guida dell’ESC sull’insufficienza cardiaca raccomandano gli inibitori di SGLT2 per l’intero intervallo di frazione di eiezione.11 Si raccomanda anche l’uso di un diuretico dell’ansa (se necessario), oltre al trattamento dell’eziologia di base e delle comorbidità.11",
+    "ACE-I: inibitore dell’enzima di conversione dell’angiotensina; ARNI: inibitore del recettore dell’angiotensina-neprilisina; ESC: European Society of Cardiology; LVEF: frazione di eiezione ventricolare sinistra; MRA: antagonista del recettore dei mineralcorticoidi; SGLT-2-I: inibitore del trasportatore sodio-glucosio di tipo 2.",
+    "Riferimenti:",
+    "McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-3726.",
+    "Savarese G, et al. Global burden of heart failure: a comprehensive and updated review of epidemiology. Cardiovasc Res. 2023 Jan 18;118(17):3272-3287.",
+    "Jones NR, et al. Survival of patients with chronic heart failure in the community: a systematic review and meta-analysis. Eur J Heart Fail. 2019;21(11):1306-1325.",
+    "Mamas MA, et al. Do patients have worse outcomes in heart failure than in cancer? A primary care-based cohort study with 10-year follow-up in Scotland. Eur J Heart Fail. 2017;19(9):1095-104.",
+    "Mohacsi PJ, et al. Positionspapier «Herzinsuffizienz» der Arbeitsgruppe Herzinsuffizienz der SGK. Pubblicato il 17.01.2018. Disponibile online all’indirizzo: https://cvm.swisshealthweb.ch/en/article/doi/cvm.2018.00537/. Ultimo accesso: 30.04.2024.",
+    "Bosch L, et al. Heart failure in primary care: prevalence related to age and comorbidity. Prim Health Care Res Dev. 2019 Jul 29;20:e79.",
+    "A. Rosemann. Guideline Herzinsuffizienz. Institut für Hausarztmedizin der Universität Zürich. Pubblicato il 04/2021. Disponibile online all’indirizzo: https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf. Ultimo accesso: 30.04.2024.",
+    "Shiba N, Shimokawa H. Chronic kidney disease and heart failure--Bidirectional close link and common therapeutic goal. J Cardiol. 2011 Jan;57(1):8-17.",
+    "Seferovic PM, et al. Type 2 diabetes mellitus and heart failure: a position statement from the Heart Failure Association of the European Society of Cardiology. Eur J Heart Fail. 2018 May;20(5):853-872.",
+    "Birkeland KI, et al. Heart failure and chronic kidney disease manifestation and mortality risk associations in type 2 diabetes: A large multinational cohort study. Diabetes Obes Metab. 2020 Sep;22 (9):1607-1618.",
+    "McDonagh TA, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023 Oct 1;44(37):3627-3639",
+    "Applichiamo la nostra vasta esperienza nei settori della ricerca e dello sviluppo durante l’intero ciclo di vita di un medicamento.",
+    "Scopra subito le nostre indicazioni o esplori tutti i nostri prodotti!",
+    "CH-12946-Revision date 06/2026",
+    "Questi contenuti sono destinati esclusivamente al personale medico in Svizzera.",
+    "AstraZeneca Svizzera©",
+    "Normativa sui cookie",
+    "Contatti",
+    "Informativa sulla privacy",
+    "Condizioni di utilizzo",
+    "Notifica di effetti collaterali",
+    "Segnalare un difetto di qualità",
+    "Richieste mediche"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "Contattaci",
+      "href": "/it/startseite/contact-us.html"
+    },
+    {
+      "label": "Accedi",
+      "href": "/it/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/it/startseite.html"
+    },
+    {
+      "label": "Aree terapeutiche",
+      "href": "/it/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "CVRM",
+      "href": "/it/startseite/therapiegebiete/cvrm.html"
+    },
+    {
+      "label": "https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf",
+      "href": "https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf"
+    },
+    {
+      "label": "Scopri ora",
+      "href": "/it/startseite/produkte.html"
+    },
+    {
+      "label": "Normativa sui cookie",
+      "href": "//policy.cookiereports.com/b50c8635-it-ch.html"
+    },
+    {
+      "label": "Contatti",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Informativa sulla privacy",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html"
+    },
+    {
+      "label": "Condizioni di utilizzo",
+      "href": "https://www.astrazeneca.ch/it/terms-of-use.html"
+    },
+    {
+      "label": "Notifica di effetti collaterali",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html"
+    },
+    {
+      "label": "Segnalare un difetto di qualità",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Richieste mediche",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/it/user/login.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm.html",
+    "https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf",
+    "https://policy.cookiereports.com/b50c8635-it-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html",
+    "https://www.astrazeneca.ch/it/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_copy_copy/teaser.coreimg.80.1920.jpeg/1743418693070/heart-failure-banner-image.jpeg",
+        "alt": "Banner Image Representing Heart Failure",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/banner-header-mobile.jpg",
+        "alt": "",
+        "w": 657,
+        "h": 675
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1743037118747/globe-image-indicating-heart-failure-incidence.jpeg",
+        "alt": "Globe Image Representing Heart Failure Incidence",
+        "w": 606,
+        "h": 256
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/inzidenz-mob.jpg",
+        "alt": "",
+        "w": 809,
+        "h": 342
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1743037144059/ecg-image-indicating-mortality-rate.jpeg",
+        "alt": "ECG Graphic Representing Mortality Rate",
+        "w": 606,
+        "h": 246
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/mortalitaat-mob.jpg",
+        "alt": "",
+        "w": 809,
+        "h": 328
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1743037171559/image-portraying-life-threatening-heart-failure.jpeg",
+        "alt": "Image Representing Life Threatening Heart Failure",
+        "w": 606,
+        "h": 246
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/lebensbedrohlich-mob.jpg",
+        "alt": "",
+        "w": 809,
+        "h": 328
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1743037232316/heart-failure-symptoms-graphic-image.jpeg",
+        "alt": "Graphic Image Representing Heart Failure Symptoms",
+        "w": 898,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/symtom-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105__539162171/teaser.coreimg.80.1920.jpeg/1744017248575/heart-failure-diagnosis-graphic-image.jpeg",
+        "alt": "Graphic Image Representing Heart Failure Diagnosis",
+        "w": 899,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/diagnose-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105__1486122149/teaser.coreimg.80.1920.jpeg/1744017304454/heart-failure-treatment-graphic-image.jpeg",
+        "alt": "Graphic Image Representing Heart Failure Treatment",
+        "w": 898,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/behandlung-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105__383726090/teaser.coreimg.80.1920.jpeg/1742304119207/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 10298,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 40,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.png",
+  "renderedHtml": "pages/it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.html",
+  "slots": {
+    "headline": "Insufficienza cardiaca cronica",
+    "sections": [
+      "L’insufficienza cardiaca in sintesi",
+      "Incidenza",
+      "Mortalità",
+      "Potenzialmente fatale",
+      "Sintomi dell’insufficienza cardiaca",
+      "Diagnosi",
+      "Trattamento",
+      "Informazioni utili sui prodotti"
+    ],
+    "references": true
+  }
+}

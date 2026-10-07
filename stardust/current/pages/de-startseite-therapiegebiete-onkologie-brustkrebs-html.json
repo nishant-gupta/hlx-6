@@ -1,0 +1,575 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:00.163Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "de-startseite-therapiegebiete-onkologie-brustkrebs-html",
+  "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:00.163Z",
+  "finalUrl": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+  "title": "Brustkrebs",
+  "description": "Hier finden Sie Informationen zu unserem Therapiegebiet Brustkrebs.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/breast-cancer/brustkrebs-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Brustkrebs"
+    },
+    {
+      "tag": "h2",
+      "text": "Brustkrebs (Mammakarzinom): Zahlen, Früherkennung und Behandlung"
+    },
+    {
+      "tag": "h3",
+      "text": "Die Erkrankung auf einen Blick"
+    },
+    {
+      "tag": "h3",
+      "text": "Kennzahlen"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalität"
+    },
+    {
+      "tag": "h4",
+      "text": "Verteilung"
+    },
+    {
+      "tag": "h4",
+      "text": "Schlechte Prognose"
+    },
+    {
+      "tag": "h3",
+      "text": "Risikofaktoren"
+    },
+    {
+      "tag": "h3",
+      "text": "Genetische Komponente"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptome"
+    },
+    {
+      "tag": "h3",
+      "text": "Früherkennung und Screening"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnose"
+    },
+    {
+      "tag": "h4",
+      "text": "Behandlung"
+    },
+    {
+      "tag": "h3",
+      "text": "Initiativen entdecken, die Vorsorge voranbringen"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Unsere Arzneimittel Herz, Niere & Stoffwechsel Herzinsuffizienz Forxiga® (Dapagliflozin) Nierenkrankheit (CKD) Forxiga® (Dapagliflozin) Typ‑2‑Diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidose Wainzua® (Eplontersen) Hyperkaliämie Lokelma® (Sodium zirconium cyclosilicate) Atemwege & Immunologie Chronisch obstruktive Lungenerkrankung Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophile Granulomatose mit Polyangiitis (EGPA) Fasenra® (Benralizumab) Systemischer Lupus erythematodes (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Onkologie & Hämatologie Mammakarzinom Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hämatologie Calquence® (Acalabrutinib) Leberkarzinom Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Biliäres Karzinom Imfinzi® (Durvalumab) Lungenkarzinom Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarialkarzinom Lynparza® (Olaparib) Endometriumkarzinom Imfinzi® (Durvalumab) Prostatakarzinom Lynparza® (Olaparib) Muskelinvasives Harnblasenkarzinom Imfinzi® (Durvalumab) Pankreaskarzinom Lynparza® (Olaparib) Adenokarzinom des Magens oder des gastroösophagealen Übergangs (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Tumoragnostisch Enhertu® (Trastuzumab Deruxtecan) Alle Arzneimittel anzeigen",
+    "Therapiegebiete Herz, Niere & Stoffwechsel Akutversorgung Nierenkrankheit (CKD) Diabetes Herzinsuffizienz Atemwege & Immunologie Asthma Chronisch obstruktive Lungenerkrankung Systemischer Lupus erythematodes (SLE) Onkologie Leber- und Gallenblasenkrebs Ovarialkarzinom Hämatologie Lungenkrebs Brustkrebs",
+    "Kontaktieren Sie uns",
+    "Startseite",
+    "Therapiegebiete",
+    "Oncology",
+    "Brustkrebs",
+    "Brustkrebs",
+    "Brustkrebs ist die am häufigsten diagnostizierte Krebsart und die häufigste krebsbedingte Todesursache bei Frauen weltweit.¹ In der Schweiz erkranken jährlich 6’860 Frauen und 60 Männer an Brustkrebs — das entspricht 32% aller Krebserkrankungen bei Frauen.² Jährlich sterben in der Schweiz 1‘405 Frauen und 5 Männer an der Erkrankung; die 5-Jahres-Überlebensrate beträgt 89%.²",
+    "Brustkrebs stellt eine Gruppe von molekularbiologisch unterschiedlichen Krebsarten dar und wird anhand des Hormonrezeptor- und HER2-Status klassifiziert.³ Der Hormonrezeptor-positive Brustkrebs (HR+) ist mit rund 70% der häufigste Subtyp; er wird durch Östrogen und/oder Progesteron angetrieben und mit einer endokrinen Therapie behandelt.10 Ein positiver HER2-Status wird bei 15–30% der Brustkrebsfälle beobachtet.6 Galt HER2-positiver Brustkrebs lange als besonders aggressiv, so hat die Entwicklung von zielgerichteten Therapien — darunter monoklonale Antikörper, Tyrosinkinase-Inhibitoren und Antikörper-Wirkstoff-Konjugate — die Prognose erheblich verbessert.7,10 Die grösste therapeutische Herausforderung stellt heute der triple-negative Brustkrebs (TNBC) dar, bei dem diese Zielstrukturen fehlen und die systemische Behandlung primär auf Chemotherapie basiert.10",
+    "Mortalität",
+    "665'684 Frauen sind weltweit im Jahr 2022 an Brustkrebs gestorben¹",
+    "Verteilung",
+    "32% aller Krebsfälle bei Frauen in der Schweiz sind Brustkrebs²",
+    "Schlechte Prognose",
+    "89% 5-Jahres-Überlebensrate — Früherkennung ist entscheidend2,13",
+    "Die wichtigsten Risikofaktoren für die Entstehung von Brustkrebs sind das weibliche Geschlecht und das Alter: Brustkrebs tritt bei Frauen ca. 100-mal häufiger auf als bei Männern,³ und 80% aller Brustkrebserkrankungen werden in der Schweiz ab einem Alter von 50 Jahren diagnostiziert.⁴",
+    "Darüber hinaus lassen sich weitere Risikofaktoren in drei Kategorien einteilen:3,5",
+    "Nicht beeinflussbare Faktoren",
+    "Familiäre Vorbelastung/Vererbung — einschliesslich BRCA1/2-Mutationen",
+    "Hohe mammographische Dichte",
+    "Situativ hormonelles Ungleichgewicht",
+    "Bestrahlung des Brustkorbs (im Rahmen einer Strahlentherapie) in der Vorgeschichte",
+    "Beeinflussbare Lebensstilfaktoren",
+    "Rauchen",
+    "Alkoholkonsum",
+    "Ungesunde Ernährung (z. B. fettreiche Ernährung)",
+    "Übergewicht und Typ-2-Diabetes",
+    "Geringe körperliche Aktivität",
+    "Medizinische Faktoren",
+    "Hormonersatztherapie in den Wechseljahren",
+    "Insgesamt sind etwa 5–10% der Brustkrebserkrankungen auf Genmutationen zurückzuführen.³ Die häufigste Ursache für erblichen Brustkrebs ist eine vererbte Mutation im BRCA1- oder BRCA2-Gen.³ Diese Mutationen erhöhen das Risiko erheblich: 7 von 10 Frauen mit einer BRCA1- oder BRCA2-Genmutation erkranken bis zum Alter von 80 Jahren an Brustkrebs.³ Welche Konsequenzen dies für die Früherkennung hat, wird im Abschnitt „Früherkennung und Screening“ beschrieben.",
+    "Symptome",
+    "Die meisten Patient:innen verspüren keine Symptome, wenn sich der Krebs noch im Frühstadium befindet — daher ist die Früherkennung so wichtig.⁸ Im fortgeschrittenen Stadium kann Brustkrebs verschiedene Anzeichen verursachen:8,9",
+    "Tastbare Veränderungen — harte, kugelförmige Knoten oder Verhärtungen in der Brust oder unter dem Arm",
+    "Sichtbare Veränderungen — Veränderung von Grösse, Form oder Farbe der Brust; Hautveränderungen wie Dellen, Ausschlag oder Rötungen, besonders um die Brustwarze",
+    "Absonderungen — abnorme oder blutige Flüssigkeit aus der Brustwarze",
+    "Allgemeinsymptome — ungewollter Gewichtsverlust",
+    "Mit der Zeit können sich die Krebszellen auf andere Organe wie Lunge, Leber, Gehirn und Knochen ausbreiten. In der Folge können neue krebsbedingte Symptome wie Knochen- oder Kopfschmerzen auftreten.⁸",
+    "Weil Brustkrebs im Frühstadium meist keine Beschwerden verursacht, kommt der systematischen Früherkennung eine zentrale Rolle zu.8,10",
+    "Empfehlungen für Frauen mit durchschnittlichem Risiko Die systematische Früherkennung durch Brustkrebs-Screening-Programme kann dazu beitragen, die Erkrankung in einem Stadium zu entdecken, in dem die Heilungschancen am höchsten sind.10 Für Frauen mit durchschnittlichem Risiko im Alter von 50–69 Jahren wird ein regelmässiges Mammographie-Screening alle 2 Jahre empfohlen.10,14",
+    "Empfehlungen für Frauen mit erhöhtem Risiko Bei erhöhtem familiärem Risiko empfehlen Leitlinien eine genetische Abklärung sowie — bei Nachweis einer erblichen Veranlagung — ein intensiviertes Screening mittels Brust-MRT ab dem Alter von 30 Jahren (oder 5 Jahre vor dem jüngsten betroffenen Familienmitglied), mit jährlichen Untersuchungsintervallen; bei BRCA1-Trägerinnen wird ein halbjährliches Screening empfohlen.10,12",
+    "Diagnose",
+    "Die Diagnose basiert auf der klinischen Untersuchung in Kombination mit der Bildgebung, die eine beidseitige diagnostische Mammographie und eine Ultraschall-Untersuchung beider Brüste und der regionalen Lymphknoten umfassen sollte.¹⁰ Ein MRT wird bei Unklarheiten nach der Standardbildgebung und in besonderen klinischen Situationen empfohlen (z. B. familiärer Brustkrebs in Verbindung mit BRCA1/2-Mutationen, lobuläre Karzinome, Verdacht auf multifokalen und/oder multizentrischen Brustkrebs).¹⁰",
+    "Die Diagnose wird durch eine Biopsie und eine pathologische Untersuchung bestätigt.¹⁰ Die Untersuchung sollte den histologischen Typ, den Grad und die immunhistochemische Analyse des Östrogenrezeptor-, Progesteronrezeptor- und HER2-Rezeptor-Status sowie eines Proliferationsmarkers wie Ki-67 (ein Labortest, der das Wachstumsverhalten des Tumors bestimmt) umfassen.¹⁰",
+    "Die Untersuchung auf Fernmetastasen (Knochen, Leber und Lunge) wird nur bei Patient:innen im Stadium IIb und höher, bei Patient:innen mit einem hohen Rezidivrisiko bei der Erstdiagnose und/oder bei symptomatischen Patient:innen empfohlen.10",
+    "Behandlung",
+    "Die Therapieoptionen beim Mammakarzinom umfassen die Operation, die Bestrahlung und die medikamentöse Tumortherapie.¹¹ Die Behandlungsentscheidungen sollten auf einer individuellen Risiko-Nutzen-Analyse beruhen, die die Charakteristika der Patient:innen und des Tumors, die Begleiterkrankungen und die Präferenzen der Patient:innen berücksichtigt.¹¹",
+    "Die brusterhaltende Operation (in der Regel mit postoperativer Strahlentherapie) ist eine geeignete chirurgische Option für die meisten Patient:innen mit Brustkrebs.¹¹ Patient:innen mit Hormonrezeptor-positiven invasiven Tumoren sollten eine endokrine Therapie erhalten (sofern keine Kontraindikation besteht).¹¹ Für Patient:innen mit HER2-positivem Brustkrebs wird eine adjuvante Behandlung mit einer HER2-gerichteten Therapie (plus Chemotherapie) empfohlen.¹¹ Beim triple-negativen Brustkrebs (TNBC) stehen weder hormonelle noch HER2-gerichtete Therapien zur Verfügung. Die Behandlung stützt sich auf die Chemotherapie, die bei geeigneten Patient:innen durch Immuntherapie oder zielgerichtete Ansätze bei nachgewiesener BRCA-Mutation ergänzt werden kann.11",
+    "Abkürzungen",
+    "BRCA1/2: Breast cancer 1/2 · HER2: humaner epidermaler Wachstumsfaktor-Rezeptor 2 · MRT: Magnetresonanztomographie",
+    "Referenzen:",
+    "Bray F, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2024 May-Jun;74(3):229-263.",
+    "Krebs in der Schweiz: wichtige Zahlen; Krebsliga Schweiz, Stand November 2025, online verfügbar unter: https://www.krebsliga.ch/ueber-krebs/zahlen-fakten. Letzter Zugriff: 27.05.2026",
+    "Feng Y, et al. Breast cancer development and progression: Risk factors, cancer stem cells, signaling pathways, genomics, and molecular pathogenesis. Genes Dis. 2018 May 12;5(2):77-106.",
+    "Bundesamt für Statistik. Krebs: Anzahl und Rate der Neuerkrankungen und Todesfälle nach Sprachregion, Krebsart, Geschlecht, Periode und Altersklasse. Veröffentlicht am: 10.11.2025. Online verfügbar unter: https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitszustand/krankheiten/krebs.assetdetail.36138872.html. Letzter Zugriff: 27.05.2026",
+    "Deutsche Krebsgesellschaft. Brustkrebs – Ursachen und Risikofaktoren. Stand: 31.05.2022. Online verfügbar unter: https://www.krebsgesellschaft.de/onko-internetportal/basis-informationen-krebs/krebsarten/brustkrebs/ursachen-und-risikofaktoren.html. Letzter Zugriff: 27.05.2026.",
+    "Fragomeni SM, et al. Molecular Subtypes and Local-Regional Control of Breast Cancer. Surg Oncol Clin N Am. 2018 Jan;27(1):95-120.",
+    "Rinnerthaler G, et al. HER2 Directed Antibody-Drug-Conjugates beyond T-DM1 in Breast Cancer. Int J Mol Sci. 2019 Mar 5;20(5):1115.",
+    "Breast cancer, Factsheet, WHO. Stand 16. April 2026. Online verfügbar unter: https://www.who.int/news-room/fact-sheets/detail/breast-cancer. Letzter Zugriff: 27.05.2026",
+    "Krebsliga Schweiz. Brustkrebs (Mammakarzinom). Stand Dez 2024. Online verfügbar unter: https://www.krebsliga.ch/ueber-krebs/krebsarten/brustkrebs. Letzter Zugriff 27.05.2026",
+    "Loibl S, et al. Early breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up. Ann Oncol. 2024 Feb;35(2):159-182.",
+    "ESMO Guidelines Committee, Metastatic breast cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up†, Annals of Oncology (2026), doi: https://doi.org/10.1016/j.annonc.2026.05.707.",
+    "Sessa C, et al. Risk reduction and screening of cancer in hereditary breast-ovarian cancer syndromes: ESMO Clinical Practice Guideline. Ann Oncol. 2023 Jan;34(1):33-47.",
+    "Karch André et al. Evaluation der Brustkrebsmortalität im Deutschen Mammographie‐Screening‐Programm, Ressortforschungsberichte zum Strahlenschutz, Vorhaben 3621S42410, Bundesamt für Strahlenschutz, Juli 2025 online: BfS - Abgeschlossene Forschungsvorhaben - Evaluation der Brustkrebsmortalität im Deutschen Mammographie‐Screening‐Programm Letzer Zugriff 27.05.2026",
+    "Krebsliga Schweiz. Früherkennung von Brustkrebs. Stand Okt. 2025. Online verfügbar unter: https://www.krebsliga.ch/ueber-krebs/frueherkennung/brustkrebs Letzer Zugriff 27.05.2026",
+    "Fachpersonen können die genannten Referenzen bei der AstraZeneca AG anfordern.",
+    "CH-12902 05/2026",
+    "Diese Inhalte sind ausschliesslich für medizinisches Fachpersonal in der Schweiz bestimmt.",
+    "Cookie Regelung",
+    "Kontakt",
+    "Datenschutzbestimmung",
+    "Nutzungsbedingung",
+    "Nebenwirkungsmeldung",
+    "Qualitätsmangel melden",
+    "Medizinische Anfragen"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/onkologie/brustkrebs.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/onkologie/brustkrebs.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/onkologie/brustkrebs.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/onkologie/brustkrebs.html"
+    },
+    {
+      "label": "Kontaktieren Sie uns",
+      "href": "/de/startseite/contact-us.html"
+    },
+    {
+      "label": "Anmelden",
+      "href": "/de/user/login.html"
+    },
+    {
+      "label": "Startseite",
+      "href": "/de/startseite.html"
+    },
+    {
+      "label": "Therapiegebiete",
+      "href": "/de/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "Oncology",
+      "href": "/de/startseite/therapiegebiete/onkologie.html"
+    },
+    {
+      "label": "Initiativen entdecken, die Vorsorge voranbringen",
+      "href": "https://www.astrazeneca.ch/de/about-us/stories/topics/patienten/Brustkrebs-Vorsorge.html"
+    },
+    {
+      "label": "Mehr erfahren",
+      "href": "/de/user/login.html"
+    },
+    {
+      "label": "https://doi.org/10.1016/j.annonc.2026.05.707.",
+      "href": "https://doi.org/10.1016/j.annonc.2026.05.707."
+    },
+    {
+      "label": "https://www.krebsliga.ch/ueber-krebs/frueherkennung/brustkrebs",
+      "href": "https://www.krebsliga.ch/ueber-krebs/frueherkennung/brustkrebs"
+    },
+    {
+      "label": "Cookie Regelung",
+      "href": "//policy.cookiereports.com/b50c8635-de-ch.html"
+    },
+    {
+      "label": "Kontakt",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Datenschutzbestimmung",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html"
+    },
+    {
+      "label": "Nutzungsbedingung",
+      "href": "https://www.astrazeneca.ch/de/terms-of-use.html"
+    },
+    {
+      "label": "Nebenwirkungsmeldung",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html"
+    },
+    {
+      "label": "Qualitätsmangel melden",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medizinische Anfragen",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/saphnelo.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie.html",
+    "https://www.astrazeneca.ch/de/about-us/stories/topics/patienten/Brustkrebs-Vorsorge.html",
+    "https://doi.org/10.1016/j.annonc.2026.05.707.",
+    "https://www.krebsliga.ch/ueber-krebs/frueherkennung/brustkrebs",
+    "https://policy.cookiereports.com/b50c8635-de-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html",
+    "https://www.astrazeneca.ch/de/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/Header/master/_jcr_content/root/image.coreimg.svg/1782161083945/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_copy_copy/teaser.coreimg.80.1920.png/1783979052694/dekstop-banner.png",
+        "alt": "",
+        "w": 1440,
+        "h": 250
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/mobile-banner.png",
+        "alt": "",
+        "w": 360,
+        "h": 350
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.png/1783979228176/mortality.png",
+        "alt": "",
+        "w": 388,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/Mortality.png",
+        "alt": "",
+        "w": 388,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.png/1783979259219/distribution.png",
+        "alt": "",
+        "w": 388,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/Distribution.png",
+        "alt": "",
+        "w": 388,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.png/1783979281729/poor-prognosis.png",
+        "alt": "Poor-prognosis.png",
+        "w": 388,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/Poor-prognosis.png",
+        "alt": "",
+        "w": 388,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.png/1783979295324/symptoms.png",
+        "alt": "",
+        "w": 575,
+        "h": 280
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/Symptoms.png",
+        "alt": "",
+        "w": 575,
+        "h": 280
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_285268105__461425897/teaser.coreimg.80.1920.png/1783979303047/diagnosis.png",
+        "alt": "",
+        "w": 575,
+        "h": 280
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/Diagnosis.png",
+        "alt": "",
+        "w": 575,
+        "h": 280
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/brustkrebs/_jcr_content/root/container/container_285268105__1062817796/teaser.coreimg.80.1920.png/1783979315349/treatment.png",
+        "alt": "",
+        "w": 575,
+        "h": 280
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/breast-cancer/Treatment.png",
+        "alt": "",
+        "w": 575,
+        "h": 280
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/footer/master/_jcr_content/root/container/image.coreimg.svg/1782161293040/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 17,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 14,
+    "mainTextLen": 13859,
+    "realImageCount": 17,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/de-startseite-therapiegebiete-onkologie-brustkrebs-html.png",
+  "renderedHtml": "pages/de-startseite-therapiegebiete-onkologie-brustkrebs-html.html",
+  "slots": {
+    "headline": "Brustkrebs",
+    "sections": [
+      "Brustkrebs (Mammakarzinom): Zahlen, Früherkennung und Behandlung",
+      "Die Erkrankung auf einen Blick",
+      "Kennzahlen",
+      "Mortalität",
+      "Verteilung",
+      "Schlechte Prognose",
+      "Risikofaktoren",
+      "Genetische Komponente",
+      "Symptome",
+      "Früherkennung und Screening",
+      "Diagnose",
+      "Behandlung",
+      "Initiativen entdecken, die Vorsorge voranbringen"
+    ],
+    "references": true
+  }
+}

@@ -1,0 +1,53 @@
+/* hcp-gate — live .cmp-selfcertification.modal-visible (canon pattrns.css; geometry gated) */
+main .hcp-gate-container > .hcp-gate-wrapper { max-width: none; }
+
+.hcp-gate {
+  position: fixed;
+  z-index: 1000;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 34px;
+  background: rgb(60 66 66 / 95%);
+}
+
+.hcp-gate[hidden] { display: none; }
+
+.hcp-gate .hcp-gate-box {
+  width: 100%;
+  max-width: 720px;
+  padding: 60px 16px 30px;
+  background: var(--white);
+}
+
+.hcp-gate .hcp-gate-content {
+  display: flow-root;
+  margin: 2px 0 14px;
+  text-align: center;
+}
+
+.hcp-gate .hcp-gate-content p { margin: 10px 0; }
+
+.hcp-gate .hcp-gate-actions {
+  display: flex;
+  flex-flow: row-reverse wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+html.hcp-gate-open { overflow: hidden; }
+
+@media (width >= 768px) {
+  .hcp-gate {
+    align-items: flex-start;
+    padding-top: 138px;
+  }
+  .hcp-gate .hcp-gate-box { padding: 80px 46px 60px; }
+
+  .hcp-gate .hcp-gate-content {
+    margin: 8px 0;
+    text-align: left;
+  }
+  .hcp-gate .hcp-gate-content p { margin: 16px 0; }
+}

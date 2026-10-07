@@ -10,74 +10,88 @@
  * governing permissions and limitations under the License.
  */
 
+/* stylelint-disable no-descending-specificity -- flagged pairs match disjoint elements; source order is the gated cascade */
+
+/*
+ * myastrazeneca.ch — foundation (stardust replica). Tokens and rules lifted from the gated canon
+ * (stardust/prototypes/css/canon.css), itself lifted from the live wese-hcp-portal-v1 theme.
+ * ⚠️ FONT LICENSING: Lexia (commercial) is not shipped — see fonts/LICENSING.md.
+ */
+
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  /* palette — live theme custom properties */
+  --plum: #830051;
+  --plum-deep: #4f0031;
+  --magenta: #d0006f;
+  --gold: #f0ab00;
+  --sage: #9db0ac;
+  --graphite: #3c4242;
+  --mist: #ebefee;
+  --white: #fff;
+  --black: #000;
+  --border-soft: #d8dfde;
+  --border-grey: #d8dada;
+  --placeholder: #b2b4b4;
+  --label: #656969;
+  --crumb-muted: #a9a9a9;
+  --rule: #c4cfcd;
+  --background-color: var(--white);
+  --text-color: var(--graphite);
+  --link-color: var(--graphite);
+  --link-hover-color: var(--magenta);
 
-  /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+  /* type — Lexia first (licensed drop-in), metric-matched substitute second, fallback third */
+  --heading-font-family: "Lexia", "Lexia-sub", aleo-fallback, serif;
+  --body-font-family: "Inter-Regular", inter-fallback, sans-serif;
+  --medium-font-family: "Inter-Medium", inter-fallback, sans-serif;
+  --bold-font-family: "Inter-Bold", inter-fallback, sans-serif;
+  --icon-font-family: icomoon;
 
-  /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
+  /* layout */
+  --container: 1180px;
+  --gutter: 16px;
 
-  /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
-
-  /* nav height */
-  --nav-height: 64px;
+  /* chrome: language bar (29) + header row (57) */
+  --nav-height: 86px;
 }
 
-/* fallback fonts */
+/* metric-matched local fallbacks (first paint, before fonts.css lands) */
 @font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
-  src: local('Arial');
+  font-family: inter-fallback;
+  src: local("Arial");
+  size-adjust: 107.12%;
+  ascent-override: 90.44%;
+  descent-override: 22.52%;
+  line-gap-override: 0%;
 }
 
 @font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
+  font-family: aleo-fallback;
+  src: local("Times New Roman");
+  size-adjust: 104%;
+  ascent-override: 92%;
+  descent-override: 24%;
+  line-gap-override: 0%;
 }
 
-@media (width >= 900px) {
-  :root {
-    /* body sizes */
-    --body-font-size-m: 18px;
-    --body-font-size-s: 16px;
-    --body-font-size-xs: 14px;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
-    /* heading sizes */
-    --heading-font-size-xxl: 45px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 28px;
-    --heading-font-size-m: 22px;
-    --heading-font-size-s: 20px;
-    --heading-font-size-xs: 18px;
-  }
+/* live theme: long compound words in 36px titles overrun 360px and are clipped at the viewport */
+html {
+  overflow-x: hidden;
 }
 
 body {
   display: none;
+  position: relative;
   margin: 0;
   background-color: var(--background-color);
   color: var(--text-color);
-  font-family: var(--body-font-family);
-  font-size: var(--body-font-size-m);
-  line-height: 1.6;
+  font: 16px/24px var(--body-font-family);
 }
 
 body.appear {
@@ -104,20 +118,11 @@ h3,
 h4,
 h5,
 h6 {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
+  margin: 0;
   font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
+  font-weight: 400;
   scroll-margin: 40px;
 }
-
-h1 { font-size: var(--heading-font-size-xxl); }
-h2 { font-size: var(--heading-font-size-xl); }
-h3 { font-size: var(--heading-font-size-l); }
-h4 { font-size: var(--heading-font-size-m); }
-h5 { font-size: var(--heading-font-size-s); }
-h6 { font-size: var(--heading-font-size-xs); }
 
 p,
 dl,
@@ -125,25 +130,24 @@ ol,
 ul,
 pre,
 blockquote {
-  margin-top: 0.8em;
-  margin-bottom: 0.25em;
+  margin: 0;
 }
 
-code,
-pre {
-  font-size: var(--body-font-size-s);
+b,
+strong {
+  font-family: var(--bold-font-family);
+  font-weight: 700;
 }
 
-pre {
-  padding: 16px;
-  border-radius: 8px;
-  background-color: var(--light-color);
-  overflow-x: auto;
-  white-space: pre;
+sup {
+  font-size: 10px;
+  line-height: 0;
 }
 
-main > div {
-  margin: 40px 16px;
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 input,
@@ -156,170 +160,595 @@ button {
 /* links */
 a:any-link {
   color: var(--link-color);
-  text-decoration: none;
+  text-decoration: underline;
   overflow-wrap: break-word;
 }
 
 a:hover {
   color: var(--link-hover-color);
-  text-decoration: underline;
 }
 
-/* buttons */
+/* buttons — the live cmp-button / teaser action-link system */
 p.button-wrapper {
-  margin: 12px 0;
+  margin: 0;
 }
 
 a.button:any-link,
 button.button {
-  box-sizing: border-box;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  display: inline-block;
   max-width: 100%;
   margin: 0;
-  border: 2px solid transparent;
-  border-radius: 2.4em;
-  padding: 0.5em 1.2em;
-  font: inherit;
-  font-weight: 500;
-  line-height: 1.25;
+  border: 1px solid var(--magenta);
+  border-radius: 4px;
+  padding: 8px 16px;
+  font: 16px/24px var(--bold-font-family);
+  font-weight: 400;
+  text-align: center;
   text-decoration: none;
   cursor: pointer;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
-a.button[aria-disabled="true"],
-button.button:disabled {
-  cursor: not-allowed;
-  pointer-events: none;
 }
 
 a.button.primary,
 button.button.primary {
-  border-color: var(--text-color);
-  background-color: var(--text-color);
-  color: var(--background-color);
-}
-
-a.button.primary:hover,
-a.button.primary:focus-visible,
-button.button.primary:hover,
-button.button.primary:focus-visible {
-  border-color: var(--dark-color);
-  background-color: var(--dark-color);
-  color: var(--light-color);
-}
-
-a.button.primary[aria-disabled="true"],
-a.button.primary[aria-disabled="true"]:hover,
-a.button.primary[aria-disabled="true"]:focus-visible,
-button.button.primary:disabled,
-button.button.primary:disabled:hover,
-button.button.primary:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
+  background-color: var(--magenta);
+  color: var(--white);
 }
 
 a.button.secondary,
 button.button.secondary {
-  border-color: var(--text-color);
-  background-color: transparent;
-  color: var(--text-color);
+  background-color: var(--white);
+  color: var(--magenta);
 }
 
-a.button.secondary:hover,
-a.button.secondary:focus-visible,
-button.button.secondary:hover,
-button.button.secondary:focus-visible {
-  border-color: var(--dark-color);
-  background-color: var(--light-color);
-  color: var(--dark-color);
-}
-
-a.button.secondary[aria-disabled="true"],
-a.button.secondary[aria-disabled="true"]:hover,
-a.button.secondary[aria-disabled="true"]:focus-visible,
-button.button.secondary:disabled,
-button.button.secondary:disabled:hover,
-button.button.secondary:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
-}
-
-/* high-impact call-to-action */
 a.button.accent,
 button.button.accent {
-  border-color: var(--link-color);
-  background-color: var(--link-color);
-  color: var(--background-color);
+  background-color: var(--magenta);
+  color: var(--white);
 }
 
-a.button.accent:hover,
-a.button.accent:focus-visible,
-button.button.accent:hover,
-button.button.accent:focus-visible {
-  border-color: var(--link-hover-color);
-  background-color: var(--link-hover-color);
-}
-
-a.button.accent[aria-disabled="true"],
-a.button.accent[aria-disabled="true"]:hover,
-a.button.accent[aria-disabled="true"]:focus-visible,
-button.button.accent:disabled,
-button.button.accent:disabled:hover,
-button.button.accent:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
-}
-
-main img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
-}
-
-.icon {
+/* Experience Workspace edit mode: repaint CTAs from their authored marks */
+.prosemirror-editor p > :is(strong, em) > a:any-link,
+.prosemirror-editor p > a:any-link:has(> :is(strong, em):only-child) {
   display: inline-block;
-  height: 24px;
-  width: 24px;
+  border: 1px solid var(--magenta);
+  border-radius: 4px;
+  padding: 8px 16px;
+  font: 16px/24px var(--bold-font-family);
+  text-decoration: none;
 }
 
-.icon img {
-  height: 100%;
-  width: 100%;
+.prosemirror-editor p > a:any-link > :is(strong, em) {
+  font-weight: inherit;
+  font-style: inherit;
 }
 
-/* sections */
+.prosemirror-editor p > strong > a:any-link,
+.prosemirror-editor p > a:any-link:has(> strong:only-child) {
+  background-color: var(--magenta);
+  color: var(--white);
+}
+
+.prosemirror-editor p > em > a:any-link,
+.prosemirror-editor p > a:any-link:has(> em:only-child) {
+  background-color: var(--white);
+  color: var(--magenta);
+}
+
+a .prosemirror-editor a:any-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* icon-font glyphs (live codepoints); `.icon` is reserved by the EDS runtime */
+.azi::before {
+  font-family: var(--icon-font-family);
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  speak: never;
+}
+
+.azi-chevron-down::before { content: "\f078"; }
+.azi-chevron-up::before { content: "\f077"; }
+.azi-chevron-left::before { content: "\f053"; }
+.azi-chevron-right::before { content: "\f054"; }
+.azi-search::before { content: "\f002"; }
+.azi-play::before { content: "\f04b"; }
+.azi-heart::before { content: "\e91d"; }
+.azi-share::before { content: "\e915"; }
+.azi-star::before { content: "\e91b"; }
+.azi-close::before { content: "\e90c"; }
+
+/* ------------------------------------------------------------------ sections
+ * One section per source AEM component (stardust/eds-conversion-log.md): component margins live on
+ * the wrappers and collapse between sections; container paddings ride data-pt / data-pb. */
 main > .section {
-  margin: 40px 0;
+  margin: 0;
+  padding: 0;
 }
 
 main > .section > div {
-  max-width: 1200px;
-  margin: auto;
-  padding: 0 24px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
 }
 
-main > .section:first-of-type {
-  margin-top: 0;
-}
-
-@media (width >= 900px) {
+@media (width >= 1280px) {
   main > .section > div {
-    padding: 0 32px;
+    max-width: var(--container);
   }
 }
 
-/* section metadata */
-main .section.light,
-main .section.highlight {
-  background-color: var(--light-color);
-  margin: 0;
-  padding: 40px 0;
+main .section:empty {
+  display: none;
 }
+
+/* default content: blocks own their 16px gutter on mobile, as the live components do */
+main > .section > .default-content-wrapper {
+  padding: 0 var(--gutter);
+}
+
+@media (width >= 768px) {
+  main > .section > .default-content-wrapper {
+    padding: 0;
+  }
+}
+
+/* rich text */
+main .default-content-wrapper ul,
+main .default-content-wrapper ol {
+  padding: 4px 0 10px 20px;
+  list-style-position: outside;
+  overflow-wrap: anywhere;
+}
+
+main .default-content-wrapper ul { list-style: disc; }
+main .default-content-wrapper ol { list-style: decimal; }
+
+@media (width >= 768px) {
+  main .default-content-wrapper ul,
+  main .default-content-wrapper ol {
+    padding-bottom: 12px;
+  }
+}
+
+main .default-content-wrapper p,
+main .default-content-wrapper a {
+  overflow-wrap: anywhere;
+}
+
+/* text component (variant "text …"): margin 10 mobile / 16 desktop, collapsing between sections */
+main > .section[data-variant~="text"] > .default-content-wrapper {
+  margin-block: 10px;
+}
+
+@media (width >= 768px) {
+  main > .section[data-variant~="text"] > .default-content-wrapper {
+    margin-block: 16px;
+  }
+}
+
+main > .section[data-variant~="b-space-0"] > .default-content-wrapper { margin-bottom: 0; }
+main > .section[data-variant~="t-space-0"] > .default-content-wrapper { margin-top: 0; }
+
+main > .section[data-variant~="small"] .default-content-wrapper,
+main > .section[data-variant~="small"] .default-content-wrapper :is(p, li, a) {
+  font: 12px/20px var(--medium-font-family);
+}
+
+main > .section[data-variant~="small"] .default-content-wrapper :is(b, strong) {
+  font-family: var(--bold-font-family);
+}
+
+main > .section[data-variant~="large"] .default-content-wrapper p {
+  font: 18px/28px var(--body-font-family);
+}
+
+main > .section[data-variant~="right"] .default-content-wrapper { text-align: right; }
+main > .section[data-variant~="center"] .default-content-wrapper { text-align: center; }
+main > .section[data-variant~="left"] .default-content-wrapper { text-align: left; }
+main > .section[data-variant~="link-color-title-2"] .default-content-wrapper a:any-link { color: var(--magenta); }
+
+/* in-page navigation list (live text--in-page-nav-hr) */
+main > .section[data-variant~="in-page-nav-hr"] .default-content-wrapper ul {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 0;
+  overflow-x: auto;
+  padding: 0;
+  list-style: none;
+  white-space: nowrap;
+}
+
+main > .section[data-variant~="in-page-nav-hr"] .default-content-wrapper li {
+  padding: 8px 16px;
+  font: 16px/18px var(--body-font-family);
+}
+
+main > .section[data-variant~="in-page-nav-hr"] .default-content-wrapper a:any-link {
+  text-decoration: none;
+}
+
+/* headings — the live title ramp by level (title component; h1 56/60, h2 46/50, h3 36/40, h4 26/34) */
+main .default-content-wrapper :is(h1, h2, h3, h4, h5, h6) {
+  color: var(--plum);
+}
+
+main .default-content-wrapper h1 {
+  font-size: 36px;
+  line-height: 40px;
+}
+
+main .default-content-wrapper h2 {
+  font-size: 36px;
+  line-height: 40px;
+}
+
+main .default-content-wrapper h3 {
+  font-size: 26px;
+  line-height: 34px;
+}
+
+main .default-content-wrapper :is(h4, h5, h6) {
+  font-size: 26px;
+  line-height: 34px;
+}
+main .default-content-wrapper h1 sup { font-size: 26px; }
+
+@media (width >= 1280px) {
+  main .default-content-wrapper h1 {
+    font-size: 56px;
+    line-height: 60px;
+  }
+
+  main .default-content-wrapper h2 {
+    font-size: 46px;
+    line-height: 50px;
+  }
+
+  main .default-content-wrapper h3 {
+    font-size: 36px;
+    line-height: 40px;
+  }
+}
+
+/* title component paddings (variant "title …") */
+main > .section[data-variant~="t-space"] .default-content-wrapper { padding-top: 20px; }
+main > .section[data-variant~="t-space-md"] .default-content-wrapper { padding-top: 20px; }
+main > .section[data-variant~="b-space"] .default-content-wrapper { padding-bottom: 20px; }
+main > .section[data-variant~="b-space-md"] .default-content-wrapper { padding-bottom: 20px; }
+
+main > .section[data-variant~="tb-space"] .default-content-wrapper {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+main > .section[data-variant~="mobile-center"] .default-content-wrapper { text-align: center; }
+
+@media (width >= 768px) {
+  main > .section[data-variant~="mobile-center"] .default-content-wrapper { text-align: left; }
+}
+
+@media (width >= 1280px) {
+  main > .section[data-variant~="t-space-md"] .default-content-wrapper { padding-top: 40px; }
+  main > .section[data-variant~="b-space-md"] .default-content-wrapper { padding-bottom: 40px; }
+}
+
+/* image component: desktop rendition first, mobile second (live swap at 767px) */
+main > .section[data-variant~="image"] .default-content-wrapper { padding: 0; }
+main > .section[data-variant~="image"] .default-content-wrapper p { line-height: 0; }
+main > .section[data-variant~="image"] .default-content-wrapper img { width: 100%; }
+
+main > .section[data-variant~="image"] .default-content-wrapper p:has(picture):not(:only-child):first-child { display: none; }
+
+@media (width >= 768px) {
+  main > .section[data-variant~="image"] .default-content-wrapper p:has(picture):not(:only-child):first-child { display: block; }
+  main > .section[data-variant~="image"] .default-content-wrapper p:has(picture) + p:has(picture) { display: none; }
+}
+
+/* button component */
+main > .section[data-variant~="button"] .default-content-wrapper { margin-block: 0; }
+
+/* teaser without image (resource pretitle): h1 at the live pretitle offset */
+main > .section[data-variant~="teaser"] .default-content-wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 24px 16px;
+}
+
+/* the live text body is one rich-text block: no gap between its paragraphs */
+main > .section[data-variant~="teaser"] .default-content-wrapper > p + p { margin-top: -16px; }
+
+main > .section[data-variant~="pretitle-core"] .default-content-wrapper h1 {
+  position: relative;
+  top: 10px;
+  margin-top: -10px;
+}
+
+@media (width >= 768px) {
+  main > .section[data-variant~="teaser"] .default-content-wrapper { padding: 0 15px 0 0; }
+}
+
+/* mist band (live container--bgColor-supporting-1): title + text + button composition */
+main > .section.band {
+  background: var(--mist);
+  text-align: center;
+}
+
+main > .section.band .default-content-wrapper { display: flow-root; }
+
+main > .section.band .default-content-wrapper :is(h2, h3, h4) {
+  font-size: 26px;
+  line-height: 34px;
+}
+main > .section.band .default-content-wrapper p:not(.button-wrapper) { margin: 10px 0; }
+main > .section.band .default-content-wrapper a.button:hover { opacity: 0.8; }
+
+@media (width >= 768px) {
+  main > .section.band .default-content-wrapper p:not(.button-wrapper) { margin: 16px 0; }
+}
+
+@media (width >= 1280px) {
+  main > .section.band .default-content-wrapper :is(h2, h3) {
+    font-size: 36px;
+    line-height: 40px;
+  }
+}
+
+/* paywall band (live contentpaywall) */
+main > .section.paywall {
+  background: var(--mist);
+  padding-block: 20px;
+}
+
+main > .section.paywall .default-content-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding-bottom: 20px;
+}
+
+main > .section.paywall .default-content-wrapper :is(h2, h3, h4) {
+  flex: 1 1 100%;
+  padding: 20px 0 10px; /* side inset = the section gutter; + the 10px row gap = live 20px title → actions */
+  font-size: 26px;
+  line-height: 34px;
+  text-align: center;
+}
+
+main > .section.paywall .default-content-wrapper a.button:hover { opacity: 0.8; }
+
+@media (width >= 768px) {
+  main > .section.paywall { padding-block: 40px; }
+  main > .section.paywall .default-content-wrapper :is(h2, h3, h4) { padding: 40px 0 10px; }
+}
+
+/* revision / approval code — live #vivo-id-wrap: absolute, 4px (mobile) / 51px (desktop) under the footer */
+main > .section.revision {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 4px;
+  margin-top: 4px;
+  padding-bottom: 40px;
+  text-align: center;
+}
+
+main > .section.revision .default-content-wrapper {
+  margin-block: 0;
+  padding: 0;
+}
+
+@media (width >= 1280px) {
+  main > .section.revision {
+    left: auto;
+    right: calc((100% - var(--container)) / 2);
+    margin-top: 51px;
+    text-align: left;
+  }
+
+  main > .section.revision > div { max-width: none; }
+}
+
+/* ------------------------------------------------------------------ container padding tokens */
+main > .section[data-pt="0-20"] { padding-top: 0; }
+main > .section[data-pt="0-40"] { padding-top: 0; }
+main > .section[data-pt="0-60"] { padding-top: 0; }
+main > .section[data-pt="0-80"] { padding-top: 0; }
+main > .section[data-pt="0-100"] { padding-top: 0; }
+main > .section[data-pt="0-120"] { padding-top: 0; }
+main > .section[data-pt="20-0"] { padding-top: 20px; }
+main > .section[data-pt="20-20"] { padding-top: 20px; }
+main > .section[data-pt="20-40"] { padding-top: 20px; }
+main > .section[data-pt="20-60"] { padding-top: 20px; }
+main > .section[data-pt="20-80"] { padding-top: 20px; }
+main > .section[data-pt="20-100"] { padding-top: 20px; }
+main > .section[data-pt="20-120"] { padding-top: 20px; }
+main > .section[data-pt="40-0"] { padding-top: 40px; }
+main > .section[data-pt="40-20"] { padding-top: 40px; }
+main > .section[data-pt="40-40"] { padding-top: 40px; }
+main > .section[data-pt="40-60"] { padding-top: 40px; }
+main > .section[data-pt="40-80"] { padding-top: 40px; }
+main > .section[data-pt="40-100"] { padding-top: 40px; }
+main > .section[data-pt="40-120"] { padding-top: 40px; }
+main > .section[data-pt="60-0"] { padding-top: 60px; }
+main > .section[data-pt="60-20"] { padding-top: 60px; }
+main > .section[data-pt="60-40"] { padding-top: 60px; }
+main > .section[data-pt="60-60"] { padding-top: 60px; }
+main > .section[data-pt="60-80"] { padding-top: 60px; }
+main > .section[data-pt="60-100"] { padding-top: 60px; }
+main > .section[data-pt="60-120"] { padding-top: 60px; }
+main > .section[data-pt="80-0"] { padding-top: 80px; }
+main > .section[data-pt="80-20"] { padding-top: 80px; }
+main > .section[data-pt="80-40"] { padding-top: 80px; }
+main > .section[data-pt="80-60"] { padding-top: 80px; }
+main > .section[data-pt="80-80"] { padding-top: 80px; }
+main > .section[data-pt="80-100"] { padding-top: 80px; }
+main > .section[data-pt="80-120"] { padding-top: 80px; }
+main > .section[data-pt="100-0"] { padding-top: 100px; }
+main > .section[data-pt="100-20"] { padding-top: 100px; }
+main > .section[data-pt="100-40"] { padding-top: 100px; }
+main > .section[data-pt="100-60"] { padding-top: 100px; }
+main > .section[data-pt="100-80"] { padding-top: 100px; }
+main > .section[data-pt="100-100"] { padding-top: 100px; }
+main > .section[data-pt="100-120"] { padding-top: 100px; }
+main > .section[data-pt="120-0"] { padding-top: 120px; }
+main > .section[data-pt="120-20"] { padding-top: 120px; }
+main > .section[data-pt="120-40"] { padding-top: 120px; }
+main > .section[data-pt="120-60"] { padding-top: 120px; }
+main > .section[data-pt="120-80"] { padding-top: 120px; }
+main > .section[data-pt="120-100"] { padding-top: 120px; }
+main > .section[data-pt="120-120"] { padding-top: 120px; }
+
+@media (width >= 768px) {
+  main > .section[data-pt="0-20"] { padding-top: 20px; }
+  main > .section[data-pt="0-40"] { padding-top: 40px; }
+  main > .section[data-pt="0-60"] { padding-top: 60px; }
+  main > .section[data-pt="0-80"] { padding-top: 80px; }
+  main > .section[data-pt="0-100"] { padding-top: 100px; }
+  main > .section[data-pt="0-120"] { padding-top: 120px; }
+  main > .section[data-pt="20-0"] { padding-top: 0; }
+  main > .section[data-pt="20-20"] { padding-top: 20px; }
+  main > .section[data-pt="20-40"] { padding-top: 40px; }
+  main > .section[data-pt="20-60"] { padding-top: 60px; }
+  main > .section[data-pt="20-80"] { padding-top: 80px; }
+  main > .section[data-pt="20-100"] { padding-top: 100px; }
+  main > .section[data-pt="20-120"] { padding-top: 120px; }
+  main > .section[data-pt="40-0"] { padding-top: 0; }
+  main > .section[data-pt="40-20"] { padding-top: 20px; }
+  main > .section[data-pt="40-40"] { padding-top: 40px; }
+  main > .section[data-pt="40-60"] { padding-top: 60px; }
+  main > .section[data-pt="40-80"] { padding-top: 80px; }
+  main > .section[data-pt="40-100"] { padding-top: 100px; }
+  main > .section[data-pt="40-120"] { padding-top: 120px; }
+  main > .section[data-pt="60-0"] { padding-top: 0; }
+  main > .section[data-pt="60-20"] { padding-top: 20px; }
+  main > .section[data-pt="60-40"] { padding-top: 40px; }
+  main > .section[data-pt="60-60"] { padding-top: 60px; }
+  main > .section[data-pt="60-80"] { padding-top: 80px; }
+  main > .section[data-pt="60-100"] { padding-top: 100px; }
+  main > .section[data-pt="60-120"] { padding-top: 120px; }
+  main > .section[data-pt="80-0"] { padding-top: 0; }
+  main > .section[data-pt="80-20"] { padding-top: 20px; }
+  main > .section[data-pt="80-40"] { padding-top: 40px; }
+  main > .section[data-pt="80-60"] { padding-top: 60px; }
+  main > .section[data-pt="80-80"] { padding-top: 80px; }
+  main > .section[data-pt="80-100"] { padding-top: 100px; }
+  main > .section[data-pt="80-120"] { padding-top: 120px; }
+  main > .section[data-pt="100-0"] { padding-top: 0; }
+  main > .section[data-pt="100-20"] { padding-top: 20px; }
+  main > .section[data-pt="100-40"] { padding-top: 40px; }
+  main > .section[data-pt="100-60"] { padding-top: 60px; }
+  main > .section[data-pt="100-80"] { padding-top: 80px; }
+  main > .section[data-pt="100-100"] { padding-top: 100px; }
+  main > .section[data-pt="100-120"] { padding-top: 120px; }
+  main > .section[data-pt="120-0"] { padding-top: 0; }
+  main > .section[data-pt="120-20"] { padding-top: 20px; }
+  main > .section[data-pt="120-40"] { padding-top: 40px; }
+  main > .section[data-pt="120-60"] { padding-top: 60px; }
+  main > .section[data-pt="120-80"] { padding-top: 80px; }
+  main > .section[data-pt="120-100"] { padding-top: 100px; }
+  main > .section[data-pt="120-120"] { padding-top: 120px; }
+}
+
+main > .section[data-pb="0-20"] { padding-bottom: 0; }
+main > .section[data-pb="0-40"] { padding-bottom: 0; }
+main > .section[data-pb="0-60"] { padding-bottom: 0; }
+main > .section[data-pb="0-80"] { padding-bottom: 0; }
+main > .section[data-pb="0-100"] { padding-bottom: 0; }
+main > .section[data-pb="0-120"] { padding-bottom: 0; }
+main > .section[data-pb="20-0"] { padding-bottom: 20px; }
+main > .section[data-pb="20-20"] { padding-bottom: 20px; }
+main > .section[data-pb="20-40"] { padding-bottom: 20px; }
+main > .section[data-pb="20-60"] { padding-bottom: 20px; }
+main > .section[data-pb="20-80"] { padding-bottom: 20px; }
+main > .section[data-pb="20-100"] { padding-bottom: 20px; }
+main > .section[data-pb="20-120"] { padding-bottom: 20px; }
+main > .section[data-pb="40-0"] { padding-bottom: 40px; }
+main > .section[data-pb="40-20"] { padding-bottom: 40px; }
+main > .section[data-pb="40-40"] { padding-bottom: 40px; }
+main > .section[data-pb="40-60"] { padding-bottom: 40px; }
+main > .section[data-pb="40-80"] { padding-bottom: 40px; }
+main > .section[data-pb="40-100"] { padding-bottom: 40px; }
+main > .section[data-pb="40-120"] { padding-bottom: 40px; }
+main > .section[data-pb="60-0"] { padding-bottom: 60px; }
+main > .section[data-pb="60-20"] { padding-bottom: 60px; }
+main > .section[data-pb="60-40"] { padding-bottom: 60px; }
+main > .section[data-pb="60-60"] { padding-bottom: 60px; }
+main > .section[data-pb="60-80"] { padding-bottom: 60px; }
+main > .section[data-pb="60-100"] { padding-bottom: 60px; }
+main > .section[data-pb="60-120"] { padding-bottom: 60px; }
+main > .section[data-pb="80-0"] { padding-bottom: 80px; }
+main > .section[data-pb="80-20"] { padding-bottom: 80px; }
+main > .section[data-pb="80-40"] { padding-bottom: 80px; }
+main > .section[data-pb="80-60"] { padding-bottom: 80px; }
+main > .section[data-pb="80-80"] { padding-bottom: 80px; }
+main > .section[data-pb="80-100"] { padding-bottom: 80px; }
+main > .section[data-pb="80-120"] { padding-bottom: 80px; }
+main > .section[data-pb="100-0"] { padding-bottom: 100px; }
+main > .section[data-pb="100-20"] { padding-bottom: 100px; }
+main > .section[data-pb="100-40"] { padding-bottom: 100px; }
+main > .section[data-pb="100-60"] { padding-bottom: 100px; }
+main > .section[data-pb="100-80"] { padding-bottom: 100px; }
+main > .section[data-pb="100-100"] { padding-bottom: 100px; }
+main > .section[data-pb="100-120"] { padding-bottom: 100px; }
+main > .section[data-pb="120-0"] { padding-bottom: 120px; }
+main > .section[data-pb="120-20"] { padding-bottom: 120px; }
+main > .section[data-pb="120-40"] { padding-bottom: 120px; }
+main > .section[data-pb="120-60"] { padding-bottom: 120px; }
+main > .section[data-pb="120-80"] { padding-bottom: 120px; }
+main > .section[data-pb="120-100"] { padding-bottom: 120px; }
+main > .section[data-pb="120-120"] { padding-bottom: 120px; }
+
+@media (width >= 768px) {
+  main > .section[data-pb="0-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="0-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="0-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="0-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="0-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="0-120"] { padding-bottom: 120px; }
+  main > .section[data-pb="20-0"] { padding-bottom: 0; }
+  main > .section[data-pb="20-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="20-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="20-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="20-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="20-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="20-120"] { padding-bottom: 120px; }
+  main > .section[data-pb="40-0"] { padding-bottom: 0; }
+  main > .section[data-pb="40-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="40-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="40-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="40-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="40-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="40-120"] { padding-bottom: 120px; }
+  main > .section[data-pb="60-0"] { padding-bottom: 0; }
+  main > .section[data-pb="60-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="60-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="60-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="60-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="60-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="60-120"] { padding-bottom: 120px; }
+  main > .section[data-pb="80-0"] { padding-bottom: 0; }
+  main > .section[data-pb="80-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="80-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="80-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="80-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="80-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="80-120"] { padding-bottom: 120px; }
+  main > .section[data-pb="100-0"] { padding-bottom: 0; }
+  main > .section[data-pb="100-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="100-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="100-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="100-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="100-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="100-120"] { padding-bottom: 120px; }
+  main > .section[data-pb="120-0"] { padding-bottom: 0; }
+  main > .section[data-pb="120-20"] { padding-bottom: 20px; }
+  main > .section[data-pb="120-40"] { padding-bottom: 40px; }
+  main > .section[data-pb="120-60"] { padding-bottom: 60px; }
+  main > .section[data-pb="120-80"] { padding-bottom: 80px; }
+  main > .section[data-pb="120-100"] { padding-bottom: 100px; }
+  main > .section[data-pb="120-120"] { padding-bottom: 120px; }
+}
+

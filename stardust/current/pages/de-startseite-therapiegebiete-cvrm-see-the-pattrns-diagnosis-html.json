@@ -1,0 +1,442 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:24:47.090Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+  "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:24:47.090Z",
+  "finalUrl": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+  "title": "ATTR Amyloidose Diagnostizieren | See the pATTRns | Diagnose",
+  "description": "Erfahren Sie mehr über die Diagnostik der ATTR\nAmyloidose, von ersten Hinweisen bis zur sicheren\nDiagnose mit Tests und Verfahren für Fachkräfte im\nGesundheitswesen.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch/",
+    "type": null
+  },
+  "headings": [],
+  "body": [
+    "Die Inhalte dieser Webseite sind nur für medizinisches Fachpersonal in der Schweiz bestimmt."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Ich bin Arzt/Ärztin",
+      "href": null
+    },
+    {
+      "label": "Ich bin Patient:in.",
+      "href": "https://www.amyloidose-schweiz.ch/"
+    }
+  ],
+  "links": [
+    "https://www.amyloidose-schweiz.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/saphnelo.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.html",
+    "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/pattrns2.pdf",
+    "https://smw.ch/index.php/smw/article/view/3089",
+    "mailto:info.ch@astrazeneca.com",
+    "https://policy.cookiereports.com/b50c8635-de-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html",
+    "https://www.astrazeneca.ch/de/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/Header/master/_jcr_content/root/image.coreimg.svg/1782161083945/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1744198762000/see-the-pattrns-banner.jpeg",
+        "alt": "See the pATTRns Banner",
+        "w": 1080,
+        "h": 188
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/see-the-pattrns-banner-mobile.jpg",
+        "alt": "See the pATTRns Banner mobile",
+        "w": 360,
+        "h": 346
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis/_jcr_content/root/container/item_1742224569691_c/container_1358223401/image.coreimg.80.1920.jpeg/1744187056000/attrv-pn-allgemeine-diagnose.jpeg",
+        "alt": "graph",
+        "w": 1440,
+        "h": 740
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/attrv-pn-allgemeine-diagnose-mobile.jpg",
+        "alt": "graph",
+        "w": 773,
+        "h": 2086
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis/_jcr_content/root/container/item_1742224569691_c/container_2038953302/image.coreimg.80.1920.jpeg/1745855749000/attr-cm-allgemeine-diagnose.jpeg",
+        "alt": "graph",
+        "w": 1440,
+        "h": 807
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/attr-cm-allgemeine-diagnose-mobile.jpg",
+        "alt": "graph",
+        "w": 402,
+        "h": 1239
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis/_jcr_content/root/container/item_1742224569691_c/container_1898672002/teaser.coreimg.80.1920.jpeg/1773044972000/schnelle-diagnose-und-behandlung-banner.jpeg",
+        "alt": "Banner für schnelle Diagnose und Behandlung",
+        "w": 582,
+        "h": 222
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/schnelle-diagnose-und-behandlung-banner",
+        "alt": "Banner für schnelle Diagnose und Behandlung",
+        "w": 582,
+        "h": 222
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis/_jcr_content/root/container/item_1742224569691_c/container_1898672002/teaser_copy.coreimg.80.1920.jpeg/1773044983000/attr-gemischte-phanotypen.jpeg",
+        "alt": "Gemischte Phänotypen der ATTR Amyloidose",
+        "w": 436,
+        "h": 169
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/attr-gemischte-phanotypen.jpg",
+        "alt": "Gemischte Phänotypen der ATTR Amyloidose",
+        "w": 582,
+        "h": 226
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/footer/master/_jcr_content/root/container/image.coreimg.svg/1782161293040/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 13,
+    "cssBackgrounds": [],
+    "modals": [
+      "Die Inhalte dieser Webseite sind nur für medizinisches Fachpersonal in der Schweiz bestimmt. Ich bin Arzt/Ärztin Ich bin Patient:in."
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 0,
+    "mainTextLen": 9208,
+    "realImageCount": 13,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "did",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gdid",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/rmkt/collect/17507076860/",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "apvc",
+          "auid",
+          "did",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.enable_event_matching_conversions",
+          "fmt",
+          "frm",
+          "gcd",
+          "gdid",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft",
+          "tid",
+          "tids"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.google.com/ccm/collect",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 6
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "snap.licdn.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "count": 1
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [],
+    "ariaLiveRegions": 6,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 4,
+      "thirdPartyScriptHosts": 7,
+      "inlineDataBlobs": 0,
+      "forms": 0,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html.png",
+  "renderedHtml": "pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html.html",
+  "slots": {
+    "headline": null,
+    "cta": [
+      "Ich bin Arzt/Ärztin",
+      "Ich bin Patient:in."
+    ]
+  }
+}

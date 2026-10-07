@@ -1,0 +1,3002 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:extract --prep",
+  "writtenAt": "2026-10-07T10:58:31.204Z"
+ },
+ "handsOff": true,
+ "flow": "replica",
+ "site": {
+  "originUrl": "https://www.myastrazeneca.ch",
+  "extractedAt": "2026-10-07T10:58:31.204Z",
+  "pageCap": null,
+  "totalDiscovered": 127,
+  "crawled": 121,
+  "locales": [
+   "de",
+   "fr",
+   "it",
+   "en"
+  ],
+  "notFound": [
+   "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+   "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/leberkrebs.html",
+   "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+   "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/leberkrebs.html",
+   "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/haematologie.html",
+   "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/pattrns1.pdf",
+   "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/pattrns2.pdf"
+  ]
+ },
+ "pages": [
+  {
+   "slug": "de-startseite-contact-us-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+   "locale": "de",
+   "type": "form",
+   "template": "contact",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-contact-us-html.json",
+   "prototypePath": "stardust/prototypes/contact-proposed.html",
+   "migratedPath": "content/de/startseite/contact-us.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:07.665Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite.html",
+   "locale": "de",
+   "type": "landing",
+   "template": "home",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-html.json",
+   "prototypePath": "stardust/prototypes/home-proposed.html",
+   "migratedPath": "content/de/startseite.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:39.489Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-produkte-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+   "locale": "de",
+   "type": "listing",
+   "template": "product-listing",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-html.json",
+   "prototypePath": "stardust/prototypes/product-listing-proposed.html",
+   "migratedPath": "content/de/startseite/produkte.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:04.235Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-aerosphere-technologie-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/aerosphere-technologie.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-aerosphere-technologie-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/aerosphere-technologie.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:06.289Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-copd-management-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/copd-management.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-copd-management-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/copd-management.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:12.240Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-events-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/events.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-events-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/events.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:18.356Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:30.187Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-anwendungsbroschuere-trixeo-aerosphere-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/anwendungsbroschuere-trixeo-aerosphere-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-anwendungsbroschuere-trixeo-aerosphere-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/anwendungsbroschuere-trixeo-aerosphere-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:35.957Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-anwendungskarte-trixeo-aerosphere-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/anwendungskarte-trixeo-aerosphere-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-anwendungskarte-trixeo-aerosphere-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/anwendungskarte-trixeo-aerosphere-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:41.690Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-checkliste-fuer-copd-exazerbationen-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/checkliste-fuer-copd-exazerbationen-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-checkliste-fuer-copd-exazerbationen-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/checkliste-fuer-copd-exazerbationen-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:47.455Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-copd-datenblatt-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-copd-datenblatt-de-html.json",
+   "prototypePath": "stardust/prototypes/resource-detail-proposed.html",
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:53.193Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-copd-und-lungenkrebs-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-und-lungenkrebs-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-copd-und-lungenkrebs-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/copd-und-lungenkrebs-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:58.923Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-ethos-studienzusammenfassung-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/ethos-studienzusammenfassung-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-ethos-studienzusammenfassung-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/ethos-studienzusammenfassung-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:36:04.644Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-fachinformation-von-trixeo-aerosphere-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/fachinformation-von-trixeo-aerosphere-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-fachinformation-von-trixeo-aerosphere-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/fachinformation-von-trixeo-aerosphere-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:36:52.877Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:03.871Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-kronos-studienzusammenfassung-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/kronos-studienzusammenfassung-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-kronos-studienzusammenfassung-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/kronos-studienzusammenfassung-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:36:58.710Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-lunge-und-herz-ein-unzertrennliches-duo-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/lunge-und-herz-ein-unzertrennliches-duo-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-lunge-und-herz-ein-unzertrennliches-duo-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/lunge-und-herz-ein-unzertrennliches-duo-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:37:04.509Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-patient-poster-copd-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/patient-poster-copd-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-patient-poster-copd-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/patient-poster-copd-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:37:10.234Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-patientenbroschure-zur-copd-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/patientenbroschure-zur-copd-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-patientenbroschure-zur-copd-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/patientenbroschure-zur-copd-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:37:15.955Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-slide-deck-copd-now-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/slide-deck-copd-now-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-slide-deck-copd-now-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/slide-deck-copd-now-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:37:21.691Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-slide-deck-trixeo-aerosphere-technologie-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/slide-deck-trixeo-aerosphere-technologie-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-slide-deck-trixeo-aerosphere-technologie-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/slide-deck-trixeo-aerosphere-technologie-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:37:27.488Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-studienzusammenfassung-skopos-mazi-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/studienzusammenfassung-skopos-mazi-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-studienzusammenfassung-skopos-mazi-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/studienzusammenfassung-skopos-mazi-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:37:33.259Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-factsheet-zur-limitatio-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-factsheet-zur-limitatio-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-factsheet-zur-limitatio-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-factsheet-zur-limitatio-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:21.183Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-kranken-kassenformular-de-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-kranken-kassenformular-de.html",
+   "locale": "de",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-kranken-kassenformular-de-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-kranken-kassenformular-de.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:26.956Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-sicherheit-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/sicherheit.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-sicherheit-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/sicherheit.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:24.224Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-succinct-statement-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/succinct-statement.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-succinct-statement-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/succinct-statement.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:30.122Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-uberblick-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-uberblick-html.json",
+   "prototypePath": "stardust/prototypes/product-tab-proposed.html",
+   "migratedPath": "content/de/startseite/produkte/trixeo/uberblick.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:36.107Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-produkte-trixeo-wirksamkeit-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/wirksamkeit.html",
+   "locale": "de",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-produkte-trixeo-wirksamkeit-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/produkte/trixeo/wirksamkeit.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:35:24.426Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-acutecare-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-acutecare-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/acutecare.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:41.489Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:38.689Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-diabetes-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-diabetes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/diabetes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:38.590Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:38.689Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html",
+   "locale": "de",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:50.489Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+   "locale": "de",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:47.090Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+   "locale": "de",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html.json",
+   "prototypePath": "stardust/prototypes/pattrns-proposed.html",
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:36.389Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html",
+   "locale": "de",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:48.511Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.html",
+   "locale": "de",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:48.478Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-onkologie-brustkrebs-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-onkologie-brustkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/onkologie/brustkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:00.163Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-onkologie-eierstockkrebs-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-onkologie-eierstockkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/onkologie/eierstockkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:01.588Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-onkologie-haematologie-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-onkologie-haematologie-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/onkologie/haematologie.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:00.171Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-onkologie-lungenkrebs-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-onkologie-lungenkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/onkologie/lungenkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:01.490Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-onkologie-prostata-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/prostata.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-onkologie-prostata-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/onkologie/prostata.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:56.802Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-ri-asthma-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-ri-asthma-html.json",
+   "prototypePath": "stardust/prototypes/therapy-area-proposed.html",
+   "migratedPath": "content/de/startseite/therapiegebiete/ri/asthma.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:56.417Z"
+    },
+    {
+     "status": "prototyped",
+     "at": "2026-10-07T12:43:35.073Z"
+    },
+    {
+     "status": "approved",
+     "at": "2026-10-07T12:43:35.073Z",
+     "approvedBy": "hands-off",
+     "basis": "source-fidelity gate passed at 1440 + 360 (stardust/replica/progress.json)"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "archetype (EDS-gated)"
+    }
+   ],
+   "archetype": true
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-ri-copd-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-ri-copd-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/ri/copd.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:53.746Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-therapiegebiete-ri-lupus-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+   "locale": "de",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-therapiegebiete-ri-lupus-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/therapiegebiete/ri/lupus.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:24:50.489Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-contact-us-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/contact-us.html",
+   "locale": "en",
+   "type": "form",
+   "template": "contact",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-contact-us-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/contact-us.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:34:00.051Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite.html",
+   "locale": "en",
+   "type": "landing",
+   "template": "home",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:15.322Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-produkte-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/produkte.html",
+   "locale": "en",
+   "type": "listing",
+   "template": "product-listing",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-produkte-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/produkte.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:33:54.212Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-cvrm-acutecare-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-cvrm-acutecare-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/cvrm/acutecare.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:28.647Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:21.683Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-cvrm-diabetes-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/diabetes.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-cvrm-diabetes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/cvrm/diabetes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:34.932Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-cvrm-herzinsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:41.247Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-onkologie-brustkrebs-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/brustkrebs.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-onkologie-brustkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/onkologie/brustkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:32:52.610Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-onkologie-eierstockkrebs-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-onkologie-eierstockkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/onkologie/eierstockkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:32:58.962Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-onkologie-lungenkrebs-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-onkologie-lungenkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/onkologie/lungenkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:33:05.289Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-ri-asthma-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-ri-asthma-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/ri/asthma.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:32:44.284Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-ri-copd-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-ri-copd-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/ri/copd.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:32:37.907Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "en-startseite-therapiegebiete-ri-lupus-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+   "locale": "en",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-therapiegebiete-ri-lupus-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/therapiegebiete/ri/lupus.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:32:29.660Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-contact-us-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+   "locale": "fr",
+   "type": "form",
+   "template": "contact",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-contact-us-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/contact-us.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:34.582Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite.html",
+   "locale": "fr",
+   "type": "landing",
+   "template": "home",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:07.477Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+   "locale": "fr",
+   "type": "listing",
+   "template": "product-listing",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:34.610Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-aerosphere-technologie-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/aerosphere-technologie.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-aerosphere-technologie-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/aerosphere-technologie.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:38.749Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-copd-management-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/copd-management.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-copd-management-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/copd-management.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:44.646Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-events-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/events.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-events-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/events.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:50.587Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:39:02.225Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-anwendungsbroschuere-trixeo-aerosphere-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/anwendungsbroschuere-trixeo-aerosphere-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-anwendungsbroschuere-trixeo-aerosphere-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/anwendungsbroschuere-trixeo-aerosphere-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:39:49.846Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-anwendungskarte-trixeo-aerosphere-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/anwendungskarte-trixeo-aerosphere-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-anwendungskarte-trixeo-aerosphere-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/anwendungskarte-trixeo-aerosphere-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:39:55.645Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-checkliste-fuer-copd-exazerbationen-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/checkliste-fuer-copd-exazerbationen-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-checkliste-fuer-copd-exazerbationen-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/checkliste-fuer-copd-exazerbationen-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:40:01.516Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-copd-datenblatt-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-copd-datenblatt-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:40:07.311Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-copd-und-lungenkrebs-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/copd-und-lungenkrebs-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-copd-und-lungenkrebs-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/copd-und-lungenkrebs-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:40:13.081Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-ethos-studienzusammenfassung-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/ethos-studienzusammenfassung-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-ethos-studienzusammenfassung-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/ethos-studienzusammenfassung-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:40:18.890Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-fachinformation-von-trixeo-aerosphere-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/fachinformation-von-trixeo-aerosphere-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-fachinformation-von-trixeo-aerosphere-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/fachinformation-von-trixeo-aerosphere-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:40:24.685Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:56.455Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-kronos-studienzusammenfassung-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/kronos-studienzusammenfassung-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-kronos-studienzusammenfassung-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/kronos-studienzusammenfassung-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:18.320Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-lunge-und-herz-ein-unzertrennliches-duo-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/lunge-und-herz-ein-unzertrennliches-duo-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-lunge-und-herz-ein-unzertrennliches-duo-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/lunge-und-herz-ein-unzertrennliches-duo-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:40:30.576Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-patient-poster-copd-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/patient-poster-copd-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-patient-poster-copd-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/patient-poster-copd-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:29.896Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-patientenbroschure-zur-copd-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/patientenbroschure-zur-copd-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-patientenbroschure-zur-copd-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/patientenbroschure-zur-copd-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:24.096Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-slide-deck-copd-now-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/slide-deck-copd-now-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-slide-deck-copd-now-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/slide-deck-copd-now-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:35.666Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-slide-deck-trixeo-aerosphere-technologie-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/slide-deck-trixeo-aerosphere-technologie-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-slide-deck-trixeo-aerosphere-technologie-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/slide-deck-trixeo-aerosphere-technologie-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:47.278Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-studienzusammenfassung-skopos-mazi-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/studienzusammenfassung-skopos-mazi-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-studienzusammenfassung-skopos-mazi-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/studienzusammenfassung-skopos-mazi-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:41.445Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-factsheet-zur-limitatio-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-factsheet-zur-limitatio-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-factsheet-zur-limitatio-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-factsheet-zur-limitatio-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:53.092Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-kranken-kassenformular-fr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-kranken-kassenformular-fr.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "resource-detail",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-ressourcen-trixeo-aerosphere-kranken-kassenformular-fr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-kranken-kassenformular-fr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:41:58.947Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-sicherheit-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/sicherheit.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-sicherheit-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/sicherheit.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:42:52.477Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-succinct-statement-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/succinct-statement.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-succinct-statement-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/succinct-statement.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:42:46.583Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-uberblick-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-uberblick-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/uberblick.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:38:32.851Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-produkte-trixeo-wirksamkeit-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/wirksamkeit.html",
+   "locale": "fr",
+   "type": "program",
+   "template": "product-tab",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-produkte-trixeo-wirksamkeit-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/produkte/trixeo/wirksamkeit.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:42:58.380Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:10.505Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-diabetes-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/diabetes.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-diabetes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/diabetes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:10.536Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-herzinsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:12.888Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html",
+   "locale": "fr",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:21.390Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+   "locale": "fr",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:16.025Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+   "locale": "fr",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:12.862Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html",
+   "locale": "fr",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:19.210Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.html",
+   "locale": "fr",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:16.493Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-onkologie-brustkrebs-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/brustkrebs.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-onkologie-brustkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/onkologie/brustkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:28.152Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:32.290Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-onkologie-haematologie-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/haematologie.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-onkologie-haematologie-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/onkologie/haematologie.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:31.442Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-onkologie-lungenkrebs-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-onkologie-lungenkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/onkologie/lungenkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:31.445Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-onkologie-prostata-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/prostata.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-onkologie-prostata-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/onkologie/prostata.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:27.386Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-ri-asthma-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-ri-asthma-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/ri/asthma.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:25.235Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-ri-copd-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/copd.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-ri-copd-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/ri/copd.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:24.389Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "fr-startseite-therapiegebiete-ri-lupus-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+   "locale": "fr",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-therapiegebiete-ri-lupus-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/therapiegebiete/ri/lupus.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:21.363Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-contact-us-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+   "locale": "it",
+   "type": "form",
+   "template": "contact",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-contact-us-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/contact-us.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:09.359Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite.html",
+   "locale": "it",
+   "type": "landing",
+   "template": "home",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:35.008Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-produkte-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+   "locale": "it",
+   "type": "listing",
+   "template": "product-listing",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-produkte-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/produkte.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:31:03.588Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:39.297Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-diabetes-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-diabetes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/diabetes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:39.829Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:40.830Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.html",
+   "locale": "it",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/see-the-pattrns/about-amylodosis-attr.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:49.424Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.html",
+   "locale": "it",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/see-the-pattrns/diagnosis.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:44.001Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+   "locale": "it",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:42.610Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.html",
+   "locale": "it",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/see-the-pattrns/symptomes.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:48.464Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.html",
+   "locale": "it",
+   "type": "unique",
+   "template": "pattrns",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/cvrm/see-the-pattrns/treatement.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:43.996Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-onkologie-brustkrebs-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/brustkrebs.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-onkologie-brustkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/onkologie/brustkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:58.888Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-onkologie-eierstockkrebs-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-onkologie-eierstockkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/onkologie/eierstockkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:30:57.026Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-onkologie-haematologie-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-onkologie-haematologie-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/onkologie/haematologie.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:58.851Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-onkologie-lungenkrebs-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-onkologie-lungenkrebs-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/onkologie/lungenkrebs.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:26:01.141Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-onkologie-prostata-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/prostata.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-onkologie-prostata-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/onkologie/prostata.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:54.811Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-ri-asthma-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-ri-asthma-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/ri/asthma.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:54.799Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-ri-copd-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-ri-copd-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/ri/copd.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:54.823Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "it-startseite-therapiegebiete-ri-lupus-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+   "locale": "it",
+   "type": "article",
+   "template": "therapy-area",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-therapiegebiete-ri-lupus-html.json",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/therapiegebiete/ri/lupus.plain.html",
+   "history": [
+    {
+     "status": "extracted",
+     "at": "2026-10-07T10:25:50.690Z"
+    },
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:replica Phase 5 (import script + EDS gate)",
+     "tier": "sibling"
+    }
+   ]
+  },
+  {
+   "slug": "de-startseite-search-result-html",
+   "url": "https://www.myastrazeneca.ch/de/startseite/search-result.html",
+   "locale": "de",
+   "type": "search",
+   "template": "search-result",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/de-startseite-search-result-html.html",
+   "prototypePath": null,
+   "migratedPath": "content/de/startseite/search-result.plain.html",
+   "history": [
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:dynamics F-2 (search box implies a results page)",
+     "note": "server HTML fetched once (not in sitemap); results are client-rendered on live, so the page carries only its title + the Search block"
+    }
+   ],
+   "archetype": false
+  },
+  {
+   "slug": "fr-startseite-search-result-html",
+   "url": "https://www.myastrazeneca.ch/fr/startseite/search-result.html",
+   "locale": "fr",
+   "type": "search",
+   "template": "search-result",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/fr-startseite-search-result-html.html",
+   "prototypePath": null,
+   "migratedPath": "content/fr/startseite/search-result.plain.html",
+   "history": [
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:dynamics F-2 (search box implies a results page)",
+     "note": "server HTML fetched once (not in sitemap); results are client-rendered on live, so the page carries only its title + the Search block"
+    }
+   ],
+   "archetype": false
+  },
+  {
+   "slug": "it-startseite-search-result-html",
+   "url": "https://www.myastrazeneca.ch/it/startseite/search-result.html",
+   "locale": "it",
+   "type": "search",
+   "template": "search-result",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/it-startseite-search-result-html.html",
+   "prototypePath": null,
+   "migratedPath": "content/it/startseite/search-result.plain.html",
+   "history": [
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:dynamics F-2 (search box implies a results page)",
+     "note": "server HTML fetched once (not in sitemap); results are client-rendered on live, so the page carries only its title + the Search block"
+    }
+   ],
+   "archetype": false
+  },
+  {
+   "slug": "en-startseite-search-result-html",
+   "url": "https://www.myastrazeneca.ch/en/startseite/search-result.html",
+   "locale": "en",
+   "type": "search",
+   "template": "search-result",
+   "status": "migrated",
+   "currentStatePath": "stardust/current/pages/en-startseite-search-result-html.html",
+   "prototypePath": null,
+   "migratedPath": "content/en/startseite/search-result.plain.html",
+   "history": [
+    {
+     "status": "migrated",
+     "at": "2026-10-07T15:10:04.321Z",
+     "by": "stardust:dynamics F-2 (search box implies a results page)",
+     "note": "server HTML fetched once (not in sitemap); results are client-rendered on live, so the page carries only its title + the Search block"
+    }
+   ],
+   "archetype": false
+  }
+ ],
+ "templates": {
+  "home": {
+   "archetype": "de-startseite-html",
+   "prototype": "stardust/prototypes/home-proposed.html"
+  },
+  "therapy-area": {
+   "archetype": "de-startseite-therapiegebiete-ri-asthma-html",
+   "prototype": "stardust/prototypes/therapy-area-proposed.html"
+  },
+  "product-listing": {
+   "archetype": "de-startseite-produkte-html",
+   "prototype": "stardust/prototypes/product-listing-proposed.html"
+  },
+  "contact": {
+   "archetype": "de-startseite-contact-us-html",
+   "prototype": "stardust/prototypes/contact-proposed.html"
+  },
+  "product-tab": {
+   "archetype": "de-startseite-produkte-trixeo-uberblick-html",
+   "prototype": "stardust/prototypes/product-tab-proposed.html"
+  },
+  "resource-detail": {
+   "archetype": "de-startseite-produkte-trixeo-ressourcen-copd-datenblatt-de-html",
+   "prototype": "stardust/prototypes/resource-detail-proposed.html"
+  },
+  "pattrns": {
+   "archetype": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+   "prototype": "stardust/prototypes/pattrns-proposed.html"
+  }
+ }
+}

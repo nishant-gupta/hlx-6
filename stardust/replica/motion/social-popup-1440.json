@@ -1,0 +1,127 @@
+[
+ {
+  "tag": "div",
+  "cls": "cmp-socialFeatures__request-to-signin-content-wrapper cmp-socialFeatures__popup-",
+  "text": "",
+  "rect": [
+   1049,
+   494,
+   261,
+   64
+  ],
+  "s": {
+   "position": "absolute",
+   "top": "40px",
+   "left": "919px",
+   "width": "261px",
+   "height": "64px",
+   "zIndex": "1050",
+   "backgroundColor": "rgb(255, 255, 255)",
+   "opacity": "1",
+   "color": "rgb(60, 66, 66)",
+   "fontFamily": "Inter-Regular",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "padding": "20px 40px",
+   "borderRadius": "6px",
+   "boxShadow": "rgba(0, 0, 0, 0.45) 0px 0px 7px 0px",
+   "textAlign": "start",
+   "display": "block",
+   "border": "0px none rgb(60, 66, 66)"
+  }
+ },
+ {
+  "tag": "span",
+  "cls": "cmp-socialFeatures__close-icon-class icon-class fa-close",
+  "text": "",
+  "rect": [
+   1280,
+   504,
+   20,
+   20
+  ],
+  "s": {
+   "position": "absolute",
+   "top": "10px",
+   "left": "231px",
+   "width": "20px",
+   "height": "20px",
+   "zIndex": "auto",
+   "backgroundColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "color": "rgb(60, 66, 66)",
+   "fontFamily": "icomoon",
+   "fontSize": "20px",
+   "lineHeight": "20px",
+   "padding": "0px",
+   "borderRadius": "0px",
+   "boxShadow": "none",
+   "textAlign": "start",
+   "display": "block",
+   "border": "0px none rgb(60, 66, 66)"
+  }
+ },
+ {
+  "tag": "div",
+  "cls": "cmp-socialFeatures__request-to-signin-content cmp-socialFeatures__popup-content",
+  "text": "",
+  "html": "<p>requestToSignInContent</p>",
+  "rect": [
+   1089,
+   514,
+   181,
+   24
+  ],
+  "s": {
+   "position": "static",
+   "top": "auto",
+   "left": "auto",
+   "width": "181px",
+   "height": "24px",
+   "zIndex": "auto",
+   "backgroundColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "color": "rgb(60, 66, 66)",
+   "fontFamily": "Inter-Regular",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "padding": "0px",
+   "borderRadius": "0px",
+   "boxShadow": "none",
+   "textAlign": "start",
+   "display": "block",
+   "border": "0px none rgb(60, 66, 66)"
+  }
+ },
+ {
+  "tag": "p",
+  "cls": "",
+  "text": "requestToSignInContent",
+  "rect": [
+   1089,
+   514,
+   181,
+   24
+  ],
+  "s": {
+   "position": "static",
+   "top": "auto",
+   "left": "auto",
+   "width": "181px",
+   "height": "24px",
+   "zIndex": "auto",
+   "backgroundColor": "rgba(0, 0, 0, 0)",
+   "opacity": "1",
+   "color": "rgb(60, 66, 66)",
+   "fontFamily": "Inter-Regular",
+   "fontSize": "16px",
+   "lineHeight": "24px",
+   "padding": "0px",
+   "borderRadius": "0px",
+   "boxShadow": "none",
+   "textAlign": "start",
+   "display": "block",
+   "border": "0px none rgb(60, 66, 66)"
+  }
+ }
+]

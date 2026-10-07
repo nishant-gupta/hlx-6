@@ -1,0 +1,588 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:32:44.284Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-startseite-therapiegebiete-ri-asthma-html",
+  "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:32:44.284Z",
+  "finalUrl": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+  "title": "Asthma – Advances in Diagnosis and Care",
+  "description": "Explore clinical guidelines, current treatment strategies, and essential information on asthma management for healthcare professionals.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/ri-asthma-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Asthma"
+    },
+    {
+      "tag": "h2",
+      "text": "Asthma at a glance"
+    },
+    {
+      "tag": "h4",
+      "text": "Prevalence"
+    },
+    {
+      "tag": "h4",
+      "text": "Switzerland"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortality"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptoms"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnosis"
+    },
+    {
+      "tag": "h4",
+      "text": "Treatment"
+    },
+    {
+      "tag": "h3",
+      "text": "Useful product information"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Our medicines Cardiovascular, Renal & Metabolism Heart Failure Forxiga® (Dapagliflozin) Chronic Kidney Disease (CKD) Forxiga® (Dapagliflozin) Type 2 diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidosis Wainzua® (Eplontersen) Respiratory & Immunology COPD Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophilic granulomatosis with polyangiitis (EGPA) Fasenra® (Benralizumab) Systemic lupus erythematosus (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Oncology & Hematology Breast Cancer Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hematology Calquence® (Acalabrutinib) Hepatocellular Carcinoma Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Biliary Tract Cancer Imfinzi® (Durvalumab) Lung Cancer Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarian Cancer Lynparza® (Olaparib) Endometrial Cancer Imfinzi® (Durvalumab) Prostate Cancer Lynparza® (Olaparib) Muscle Invasive Bladder Cancer Imfinzi® (Durvalumab) Pancreatic Cancer Lynparza® (Olaparib) Gastric Cancer & Gastroesophageal adenocarcinoma (GC/GEJC) Enhertu® (Trastuzumab Deruxtecan) Imfinzi® (Durvalumab) Tumor Agnostic Enhertu® (Trastuzumab Deruxtecan) View all Medicines",
+    "Therapeutic Areas Cardiovascular, Renal & Metabolism Acute care Chronic Kidney Disease (CKD) Diabetes Heart failure Respiratory & Immunology Asthma COPD Systemic lupus erythematosus (SLE) Oncology Breast Cancer Liver and gallbladder cancer Ovarian cancer Haematology Lung cancer",
+    "Contact us",
+    "Home",
+    "Therapy areas",
+    "R&I",
+    "Asthma",
+    "Asthma",
+    "Bronchial asthma is a heterogeneous and chronic inflammatory disease of the airways, in which those affected suffer from breathlessness due to a narrowing of the airways.1 The inflammatory process leads to increased sensitivity of the airways (bronchial hyperreactivity) to various external stimuli.1 Asthma affects both children and adults and is the most common chronic disease in children.2",
+    "In 2019, an estimated 262 million people worldwide were affected by asthma and 455,000 people died from asthma.3 Asthma is also widespread in Switzerland: Every 10th child and every 14th adult suffers from asthma.4 From 2018-2022, an average of 78 people in Switzerland died from asthma every year.5",
+    "The underlying causes of asthma are not yet fully understood. Risk factors for asthma in childhood and adulthood include:6,7",
+    "Genetic disposition",
+    "Smoking/exposure to cigarette smoke",
+    "Exposure to allergens indoors/occupational exposure",
+    "Allergies (e.g. allergic rhinitis)",
+    "Air pollution",
+    "Viral infections of the respiratory tract",
+    "Excess weight",
+    "Stress",
+    "Many clinical phenotypes of asthma have been identified, with the most common form being allergic asthma, which is often associated with eosinophilic inflammation of the airways.8 Up to 84% of patients with severe asthma are likely to have an eosinophilic phenotype.9",
+    "Prevalence",
+    "The prevalence of asthma has increased worldwide in recent decades6",
+    "Switzerland",
+    "Approximately 10% of children and 7% of adults in Switzerland suffer from asthma4",
+    "Mortality",
+    "One person dies of asthma in Switzerland about every 5 days5",
+    "Symptoms",
+    "Asthma is characterised by the following symptoms:8",
+    "Wheezing",
+    "Shortness of breath",
+    "Tightness in the chest",
+    "Cough",
+    "The symptoms vary in their intensity and over time. They are accompanied by variable restriction to the expiratory airflow.8",
+    "Symptoms sometimes worsen suddenly and significantly, which is called an asthma attack or exacerbation.2,8 Symptoms are often worse at night or during exercise.2",
+    "Diagnosis",
+    "Asthma is diagnosed on the basis of typical respiratory symptoms, together with physiological signs of variable restriction to the expiratory airflow.8",
+    "Spirometry can be used to assess both restriction to airflow and the response to bronchodilators.10 Bronchial provocation tests allow a non-invasive assessment of airway hyperresponsiveness.10 Analysing blood and sputum for eosinophilia and measuring fractional exhaled nitric oxide (FeNO) can help detect airway inflammation that is characteristic of some asthma phenotypes.10",
+    "Treatment",
+    "Asthma is considered incurable but highly treatable.1 The long-term goals of asthma treatment are to achieve good symptom control and to minimise the future risk of asthma-related mortality, exacerbations and persistent restrictions to airflow.8",
+    "The following inhaled medications are usually used in the treatment of asthma:2",
+    "Bronchodilators that open up the airways and alleviate symptoms.",
+    "Steroids that reduce inflammation in the airways, which improves asthma symptoms and reduces the risk of severe exacerbations and death.",
+    "In patients with severe asthma who have poor symptom control and/or exacerbations despite treatment with inhaled corticosteroids and long-acting beta2 agonists, phenotypic assessment and consideration of add-on therapy with long-acting muscarinic antagonists (LAMA), antibiotics, bronchial thermoplasty, biologics or as last resort oral corticosteroids is recommended.8",
+    "FOPH, Chronic respiratory diseases. Last revised on: 20/11/2020. Available online at: https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html. Last accessed on: 08/05/2024.",
+    "WHO Factsheet WHO, Fact sheet Asthma. Last revised on: 06 May 2024. Available online at: https://www.who.int/news-room/fact-sheets/detail/asthma. Last accessed on: 08/05/2024.",
+    "Global burden of 369 diseases and injuries i11 204 countries and territories, 1990-2019: a systematic analysis for the Global Burde11 of Disease Study 2019. Lancet. 2020;396(10258):1204-22.",
+    "Swiss Lung League, diseases and therapies, asthma. Available online at: https://www.lungenliga.ch/krankheiten-therapien/asthma. Last accessed on: 08/05/2024.",
+    "Federal Statistical Office: Deaths and death rates from major causes of death, by age, women/men. Published on 11/12/2023. Covers period from 1990-2022. Tables available at: https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death/specific.html. Last accessed on: 17/05/2024.",
+    "Kuruvilla ME, et al. Epidemiology and risk factors for asthma. Respir Med. 2019 Mar;149:16-22.",
+    "American Lung Association. Asthma Causes and Risk factors. Available online at: https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma. Last accessed on: 17/05/2024.",
+    "Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2024. Updated May 2024. Available online at: www.ginasthma.org, Last accessed on: 08/05/2024.",
+    "Heaney LG et al. Eosinophilic and Noneosinophilic Asthma: An Expert Consensus Framework to Characterize Phenotypes in a Global Real-Life Severe Asthma Cohort. Chest 2021;160(3):814-830.",
+    "Aaron SD, et al. Underdiagnosis and Overdiagnosis of Asthma. Am J Respir Crit Care Med. 2018 Oct 15;198(8):1012-1020.",
+    "We apply our broad expertise in the areas of research and development throughout the entire lifecycle of a medication. Discover our indications or browse through all our products.",
+    "CH-12797 Revision date 05/2026",
+    "This website is intended for healthcare professionals in Switzerland only.",
+    "Cookie policy",
+    "Contact",
+    "Terms of use",
+    "Report side effects",
+    "Report quality complaint",
+    "Medical enquiries"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "Contact us",
+      "href": "/en/startseite/contact-us.html"
+    },
+    {
+      "label": "Login",
+      "href": "/en/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/en/startseite.html"
+    },
+    {
+      "label": "Therapy areas",
+      "href": "/en/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "R&I",
+      "href": "/en/startseite/therapiegebiete/ri.html"
+    },
+    {
+      "label": "https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html",
+      "href": "https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html"
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/asthma"
+    },
+    {
+      "label": "https://www.lungenliga.ch/krankheiten-therapien/asthma",
+      "href": "https://www.lungenliga.ch/krankheiten-therapien/asthma"
+    },
+    {
+      "label": "https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death/specific.html",
+      "href": "https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death/specific.html"
+    },
+    {
+      "label": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma",
+      "href": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma"
+    },
+    {
+      "label": "www.ginasthma.org",
+      "href": "https://ginasthma.org/"
+    },
+    {
+      "label": "Discover now",
+      "href": "/en/startseite/produkte.html#tabs-f628d3cc6a-item-71c798e524-tab"
+    },
+    {
+      "label": "Cookie policy",
+      "href": "//policy.cookiereports.com/b50c8635-en-gb.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.astrazeneca.ch/en/contact-us.html"
+    },
+    {
+      "label": "Terms of use",
+      "href": "https://www.astrazeneca.ch/en/terms-of-use.html"
+    },
+    {
+      "label": "Report side effects",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html"
+    },
+    {
+      "label": "Report quality complaint",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medical enquiries",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    },
+    {
+      "label": "Cookie Notice on our websites",
+      "href": "https://cookienotice.astrazeneca.com/"
+    },
+    {
+      "label": "Allow All Cookies",
+      "href": "#"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": "#"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/en/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/en/user/login.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri.html",
+    "https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html",
+    "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "https://www.lungenliga.ch/krankheiten-therapien/asthma",
+    "https://www.bfs.admin.ch/bfs/en/home/statistics/health/state-health/mortality-causes-death/specific.html",
+    "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma",
+    "https://ginasthma.org/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte.html#tabs-f628d3cc6a-item-71c798e524-tab",
+    "https://policy.cookiereports.com/b50c8635-en-gb.html",
+    "https://www.astrazeneca.ch/en/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-en/privacy-notices.html",
+    "https://www.astrazeneca.ch/en/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com",
+    "https://cookienotice.astrazeneca.com/",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html#",
+    "https://www.digitalcontrolroom.com/",
+    "https://www.digitalcontrolroom.com/privacy-policy/",
+    "https://tealium.com/",
+    "https://tealium.com/privacy/",
+    "https://www.vmware.com/",
+    "https://www.vmware.com/help/privacy.html",
+    "https://aws.amazon.com/elasticloadbalancing/",
+    "https://aws.amazon.com/privacy/",
+    "https://www.amazon.com/",
+    "https://www.amazon.com/privacy",
+    "https://www.microsoft.com/",
+    "https://privacy.microsoft.com/",
+    "https://www.adobe.com/",
+    "https://www.adobe.com/privacy/policy.html",
+    "https://www.adobe.com/privacy.html",
+    "https://www.innovid.com/",
+    "https://www.innovid.com/privacy-policy/",
+    "https://mouseflow.com/",
+    "https://mouseflow.com/privacy/",
+    "https://www.flashtalking.com/",
+    "https://www.flashtalking.com/privacypolicy",
+    "https://www.google.com/",
+    "https://policies.google.com/privacy",
+    "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.google.com/chrome/answer/95647?hl=en",
+    "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/en/Header/master/_jcr_content/root/image.coreimg.svg/1789487620440/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 82,
+        "h": 20
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 82,
+        "h": 20
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1724991266562/banner-header.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/banner-header-mobile.jpg",
+        "alt": "",
+        "w": 576,
+        "h": 560
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1724992135019/prevalance-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/prevalance-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1724992147725/switzerland-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/switzerland-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1724992157708/mortality-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/mortality-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1724992198228/symptome-desktop.jpeg",
+        "alt": "",
+        "w": 1123,
+        "h": 546
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/symptome-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105__614580766/teaser.coreimg.80.1920.jpeg/1724992082344/diagnose-desktop.jpeg",
+        "alt": "",
+        "w": 899,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/diagnose-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105__531432995/teaser.coreimg.80.1920.jpeg/1724992101411/behandlung-desktop.jpeg",
+        "alt": "",
+        "w": 899,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/behandlung-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/en/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337901081/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 82,
+        "h": 20
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [
+      "CookiesIn addition to cookies to provide functions of our website, we also use cookies that analyse the use of the website, the content you visit and its use, enable the display of personalized content, and provide social media functions. By default, only cookies required to provide the website are stored. However, if you click on the “Accept all cookies” button, you consent to the storage of all cookies on your device. If you click on “Accept all cookies”, you agree that your data will be processed by service providers from third countries worldwide, including outside the European Economic Area (in particular the USA), which do not have an adequate level of data protection. In this case, it is possible that authorities can access the data without legal remedies. If you click on “Reject optional cookies,” the transmission described above will not take place. You can adjust your preferences, obtain additional information, and withdraw or change your consent at any time via the “Cookie Preferences” menu or via the information about cookies linked on the page. For more information about the use of cookies, please see our Cookie Notice on our websites .Allow All CookiesCookie PreferencesConfirm Your PreferencesNecessary cookies only12Strictly Necessary CookiesThe strictly necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You may be able to decline these cookies through your browser, but necessary parts of the site will not then work. These cookies do not store any personally identifiable information.Detailed description of cookies categorised as: Strictly Necessary Cookies. CookieExpiryDomainCompanyPurposewscrCookieConsent1 yearwww.myastrazeneca.chDigital Control Room LtdYour visitStores your cookie consent session for our site. It contains no information other than whether you have opted in or out for each cookie level.Digital Control Room Ltd - Privacy Policy (Digital Control Room Ltd)+ ▼Stores your cookie consent session for our site. It contains no information other than whether you have opted in or out for each cookie level.Digital Control Room Ltd - Privacy Policy (Digital Control Room Ltd)utag_main_ses_id1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main_vapi_domain1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__pn1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__se1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__sn1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__ss1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__st1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)_vapi<digits>+Sessionmyastrazeneca.chVMware, IncYour visitCookie that contains a session identifier used to authenticate the use and deliver different APIs. The cookie is dynamic so it cannot be updated, as each customer will have a unique cookie.VMware, Inc - Privacy Policy (VMware, Inc)+ ▼Cookie that contains a session identifier used to authenticate the use and deliver different APIs. The cookie is dynamic so it cannot be updated, as each customer will have a unique cookie.VMware, Inc - Privacy Policy (VMware, Inc)AWSALB1 hourwww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Your visitUsed by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)+ ▼Used by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)AWSALBCORS1 weekwww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Your visitUsed by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)+ ▼Used by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)JSESSIONIDSessionwww.myastrazeneca.chEIS, Microsoft CorporationYour visitStores session data during a website visit, issued by Jetty Web Server.Microsoft Corporation - Privacy Policy (Microsoft Corporation)+ ▼Stores session data during a website visit, issued by Jetty Web Server.Microsoft Corporation - Privacy Policy (Microsoft Corporation)0Functional CookiesConsent for: Functional CookiesThese cookies enable the website to provide enhanced functionality, aid site personalisation, maintain user-selected options and site navigation aids. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.We do not use any cookies in this category.35Performance and Operational CookiesConsent for: Performance and Operational CookiesThese cookies allow us to count visits and traffic sources, perform customer surveys and other web analytics, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. The information these cookies collect is aggregated and in some instances limited identifiable data may be collected.Detailed description of cookies categorised as: Performance and Operational Cookies. CookieExpiryDomainCompanyPurposeeverest_g_v22 yearseveresttech.netAdobe Inc.AnalyticsThese cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼These cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)everest_session_v2Sessioneveresttech.netAdobe Inc.AnalyticsThese cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼These cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)im_cookie_ccreativeSessionmyastrazeneca.chAdobe Inc.AnalyticsRecords the Campaign ID used to navigate to the website+ ▼Records the Campaign ID used to navigate to the websitetestSessionmyastrazeneca.chAdobe Inc.AnalyticsInternal cookie written by Adobe Analytics to test browser cookie support.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Internal cookie written by Adobe Analytics to test browser cookie support.Adobe Inc. - Privacy Policy (Adobe Inc.)im_cookie_cadpubSessionmyastrazeneca.chAstraZenecaAnalyticsAll the im_ cookies are Analytics cookies. This specific example is a session cookie used to store the campaign advertiser publisher (cadpub) URL parameter during the session so it can be used for data analytics in the data captured.+ ▼All the im_ cookies are Analytics cookies. This specific example is a session cookie used to store the campaign advertiser publisher (cadpub) URL parameter during the session so it can be used for data analytics in the data captured.im_cookie_cmediumSessionmyastrazeneca.chAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.+ ▼Used for analytics of navigation methods to the website.im_cookie_cnameSessionmyastrazeneca.chAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.+ ▼Used for analytics of navigation methods to the website.uuid90 daysinnovid.comAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.AstraZeneca - Privacy Policy (AstraZeneca)+ ▼Used for analytics of navigation methods to the website.AstraZeneca - Privacy Policy (AstraZeneca)mf_*Sessionmyastrazeneca.chMouseflow ApSAnalyticsMeasure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)+ ▼Measure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)mf_user90 daysmyastrazeneca.chMouseflow ApSAnalyticsMeasure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)+ ▼Measure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)im_cookie_session_idSessionmyastrazeneca.chAdobe, Adobe Inc.AnalyticsManages user session for site functionality, expiring when browser closes.+ ▼Manages user session for site functionality, expiring when browser closes.im_cookie_visitor_uid27 years, 4 monthsmyastrazeneca.chAdobe, Adobe Inc.AnalyticsTracks visitor behaviour across multiple sessions to improve user experience, with a long-term expiry.+ ▼Tracks visitor behaviour across multiple sessions to improve user experience, with a long-term expiry.AMCVS_*AdobeOrgSessionmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsSession cookie with Adobe. It indicates that a session has been initialized. The organisation ID helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Session cookie with Adobe. It indicates that a session has been initialized. The organisation ID helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)AMCV_*AdobeOrg2 yearsmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsHelps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)astrazenecauklimited!mboxPC1 dayastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)astrazenecauklimited!mboxSession30 minutesastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)at_checkSessionmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor, when experimenting with which content should be served to the visitor.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor, when experimenting with which content should be served to the visitor.Adobe Inc. - Privacy Policy (Adobe Inc.)gpv_pn30 minutesmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsThis cookie is set and read by the Adobe Analytics JavaScript code when the page is loaded. Captures Adobe Analytics page name. No Personally Identifiable Information collected.+ ▼This cookie is set and read by the Adobe Analytics JavaScript code when the page is loaded. Captures Adobe Analytics page name. No Personally Identifiable Information collected.mbox2 yearsmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsThis cookie is used to control which elements should be shown to a visitor and gives website operators the ability to test which online content and offers are more relevant to visitors.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼This cookie is used to control which elements should be shown to a visitor and gives website operators the ability to test which online content and offers are more relevant to visitors.Adobe Inc. - Privacy Policy (Adobe Inc.)demdex2 yearsdemdex.netAdobe Media Optimizer, Adobe Inc.Analytics​Used to recognize a returning visitor, build unique audience profiles and deliver targeted messages using Adobe Analytics.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼​Used to recognize a returning visitor, build unique audience profiles and deliver targeted messages using Adobe Analytics.Adobe Inc. - Privacy Policy (Adobe Inc.)dextp6 monthsdemdex.netAdobe Media Optimizer, Adobe Inc.AnalyticsAdobe Audience Manager sets this cookie to record the last time it made a data synchronization call.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Adobe Audience Manager sets this cookie to record the last time it made a data synchronization call.Adobe Inc. - Privacy Policy (Adobe Inc.)dpm2 yearsdpm.demdex.netAdobe Media Optimizer, Adobe Inc.AnalyticsUsed to help Adobe Audience Manager perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etcAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Used to help Adobe Audience Manager perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etcAdobe Inc. - Privacy Policy (Adobe Inc.)flashtalkingad12 yearsflashtalking.comFlashtalking, Simplicity Marketing LtdAnalyticsCollects anonymous data and determines what advertising has been delivered to the user already, on behalf of Advertising platform Flashtalking by Simplicity Marketing Ltd.Flashtalking - Privacy Policy (Flashtalking)+ ▼Collects anonymous data and determines what advertising has been delivered to the user already, on behalf of Advertising platform Flashtalking by Simplicity Marketing Ltd.Flashtalking - Privacy Policy (Flashtalking)s_ccSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsStores whether cookies are enabled, on behalf of the SiteCatalyst Analytics platform.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Stores whether cookies are enabled, on behalf of the SiteCatalyst Analytics platform.Adobe Inc. - Privacy Policy (Adobe Inc.)s_getDaysSinceLastVisit3 yearsmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)s_getDaysSinceLastVisit_s3 yearsmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)s_getNewRepeat30 daysmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsDetermines whether a visitor is a new visitor or a repeat visitor, and captures this information in an Analytics variable.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Determines whether a visitor is a new visitor or a repeat visitor, and captures this information in an Analytics variable.Adobe Inc. - Privacy Policy (Adobe Inc.)s_invisit30 minutesmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsThis cookie is used by an Omniture plugin to count the visit numbers per month for a specific user of the web page.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼This cookie is used by an Omniture plugin to count the visit numbers per month for a specific user of the web page.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pltSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pltpSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)s_ppvSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsStores the percentage of the page that was displayed vertically to the end user.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Stores the percentage of the page that was displayed vertically to the end user.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pvsSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)s_tpSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: Adobe Consulting PluginAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: Adobe Consulting PluginAdobe Inc. - Privacy Policy (Adobe Inc.)s_tpsSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)s_vnum30 daysmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsEnables Visit Number By Month tracking for the SiteCatalyst Analytics platform by recording how you arrived at the site.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Enables Visit Number By Month tracking for the SiteCatalyst Analytics platform by recording how you arrived at the site.Adobe Inc. - Privacy Policy (Adobe Inc.)3Marketing and targeted advertising CookiesConsent for: Marketing and targeted advertising CookiesThese cookies are used to track our visitors browsing habits and activity across our websites. They can be used to build up a profile of search and/or browsing history for every visitor. Identifiable or unique data may be collected which enables us to show you relevant/personalized marketing content. We do not store directly personal information, but information that uniquely identify your browser and internet device and use this to display targeted advertising and/or share this data with third parties for the same purpose. If you do not allow these cookies, you will experience less personalized marketing content and targeted advertising.Detailed description of cookies categorised as: Marketing and targeted advertising Cookies. CookieExpiryDomainCompanyPurpose_gcl_au3 monthsmyastrazeneca.chAdSense, Google LLCAdvertisingGoogle AdSense gather statistics on the use of their service to help inform marketing decisionsGoogle LLC - Privacy Policy (Google LLC)+ ▼Google AdSense gather statistics on the use of their service to help inform marketing decisionsGoogle LLC - Privacy Policy (Google LLC)IDE2 yearsdoubleclick.netDoubleClick, Google LLCAdvertisingContains a unique code to determine which advertisements have been shown on a device, on behalf of Google Inc. Advertising platform DoubleClick. Allows monitoring of the effectiveness of the ads and make the ads more relevant to the user.Google LLC - Privacy Policy (Google LLC)+ ▼Contains a unique code to determine which advertisements have been shown on a device, on behalf of Google Inc. Advertising platform DoubleClick. Allows monitoring of the effectiveness of the ads and make the ads more relevant to the user.Google LLC - Privacy Policy (Google LLC)test_cookie15 minutesdoubleclick.netGoogle Analytics, Google LLCAdvertisingTests if the user's browser supports cookies, on behalf of Google Inc. Advertising platform DoubleClick.Google LLC - Privacy Policy (Google LLC)+ ▼Tests if the user's browser supports cookies, on behalf of Google Inc. Advertising platform DoubleClick.Google LLC - Privacy Policy (Google LLC)Manage Your CookiesWhat are cookies, how are they used and how are they managed? Cookies are small text files that contain letters and numbers and are placed on your computer or device. Cookies are set when you visit a website that uses cookies and may be used to keep track of pages visited within the site, help you continue where you left off or remember your preferences, such as language settings. Cookies are very important to help us make online services easier to use, to monitor the use of our site and to help us improve the service to you. To make it easier for you to understand the way a website uses cookies, we have grouped them into easy to understand categories. The category to which a cookie belongs can be seen in the Cookie Panel. The information in the Cookie Panel is provided to you in an open and transparent way, so that you can see how cookies are used to enrich your visitor experience and make an informed choice to allow their usage. However, if you wish to control and remove cookies, this can be done via settings in your web browser. Please be aware that restricting cookies may impact the functionality of a website. Many of the interactive functions offered by websites are dependent on cookies and disabling or blocking cookies can prevent these services from working or reduce their usefulness. Different web browsers may use different methods for managing cookies. Please follow the instructions below, from the web browser manufacturers directly, to configure your browser settings*. Microsoft Edge Google Chrome Apple Safari Mozilla Firefox * These links are to third party sites, over which we have no control – no liability can be claimed if they are inaccurate.Last updated 2026-09-20Powered by Digital Control Room"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 2,
+    "distinctHeadings": 9,
+    "mainTextLen": 32771,
+    "realImageCount": 18,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 0,
+      "thirdPartyScriptHosts": 3,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-startseite-therapiegebiete-ri-asthma-html.png",
+  "renderedHtml": "pages/en-startseite-therapiegebiete-ri-asthma-html.html",
+  "slots": {
+    "headline": "Asthma",
+    "sections": [
+      "Asthma at a glance",
+      "Prevalence",
+      "Switzerland",
+      "Mortality",
+      "Symptoms",
+      "Diagnosis",
+      "Treatment",
+      "Useful product information"
+    ],
+    "references": false
+  }
+}

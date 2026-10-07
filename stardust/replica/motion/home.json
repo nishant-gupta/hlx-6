@@ -1,0 +1,285 @@
+{
+  "url": "https://www.myastrazeneca.ch/de/startseite.html",
+  "width": 1440,
+  "headerTimeline": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".cmp-megamenu__item--level-0.cmp-megamenu__item-parent > .cmp-megamenu__content",
+      "frames": [
+        {
+          "t": 15448.199999988079,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15651.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 15853.90000000596,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16056.09999999404,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".cmp-teaser__action-link",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(208, 0, 111)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgb(208, 0, 111)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".cmp-megamenu__item--level-0 > .cmp-megamenu__content",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "span.icon-arrow-down",
+            "transform": "none",
+            "color": "rgb(60, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "span.icon-arrow-down",
+            "transform": "none",
+            "color": "rgb(60, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".cmp-teaser__description a",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(208, 0, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": "#loginHeader",
+      "changed": [
+        "self.opacity"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(208, 0, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(208, 0, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "0.8",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".cmp-experiencefragment--footer a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "img.cmp-image__image.cmp-image--desktop",
+            "transform": "none",
+            "color": "rgb(60, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "rgb(60, 66, 66)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "img.cmp-image__image.cmp-image--desktop",
+            "transform": "none",
+            "color": "rgb(60, 66, 66)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    }
+  ],
+  "events": {
+    "animations": [],
+    "transitions": [],
+    "classMutations": [
+      {
+        "added": [
+          "open"
+        ],
+        "el": "div.megaMenu.aem-GridColumn--default--none.aem-GridColumn > div.megamenu-header > nav.cmp-megamenu > ul.cmp-megamenu__group > li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent",
+        "y": 0
+      },
+      {
+        "added": [
+          "icon-arrow-up"
+        ],
+        "el": "nav.cmp-megamenu > ul.cmp-megamenu__group > li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-up",
+        "y": 0
+      },
+      {
+        "added": [
+          "icon-arrow-up"
+        ],
+        "el": "nav.cmp-megamenu > ul.cmp-megamenu__group > li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-up",
+        "y": 0
+      },
+      {
+        "added": [
+          "open-col-3"
+        ],
+        "el": "div.megamenu-header > nav.cmp-megamenu > ul.cmp-megamenu__group > li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > ul.cmp-megamenu__group.open-col-3",
+        "y": 0
+      },
+      {
+        "added": [
+          "open-col-3"
+        ],
+        "el": "div.megamenu-header > nav.cmp-megamenu > ul.cmp-megamenu__group > li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > ul.cmp-megamenu__group.open-col-3",
+        "y": 0
+      },
+      {
+        "added": [
+          "icon-arrow-down"
+        ],
+        "el": "nav.cmp-megamenu > ul.cmp-megamenu__group > li.cmp-megamenu__item.cmp-megamenu__item--level-0.cmp-megamenu__item-parent > div.cmp-megamenu__content > span.icon-arrow-down",
+        "y": 2
+      }
+    ]
+  }
+}

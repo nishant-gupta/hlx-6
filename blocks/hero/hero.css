@@ -1,37 +1,94 @@
-.hero-container .hero-wrapper {
-  max-width: unset;
-  padding: 0;
-}
+/* hero — live teaser-home-hero (canon .hero) */
+main .hero-container > .hero-wrapper { max-width: none; }
 
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
+  overflow: hidden;
 }
 
-.hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: var(--background-color);
-}
+.hero .hero-media { background: var(--black); }
 
-.hero picture {
-  position: absolute;
-  z-index: -1;
-  inset: 0;
-  object-fit: cover;
-  box-sizing: border-box;
-}
-
-.hero img {
-  object-fit: cover;
+.hero .hero-media img {
   width: 100%;
-  height: 100%;
+  height: auto;
+  max-height: 60vh;
+  object-fit: cover;
+  opacity: 0.75;
 }
 
-@media (width >= 900px) {
-  .hero {
-    padding: 40px 32px;
+.hero.plain .hero-media img { opacity: 1; }
+.hero .pic-desktop { display: none; }
+
+@media (width >= 768px) {
+  .hero .pic-desktop { display: block; }
+  .hero .pic-mobile { display: none; }
+}
+
+.hero .hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 100%;
+  padding: 20px 16px;
+  transform: translate(-50%, -50%);
+  color: var(--white);
+  text-align: left;
+}
+
+.hero .hero-content :is(h1, h2) {
+  color: var(--white);
+  font: 36px/40px var(--heading-font-family);
+}
+
+.hero .hero-content :is(h1, h2) sup { font-size: 26px; }
+
+.hero .hero-content :is(h1, h2) a:any-link {
+  color: inherit;
+  text-decoration: none;
+}
+.hero .hero-content p { font: 18px/28px var(--body-font-family); }
+
+@media (width >= 768px) {
+  .hero .hero-content { padding: 40px 20px; }
+}
+
+@media (width >= 1280px) {
+  .hero .hero-content { max-width: 1220px; }
+
+  .hero .hero-content :is(h1, h2) {
+    font-size: 56px;
+    line-height: 60px;
+  }
+  .hero .hero-content p:not(.button-wrapper) { max-width: 577px; }
+}
+
+/* centred variant + boxed CTA banner (product listing) */
+.hero.center .hero-content,
+.hero.boxed .hero-content { text-align: center; }
+
+.hero.boxed .hero-media img { max-height: none; }
+
+.hero.boxed .hero-content :is(h1, h2) {
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.hero .hero-action {
+  max-width: 577px;
+  margin: 0 auto;
+}
+
+.hero:not(.boxed, .center) .hero-action { margin: 0; }
+
+@media (width >= 1280px) {
+  .hero.boxed .hero-content :is(h1, h2) {
+    font-size: 46px;
+    line-height: 50px;
   }
 }
+
+main .section.band:has(.hero) { text-align: left; }
+main .section.band .hero-wrapper { max-width: var(--container); }

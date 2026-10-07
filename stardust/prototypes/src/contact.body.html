@@ -1,0 +1,77 @@
+<!-- archetype: contact · source stardust/current/pages/de-startseite-contact-us-html.json · form definition stardust/dynamics/forms/contact-de.json
+     dynamics F-1 (hands-off A-2): rebuilt natively; no intake backend on the new host → local capture + explicit notice -->
+<nav class="breadcrumb wrap" aria-label="Breadcrumb"><ul>
+  <li><a href="/de/startseite.html"><span>Startseite</span> </a></li>
+  <li><span>Kontaktieren Sie uns</span></li>
+</ul></nav>
+<main class="container responsivegrid">
+  <div class="container--fixed space-md" data-section="contact">
+    <div class="cmp-container">
+      <h1 class="title title--h2 title--center"><span>Kontaktieren Sie uns</span></h1>
+      <div class="text text--spaced text--center">{{rt:0}}</div>
+      <div class="social">
+        <ul>
+          <li><button type="button" aria-label="Like" data-feature="like"><span class="icon icon--heart" aria-hidden="true"></span></button></li>
+          <li><button type="button" aria-label="Share" data-feature="share"><span class="icon icon--share" aria-hidden="true"></span></button></li>
+          <li><button type="button" aria-label="Save" data-feature="favorite"><span class="icon icon--star" aria-hidden="true"></span></button></li>
+        </ul>
+        <div class="social__popup" data-popup="error" hidden><button type="button" class="social__close" aria-label="Schließen"><span class="icon icon--close" aria-hidden="true"></span></button><p>errorMessage</p></div>
+        <div class="social__popup" data-popup="signin" hidden><button type="button" class="social__close" aria-label="Schließen"><span class="icon icon--close" aria-hidden="true"></span></button><p>requestToSignInContent</p></div>
+      </div>
+      <div class="form-wrap">
+        <form class="form" novalidate data-form="contact-de" data-endpoint="">
+          <div class="form__group">
+            <label class="form__label" for="f-firstName">Vorname <span class="form__req">*</span></label>
+            <input class="form__control" id="f-firstName" name="firstName" type="text" placeholder="Geben Sie Ihren Vornamen ein" required>
+            <p class="form__error" hidden>Dieses Feld ist erforderlich</p>
+          </div>
+          <div class="form__group">
+            <label class="form__label" for="f-lastName">Nachname <span class="form__req">*</span></label>
+            <input class="form__control" id="f-lastName" name="lastName" type="text" placeholder="Geben Sie Ihren Nachnamen ein" required>
+            <p class="form__error" hidden>Dieses Feld ist erforderlich</p>
+          </div>
+          <div class="form__group">
+            <label class="form__label" for="f-email">E-Mail <span class="form__req">*</span></label>
+            <input class="form__control" id="f-email" name="email" type="text" inputmode="email" placeholder="E-Mail" required>
+            <p class="form__error" hidden>Dieses Feld ist erforderlich</p>
+          </div>
+          <div class="form__group">
+            <label class="form__label" for="f-areaOfInterest">Interessengebiet <span class="form__req">*</span></label>
+            <select class="form__control form__control--select" id="f-areaOfInterest" name="areaOfInterest" required>
+              <option value="">Wählen Sie ein Interessengebiet</option>
+              <option>Therapiebereich: Atemwege &amp; Immunologie</option>
+              <option>Therapiebereich: Onkologie</option>
+              <option>Therapiebereich: Herz-Kreislauf-, Nieren- und Stoffwechselerkrankungen</option>
+              <option>Unsere Produkte</option>
+              <option>Medizinische Fragen</option>
+              <option>Website-Feedback</option>
+              <option>Sicherheit der Patienten</option>
+              <option>Allgemeine Anfrage</option>
+            </select>
+            <p class="form__error" hidden>Dieses Feld ist erforderlich</p>
+          </div>
+          <div class="form__group form__group--textarea">
+            <label class="form__label" for="f-enquiryText">Anfragetext (Optional)</label>
+            <textarea class="form__control form__control--textarea" id="f-enquiryText" name="enquiryText" placeholder="Anfragetext"></textarea>
+          </div>
+          <div class="form__group form__group--check">
+            <span class="form__check-req" hidden><span class="form__req">*</span></span>
+            <label class="form__check"><input type="checkbox" name="termsAndConditions" required> <span><a href="https://www.astrazeneca.ch/de/terms-of-use.html">Allgemeine Geschäftsbedingungen</a></span></label>
+            <p class="form__error" hidden>Dieses Feld ist erforderlich</p>
+          </div>
+          <div class="form__group form__group--check">
+            <span class="form__check-req" hidden><span class="form__req">*</span></span>
+            <label class="form__check"><input type="checkbox" name="privacyPolicy" required> <span><a href="https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html">Datenschutzrichtlinie</a></span></label>
+            <p class="form__error" hidden>Dieses Feld ist erforderlich</p>
+          </div>
+          <div class="form__group form__group--actions">
+            <button class="btn form__submit" type="submit"><span>Senden</span></button>
+            <button class="form__clear" type="reset" hidden>Clear Form</button>
+          </div>
+          <p class="form__notice" role="status" hidden>Ihre Anfrage wurde lokal erfasst. Es ist noch kein Empfangssystem verbunden — die Nachricht wurde nicht übermittelt.</p>
+        </form>
+      </div>
+    </div>
+  </div>
+</main>
+<!--FOOTER-->

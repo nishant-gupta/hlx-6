@@ -1,0 +1,52 @@
+/* section-tabs — live cmp-list section navigation (canon .section-tabs) */
+.section-tabs.framed {
+  border-top: 1px solid var(--mist);
+  border-bottom: 1px solid var(--mist);
+  padding: 10px 16px;
+}
+
+.section-tabs .section-tabs-inner {
+  display: flex;
+  border-bottom: 1px solid var(--mist);
+  padding: 8px 0;
+  background: var(--white);
+  overflow: hidden;
+}
+
+.section-tabs ul {
+  display: block;
+  margin: 0;
+  padding: 0;
+  overflow-x: auto;
+  list-style: none;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+
+.section-tabs li {
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.section-tabs a:any-link {
+  display: block;
+  padding: 10px 16px;
+  color: var(--graphite);
+  font: 14px/18px var(--heading-font-family);
+  text-decoration: none;
+}
+
+.section-tabs a:hover { color: var(--magenta); }
+
+.section-tabs li.is-active a:any-link {
+  border-bottom: 1px solid var(--magenta);
+  color: var(--magenta);
+}
+
+@media (width >= 768px) {
+  .section-tabs.framed {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .section-tabs a:any-link { line-height: 16px; }
+}

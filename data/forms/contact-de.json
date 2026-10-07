@@ -1,0 +1,100 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics F-1 (form definition from the captured live DOM)",
+  "source": "stardust/dynamics/forms/contact-de.json",
+  "note": "notice text is the hands-off A-2 interim copy (no backend connected), not source copy"
+ },
+ "formId": "68885bab633ecb000237618d",
+ "endpoint": "",
+ "submit": "Senden",
+ "required": "Dieses Feld ist erforderlich",
+ "notice": "Ihre Anfrage wurde lokal erfasst. Es ist noch kein Empfangssystem verbunden — die Nachricht wurde nicht übermittelt.",
+ "fields": [
+  {
+   "name": "firstName",
+   "type": "text",
+   "label": "Vorname",
+   "required": true,
+   "placeholder": "Geben Sie Ihren Vornamen ein"
+  },
+  {
+   "name": "lastName",
+   "type": "text",
+   "label": "Nachname",
+   "required": true,
+   "placeholder": "Geben Sie Ihren Nachnamen ein"
+  },
+  {
+   "name": "email",
+   "type": "text",
+   "label": "E-Mail",
+   "required": true,
+   "placeholder": "E-Mail"
+  },
+  {
+   "name": "areaOfInterest",
+   "type": "select",
+   "label": "Interessengebiet",
+   "required": true,
+   "options": [
+    {
+     "value": "",
+     "text": "Wählen Sie ein Interessengebiet"
+    },
+    {
+     "value": "Therapiebereich: Atemwege & Immunologie",
+     "text": "Therapiebereich: Atemwege & Immunologie"
+    },
+    {
+     "value": "Therapiebereich: Onkologie",
+     "text": "Therapiebereich: Onkologie"
+    },
+    {
+     "value": "Therapiebereich: Herz-Kreislauf-, Nieren- und Stoffwechselerkrankungen",
+     "text": "Therapiebereich: Herz-Kreislauf-, Nieren- und Stoffwechselerkrankungen"
+    },
+    {
+     "value": "Unsere Produkte",
+     "text": "Unsere Produkte"
+    },
+    {
+     "value": "Medizinische Fragen",
+     "text": "Medizinische Fragen"
+    },
+    {
+     "value": "Website-Feedback",
+     "text": "Website-Feedback"
+    },
+    {
+     "value": "Sicherheit der Patienten",
+     "text": "Sicherheit der Patienten"
+    },
+    {
+     "value": "Allgemeine Anfrage",
+     "text": "Allgemeine Anfrage"
+    }
+   ]
+  },
+  {
+   "name": "enquiryText",
+   "type": "textarea",
+   "label": "Anfragetext (Optional)",
+   "required": false,
+   "placeholder": "Anfragetext"
+  },
+  {
+   "name": "termsAndConditions",
+   "type": "checkbox",
+   "label": "Allgemeine Geschäftsbedingungen",
+   "required": true,
+   "link": "https://www.astrazeneca.ch/de/terms-of-use.html"
+  },
+  {
+   "name": "privacyPolicy",
+   "type": "checkbox",
+   "label": "Datenschutzrichtlinie",
+   "required": true,
+   "link": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html"
+  }
+ ]
+}
