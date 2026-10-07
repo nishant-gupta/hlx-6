@@ -1,0 +1,1836 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-10-07T11:04:50.596Z",
+  "settleMs": 6000,
+  "width": 1440,
+  "urls": [
+   "https://www.myastrazeneca.ch/de/startseite.html",
+   "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+   "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+   "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+   "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+   "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+   "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/de/startseite.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "Startseite | MyAstraZeneca",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/en/startseite.html",
+     "https://www.myastrazeneca.ch/fr/startseite.html",
+     "https://www.myastrazeneca.ch/it/startseite.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 3971,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.myastrazeneca.ch": 65,
+    "rum.hlx.page": 1,
+    "policy.cookiereports.com": 2,
+    "tags.tiqcdn.com": 2
+   },
+   "thirdPartyHosts": [
+    "rum.hlx.page",
+    "policy.cookiereports.com",
+    "tags.tiqcdn.com"
+   ],
+   "scripts": [
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/teaser.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/mastercontentlist.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371091458"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [],
+   "textAtLoad": 3971,
+   "mainEmptyAtLoad": false
+  },
+  "/de/startseite/therapiegebiete/ri/asthma.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "Asthma - Symptome, Diagnose und Behandlung",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+     "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+     "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 7921,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.myastrazeneca.ch": 74,
+    "policy.cookiereports.com": 2,
+    "rum.hlx.page": 1,
+    "tags.tiqcdn.com": 2
+   },
+   "thirdPartyHosts": [
+    "policy.cookiereports.com",
+    "rum.hlx.page",
+    "tags.tiqcdn.com"
+   ],
+   "scripts": [
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/teaser.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371103746"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    },
+    {
+     "method": "POST",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [
+    {
+     "url": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+     "body": "------WebKitFormBoundaryLSPvxwEndmWPyz2G\r\nContent-Disposition: form-data; name=\"userId\"\r\n\r\n\r\n------WebKitFormBoundaryLSPvxwEndmWPyz2G\r\nContent-Disposition: form-data; name=\"pagePath\"\r\n\r\n/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma\r\n------WebKitFormBoundaryLSPvxwEndmWPyz2G\r\nContent-Disposition: form-data; name=\"siteDomain\"\r\n\r\nhttps://www.myastrazeneca.ch\r\n-----"
+    }
+   ],
+   "textAtLoad": 7921,
+   "mainEmptyAtLoad": false
+  },
+  "/de/startseite/produkte.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "Produkte - MyAstraZeneca",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/fr/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/fasenra.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/en/startseite/produkte/calquence/"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/en/startseite/produkte.html",
+     "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+     "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ],
+    "CQ": [
+     "CoreComponents"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 2547,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.myastrazeneca.ch": 99,
+    "rum.hlx.page": 1,
+    "policy.cookiereports.com": 2,
+    "tags.tiqcdn.com": 2
+   },
+   "thirdPartyHosts": [
+    "rum.hlx.page",
+    "policy.cookiereports.com",
+    "tags.tiqcdn.com"
+   ],
+   "scripts": [
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/teaser.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/core/wcm/components/tabs/v1/tabs/clientlibs/site.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/tabs/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/tabs.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371116218"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    },
+    {
+     "method": "POST",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [
+    {
+     "url": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json",
+     "body": "------WebKitFormBoundaryGTSsjBxhQeheoIU3\r\nContent-Disposition: form-data; name=\"userId\"\r\n\r\n\r\n------WebKitFormBoundaryGTSsjBxhQeheoIU3\r\nContent-Disposition: form-data; name=\"pagePath\"\r\n\r\n/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte\r\n------WebKitFormBoundaryGTSsjBxhQeheoIU3\r\nContent-Disposition: form-data; name=\"siteDomain\"\r\n\r\nhttps://www.myastrazeneca.ch\r\n------WebKitFormBounda"
+    }
+   ],
+   "textAtLoad": 2547,
+   "mainEmptyAtLoad": false
+  },
+  "/de/startseite/contact-us.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "Kontaktieren Sie uns",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "68885bab633ecb000237618d",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": false,
+     "fields": 7,
+     "signature": [
+      "text:firstName",
+      "text:lastName",
+      "text:email",
+      "select:areaOfInterest",
+      "textarea:enquiryText",
+      "checkbox:termsAndConditions",
+      "checkbox:privacyPolicy"
+     ],
+     "hidden": [
+      "termsAndConditions_selections",
+      "privacyPolicy_selections"
+     ],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/en/startseite/contact-us.html",
+     "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+     "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag",
+    "grecaptcha"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 7,
+   "inlineFetch": false,
+   "mainText": 2234,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.myastrazeneca.ch": 66,
+    "rum.hlx.page": 1,
+    "policy.cookiereports.com": 2,
+    "tags.tiqcdn.com": 2,
+    "www.google.com": 1,
+    "www.gstatic.com": 1
+   },
+   "thirdPartyHosts": [
+    "rum.hlx.page",
+    "policy.cookiereports.com",
+    "tags.tiqcdn.com",
+    "www.google.com",
+    "www.gstatic.com"
+   ],
+   "scripts": [
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/vendors/intl-tel-input.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/vendors/vanillajs-datepicker.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/dynamicformv2.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/dynamicformv2/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/vendors/intl-tel-input/utils.js",
+    "https://www.google.com/recaptcha/api.js?render=explicit",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371128229",
+    "https://www.gstatic.com/recaptcha/releases/guXhH0v-XMxlzmbTwqkaT4i5/recaptcha__en.js"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    },
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json",
+     "query": [
+      "analyticsFormName",
+      "analyticsObject",
+      "autopopulateMapping",
+      "consentCookieCheck",
+      "currentPath",
+      "fetchHCM",
+      "fetchProfile",
+      "formId",
+      "formName",
+      "formService",
+      "idx",
+      "marketCode",
+      "nc",
+      "nodePath",
+      "notAvailableText",
+      "pagePath",
+      "pageUrl",
+      "prepopulateFieldList",
+      "redirectPath",
+      "routerConfiguration",
+      "type"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json"
+    },
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json"
+    },
+    {
+     "method": "POST",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [
+    {
+     "url": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+     "body": "------WebKitFormBoundaryEBXvNcjGwyNe6etk\r\nContent-Disposition: form-data; name=\"userId\"\r\n\r\n\r\n------WebKitFormBoundaryEBXvNcjGwyNe6etk\r\nContent-Disposition: form-data; name=\"pagePath\"\r\n\r\n/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us\r\n------WebKitFormBoundaryEBXvNcjGwyNe6etk\r\nContent-Disposition: form-data; name=\"siteDomain\"\r\n\r\nhttps://www.myastrazeneca.ch\r\n------WebKitFormBoun"
+    }
+   ],
+   "textAtLoad": 1850,
+   "mainEmptyAtLoad": false
+  },
+  "/de/startseite/produkte/trixeo/uberblick.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "TRIXEO Aerosphere® im Überblick | MyAstraZeneca",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick.html"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 2453,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.myastrazeneca.ch": 67,
+    "rum.hlx.page": 1,
+    "policy.cookiereports.com": 2,
+    "tags.tiqcdn.com": 2
+   },
+   "thirdPartyHosts": [
+    "rum.hlx.page",
+    "policy.cookiereports.com",
+    "tags.tiqcdn.com"
+   ],
+   "scripts": [
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/teaser.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/list.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/list/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/contentpaywall.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371140423"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    },
+    {
+     "method": "POST",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [
+    {
+     "url": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json",
+     "body": "------WebKitFormBoundaryvtNQ4BmWl47JHKRL\r\nContent-Disposition: form-data; name=\"userId\"\r\n\r\n\r\n------WebKitFormBoundaryvtNQ4BmWl47JHKRL\r\nContent-Disposition: form-data; name=\"pagePath\"\r\n\r\n/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick\r\n------WebKitFormBoundaryvtNQ4BmWl47JHKRL\r\nContent-Disposition: form-data; name=\"siteDomain\"\r\n\r\nhttps://www.myastrazeneca.ch\r\n-----"
+    }
+   ],
+   "textAtLoad": 2453,
+   "mainEmptyAtLoad": false
+  },
+  "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "COPD-Datenblatt | MyAstraZeneca",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 2,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html#",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html#"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 2422,
+   "domAddedAfterLoad": 0,
+   "hosts": {
+    "www.myastrazeneca.ch": 61,
+    "policy.cookiereports.com": 2,
+    "rum.hlx.page": 1,
+    "tags.tiqcdn.com": 2
+   },
+   "thirdPartyHosts": [
+    "policy.cookiereports.com",
+    "rum.hlx.page",
+    "tags.tiqcdn.com"
+   ],
+   "scripts": [
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/teaser.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/contentpaywall.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371152527"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    },
+    {
+     "method": "POST",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [
+    {
+     "url": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json",
+     "body": "------WebKitFormBoundary5h3uDmuhWjj4QpKS\r\nContent-Disposition: form-data; name=\"userId\"\r\n\r\n\r\n------WebKitFormBoundary5h3uDmuhWjj4QpKS\r\nContent-Disposition: form-data; name=\"pagePath\"\r\n\r\n/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de\r\n------WebKitFormBoundary5h3uDmuhWjj4QpKS\r\nContent-Disposition: form-data; name=\"siteDomain\"\r\n\r\nhttps://www.mya"
+    }
+   ],
+   "textAtLoad": 2422,
+   "mainEmptyAtLoad": false
+  },
+  "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html": {
+   "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+   "status": 200,
+   "host": "www.myastrazeneca.ch",
+   "title": "Einführung in ATTR Amyloidose | See the pATTRns",
+   "forms": [
+    {
+     "name": "",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "text:search-text-box"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 132,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "main",
+     "heading": "",
+     "textLen": 132,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "Notwendig",
+     "textLen": 26411,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 4,
+   "media": [],
+   "iframes": [],
+   "mounts": [],
+   "auth": [
+    "https://tagrisso.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html"
+   ],
+   "commerce": {
+    "cart": false,
+    "prices": 0
+   },
+   "locale": {
+    "lang": "de",
+    "hreflang": [],
+    "switcher": [
+     "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+     "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+     "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html"
+    ]
+   },
+   "cms": {
+    "utag_data": [
+     "page_name",
+     "page_section",
+     "page_subsection",
+     "visitor_time",
+     "server_time",
+     "page_path",
+     "page_content_type",
+     "visitor_auth_status",
+     "core_target_country",
+     "core_language",
+     "page_brand",
+     "visitor_azid",
+     "page_therapy_area",
+     "core_target_audience",
+     "savings_card_number",
+     "visitor_login_event",
+     "visitor_register_event",
+     "specialty",
+     "page_uniqueid",
+     "gdpr_site",
+     "campaign_source",
+     "campaign_medium",
+     "campaign_publisher",
+     "campaign_id",
+     "campaign_creative",
+     "campaign_placement",
+     "campaign_outcome",
+     "campaign_cmpid",
+     "campaign_assetid",
+     "cp.AWSALB"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "utag"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 5,
+   "inlineFetch": false,
+   "mainText": 3574,
+   "domAddedAfterLoad": 1,
+   "hosts": {
+    "www.myastrazeneca.ch": 74,
+    "rum.hlx.page": 24,
+    "policy.cookiereports.com": 2,
+    "tags.tiqcdn.com": 2
+   },
+   "thirdPartyHosts": [
+    "rum.hlx.page",
+    "policy.cookiereports.com",
+    "tags.tiqcdn.com"
+   ],
+   "scripts": [
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js",
+    "https://policy.cookiereports.com/b50c8635_panel-de-ch.js",
+    "https://policy.cookiereports.com/j/jquery.min.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/theme/brands/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/button.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/breadcrumb.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/searchbox.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/megamenu.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/text/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/selfcertification.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/main.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/selfcertification/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/user/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/teaser.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/list.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/list/resources/themes/wese-hcp-portal-v1.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/commons.js",
+    "https://tags.tiqcdn.com/utag/astrazeneca/ch-weseportal/prod/utag.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/container.js",
+    "https://www.myastrazeneca.ch/etc.clientlibs/intelligentcontent/clientlibs/publish/components/socialfeatures/resources/themes/wese-hcp-portal-v1.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-enhancer@%5E2/src/index.js",
+    "https://tags.tiqcdn.com/utag/tiqapp/utag.v.js?a=astrazeneca/ch-weseportal/202609071255&cb=1791371164766",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-enhancer@%5E2/src/plugins/form.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-enhancer@%5E2/src/plugins/cwv.js",
+    "https://rum.hlx.page/.rum/@adobe/helix-rum-enhancer@%5E2/src/plugins/a11y.js",
+    "https://rum.hlx.page/.rum/web-vitals/dist/web-vitals.iife.js"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "GET",
+     "host": "www.myastrazeneca.ch",
+     "path": "/bin/secureCookies",
+     "query": [
+      "cookieName"
+     ],
+     "status": 200,
+     "contentType": "",
+     "example": "https://www.myastrazeneca.ch/bin/secureCookies"
+    },
+    {
+     "method": "POST",
+     "host": "www.myastrazeneca.ch",
+     "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json"
+    }
+   ],
+   "thirdPartyXhr": [],
+   "postBodies": [
+    {
+     "url": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+     "body": "------WebKitFormBoundarySvfBX2TBx6cf4bJi\r\nContent-Disposition: form-data; name=\"userId\"\r\n\r\n\r\n------WebKitFormBoundarySvfBX2TBx6cf4bJi\r\nContent-Disposition: form-data; name=\"pagePath\"\r\n\r\n/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home\r\n------WebKitFormBoundarySvfBX2TBx6cf4bJi\r\nContent-Disposition: form-data; name=\"siteDomain\"\r\n\r\nhttps://www.myastra"
+    }
+   ],
+   "textAtLoad": 3574,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-cms-app-settings-object-utag-data",
+   "class": "A",
+   "feature": "CMS / app settings object utag_data",
+   "hint": "settings",
+   "evidence": [
+    "campaign_source",
+    "campaign_medium",
+    "campaign_publisher",
+    "campaign_id",
+    "campaign_creative",
+    "campaign_placement",
+    "campaign_outcome",
+    "campaign_cmpid"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html",
+    "/de/startseite/produkte/trixeo/uberblick.html",
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+   "api": {
+    "method": "POST",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pages": [
+    "/de/startseite/therapiegebiete/ri/asthma.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json",
+   "api": {
+    "method": "POST",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pages": [
+    "/de/startseite/produkte.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "a-cms-app-settings-object-cq",
+   "class": "A",
+   "feature": "CMS / app settings object CQ",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/de/startseite/produkte.html"
+   ]
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+   "api": {
+    "method": "POST",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pages": [
+    "/de/startseite/contact-us.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json",
+   "api": {
+    "method": "POST",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pages": [
+    "/de/startseite/produkte/trixeo/uberblick.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json",
+   "api": {
+    "method": "POST",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pages": [
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+   "api": {
+    "method": "POST",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pages": [
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "d-first-party-data-file-get-content-intelligentcontent-porta",
+   "class": "D",
+   "feature": "first-party data file GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json",
+   "api": {
+    "method": "GET",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json"
+   },
+   "hint": "data",
+   "evidence": [
+    "GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json?analyticsFormName,analyticsObject,autopopulateMapping,consentCookieCheck,currentPath,fetchHCM,fetchProfile,formId,formName,formService,idx,marketCode,nc,nodePath,notAvailableText,pagePath,pageUrl,prepopulateFieldList,redirectPath,routerConfiguration,type → 200"
+   ],
+   "pages": [
+    "/de/startseite/contact-us.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "d-first-party-data-file-get-content-intelligentcontent-porta",
+   "class": "D",
+   "feature": "first-party data file GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json",
+   "api": {
+    "method": "GET",
+    "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json"
+   },
+   "hint": "data",
+   "evidence": [
+    "GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json?cookieName → 200"
+   ],
+   "pages": [
+    "/de/startseite/contact-us.html"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 121
+   }
+  },
+  {
+   "id": "f-form-text-search-text-box-no-action-js-wired-1-fields",
+   "class": "F",
+   "feature": "form \"text:search-text-box\" → no action (JS-wired) (1 fields)",
+   "signature": [
+    "text:search-text-box"
+   ],
+   "hint": "client-compute?",
+   "evidence": [
+    "text:search-text-box"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html",
+    "/de/startseite/produkte/trixeo/uberblick.html",
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  },
+  {
+   "id": "f-form-protection-captcha-antibot",
+   "class": "F",
+   "feature": "form protection: captcha / antibot",
+   "role": "form protection: captcha / antibot",
+   "hint": "forms",
+   "evidence": [
+    "www.google.com",
+    "www.gstatic.com"
+   ],
+   "pages": [
+    "/de/startseite/contact-us.html"
+   ]
+  },
+  {
+   "id": "f-form-68885bab633ecb000237618d-no-action-js-wired-7-fields",
+   "class": "F",
+   "feature": "form \"68885bab633ecb000237618d\" → no action (JS-wired) (7 fields)",
+   "signature": [
+    "text:firstName",
+    "text:lastName",
+    "text:email",
+    "select:areaOfInterest",
+    "textarea:enquiryText",
+    "checkbox:termsAndConditions",
+    "checkbox:privacyPolicy"
+   ],
+   "hint": "client-compute?",
+   "evidence": [
+    "text:firstName,text:lastName,text:email,select:areaOfInterest,textarea:enquiryText,checkbox:termsAndConditions,checkbox:privacyPolicy",
+    "termsAndConditions_selections,privacyPolicy_selections"
+   ],
+   "pages": [
+    "/de/startseite/contact-us.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-fr-it-en-en",
+   "class": "I18N",
+   "feature": "locale variants en,fr,it,en,en",
+   "hint": "locale",
+   "evidence": [
+    "https://www.myastrazeneca.ch/en/startseite.html",
+    "https://www.myastrazeneca.ch/fr/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/it/startseite/contact-us.html"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-fr-en-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants fr,en,en,en,en",
+   "hint": "locale",
+   "evidence": [
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html"
+   ],
+   "pages": [
+    "/de/startseite/produkte/trixeo/uberblick.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-en-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants en,en,en,en,en",
+   "hint": "locale",
+   "evidence": [
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html"
+   ],
+   "pages": [
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-fr-it-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants fr,it,en,en,en",
+   "hint": "locale",
+   "evidence": [
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html"
+   ],
+   "pages": [
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-rum-hlx-page",
+   "class": "T",
+   "feature": "unknown third-party host rum.hlx.page",
+   "hint": "inspect",
+   "evidence": [
+    "rum.hlx.page"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html",
+    "/de/startseite/produkte/trixeo/uberblick.html",
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-policy-cookiereports-com",
+   "class": "T",
+   "feature": "unknown third-party host policy.cookiereports.com",
+   "hint": "inspect",
+   "evidence": [
+    "policy.cookiereports.com"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html",
+    "/de/startseite/produkte/trixeo/uberblick.html",
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  },
+  {
+   "id": "t-tag-manager-tealium",
+   "class": "T",
+   "feature": "tag manager: Tealium",
+   "role": "tag manager: Tealium",
+   "hint": "tags",
+   "evidence": [
+    "tags.tiqcdn.com"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html",
+    "/de/startseite/produkte/trixeo/uberblick.html",
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "hint": "decided-out",
+   "evidence": [
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html"
+   ],
+   "pages": [
+    "/de/startseite.html",
+    "/de/startseite/therapiegebiete/ri/asthma.html",
+    "/de/startseite/produkte.html",
+    "/de/startseite/contact-us.html",
+    "/de/startseite/produkte/trixeo/uberblick.html",
+    "/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de.html",
+    "/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 121,
+  "of": 121,
+  "endpoints": {
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json": 1,
+   "GET www.myastrazeneca.ch/bin/secureCookies": 121,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json": 1,
+   "POST astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery": 86,
+   "GET dpm.demdex.net/id": 10,
+   "POST policy.cookiereports.com/consent/": 10,
+   "GET astrazenecaeurope.d3.sc.omtrdc.net/id": 10,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/aerosphere-technologie/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/copd-management/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/events/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/anwendungsbroschuere-trixeo-aerosphere-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/anwendungskarte-trixeo-aerosphere-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/checkliste-fuer-copd-exazerbationen-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-und-lungenkrebs-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/ethos-studienzusammenfassung-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/fachinformation-von-trixeo-aerosphere-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/kronos-studienzusammenfassung-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/lunge-und-herz-ein-unzertrennliches-duo-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/patient-poster-copd-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/patientenbroschure-zur-copd-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/slide-deck-copd-now-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/slide-deck-trixeo-aerosphere-technologie-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/studienzusammenfassung-skopos-mazi-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-factsheet-zur-limitatio-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-kranken-kassenformular-de/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/sicherheit/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/succinct-statement/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/wirksamkeit/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.google.com/ccm/collect": 18,
+   "POST www.google.com/rmkt/collect/{n}/": 18,
+   "POST ad.doubleclick.net/ccm/s/collect": 7,
+   "POST px.ads.linkedin.com/wa/": 15,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/contact-us/jcr:content.getFormServices.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/contact-us/jcr:content.getSecureCookies.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/contact-us/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/produkte/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/cvrm/acutecare/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.getFormServices.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.getSecureCookies.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/aerosphere-technologie/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/copd-management/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/events/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/3-molekuele-der-dreifachtherapie-gegen-kardiopulmonales-risiko-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/anwendungsbroschuere-trixeo-aerosphere-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/anwendungskarte-trixeo-aerosphere-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/checkliste-fuer-copd-exazerbationen-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/copd-datenblatt-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/copd-und-lungenkrebs-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/ethos-studienzusammenfassung-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/fachinformation-von-trixeo-aerosphere-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/kronos-studienzusammenfassung-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/lunge-und-herz-ein-unzertrennliches-duo-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/patient-poster-copd-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/patientenbroschure-zur-copd-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/slide-deck-copd-now-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/slide-deck-trixeo-aerosphere-technologie-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/studienzusammenfassung-skopos-mazi-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-factsheet-zur-limitatio-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/ressourcen/trixeo-aerosphere-kranken-kassenformular-fr/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/sicherheit/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/succinct-statement/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/trixeo/wirksamkeit/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/contact-us/jcr:content.getFormServices.json": 1,
+   "GET www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/contact-us/jcr:content.getSecureCookies.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/contact-us/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/produkte/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json": 1,
+   "POST www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json": 1
+  },
+  "searchFormPages": 0,
+  "formPages": 106,
+  "triggerPages": {}
+ }
+}

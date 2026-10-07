@@ -1,0 +1,415 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics plan",
+  "writtenAt": "2026-10-07T11:06:39.141Z",
+  "input": "stardust/current/_dynamics.json",
+  "target": "https://main--hlx-6--nishant-gupta.aem.page",
+  "migrated": null
+ },
+ "rows": [
+  {
+   "id": "a-cms-app-settings-object-utag-data",
+   "class": "A",
+   "feature": "CMS / app settings object utag_data",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "campaign_source",
+    "campaign_medium",
+    "campaign_publisher",
+    "campaign_id"
+   ],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-cms-app-settings-object-cq",
+   "class": "A",
+   "feature": "CMS / app settings object CQ",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [],
+   "pattern": "read-settings",
+   "disposition": "static-snapshot",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "detect",
+   "decision": "— (keys name endpoints, ids, vendors)"
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/uberblick/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/copd-datenblatt-de/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "a-first-party-api-post-content-intelligentcontent-portals-hc",
+   "class": "A",
+   "feature": "first-party API POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "POST /content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json → 200"
+   ],
+   "pattern": "off-origin-data",
+   "disposition": "data-fed",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "off-origin data",
+   "decision": "which tier for the target host; consumer on the migrated pages?",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-content-intelligentcontent-porta",
+   "class": "D",
+   "feature": "first-party data file GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json?analyticsFormName,analyticsObject,autopopulateMapping,consentCookieCheck,currentPath,fetchHCM,fetchProfile,formId,formName,formService,idx,marketCode,nc,nodePath,notAvailableText,pagePath,pageUrl,prepopulateFieldList,redirectPath,routerConfiguration,type → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "d-first-party-data-file-get-content-intelligentcontent-porta",
+   "class": "D",
+   "feature": "first-party data file GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json",
+   "pages": 1,
+   "probed": 7,
+   "reach": {
+    "pages": 1,
+    "of": 121
+   },
+   "evidence": [
+    "GET /content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json?cookieName → 200"
+   ],
+   "pattern": "sheet-sync",
+   "disposition": "data-fed",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "data",
+   "decision": "none (sync from the source origin)",
+   "hostBound": "dead on target (404)"
+  },
+  {
+   "id": "f-form-text-search-text-box-no-action-js-wired-1-fields",
+   "class": "F",
+   "feature": "form \"text:search-text-box\" → no action (JS-wired) (1 fields)",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:search-text-box"
+   ],
+   "pattern": "client-compute",
+   "disposition": "client-only",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "client tools",
+   "decision": "none"
+  },
+  {
+   "id": "f-form-protection-captcha-antibot",
+   "class": "F",
+   "feature": "form protection: captcha / antibot",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "www.google.com",
+    "www.gstatic.com"
+   ],
+   "pattern": "forms",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "forms",
+   "decision": "production backend (vendor form id + field mapping)"
+  },
+  {
+   "id": "f-form-68885bab633ecb000237618d-no-action-js-wired-7-fields",
+   "class": "F",
+   "feature": "form \"68885bab633ecb000237618d\" → no action (JS-wired) (7 fields)",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "text:firstName,text:lastName,text:email,select:areaOfInterest,textarea:enquiryText,checkbox:termsAndConditions,checkbox:privacyPolicy",
+    "termsAndConditions_selections,privacyPolicy_selections"
+   ],
+   "pattern": "client-compute",
+   "disposition": "client-only",
+   "reproducibility": "self",
+   "status": "pending",
+   "phase": "client tools",
+   "decision": "none"
+  },
+  {
+   "id": "i18n-locale-variants-en-fr-it-en-en",
+   "class": "I18N",
+   "feature": "locale variants en,fr,it,en,en",
+   "pages": 4,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.myastrazeneca.ch/en/startseite.html",
+    "https://www.myastrazeneca.ch/fr/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-fr-en-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants fr,en,en,en,en",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-en-en-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants en,en,en,en,en",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "i18n-locale-variants-fr-it-en-en-en",
+   "class": "I18N",
+   "feature": "locale variants fr,it,en,en,en",
+   "pages": 1,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html"
+   ],
+   "pattern": "locale-tree",
+   "disposition": "rebuild-native",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "locale wave",
+   "decision": "scope of the locale trees"
+  },
+  {
+   "id": "t-unknown-third-party-host-rum-hlx-page",
+   "class": "T",
+   "feature": "unknown third-party host rum.hlx.page",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "rum.hlx.page"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-unknown-third-party-host-policy-cookiereports-com",
+   "class": "T",
+   "feature": "unknown third-party host policy.cookiereports.com",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "policy.cookiereports.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "t-tag-manager-tealium",
+   "class": "T",
+   "feature": "tag manager: Tealium",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "tags.tiqcdn.com"
+   ],
+   "pattern": "consent-gated-tags",
+   "disposition": "embed-passthrough",
+   "reproducibility": "needs-business-decision",
+   "status": "pending",
+   "phase": "tags",
+   "decision": "which tags run on the new host; property ids"
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "pages": 7,
+   "probed": 7,
+   "reach": null,
+   "evidence": [
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/user/login.html?requesturl=/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen.html"
+   ],
+   "pattern": "decided-out",
+   "disposition": "decided-out",
+   "reproducibility": "needs-backend",
+   "status": "pending",
+   "phase": "register",
+   "decision": "auth / commerce on the new host?"
+  }
+ ]
+}

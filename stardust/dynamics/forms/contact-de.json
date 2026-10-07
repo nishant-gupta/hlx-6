@@ -1,0 +1,108 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:dynamics (form definition, offline)",
+    "source": "stardust/current/pages/de-startseite-contact-us-html.html",
+    "at": "2026-10-07T11:07:32.447Z"
+  },
+  "formId": "68885bab633ecb000237618d",
+  "intro": "Kontaktieren Sie uns",
+  "fields": [
+    {
+      "name": "firstName",
+      "type": "text",
+      "label": "Vorname *",
+      "required": true,
+      "placeholder": "Geben Sie Ihren Vornamen ein",
+      "error": null
+    },
+    {
+      "name": "lastName",
+      "type": "text",
+      "label": "Nachname *",
+      "required": true,
+      "placeholder": "Geben Sie Ihren Nachnamen ein",
+      "error": null
+    },
+    {
+      "name": "email",
+      "type": "text",
+      "label": "E-Mail *",
+      "required": true,
+      "placeholder": "E-Mail",
+      "error": null
+    },
+    {
+      "name": "areaOfInterest",
+      "type": "select",
+      "label": "Interessengebiet *",
+      "required": true,
+      "placeholder": null,
+      "options": [
+        {
+          "value": "",
+          "text": "Wählen Sie ein Interessengebiet"
+        },
+        {
+          "value": "Therapiebereich: Atemwege & Immunologie",
+          "text": "Therapiebereich: Atemwege & Immunologie"
+        },
+        {
+          "value": "Therapiebereich: Onkologie",
+          "text": "Therapiebereich: Onkologie"
+        },
+        {
+          "value": "Therapiebereich: Herz-Kreislauf-, Nieren- und Stoffwechselerkrankungen",
+          "text": "Therapiebereich: Herz-Kreislauf-, Nieren- und Stoffwechselerkrankungen"
+        },
+        {
+          "value": "Unsere Produkte",
+          "text": "Unsere Produkte"
+        },
+        {
+          "value": "Medizinische Fragen",
+          "text": "Medizinische Fragen"
+        },
+        {
+          "value": "Website-Feedback",
+          "text": "Website-Feedback"
+        },
+        {
+          "value": "Sicherheit der Patienten",
+          "text": "Sicherheit der Patienten"
+        },
+        {
+          "value": "Allgemeine Anfrage",
+          "text": "Allgemeine Anfrage"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "enquiryText",
+      "type": "textarea",
+      "label": "Anfragetext (Optional)",
+      "required": false,
+      "placeholder": "Anfragetext",
+      "error": null
+    },
+    {
+      "name": "termsAndConditions",
+      "type": "checkbox",
+      "label": "Allgemeine Geschäftsbedingungen",
+      "required": true,
+      "placeholder": null,
+      "link": "https://www.astrazeneca.ch/de/terms-of-use.html",
+      "error": null
+    },
+    {
+      "name": "privacyPolicy",
+      "type": "checkbox",
+      "label": "Datenschutzrichtlinie",
+      "required": true,
+      "placeholder": null,
+      "link": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html",
+      "error": null
+    }
+  ],
+  "submit": "Senden"
+}

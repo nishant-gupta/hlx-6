@@ -1,0 +1,108 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:dynamics (form definition, offline)",
+    "source": "stardust/current/pages/en-startseite-contact-us-html.html",
+    "at": "2026-10-07T11:07:32.624Z"
+  },
+  "formId": "688868a0805e98000257e19e",
+  "intro": "Contact us",
+  "fields": [
+    {
+      "name": "firstName",
+      "type": "text",
+      "label": "First Name *",
+      "required": true,
+      "placeholder": "Enter Your First Name",
+      "error": null
+    },
+    {
+      "name": "lastName",
+      "type": "text",
+      "label": "Last Name *",
+      "required": true,
+      "placeholder": "Enter Your Last Name",
+      "error": null
+    },
+    {
+      "name": "email",
+      "type": "text",
+      "label": "Email *",
+      "required": true,
+      "placeholder": "Email",
+      "error": null
+    },
+    {
+      "name": "areaOfInterest",
+      "type": "select",
+      "label": "Area of Interest *",
+      "required": true,
+      "placeholder": null,
+      "options": [
+        {
+          "value": "",
+          "text": "Select area of Interest"
+        },
+        {
+          "value": "Therapy Area : Respiratory & immunology",
+          "text": "Therapy Area : Respiratory & immunology"
+        },
+        {
+          "value": "Therapy Area : Oncology",
+          "text": "Therapy Area : Oncology"
+        },
+        {
+          "value": "Therapy Area: Cardiovascular, renal and metabolic diseases",
+          "text": "Therapy Area: Cardiovascular, renal and metabolic diseases"
+        },
+        {
+          "value": "Our Products",
+          "text": "Our Products"
+        },
+        {
+          "value": "Medical enquries",
+          "text": "Medical enquries"
+        },
+        {
+          "value": "Website Feedback",
+          "text": "Website Feedback"
+        },
+        {
+          "value": "Patient Safety",
+          "text": "Patient Safety"
+        },
+        {
+          "value": "General Enquiry",
+          "text": "General Enquiry"
+        }
+      ],
+      "error": null
+    },
+    {
+      "name": "enquiryText",
+      "type": "textarea",
+      "label": "Enquiry Text(Optional)",
+      "required": false,
+      "placeholder": "Enquiry Text",
+      "error": null
+    },
+    {
+      "name": "termsAndConditions",
+      "type": "checkbox",
+      "label": "Terms and Conditions",
+      "required": true,
+      "placeholder": null,
+      "link": "https://www.astrazeneca.ch/en/terms-of-use.html",
+      "error": null
+    },
+    {
+      "name": "privacyPolicy",
+      "type": "checkbox",
+      "label": "Privacy Policy",
+      "required": true,
+      "placeholder": null,
+      "link": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-en/privacy-notices.html",
+      "error": null
+    }
+  ],
+  "submit": "Send"
+}
