@@ -119,6 +119,23 @@
      "360": 1.38,
      "1440": 0.75
     }
+   },
+   "eds": {
+    "regime": "local EDS build, standards mode, decorated DOM vs live (stardust/replica/gates-eds/)",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 1.31,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 0.7,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
    }
   },
   "article": {
@@ -245,7 +262,42 @@
       "dead": []
      }
     }
-   ]
+   ],
+   "eds": {
+    "regime": "local EDS build, standards mode, decorated DOM vs live (stardust/replica/gates-eds/)",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 0.76,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 0.39,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
+   },
+   "edsSecondary": {
+    "archetype": "resource-detail",
+    "prototype": "stardust/prototypes/resource-detail-proposed.html",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 1.77,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 1.08,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
+   }
   },
   "program": {
    "archetype": "product-tab",
@@ -321,7 +373,24 @@
    },
    "fixesFromInstruments": [
     "shared rich-text/small-text modules promoted to canon (approval code line-height 24→20)"
-   ]
+   ],
+   "eds": {
+    "regime": "local EDS build, standards mode, decorated DOM vs live (stardust/replica/gates-eds/)",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 2.57,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 1.75,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
+   }
   },
   "listing": {
    "archetype": "product-listing",
@@ -401,7 +470,24 @@
     "revision container tb-space-md",
     "CTA text margins 16 0 (desktop) / 10 16 (mobile), link margin 20 0 0",
     "sticky tab list (seam repeat in stitched capture)"
-   ]
+   ],
+   "eds": {
+    "regime": "local EDS build, standards mode, decorated DOM vs live (stardust/replica/gates-eds/)",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 1.89,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 1.03,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
+   }
   },
   "form": {
    "archetype": "contact",
@@ -482,6 +568,23 @@
      "filledSubmitStored": true,
      "pageErrors": 0
     }
+   },
+   "eds": {
+    "regime": "local EDS build, standards mode, decorated DOM vs live (stardust/replica/gates-eds/)",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 0.93,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 0.27,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
    }
   },
   "unique": {
@@ -543,6 +646,23 @@
      "360": "box 34,304,292x292 = live",
      "1440": "box 360,138,720x278 = live"
     }
+   },
+   "eds": {
+    "regime": "local EDS build, standards mode, decorated DOM vs live (stardust/replica/gates-eds/)",
+    "breakpoints": {
+     "360": {
+      "pixelPct": 1.69,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     },
+     "1440": {
+      "pixelPct": 1.02,
+      "heightDelta": 0,
+      "pass": true,
+      "protoDocDelta": 0
+     }
+    }
    }
   }
  },
@@ -553,5 +673,16 @@
    "therapy-area"
   ],
   "result": "all container/image boxes match; only title <p> box widths differ (live shrink-to-fit, build block) — same rendered position, not a fluid-model defect"
- }
+ },
+ "edsDeployFixes": [
+  "protected product cards grouped per column-wrap container (product listing +813px)",
+  "right-aligned revision code stays in flow (product listing)",
+  "paywall band space-md padding + title spacing (−70px)",
+  "teaser body paragraphs without flex gap (resource detail +16px/paragraph)",
+  "cards.two 20px gap at every width (pattrns 360 −10px)",
+  "gate proxy injects the doctype (dev server rendered quirks mode)",
+  "teaser title taken from the slot carrying text (5 empty pretitles)",
+  "table cells overflow-wrap:anywhere (COPD tables overflowed at 360)",
+  "html overflow-x:hidden mirrored from the live theme"
+ ]
 }

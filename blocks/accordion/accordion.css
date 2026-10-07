@@ -1,0 +1,33 @@
+/* accordion — live cmp-accordion (COPD FAQ): 40/20 header padding, Lexia 26/34 plum titles */
+main .accordion-container > .accordion-wrapper { padding: 0 var(--gutter); }
+
+.accordion .accordion-title {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 40px 0 20px;
+  color: var(--plum);
+  font: 26px/34px var(--heading-font-family);
+  list-style: none;
+  cursor: pointer;
+}
+
+.accordion .accordion-title::-webkit-details-marker { display: none; }
+
+.accordion .accordion-title .azi::before {
+  color: var(--graphite);
+  font-size: 26px;
+  line-height: 36px;
+}
+
+.accordion details[open] .accordion-title .azi::before { content: "\f077"; }
+.accordion .accordion-panel { padding-bottom: 16px; }
+
+.accordion .accordion-panel ul {
+  padding: 4px 0 12px 20px;
+  list-style: disc;
+}
+
+@media (width >= 768px) {
+  main .accordion-container > .accordion-wrapper { padding: 0; }
+}

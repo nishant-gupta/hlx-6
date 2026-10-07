@@ -34,3 +34,6 @@ Fidelity: ia verbatim · design verbatim · content verbatim.
 - **A4 — Locales.** All four captured locale trees (de, fr, it, en) are migrated at their live paths.
 - **A5 — Gate breakpoints** 1440 and 360 (replica default).
 - **A6 — Live-probe pacing.** CloudFront WAF blocks bursts; every live instrument run is serialized with ≥8 s spacing.
+- **A7 — Page volume.** The request ("migrate https://www.myastrazeneca.ch") is site-scoped, so all 121 captured public pages migrate, above the hands-off default cap of 100 / 20 per template. The four per-locale search-result pages (live, not in the sitemap) are added as the target the header search requires (dynamics F-2), for 125 pages in total.
+- **A8 — Live root clipping mirrored.** Live sets `overflow-x: hidden` on the root element, so long compound words in 36px titles at 360px are clipped rather than scrolling. The replica does the same, because it is source behaviour and not a fix.
+- **A9 — Structured data carried.** The schema.org JSON-LD on 50 pages is carried verbatim as `json-ld` metadata, and the published origin renders it in the head. Its `@id` URLs keep the live `.html` paths as authored on the source.

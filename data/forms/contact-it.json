@@ -1,0 +1,100 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics F-1 (form definition from the captured live DOM)",
+  "source": "stardust/dynamics/forms/contact-it.json",
+  "note": "notice text is the hands-off A-2 interim copy (no backend connected), not source copy"
+ },
+ "formId": "68886ec0805e98000257fb3e",
+ "endpoint": "",
+ "submit": "Invia",
+ "required": "Questo campo è obbligatorio",
+ "notice": "La sua richiesta è stata registrata localmente. Nessun sistema di ricezione è ancora collegato — il messaggio non è stato trasmesso.",
+ "fields": [
+  {
+   "name": "firstName",
+   "type": "text",
+   "label": "Nome",
+   "required": true,
+   "placeholder": "Inserisci il tuo nome"
+  },
+  {
+   "name": "lastName",
+   "type": "text",
+   "label": "Cognome",
+   "required": true,
+   "placeholder": "Inserisci il tuo cognome"
+  },
+  {
+   "name": "email",
+   "type": "text",
+   "label": "Email",
+   "required": true,
+   "placeholder": "Email"
+  },
+  {
+   "name": "areaOfInterest",
+   "type": "select",
+   "label": "Area di interesse",
+   "required": true,
+   "options": [
+    {
+     "value": "",
+     "text": "Seleziona un'area di interesse"
+    },
+    {
+     "value": "Area terapeutica: Respiratorio e immunologia",
+     "text": "Area terapeutica: Respiratorio e immunologia"
+    },
+    {
+     "value": "Area terapeutica: Oncologia",
+     "text": "Area terapeutica: Oncologia"
+    },
+    {
+     "value": "Area terapeutica: Malattie cardiovascolari, renali e metaboliche",
+     "text": "Area terapeutica: Malattie cardiovascolari, renali e metaboliche"
+    },
+    {
+     "value": "I nostri prodotti",
+     "text": "I nostri prodotti"
+    },
+    {
+     "value": "Richieste mediche",
+     "text": "Richieste mediche"
+    },
+    {
+     "value": "Feedback sul sito web",
+     "text": "Feedback sul sito web"
+    },
+    {
+     "value": "Sicurezza del paziente",
+     "text": "Sicurezza del paziente"
+    },
+    {
+     "value": "Richiesta generale",
+     "text": "Richiesta generale"
+    }
+   ]
+  },
+  {
+   "name": "enquiryText",
+   "type": "textarea",
+   "label": "Testo della richiesta (Facoltativo)",
+   "required": false,
+   "placeholder": "Testo della richiesta"
+  },
+  {
+   "name": "termsAndConditions",
+   "type": "checkbox",
+   "label": "Termini e condizioni",
+   "required": true,
+   "link": "https://www.astrazeneca.ch/it/terms-of-use.html"
+  },
+  {
+   "name": "privacyPolicy",
+   "type": "checkbox",
+   "label": "Informativa sulla privacy",
+   "required": true,
+   "link": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html"
+  }
+ ]
+}

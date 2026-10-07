@@ -1,0 +1,100 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics F-1 (form definition from the captured live DOM)",
+  "source": "stardust/dynamics/forms/contact-fr.json",
+  "note": "notice text is the hands-off A-2 interim copy (no backend connected), not source copy"
+ },
+ "formId": "68886c75633ecb00023777af",
+ "endpoint": "",
+ "submit": "Envoyer",
+ "required": "Ce champ est obligatoire",
+ "notice": "Votre demande a été enregistrée localement. Aucun système de réception n’est encore connecté — le message n’a pas été transmis.",
+ "fields": [
+  {
+   "name": "firstName",
+   "type": "text",
+   "label": "Prénom",
+   "required": true,
+   "placeholder": "Entrez votre prénom"
+  },
+  {
+   "name": "lastName",
+   "type": "text",
+   "label": "Nom",
+   "required": true,
+   "placeholder": "Entrez votre nom"
+  },
+  {
+   "name": "email",
+   "type": "text",
+   "label": "E-mail",
+   "required": true,
+   "placeholder": "E-mail"
+  },
+  {
+   "name": "areaOfInterest",
+   "type": "select",
+   "label": "Domaine d'intérêt",
+   "required": true,
+   "options": [
+    {
+     "value": "",
+     "text": "Sélectionnez un domaine d'intérêt"
+    },
+    {
+     "value": "Domaine thérapeutique : Respiratoire & immunologie",
+     "text": "Domaine thérapeutique : Respiratoire & immunologie"
+    },
+    {
+     "value": "Domaine thérapeutique : Oncologie",
+     "text": "Domaine thérapeutique : Oncologie"
+    },
+    {
+     "value": "Domaine thérapeutique : Maladies cardiovasculaires, rénales et métaboliques",
+     "text": "Domaine thérapeutique : Maladies cardiovasculaires, rénales et métaboliques"
+    },
+    {
+     "value": "Nos produits",
+     "text": "Nos produits"
+    },
+    {
+     "value": "Questions médicales",
+     "text": "Questions médicales"
+    },
+    {
+     "value": "Commentaires sur le site web",
+     "text": "Commentaires sur le site web"
+    },
+    {
+     "value": "Sécurité des patients",
+     "text": "Sécurité des patients"
+    },
+    {
+     "value": "Demande générale",
+     "text": "Demande générale"
+    }
+   ]
+  },
+  {
+   "name": "enquiryText",
+   "type": "textarea",
+   "label": "Texte de la demande (Facultatif)",
+   "required": false,
+   "placeholder": "Texte de la demande"
+  },
+  {
+   "name": "termsAndConditions",
+   "type": "checkbox",
+   "label": "Conditions générales",
+   "required": true,
+   "link": "https://www.astrazeneca.ch/fr/terms-of-use.html"
+  },
+  {
+   "name": "privacyPolicy",
+   "type": "checkbox",
+   "label": "Politique de confidentialité",
+   "required": true,
+   "link": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+/* search — live searchbox field (1px border, icon 0 12px, input 15px) + searchresults theme
+ * (summary 46/50 in the title colour); result items as title + description links */
+.search .search-field {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--black);
+}
+
+.search .search-field .azi { padding: 0 12px; }
+
+.search .search-input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  padding: 15px;
+  background: var(--white);
+  color: var(--black);
+  outline: none;
+}
+
+.search .search-results { margin-top: 20px; }
+
+.search .search-summary {
+  color: var(--plum);
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.search .search-none { margin-top: 16px; }
+
+.search .search-list {
+  margin: 20px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.search .search-list li { border-bottom: 1px solid var(--rule); }
+
+.search a.search-item:any-link {
+  display: block;
+  padding: 16px 0;
+  color: var(--graphite);
+  text-decoration: none;
+}
+
+.search a.search-item h4 {
+  font-size: 26px;
+  line-height: 34px;
+}
+
+.search a.search-item:hover h4 { color: var(--magenta); }
+.search .search-description { margin-top: 8px; }
+
+@media (width >= 768px) {
+  .search .search-summary {
+    font-size: 46px;
+    line-height: 50px;
+  }
+}
