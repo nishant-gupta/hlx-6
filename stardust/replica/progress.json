@@ -1,0 +1,196 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:replica",
+  "site": "https://www.myastrazeneca.ch",
+  "regime": "prototype (standalone prototype vs live)"
+ },
+ "canon": {
+  "files": [
+   "stardust/prototypes/css/canon.css",
+   "stardust/prototypes/js/site.js",
+   "stardust/prototypes/partials/chrome-{de,fr,it,en}.json"
+  ],
+  "fonts": {
+   "Lexia": "licensed — substituted by Aleo (OFL) with size-adjust 98% (calibrated over 420 site headings; per-string spread sd 1.8%). Brand name first in the stack. Permanent justified font-fork residual.",
+   "Inter": "self-hosted (OFL), same files as live",
+   "icomoon": "site's own icon font (also aliased as \"Font Awesome\" on live), self-hosted"
+  },
+  "instrumentFixes": [
+   {
+    "what": "cookie banner (#CookieReportsBannerAZ a.wscrOk) not matched by the default consent dismissal — live capture measured the banner + backdrop (45.97%)",
+    "fix": "--consent '#CookieReportsBannerAZ a.wscrOk' on every live capture",
+    "invalidatedRuns": [
+     "home-1440 first iter1 (excluded from the cap)"
+    ]
+   }
+  ],
+  "hoverDead": [
+   ".btn (teaser action link) — CSS :hover opacity .8 never fires on live",
+   "mega-menu top items — :hover colour rule never fires on live"
+  ],
+  "sourceDefectsMirrored": [
+   {
+    "what": "social sign-in popup shows raw i18n key \"requestToSignInContent\" (and error popup \"errorMessage\")",
+    "where": "all pages with social features",
+    "policy": "replicated as captured"
+   }
+  ]
+ },
+ "pageTypes": {
+  "landing": {
+   "archetype": "home",
+   "source": "https://www.myastrazeneca.ch/de/startseite.html",
+   "prototype": "stardust/prototypes/home-proposed.html",
+   "breakpoints": {
+    "360": {
+     "iterations": 2,
+     "result": {
+      "structuralRed": 0,
+      "visualFlags": "none",
+      "pixelPct": 1.38,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.79,
+       "footer": 1.77
+      },
+      "pass": true
+     },
+     "residuals": [
+      {
+       "band": "y 0–500",
+       "pct": 3.8,
+       "cause": "Lexia→Aleo glyph shapes in hero title",
+       "flaggedFor": "user"
+      }
+     ]
+    },
+    "1440": {
+     "iterations": 3,
+     "result": {
+      "structuralRed": 0,
+      "visualFlags": "none",
+      "pixelPct": 0.75,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.35,
+       "footer": 0
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ],
+     "residuals": [
+      {
+       "band": "y 0–500",
+       "pct": 1.7,
+       "cause": "glyph antialiasing / Lexia→Aleo substitution in hero + nav",
+       "flaggedFor": "user"
+      }
+     ]
+    }
+   },
+   "motion": {
+    "observed": "stardust/replica/motion/home.json + menu-1440*.json + menu-360*.json",
+    "implemented": [
+     "mega-menu click toggle (is-open, chevron up, full-width mist panel 675px)",
+     "column drill (active item magenta, next column)",
+     "mobile burger overlay (fixed, top 55) + drill-down with Back row",
+     "hover: login opacity .8, card links magenta"
+    ],
+    "dead": [
+     ".btn:hover opacity",
+     "nav top-item :hover colour"
+    ],
+    "pixelAfterMotion": {
+     "360": 1.38,
+     "1440": 0.75
+    }
+   }
+  },
+  "article": {
+   "archetype": "therapy-area",
+   "source": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+   "prototype": "stardust/prototypes/therapy-area-proposed.html",
+   "css": [
+    "canon",
+    "therapy-area"
+   ],
+   "breakpoints": {
+    "360": {
+     "iterations": 3,
+     "result": {
+      "structuralRed": 0,
+      "visualFlags": "not run (pixel+content clean)",
+      "pixelPct": 0.44,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.79,
+       "breadcrumbBand": 3.21,
+       "footer": 1.77
+      },
+      "pass": true
+     },
+     "residuals": [
+      {
+       "region": "breadcrumb band y86–116",
+       "pct": 3.21,
+       "cause": "font-substitution: Lexia→Aleo at 10px (chrome-parity: only Δw -2px on \"Therapiegebiete\"; all positions match after inline-block whitespace parity)",
+       "parity": "quiet except font width",
+       "flaggedFor": "user (supply licensed Lexia to clear)"
+      }
+     ]
+    },
+    "1440": {
+     "iterations": 3,
+     "result": {
+      "structuralRed": 0,
+      "visualFlags": "none",
+      "pixelPct": 0.25,
+      "heightDelta": 0,
+      "chrome": {
+       "header": 1.53,
+       "footer": 0
+      },
+      "pass": true
+     },
+     "justified": [
+      {
+       "probe": "content",
+       "flag": "font fork (Lexia → Aleo)",
+       "why": "licensed kit substituted",
+       "permanent": true
+      }
+     ],
+     "residuals": []
+    }
+   },
+   "motion": {
+    "observed": "stardust/replica/motion/therapy-area.json + social-popup-1440.json",
+    "implemented": [
+     "social icons → sign-in popup (body.popup-open), close icon",
+     "breadcrumb link hover magenta"
+    ],
+    "dead": [
+     "social icon hover",
+     "rich-text link hover"
+    ],
+    "pixelAfterMotion": {
+     "360": 0.44,
+     "1440": 0.25
+    }
+   },
+   "fixesFromInstruments": [
+    "ol UA margins reset; removed .text+.text margin rule (refs −4/−8px)",
+    "word-break: break-word on .text/a/lists (live text.css) — mobile ref wrap +20px",
+    "breadcrumb li inline-block (live whitespace between items)",
+    "login label wrapped in span (role parity)"
+   ]
+  }
+ }
+}

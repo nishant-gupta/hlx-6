@@ -1,0 +1,351 @@
+{
+ "hoverL1": {
+  "l1": [
+   {
+    "text": "Herz, Niere & Stoffwechsel",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     116,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Atemwege & Immunologie",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     150,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Onkologie & Hämatologie",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     184,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Alle Arzneimittel anzeigen",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     687,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   }
+  ],
+  "l2": []
+ },
+ "clickL1": {
+  "l1": [
+   {
+    "text": "Herz, Niere & Stoffwechsel",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     116,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(208, 0, 111)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(208, 0, 111)",
+    "deco": "none"
+   },
+   {
+    "text": "Atemwege & Immunologie",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     150,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Onkologie & Hämatologie",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     184,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Alle Arzneimittel anzeigen",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     70,
+     687,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   }
+  ],
+  "l2": [
+   {
+    "text": "Herzinsuffizienz",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     116,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Nierenkrankheit (CKD)",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     150,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Typ‑2‑Diabetes",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     184,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Amyloidose",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     218,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Hyperkaliämie",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     252,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   }
+  ],
+  "classes": [
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu__item-parent open",
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu__item-parent",
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu__item-parent",
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu_item--level-1--link-viewall",
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu__item-parent",
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu__item-parent",
+   "cmp-megamenu__item cmp-megamenu__item--level-1 cmp-megamenu__item-parent"
+  ]
+ },
+ "hoverL2": {
+  "l3": []
+ },
+ "clickL2": {
+  "l2": [
+   {
+    "text": "Herzinsuffizienz",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     116,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(208, 0, 111)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(208, 0, 111)",
+    "deco": "none"
+   },
+   {
+    "text": "Nierenkrankheit (CKD)",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     150,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Typ‑2‑Diabetes",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     184,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Amyloidose",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     218,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Hyperkaliämie",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     339,
+     252,
+     229,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   }
+  ],
+  "l3": [
+   {
+    "text": "Forxiga® (Dapagliflozin)",
+    "cls": "cmp-megamenu__content",
+    "rect": [
+     640,
+     116,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   },
+   {
+    "text": "Forxiga® (Dapagliflozin)",
+    "cls": "",
+    "rect": [
+     640,
+     116,
+     220,
+     34
+    ],
+    "font": "16px/18px",
+    "color": "rgb(60, 66, 66)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "8px 20px 8px 8px",
+    "bb": "0px none rgb(60, 66, 66)",
+    "deco": "none"
+   }
+  ]
+ }
+}
