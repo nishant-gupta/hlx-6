@@ -1,0 +1,695 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:24:41.489Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "de-startseite-therapiegebiete-cvrm-acutecare-html",
+  "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:24:41.489Z",
+  "finalUrl": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+  "title": "Acute Care",
+  "description": "Hier finden Sie Informationen zu unserem Therapiegebiet Acute Care.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch/",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Akutversorgung"
+    },
+    {
+      "tag": "h2",
+      "text": "Lebensbedrohliche, unkontrollierte Blutungen"
+    },
+    {
+      "tag": "h4",
+      "text": "Schweiz"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalität"
+    },
+    {
+      "tag": "h4",
+      "text": "Hämostase"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptome"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnose"
+    },
+    {
+      "tag": "h4",
+      "text": "Behandlung"
+    },
+    {
+      "tag": "h3",
+      "text": "Nützliche Produktinformationen"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "Unsere Arzneimittel Herz, Niere & Stoffwechsel Herzinsuffizienz Forxiga® (Dapagliflozin) Nierenkrankheit (CKD) Forxiga® (Dapagliflozin) Typ‑2‑Diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidose Wainzua® (Eplontersen) Hyperkaliämie Lokelma® (Sodium zirconium cyclosilicate) Atemwege & Immunologie Chronisch obstruktive Lungenerkrankung Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophile Granulomatose mit Polyangiitis (EGPA) Fasenra® (Benralizumab) Systemischer Lupus erythematodes (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Onkologie & Hämatologie Mammakarzinom Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hämatologie Calquence® (Acalabrutinib) Leberkarzinom Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Biliäres Karzinom Imfinzi® (Durvalumab) Lungenkarzinom Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarialkarzinom Lynparza® (Olaparib) Endometriumkarzinom Imfinzi® (Durvalumab) Prostatakarzinom Lynparza® (Olaparib) Muskelinvasives Harnblasenkarzinom Imfinzi® (Durvalumab) Pankreaskarzinom Lynparza® (Olaparib) Adenokarzinom des Magens oder des gastroösophagealen Übergangs (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Tumoragnostisch Enhertu® (Trastuzumab Deruxtecan) Alle Arzneimittel anzeigen",
+    "Therapiegebiete Herz, Niere & Stoffwechsel Akutversorgung Nierenkrankheit (CKD) Diabetes Herzinsuffizienz Atemwege & Immunologie Asthma Chronisch obstruktive Lungenerkrankung Systemischer Lupus erythematodes (SLE) Onkologie Leber- und Gallenblasenkrebs Ovarialkarzinom Hämatologie Lungenkrebs Brustkrebs",
+    "Kontaktieren Sie uns",
+    "Startseite",
+    "Therapiegebiete",
+    "CVRM",
+    "Akutversorgung",
+    "Akutversorgung",
+    "Rund 1% der Schweizer Bevölkerung nimmt täglich Medikamente zur Hemmung der Blutgerinnung ein.1 Die wichtigsten Gründe für diese Behandlung sind eine künstliche Herzklappe, wiederholte Thrombosen und Lungenembolien sowie Herzrhythmusstörungen (Vorhofflimmern).1 Mit zunehmendem Lebensalter steigt die Anzahl der Patient:innen, für welche eine Indikation zur Einleitung einer oralen Antikoagulation besteht:2 bei über 85-Jährigen sind dies allein 20% aufgrund von Vorhofflimmern.3",
+    "Zur Antikoagulation stehen verschiedene Wirkstoffklassen zur Verfügung: Direkte orale Antikoagulantien (DOAKs) haben sich schnell zu einer attraktiven Alternative zum langjährigen Standard der Gerinnungshemmung, den Vitamin-K-Antagonisten, entwickelt.4 Im Vergleich zu Vitamin-K-Antagonisten überzeugen DOAK durch ein besseres Nutzen/Risiko-Verhältnis, eine vorhersehbare Wirkung ohne die Notwendigkeit routinemässiger Laborkontrollen und weniger Wechselwirkungen mit Lebensmitteln und Medikamenten.5",
+    "Trotz des positiven Nutzen/Risiko-Verhältnisses der DOAKs treten jährlich bei etwa 2 bis 3,5% der Patient:innen schwere Blutungen auf.6 Die Mortalitätsrate nach schweren DOAK-bedingten Blutungen liegt bei 17,7% und ohne das Erreichen einer wirksamen Hämostase steigt das Mortalitätsrisiko um den Faktor 3,6.7",
+    "Schweiz",
+    "circa 1% der Schweizer nehmen täglich Antikoagulantien ein1",
+    "Mortalität",
+    "Die Mortalitätsrate nach schweren Blutungen liegt bei 17,7%7",
+    "Hämostase",
+    "Ohne wirksame Hämostase steigt die Mortalität um den Faktor 3,67",
+    "Der Blutungsort von Patien:innen mit VHF, welche aufgrund einer schweren DOAK-bedingten Blutung hospitalisiert wurden, ist bei 57,6% aller Patient:innen gastrointestinal, bei 25,4% an kritischen Stellen, bei 9.1% intrakraniell und bei 1.9% auf Grund von schweren Traumata oder chirurgischen Komplikationen.6",
+    "Als Risikofaktoren für Blutungen gelten das Alter (über 65 Jahre), ein unbehandelter Bluthochdruck, schwere Leber- oder Nierenfunktionsstörungen, Blutungen oder Schlaganfälle in der Vorgeschichte, schwankende INR-Werte und die Einnahme weiterer Arzneimittel.8",
+    "Abbildung 1: Adaptiert nach Held C et al. Eur Heart J. 2015;36(20):1264-1272; Hankey GJ et al. Stroke. 2014;45(5):1304-1312.",
+    "DOAK-bedingte schwere gastrointestinale Blutungen sind mit einem signifikanten Risiko der 30-Tage-Mortalität verbunden.9",
+    "Abbildung 2: 1. Adaptiert nach Milling TJ Jr, et al. Am J Emerg Med 2018;36:396–402; 2. Coleman CI, et al. Future Cardiol 2021;17:127–135; 3. Pannach S, et al. J Gastroenterol 2017;52:1211–1220; 4. Singer AJ, et al. J Emerg Med 2017;52:1–7; 5. Fermann GJ et al. J Med Econ 2020;23(12):1409–1417; 6. Hearnshaw SA et al. Gut 2011;60(10):1327–1335",
+    "Symptome",
+    "Zu den Symptomen einer gastrointestinalen Blutung können gehören:10",
+    "schwarzer oder teerartiger Stuhl",
+    "hellrotes Blut im Erbrochenen",
+    "Krämpfe im Unterleib",
+    "Blut im Stuhl",
+    "Schwindel oder Ohnmacht",
+    "Müdigkeit",
+    "Blässe",
+    "Kurzatmigkeit",
+    "Schwäche",
+    "Mögliche Anzeichen einer intrakraniellen Blutung beinhalten:11",
+    "Kopfschmerzen",
+    "Übelkeit/Erbrechen",
+    "Bewusstseinsstörungen",
+    "Lethargie",
+    "Motorische Defizite",
+    "Sprachstörungen",
+    "Krampfanfälle",
+    "Bei einer akuten Blutung können die Patient:innen einen Schock erleiden, der zu einem Abfall des Blutdrucks, einem schnellen Puls und Bewusstlosigkeit führen kann.10",
+    "Diagnose",
+    "Zur Bewertung des Blutungsrisikos unter DOAK wird eine strukturierte, auf einem Risikoscore basierende Beurteilung empfohlen (z.B. der HAS-BLED-Score), um Patient:innen mit höherem Blutungsrisiko (HAS-BLED-Score ≥3) zu identifizieren und für häufigere klinische Überprüfung und Nachsorge einzuplanen.12 Für innere Blutungen gibt es kein charakteristisches klinisches Anzeichen, daher ist die klinische Beurteilung der Patient:innen entscheidend. Schwere Blutungen führen zu niedrigen Hämoglobin- und Hämatokrit-Werten im Blut, auch wenn es viele Stunden dauern kann, bis die Labortests diese Auswirkungen zeigen.13",
+    "Bildgebende Verfahren sind entscheidend bei der Diagnose von Blutungen. Eine intrakranielle Blutung kann entweder durch ein kontrastfreies CT oder ein MRT bestätigt werden. Eine gastrointestinale Endoskopie hilft bei der Diagnose einer gastrointestinalen Blutung.13",
+    "Behandlung",
+    "Dank der kurzen Halbwertszeit der DOAK nimmt die antikoagulative Wirkung rasch ab und 16–24 h nach der letzten DOAK-Einnahme ist nur noch eine geringe Beeinflussung der Hämostase zu erwarten.11 Es ist jedoch zu beachten, dass bei Notfallpatient:innen, die mit einem DOAK behandelt werden, die Konzentration von Antikoagulantien zu Beginn der Behandlung stark schwanken können.14 Bei einer leichten Blutung unter DOAK wird empfohlen, die nächste Dosis später zu verabreichen oder die Behandlung abzubrechen und die Begleitmedikation zu überprüfen.5,12",
+    "Das Management von mittelschweren bis schweren Blutungen umfasst sowohl Basismassnahmen als auch spezifische Massnahmen zur Optimierung der Hämostase. Basis-Massnahmen zur Blutstillung können angepasst an den Schweregrad und die Lage der Blutung folgendes beinhalten:12",
+    "Mechanische Kompression, chirurgischer/interventioneller Eingriff",
+    "Flüssigkeitsersatz und hämodynamische Unterstützung",
+    "Blutprodukte oder Transfusion von Blutkomponenten",
+    "Zu den weiteren Massnahmen gehören die Gabe von spezifischen Antidots oder Prokoagulatien bei lebensbedrohlichen oder nicht kontrollierbaren Blutungen.12",
+    "CT: Computertomografie; DOAK: direkte orale Antikoagulantien; HAS-BLED: Scoring-System zur Einschätzung des 1-Jahresrisikos für schwere Blutungen; INR: International Normalized Ratio; MRT: Magnetresonanztomographie; NVAF: nicht-valvulärem Vorhofflimmern.",
+    "Referenzen:",
+    "Coagulation care, Schweizerische Stiftung für Patienten mit Blutverdünnung. Blutverdünnung. Online verfügbar unter: https://www.coagulationcare.ch/blutverduennung.html. Letzter Zugriff: 23.05.2024.",
+    "Jürgen Bauer, Cornel C. Sieber. Antikoagulation bei älteren Menschen. Schweiz Med Forum 2004;4:824–831. Online verfügbar unter: https://smf.swisshealthweb.ch/fileadmin/assets/SMF/2004/fms.2004.05279/fms-2004-05279.pdf. Letzter Zugriff: 23.05.2024.",
+    "Roland Fath, Notfallmanagement: Direkte Antikoagulation aufheben. Dtsch Arztebl 2020; 117(5): A-213. Online verfügbar unter: https://www.aerzteblatt.de/archiv/212290/Notfallmanagement-Direkte-Antikoagulation-aufheben. Letzter Zugriff: 23.05.2024.",
+    "Chen A, et al. Direct Oral Anticoagulant Use: A Practical Guide to Common Clinical Challenges. J Am Heart Assoc. 2020 Jul 7;9(13):e017559.",
+    "Heidbuchel H, et al. Updated European Heart Rhythm Association Practical Guide on the use of non-vitamin K antagonist anticoagulants in patients with non-valvular atrial fibrillation. Europace. 2015 Oct;17(10):1467-507.",
+    "Deitelzweig S, et al. Incremental economic burden associated with major bleeding among atrial fibrillation patients treated with factor Xa inhibitors. J Med Econ. 2017 Dec;20(12):1217-1223.",
+    "Gómez-Outes A, et al. Meta-Analysis of Reversal Agents for Severe Bleeding Associated With Direct Oral Anticoagulants. J Am Coll Cardiol. 2021 Jun 22;77(24):2987-3001.",
+    "Habert JS. Minimizing bleeding risk in patients receiving direct oral anticoagulants for stroke prevention. Int J Gen Med. 2016 Oct 11;9:337-347.",
+    "Nicholas L.J. Chornenki, Roupen Odabashiain, Jenneke Lenteejens, Fabian Stucki, Tobias Tritschler, Deborah Siegal; All-Cause Mortality after Major Gastrointestinal Bleeding Among Patients Receiving Direct Oral Anticoagulants: A Systematic Review and Meta-Analysis. Blood 2023; 142 (Supplement 1): 4014. doi: https://doi.org/10.1182/blood-2023-174340).",
+    "NIH, National Institute of Diabetes and Digestive and Kidney Diseases. Symptoms and causes of GI Bleeding. Online verfügbar unter: https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding/symptoms-causes. Letzter Zugriff: 23.05.2024.",
+    "Tenny S, Thorell W. Intracranial Hemorrhage. Stand: 17.02.2024. Online verfügbar unter: https://www.ncbi.nlm.nih.gov/books/NBK470242/. Letzter Zugriff: 23.05.2024.",
+    "Rosemann A, et al. Neue/Direkte orale Antikoagulantien (DOAK). IHAMZ-Guideline, Institut für Hausarztmedizin, Universitätsspital Zürich. Erstellt: 11/2023. Online verfügbar unter: https://guidelines.fmh.ch/downloads/19190258/download-de.pdf. Letzter Zugriff: 23.05.2024.",
+    "Gunasekaran K, et al. A Review of the Incidence Diagnosis and Treatment of Spontaneous Hemorrhage in Patients Treated with Direct Oral Anticoagulants. J Clin Med. 2020 Sep 15;9(9):2984.",
+    "Lindhoff-Last E, Birschmann I, Kuhn J, Lindau S, Konstantinides S, Grottke O, Nowak-Göttl U, Lucks J, Zydek B, von Heymann C, Sümnig A, Beyer-Westendorf J, Schellong S, Meybohm P, Greinacher A, Herrmann E; RADOA-Registry Investigators (Reversal Agent use in patients treated with Direct Oral Anticoagulants or vitamin K antagonists Registry). Pharmacokinetics of Direct Oral Anticoagulants in Emergency Situations: Results of the Prospective Observational RADOA-Registry. Thromb Haemost. 2022 Apr;122(4):552-559. doi: 10.1055/a-1549-6556.",
+    "Unser breit gefächertes Fachwissen in den Bereichen Forschung und Entwicklung setzen wir im gesamten Lebenszyklus eines Medikaments ein. Entdecken Sie jetzt unsere Indikationen oder stöbern Sie durch alle unsere Produkte!",
+    "CH-9812-Revision date 05/2024",
+    "Diese Inhalte sind ausschliesslich für medizinisches Fachpersonal in der Schweiz bestimmt.",
+    "Cookie Regelung",
+    "Kontakt",
+    "Datenschutzbestimmung",
+    "Nutzungsbedingung",
+    "Nebenwirkungsmeldung",
+    "Qualitätsmangel melden",
+    "Medizinische Anfragen"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/cvrm/acutecare.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/cvrm/acutecare.html"
+    },
+    {
+      "label": "Kontaktieren Sie uns",
+      "href": "/de/startseite/contact-us.html"
+    },
+    {
+      "label": "Anmelden",
+      "href": "/de/user/login.html"
+    },
+    {
+      "label": "Startseite",
+      "href": "/de/startseite.html"
+    },
+    {
+      "label": "Therapiegebiete",
+      "href": "/de/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "CVRM",
+      "href": "/de/startseite/therapiegebiete/cvrm.html"
+    },
+    {
+      "label": "https://www.coagulationcare.ch/blutverduennung.html",
+      "href": "https://www.coagulationcare.ch/blutverduennung.html"
+    },
+    {
+      "label": "https://smf.swisshealthweb.ch/fileadmin/assets/SMF/2004/fms.2004.05279/fms-2004-05279.pdf",
+      "href": "https://smf.swisshealthweb.ch/fileadmin/assets/SMF/2004/fms.2004.05279/fms-2004-05279.pdf"
+    },
+    {
+      "label": "https://www.aerzteblatt.de/archiv/212290/Notfallmanagement-Direkte-Antikoagulation-aufheben",
+      "href": "https://www.aerzteblatt.de/archiv/212290/Notfallmanagement-Direkte-Antikoagulation-aufheben"
+    },
+    {
+      "label": "https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding/symptoms-causes",
+      "href": "https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding/symptoms-causes"
+    },
+    {
+      "label": "https://www.ncbi.nlm.nih.gov/books/NBK470242/",
+      "href": "https://www.ncbi.nlm.nih.gov/books/NBK470242/"
+    },
+    {
+      "label": "https://guidelines.fmh.ch/downloads/19190258/download-de.pdf",
+      "href": "https://guidelines.fmh.ch/downloads/19190258/download-de.pdf"
+    },
+    {
+      "label": "Jetzt entdecken",
+      "href": "/de/startseite/produkte.html#tabs-3e5292059f-item-54029d7fbd-tab"
+    },
+    {
+      "label": "Cookie Regelung",
+      "href": "//policy.cookiereports.com/b50c8635-de-ch.html"
+    },
+    {
+      "label": "Kontakt",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Datenschutzbestimmung",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html"
+    },
+    {
+      "label": "Nutzungsbedingung",
+      "href": "https://www.astrazeneca.ch/de/terms-of-use.html"
+    },
+    {
+      "label": "Nebenwirkungsmeldung",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html"
+    },
+    {
+      "label": "Qualitätsmangel melden",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medizinische Anfragen",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/saphnelo.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm.html",
+    "https://www.coagulationcare.ch/blutverduennung.html",
+    "https://smf.swisshealthweb.ch/fileadmin/assets/SMF/2004/fms.2004.05279/fms-2004-05279.pdf",
+    "https://www.aerzteblatt.de/archiv/212290/Notfallmanagement-Direkte-Antikoagulation-aufheben",
+    "https://www.niddk.nih.gov/health-information/digestive-diseases/gastrointestinal-bleeding/symptoms-causes",
+    "https://www.ncbi.nlm.nih.gov/books/NBK470242/",
+    "https://guidelines.fmh.ch/downloads/19190258/download-de.pdf",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html#tabs-3e5292059f-item-54029d7fbd-tab",
+    "https://policy.cookiereports.com/b50c8635-de-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html",
+    "https://www.astrazeneca.ch/de/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com",
+    "https://cookienotice.astrazeneca.com/",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html#",
+    "https://www.digitalcontrolroom.com/",
+    "https://www.digitalcontrolroom.com/privacy-policy/",
+    "https://tealium.com/",
+    "https://tealium.com/privacy/",
+    "https://www.vmware.com/",
+    "https://www.vmware.com/help/privacy.html",
+    "https://aws.amazon.com/elasticloadbalancing/",
+    "https://aws.amazon.com/privacy/",
+    "https://www.amazon.com/",
+    "https://www.amazon.com/privacy",
+    "https://www.microsoft.com/",
+    "https://privacy.microsoft.com/",
+    "https://www.adobe.com/",
+    "https://www.adobe.com/privacy/policy.html",
+    "https://www.adobe.com/privacy.html",
+    "https://www.innovid.com/",
+    "https://www.innovid.com/privacy-policy/",
+    "https://mouseflow.com/",
+    "https://mouseflow.com/privacy/",
+    "https://www.flashtalking.com/",
+    "https://www.flashtalking.com/privacypolicy",
+    "https://www.google.com/",
+    "https://policies.google.com/privacy",
+    "https://support.microsoft.com/de-de/windows/verwalten-von-cookies-in-microsoft-edge-anzeigen-zulassen-blockieren-l%C3%B6schen-und-verwenden-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.google.com/chrome/answer/95647?hl=de-ch",
+    "https://support.apple.com/da-dk/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/Header/master/_jcr_content/root/image.coreimg.svg/1782161083945/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_copy_copy/teaser.coreimg.80.1920.jpeg/1777295286000/acutecare-teaser.jpeg",
+        "alt": "",
+        "w": 1080,
+        "h": 187
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/acutecare-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 350
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_346715784_/teaser.coreimg.80.1920.jpeg/1724347701000/schweiz-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/schweiz-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_346715784_/teaser_copy.coreimg.80.1920.jpeg/1724347710000/mortalit-t-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/mortalit%C3%A4t-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_346715784_/teaser_copy_1183145746.coreimg.80.1920.jpeg/1724347720000/hamostase-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/hamostase-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_1691142580/image.coreimg.80.1920.jpeg/1725018065000/patient-in-desktop.jpeg",
+        "alt": "patient-image",
+        "w": 885,
+        "h": 426
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_1691142580_2048017763/image.coreimg.80.1920.jpeg/1725018057000/tagiger.jpeg",
+        "alt": "anzahal-graph",
+        "w": 885,
+        "h": 426
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container/image.coreimg.80.1920.jpeg/1725017683000/doak.jpeg",
+        "alt": "anzahal-graph",
+        "w": 885,
+        "h": 426
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_copy/teaser_copy.coreimg.80.1920.jpeg/1724348143000/symptome-ac-desktop.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/symptome-ac-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_copy_14079/teaser_copy.coreimg.80.1920.jpeg/1724348165000/diagnose-ac-desk.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/diagnose-ac-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_copy_14079_381917725/teaser_copy.coreimg.80.1920.jpeg/1724348226000/behandlung-ac-desk.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/acute-care/behandlung-ac-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_919081004_/image.coreimg.80.1920.jpeg/1725013979000/intrinsic.jpeg",
+        "alt": "ttr",
+        "w": 663,
+        "h": 319
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/_jcr_content/root/container/container_1083364370_129334094/teaser_copy.coreimg.80.1920.jpeg/1730810877000/useful-product-info.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/transthyretin-amyloidosis/useful-product-info-mobile.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/footer/master/_jcr_content/root/container/image.coreimg.svg/1782161293040/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 24,
+    "cssBackgrounds": [],
+    "modals": [
+      "Wir verwenden neben Cookies zur Bereitstellung von Funktionen unserer Webseite auch Cookies, welche die Nutzung der Webseite, die von Ihnen besuchten Inhalte und deren Verwendung analysieren, die Anzeigen von personalisierten Inhalten ermöglichen, sowie Social Media-Funktionen bereitstellen. Standardmässig werden nur für die Bereitstellung der Webseite erforderliche Cookies gespeichert. Wenn Sie auf die Schaltfläche «Alle Cookies akzeptieren» klicken, willigen Sie jedoch in die Speicherung aller Cookies auf Ihrem Gerät ein. Wenn Sie auf «Alle Cookies akzeptieren» klicken, erklären Sie sich damit einverstanden, dass Ihre Daten durch Dienstleister aus Drittländern weltweit auch ausserhalb des Europäischen Wirtschaftsraumes (insb. Den USA), in denen kein angemessenes datenschutzrechtliches Schutzniveau besteht, verarbeitet werden. In diesem Fall besteht die Möglichkeit, dass Behörden ohne Rechtsmittel auf die Daten zugreifen können. Wenn Sie auf «Optionale Cookies ablehnen» klicken, findet sie oben beschriebene Übermittlung nicht statt. Über das Menu «Cookie-Präferenzen» oder über die auf der Seite verlinkten Informationen zu Cookies können Sie Ihre Präferenzen anpassen, zusätzliche Informationen erhalten und erteilte Einwilligungen jederzeit zurückziehen oder ändern. Weitere Informationen über die Verwendung von Cookies finden Sie in unserem Hinweis zu Cookies auf unseren Websites.OKVollständige Details, wie wir Cookies verwendenBestätigen Sie Ihre PräferenzenNur erforderliche Cookies12NotwendigDiese Cookies sind für die der Website zugrundeliegenden Vorgänge wichtig und unterstützen wichtige Funktionen wie Einkaufswagen und die technischen Vorgänge der Website, die sicherstellen, dass sie so funktioniert wie Sie es erwarten.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweckwscrCookieConsent1 Jahrwww.myastrazeneca.chDigital Control Room LtdIhr BesuchSpeichert Ihre Cookie-Einwilligungssitzung für unsere Website. Es enthält keine anderen Informationen als die, ob Sie sich für jede Cookie-Ebene aktiviert oder deaktiviert haben.Digital Control Room Ltd - Datenschutzrichtlinie (Digital Control Room Ltd)+ ▼Speichert Ihre Cookie-Einwilligungssitzung für unsere Website. Es enthält keine anderen Informationen als die, ob Sie sich für jede Cookie-Ebene aktiviert oder deaktiviert haben.Digital Control Room Ltd - Datenschutzrichtlinie (Digital Control Room Ltd)utag_main_ses_id1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main_vapi_domain1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__pn1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__se1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__sn1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__ss1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__st1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)_vapi<digits>+Sitzungmyastrazeneca.chVMware, IncIhr BesuchCookie, das eine Sitzungskennung enthält, mit der die Verwendung authentifiziert und verschiedene APIs bereitgestellt werden. Das Cookie ist dynamisch und kann daher nicht aktualisiert werden, da jeder Kunde ein eindeutiges Cookie hat.VMware, Inc - Datenschutzrichtlinie (VMware, Inc)+ ▼Cookie, das eine Sitzungskennung enthält, mit der die Verwendung authentifiziert und verschiedene APIs bereitgestellt werden. Das Cookie ist dynamisch und kann daher nicht aktualisiert werden, da jeder Kunde ein eindeutiges Cookie hat.VMware, Inc - Datenschutzrichtlinie (VMware, Inc)AWSALB1 Stundewww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Ihr BesuchWird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)+ ▼Wird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)AWSALBCORS1 Wochewww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Ihr BesuchWird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)+ ▼Wird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)JSESSIONIDSitzungwww.myastrazeneca.chEIS, Microsoft CorporationIhr BesuchSpeichert Sitzungsdaten während eines von Jetty Web Server ausgegebenen Website-Besuchs.Microsoft Corporation - Datenschutzrichtlinie (Microsoft Corporation)+ ▼Speichert Sitzungsdaten während eines von Jetty Web Server ausgegebenen Website-Besuchs.Microsoft Corporation - Datenschutzrichtlinie (Microsoft Corporation)0Site-RoutineEinwilligung für: Site-RoutineDiese Cookies werden verwendet, um Ihre Zufriedenheit auf der Website zu unterstützen und enthalten vom Benutzer auszuwählende Optionen, Hilfe zur Navigation auf der Website, usw. Im Allgemeinen werden bei dieser Art von Cookies keine Daten verwendet, die eine Person identifizieren könnten.Für folgende Kategorien verwenden wir keine Cookies35Leistung und BetriebEinwilligung für: Leistung und BetriebDiese Cookies werden zur Verwaltung der Website verwendet und enthalten Kundenumfragen, Aufzeichnungen der Besucherzahlen und andere Web-Analysen. Es können möglicherweise begrenzt identifizierbare Daten gesammelt werden.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweckeverest_g_v22 Jahreeveresttech.netAdobe Inc.AnalysenDiese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Diese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)everest_session_v2Sitzungeveresttech.netAdobe Inc.AnalysenDiese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Diese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)im_cookie_ccreativeSitzungmyastrazeneca.chAdobe Inc.AnalysenZeichnet die Kampagnen-ID auf, die zum Navigieren auf der Website verwendet wird+ ▼Zeichnet die Kampagnen-ID auf, die zum Navigieren auf der Website verwendet wirdtestSitzungmyastrazeneca.chAdobe Inc.AnalysenInternes Cookie, das von Adobe Analytics geschrieben wurde, um die Browser-Cookie-Unterstützung zu testen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Internes Cookie, das von Adobe Analytics geschrieben wurde, um die Browser-Cookie-Unterstützung zu testen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)im_cookie_cadpubSitzungmyastrazeneca.chAstraZenecaAnalysenAlle im_-Cookies sind Analyse-Cookies. Dieses spezielle Beispiel ist ein Session-Cookie, das den URL-Parameter des Kampagnen-Werbetreibenden (cadpub) während der Sitzung speichert, damit er für Datenanalysen der erfassten Daten verwendet werden kann.+ ▼Alle im_-Cookies sind Analyse-Cookies. Dieses spezielle Beispiel ist ein Session-Cookie, das den URL-Parameter des Kampagnen-Werbetreibenden (cadpub) während der Sitzung speichert, damit er für Datenanalysen der erfassten Daten verwendet werden kann.im_cookie_cmediumSitzungmyastrazeneca.chAstraZenecaAnalysenCookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der das Medium (Kanal) der URL angibt.+ ▼Cookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der das Medium (Kanal) der URL angibt.im_cookie_cnameSitzungmyastrazeneca.chAstraZenecaAnalysenCookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der den Kampagnennamen der URL angibt.+ ▼Cookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der den Kampagnennamen der URL angibt.uuid90 Tageinnovid.comAstraZenecaAnalysenDieses Cookie wird verwendet, um die Anzeigenrelevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden. Dieser Austausch von Besucherdaten wird normalerweise von einem Rechenzentrum oder einem Anzeigenaustauschdienst eines Drittanbieters bereitgestelltAstraZeneca - Datenschutzrichtlinie (AstraZeneca)+ ▼Dieses Cookie wird verwendet, um die Anzeigenrelevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden. Dieser Austausch von Besucherdaten wird normalerweise von einem Rechenzentrum oder einem Anzeigenaustauschdienst eines Drittanbieters bereitgestelltAstraZeneca - Datenschutzrichtlinie (AstraZeneca)mf_*Sitzungmyastrazeneca.chMouseflow ApSAnalysenMessen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)+ ▼Messen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)mf_user90 Tagemyastrazeneca.chMouseflow ApSAnalysenMessen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)+ ▼Messen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)im_cookie_session_idSitzungmyastrazeneca.chAdobe, Adobe Inc.AnalysenVerwaltet Benutzersitzungen für die Site-Funktionalitäten und läuft ab, wenn der Browser geschlossen wird.+ ▼Verwaltet Benutzersitzungen für die Site-Funktionalitäten und läuft ab, wenn der Browser geschlossen wird.im_cookie_visitor_uid27 Jahre, 4 Monatemyastrazeneca.chAdobe, Adobe Inc.AnalysenVerfolgt das Besucherverhalten über mehrere Sitzungen hinweg, um das Benutzererlebnis zu verbessern, mit langfristiger Ablauffunktion.+ ▼Verfolgt das Besucherverhalten über mehrere Sitzungen hinweg, um das Benutzererlebnis zu verbessern, mit langfristiger Ablauffunktion.AMCVS_*AdobeOrgSitzungmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenSitzungscookie mit Adobe. Es zeigt an, dass eine Sitzung initialisiert wurde. Mithilfe der Organisations-ID kann Adobe nur den Datenverkehr von legitimen Websites analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Sitzungscookie mit Adobe. Es zeigt an, dass eine Sitzung initialisiert wurde. Mithilfe der Organisations-ID kann Adobe nur den Datenverkehr von legitimen Websites analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)AMCV_*AdobeOrg2 Jahremyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenHilft Adobe, nur den Datenverkehr von legitimen Websites zu analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Hilft Adobe, nur den Datenverkehr von legitimen Websites zu analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)astrazenecauklimited!mboxPC1 Tagastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalysenCookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)astrazenecauklimited!mboxSession30 Minutenastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalysenCookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)at_checkSitzungmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenCookie zum Erinnern an den Besucher, wenn experimentiert wird, welche Inhalte dem Besucher bereitgestellt werden sollen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie zum Erinnern an den Besucher, wenn experimentiert wird, welche Inhalte dem Besucher bereitgestellt werden sollen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)gpv_pn30 Minutenmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenDieses Cookie wird beim Laden der Seite vom Adobe Analytics-JavaScript-Code gesetzt und gelesen. Erfasst den Namen der Adobe Analytics-Seite. Es werden keine personenbezogenen Daten erfasst.+ ▼Dieses Cookie wird beim Laden der Seite vom Adobe Analytics-JavaScript-Code gesetzt und gelesen. Erfasst den Namen der Adobe Analytics-Seite. Es werden keine personenbezogenen Daten erfasst.mbox2 Jahremyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenDieses Cookie wird verwendet, um zu steuern, welche Elemente einem Besucher angezeigt werden sollen, und gibt Website-Betreibern die Möglichkeit zu testen, welche Online-Inhalte und -Angebote für Besucher relevanter sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Dieses Cookie wird verwendet, um zu steuern, welche Elemente einem Besucher angezeigt werden sollen, und gibt Website-Betreibern die Möglichkeit zu testen, welche Online-Inhalte und -Angebote für Besucher relevanter sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)demdex2 Jahredemdex.netAdobe Media Optimizer, Adobe Inc.AnalysenWird verwendet, um einen wiederkehrenden Besucher zu erkennen, einzigartige Zielgruppenprofile zu erstellen und mithilfe von Adobe Analytics gezielte Nachrichten zu übermitteln.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird verwendet, um einen wiederkehrenden Besucher zu erkennen, einzigartige Zielgruppenprofile zu erstellen und mithilfe von Adobe Analytics gezielte Nachrichten zu übermitteln.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)dextp6 Monatedemdex.netAdobe Media Optimizer, Adobe Inc.AnalysenAdobe Audience Manager setzt dieses Cookie, um den letzten Datensynchronisierungsaufruf aufzuzeichnen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Adobe Audience Manager setzt dieses Cookie, um den letzten Datensynchronisierungsaufruf aufzuzeichnen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)dpm2 Jahredpm.demdex.netAdobe Media Optimizer, Adobe Inc.AnalysenWird verwendet, um Adobe Audience Manager bei der Durchführung grundlegender Funktionen wie Besucheridentifikation, ID-Synchronisierung, Segmentierung, Modellierung, Berichterstellung usw. zu unterstützenAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird verwendet, um Adobe Audience Manager bei der Durchführung grundlegender Funktionen wie Besucheridentifikation, ID-Synchronisierung, Segmentierung, Modellierung, Berichterstellung usw. zu unterstützenAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)flashtalkingad12 Jahreflashtalking.comFlashtalking, Simplicity Marketing LtdAnalysenSammelt anonyme Daten und ermittelt im Auftrag der Werbeplattform Flashtalking von Simplicity Marketing Ltd., welche Werbung dem Nutzer bereits geliefert wurde.Flashtalking - Datenschutzrichtlinie (Flashtalking)+ ▼Sammelt anonyme Daten und ermittelt im Auftrag der Werbeplattform Flashtalking von Simplicity Marketing Ltd., welche Werbung dem Nutzer bereits geliefert wurde.Flashtalking - Datenschutzrichtlinie (Flashtalking)s_ccSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenSpeichert im Namen der SiteCatalyst Analytics-Plattform, ob Cookies aktiviert sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Speichert im Namen der SiteCatalyst Analytics-Plattform, ob Cookies aktiviert sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getDaysSinceLastVisit3 Jahremyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getDaysSinceLastVisit_s3 Jahremyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getNewRepeat30 Tagemyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenBestimmt, ob ein Besucher ein neuer Besucher oder ein wiederkehrender Besucher ist, und erfasst diese Informationen in einer Analytics-Variablen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Bestimmt, ob ein Besucher ein neuer Besucher oder ein wiederkehrender Besucher ist, und erfasst diese Informationen in einer Analytics-Variablen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_invisit30 Minutenmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenDieses Cookie wird von einem Omniture-Plugin verwendet, um die Besuchszahlen pro Monat für einen bestimmten Benutzer der Webseite zu zählen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Dieses Cookie wird von einem Omniture-Plugin verwendet, um die Besuchszahlen pro Monat für einen bestimmten Benutzer der Webseite zu zählen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pltSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pltpSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_ppvSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenSpeichert den Prozentsatz der Seite, der dem Endbenutzer vertikal angezeigt wurde.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Speichert den Prozentsatz der Seite, der dem Endbenutzer vertikal angezeigt wurde.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pvsSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_tpSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: Adobe Consulting PluginAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: Adobe Consulting PluginAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_tpsSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_vnum30 Tagemyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenAktiviert die Nachverfolgung der Besuchsnummer nach Monat für die SiteCatalyst Analytics-Plattform, indem aufgezeichnet wird, wie Sie auf der Site angekommen sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Aktiviert die Nachverfolgung der Besuchsnummer nach Monat für die SiteCatalyst Analytics-Plattform, indem aufgezeichnet wird, wie Sie auf der Site angekommen sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)3Marketing, anonymes Cross-Site-Tracking:Einwilligung für: Marketing, anonymes Cross-Site-Tracking:Diese Cookies werden dazu verwendet, die Besucher all unserer Websites nachzuverfolgen. Sie können dazu verwendet werden, ein Profil des Such- und/oder Navigationsverlaufs jedes Besuchers zu erstellen. Es können identifizierbare oder eindeutige Daten gesammelt werden. Anonymisierte Daten können mit Dritten geteilt werden.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweck_gcl_au3 Monatemyastrazeneca.chAdSense, Google LLCWerbungGoogle AdSense sammelt Statistiken über die Nutzung seines Dienstes, um Marketingentscheidungen zu treffenGoogle LLC - Datenschutzrichtlinie (Google LLC)+ ▼Google AdSense sammelt Statistiken über die Nutzung seines Dienstes, um Marketingentscheidungen zu treffenGoogle LLC - Datenschutzrichtlinie (Google LLC)IDE2 Jahredoubleclick.netDoubleClick, Google LLCWerbungEnthält einen eindeutigen Code, mit dem ermittelt wird, welche Anzeigen auf einem Gerät im Auftrag von Google Inc. angezeigt wurden. Werbeplattform DoubleClick. Ermöglicht die Überwachung der Effektivität der Anzeigen und macht die Anzeigen für den Nutzer relevanter.Google LLC - Datenschutzrichtlinie (Google LLC)+ ▼Enthält einen eindeutigen Code, mit dem ermittelt wird, welche Anzeigen auf einem Gerät im Auftrag von Google Inc. angezeigt wurden. Werbeplattform DoubleClick. Ermöglicht die Überwachung der Effektivität der Anzeigen und macht die Anzeigen für den Nutzer relevanter.Google LLC - Datenschutzrichtlinie (Google LLC)test_cookie15 Minutendoubleclick.netGoogle Analytics, Google LLCWerbungTestet, ob der Browser des Benutzers Cookies im Auftrag von Google Inc. unterstützt. Werbeplattform DoubleClick.Google LLC - Datenschutzrichtlinie (Google LLC)+ ▼Testet, ob der Browser des Benutzers Cookies im Auftrag von Google Inc. unterstützt. Werbeplattform DoubleClick.Google LLC - Datenschutzrichtlinie (Google LLC)Verwalten Sie Ihre CookiesWas sind Cookies, wie werden sie verwendet und verwaltet? Cookies sind kleine Textdateien, die Buchstaben und Zahlen enthalten und auf Ihren Computer oder entsprechendes Gerät platziert werden. Cookies werden dann platziert, wenn Sie eine Website besuchen, die Cookies verwendet und kann zum Nachverfolgen der Seiten verwendet werden, die Sie besucht haben. Sie können Ihnen auch helfen, dort fortzufahren, wo Sie abgebrochen haben oder sich Ihre Präferenzen merken – beispielsweise Spracheinstellungen. Cookies spielen eine wichtige Rolle bei unseren Bemühungen, die Verwendung von Online-Dienstleistungen sicherer zu gestalten, die Verwendung unserer Website zu überwachen und den Service zu verbessern, den wir Ihnen anbieten. Um Ihnen das Verständnis darüber zu erleichtern, wie Website Cookies verwendet werden, haben wir sie in leicht verständliche Kategorien gruppiert. Die Kategorie, der ein Cookie angehört, wird im Cookie-Bereich angezeigt. Die Informationen des Cookie-Bereichs werden Ihnen offen und transparent angezeigt, sodass Sie sehen, wie die Cookies verwendet werden, um Ihre Besucherzufriedenheit zu steigern, und dann eine sachkundige Entscheidung treffen können, ob Sie die Verwendung zulassen. Wenn Sie jedoch Cookies kontrollieren und entfernen möchten, können Sie dies anhand Ihrer Webbrowser-Einstellungen tun. Beachten Sie bitte, dass sich der eingeschränkte Einsatz von Cookies nachteilig auf die Funktionalität einer Website auswirken kann. Viele der von Websites angebotenen interaktiven Funktionen sind von Cookies abhängig und ihre Deaktivierung oder Blockierung kann zur Folge haben, dass diese Services nicht funktionieren oder ihre Nützlichkeit eingeschränkt ist. Unterschiedliche Browsers können verschiedene Methoden zur Cookie-Verwaltung haben. Folgen Sie bitte den Anweisungen unten, die von den Herstellern der Webbrowser direkt stammen, um Ihre Browser-Einstellungen zu konfigurieren*. Microsoft Edge Google Chrome Apple Safari Mozilla Firefox * Diese Links verbinden Sie mit Websites Dritter, über die wir keinerlei Kontrolle haben. Wir übernehmen für deren Genauigkeit keine Haftung.letzte am 2026-09-20 überprüftPowered by Digital Control Room"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 39433,
+    "realImageCount": 24,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 40,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "policy.cookiereports.com",
+        "path": "/consent/",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://policy.cookiereports.com/consent/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 629,
+        "hits": 1,
+        "example": "https://dpm.demdex.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "astrazenecaeurope.d3.sc.omtrdc.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_visid_ver",
+          "mcorgid",
+          "mid",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-javascript",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://astrazenecaeurope.d3.sc.omtrdc.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 5
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 4,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/de-startseite-therapiegebiete-cvrm-acutecare-html.png",
+  "renderedHtml": "pages/de-startseite-therapiegebiete-cvrm-acutecare-html.html",
+  "slots": {
+    "headline": "Akutversorgung",
+    "sections": [
+      "Lebensbedrohliche, unkontrollierte Blutungen",
+      "Schweiz",
+      "Mortalität",
+      "Hämostase",
+      "Symptome",
+      "Diagnose",
+      "Behandlung",
+      "Nützliche Produktinformationen"
+    ],
+    "references": true
+  }
+}

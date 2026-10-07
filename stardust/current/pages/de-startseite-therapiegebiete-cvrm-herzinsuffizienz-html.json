@@ -1,0 +1,640 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:24:38.689Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html",
+  "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:24:38.689Z",
+  "finalUrl": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+  "title": "Herzinsuffizienz - Symptome, Diagnose und Behandlung",
+  "description": "Erfahren Sie mehr über die häufigsten Ursachen, Diagnosemöglichkeiten, Behandlung und wichtige Informationen über Herzinsuffizienz für Angehörige der Gesundheitsberufe. ",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/heart-failure/herzinsuffizienz-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Herzinsuffizienz"
+    },
+    {
+      "tag": "h2",
+      "text": "Herzinsuffizienz kompakt"
+    },
+    {
+      "tag": "h4",
+      "text": "Inzidenz"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalität"
+    },
+    {
+      "tag": "h4",
+      "text": "Lebensbedrohlich"
+    },
+    {
+      "tag": "h4",
+      "text": "Herzinsuffizienz Symptome"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnose"
+    },
+    {
+      "tag": "h4",
+      "text": "Behandlung"
+    },
+    {
+      "tag": "h3",
+      "text": "Nützliche Produktinformationen"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Unsere Arzneimittel Herz, Niere & Stoffwechsel Herzinsuffizienz Forxiga® (Dapagliflozin) Nierenkrankheit (CKD) Forxiga® (Dapagliflozin) Typ‑2‑Diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidose Wainzua® (Eplontersen) Hyperkaliämie Lokelma® (Sodium zirconium cyclosilicate) Atemwege & Immunologie Chronisch obstruktive Lungenerkrankung Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophile Granulomatose mit Polyangiitis (EGPA) Fasenra® (Benralizumab) Systemischer Lupus erythematodes (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Onkologie & Hämatologie Mammakarzinom Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hämatologie Calquence® (Acalabrutinib) Leberkarzinom Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Biliäres Karzinom Imfinzi® (Durvalumab) Lungenkarzinom Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarialkarzinom Lynparza® (Olaparib) Endometriumkarzinom Imfinzi® (Durvalumab) Prostatakarzinom Lynparza® (Olaparib) Muskelinvasives Harnblasenkarzinom Imfinzi® (Durvalumab) Pankreaskarzinom Lynparza® (Olaparib) Adenokarzinom des Magens oder des gastroösophagealen Übergangs (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Tumoragnostisch Enhertu® (Trastuzumab Deruxtecan) Alle Arzneimittel anzeigen",
+    "Therapiegebiete Herz, Niere & Stoffwechsel Akutversorgung Nierenkrankheit (CKD) Diabetes Herzinsuffizienz Atemwege & Immunologie Asthma Chronisch obstruktive Lungenerkrankung Systemischer Lupus erythematodes (SLE) Onkologie Leber- und Gallenblasenkrebs Ovarialkarzinom Hämatologie Lungenkrebs Brustkrebs",
+    "Kontaktieren Sie uns",
+    "Startseite",
+    "Therapiegebiete",
+    "CVRM",
+    "Herzinsuffizienz",
+    "Herzinsuffizienz",
+    "Die Herzinsuffizienz ist eine chronische und fortschreitende Erkrankung, die auf eine strukturelle und/oder funktionelle Anomalie des Herzens zurückzuführen ist, welche zu einer unzureichenden Herzleistung in Ruhe und/oder bei Belastung führt.1 Weltweit sind mehr als 64 Millionen Menschen von Herzinsuffizienz betroffen.2",
+    "Trotz erheblicher Verbesserungen der Therapien sind Morbidität und Mortalität nach wie vor hoch: ca. 15% der Patient:innen sterben innerhalb eines Jahres, ca. 50% innerhalb von 5 Jahren nach der Diagnose.3 Damit ist die Überlebensrate schlechter als bei einigen der häufigsten Krebserkrankungen.4",
+    "In der Schweiz leiden ca. 200 000 Menschen unter einer Herzinsuffizienz, wobei jährlich ca. 5000 bis 10 000 neue Fälle dazukommen.5 Das Risiko für eine Herzinsuffizienz nimmt mit dem Alter zu und die Prävalenz bei alten Menschen (≥85 Jahre) beträgt bis zu 21%.6",
+    "Häufigste Ursachen in Europa und mit ca. 70–90% verantwortlich für das Entstehen einer Herzinsuffizienz sind die koronare Herzkrankheit und die arterielle Hypertonie.7",
+    "Viele Herzinsuffizienz-Patient:innen leiden unter Begleiterkrankungen, die die Prognose negativ beeinflussen:8-10",
+    "Mehr als 40 % der Herzinsuffizienz-Patient:innen haben eine chronische Nierenerkrankung8",
+    "Rund 30% der Herzinsuffizienz-Patient:innen leiden zusätzlich unter Typ-2-Diabetes9",
+    "Inzidenz",
+    "In der Schweiz leiden 200.000 Menschen unter Herzinsuffizienz5",
+    "Mortalität",
+    "Die 5-Jahres-Mortalitätsrate liegt bei 50%3",
+    "Lebensbedrohlich",
+    "Herzinsuffizienz ist genauso lebensbedrohlich wie einige der häufigsten Krebserkrankungen4",
+    "Herzinsuffizienz Symptome",
+    "Die Kardinalsymptome der Herzinsuffizienz sind Atemnot, Knöchelödem, Fatigue und verminderte körperliche Belastbarkeit. Zusätzlich können weitere Anzeichen auftreten, z. B. erhöhter Jugularvenendruck, Lungenknistern und periphere Ödeme.1 Weniger typische Symptome beinhalten ausserdem nächtliches Husten, Appetitverlust, Verwirrung, Depression, Schwindel und Ohnmacht.1",
+    "Diagnose",
+    "Die Diagnose der Herzinsuffizienz erfordert das Vorhandensein von Symptomen und/oder Anzeichen von Herzinsuffizienz sowie objektive Hinweise auf eine Herzfunktionsstörung.1 Zur Erstellung der Diagnose ist eine klinische Untersuchung, ein EKG, die Messung der Natriuretischen Peptide sowie eine Echokardiographie erforderlich.1 Ausserdem wird eine Röntgenaufnahme des Brustkorbs empfohlen, um andere mögliche Ursachen der Atemnot auszuschliessen.1",
+    "Wenn sich die Diagnose Herzinsuffizienz bestätigt, wird der Phänotyp anhand der Messung der linksventrikulären Auswurffraktion bestimmt.",
+    "Es wird unterschieden zwischen HFrEF (Herzinsuffizienz mit reduzierter Ejektionsfraktion), HFmrEF (Herzinsuffizienz mit leicht reduzierter Ejektionsfraktion) und HFpEF (Herzinsuffizienz mit erhaltener Ejektionsfraktion).1",
+    "Behandlung",
+    "Die Behandlung von Herzinsuffizienz-Patient:innen zielt darauf ab, die Sterblichkeit zu senken, wiederholte Hospitalisierungen aufgrund einer Verschlechterung der Herzschwäche zu verhindern und den klinischen Zustand, die funktionellen Kapazität und die Lebensqualität der Patient:innen zu verbessern.1",
+    "Bei Herzinsuffizienz-Patient:innen mit reduzierter bzw. leicht reduzierter linksventrikulärer Ejektionsfraktion (LVEF ≤40% bzw. 41%-49%) wird eine Therapie aus ACE-I/ARNI, Betablockern, MRA, SGLT2-Inhibitoren sowie einem Schleifendiuretikum (falls notwendig) empfohlen.1",
+    "Bei Patient:innen mit erhaltener Ejektionsfraktion (≥50%) konnten lange nur Symptome gelindert werden.1 Seit 2023 empfehlen die ESC Herzinsuffizienz Leitlinien SGLT2-Inhibitoren über den gesamten Bereich der Ejektionsfraktion.11 Ebenfalls wird ein Schleifendiuretikum (falls notwendig) empfohlen, sowie die Behandlung der zugrundeliegenden Ätiologie sowie Komorbiditäten.11",
+    "ACE-I: Angiotensin-Converting-Enzym-Inhibitor; ARNI: Angiotensin-Rezeptor-Neprilysin-Inhibitor; ESC: European Society of Cardiologiy; LVEF: linksventrikuläre Ejektionsfraktion; MRA: Mineralokortikoidrezeptor-Antagonist; SGLT-2-I: Natrium-Glukose-Transporter 2-Inhibitor.",
+    "Referenzen:",
+    "McDonagh TA, et al. 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2021 Sep 21;42(36):3599-3726.",
+    "Savarese G, et al. Global burden of heart failure: a comprehensive and updated review of epidemiology. Cardiovasc Res. 2023 Jan 18;118(17):3272-3287.",
+    "Jones NR, et al. Survival of patients with chronic heart failure in the community: a systematic review and meta-analysis. Eur J Heart Fail. 2019;21(11):1306–1325.",
+    "Mamas MA, et al. Do patients have worse outcomes in heart failure than in cancer? A primary care-based cohort study with 10-year follow-up in Scotland. Eur J Heart Fail. 2017;19(9):1095–104.",
+    "Mohacsi PJ, et al. Positionspapier « Herzinsuffizienz » der Arbeitsgruppe Herzinsuffizienz der SGK. Publiziert am 17.01.2018. Online verfügbar unter: https://cvm.swisshealthweb.ch/en/article/doi/cvm.2018.00537/. Letzter Zugriff: 30.04.2024.",
+    "Bosch L, et al. Heart failure in primary care: prevalence related to age and comorbidity. Prim Health Care Res Dev. 2019 Jul 29;20:e79.",
+    "A. Rosemann. Guideline Herzinsuffizienz. Institut für Hausarztmedizin der Universität Zürich. Publiziert 04/2021. Online verfügbar unter: https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf. Letzter Zugriff: 30.04.2024.",
+    "Shiba N, Shimokawa H. Chronic kidney disease and heart failure--Bidirectional close link and common therapeutic goal. J Cardiol. 2011 Jan;57(1):8-17.",
+    "Seferović PM, et al. Type 2 diabetes mellitus and heart failure: a position statement from the Heart Failure Association of the European Society of Cardiology. Eur J Heart Fail. 2018 May;20(5):853-872.",
+    "Birkeland KI, et al. Heart failure and chronic kidney disease manifestation and mortality risk associations in type 2 diabetes: A large multinational cohort study. Diabetes Obes Metab. 2020 Sep;22(9):1607-1618.",
+    "McDonagh TA, et al. 2023 Focused Update of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure. Eur Heart J. 2023 Oct 1;44(37):3627–3639.",
+    "Unser breit gefächertes Fachwissen in den Bereichen Forschung und Entwicklung setzen wir im gesamten Lebenszyklus eines Medikaments ein.",
+    "Entdecken Sie jetzt unsere Indikationen oder stöbern Sie durch alle unsere Produkte!",
+    "CH-12946-Revision date 06/2026",
+    "Diese Inhalte sind ausschliesslich für medizinisches Fachpersonal in der Schweiz bestimmt.",
+    "Cookie Regelung",
+    "Kontakt",
+    "Datenschutzbestimmung",
+    "Nutzungsbedingung",
+    "Nebenwirkungsmeldung",
+    "Qualitätsmangel melden",
+    "Medizinische Anfragen"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "Kontaktieren Sie uns",
+      "href": "/de/startseite/contact-us.html"
+    },
+    {
+      "label": "Anmelden",
+      "href": "/de/user/login.html"
+    },
+    {
+      "label": "Startseite",
+      "href": "/de/startseite.html"
+    },
+    {
+      "label": "Therapiegebiete",
+      "href": "/de/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "CVRM",
+      "href": "/de/startseite/therapiegebiete/cvrm.html"
+    },
+    {
+      "label": "https://cvm.swisshealthweb.ch/en/article/doi/cvm.2018.00537/",
+      "href": "https://cvm.swisshealthweb.ch/en/article/doi/cvm.2018.00537/"
+    },
+    {
+      "label": "https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf",
+      "href": "https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf"
+    },
+    {
+      "label": "Jetzt entdecken",
+      "href": "/de/startseite/produkte.html#tabs-3e5292059f-item-54029d7fbd-tab"
+    },
+    {
+      "label": "Cookie Regelung",
+      "href": "//policy.cookiereports.com/b50c8635-de-ch.html"
+    },
+    {
+      "label": "Kontakt",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Datenschutzbestimmung",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html"
+    },
+    {
+      "label": "Nutzungsbedingung",
+      "href": "https://www.astrazeneca.ch/de/terms-of-use.html"
+    },
+    {
+      "label": "Nebenwirkungsmeldung",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html"
+    },
+    {
+      "label": "Qualitätsmangel melden",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medizinische Anfragen",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/saphnelo.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm.html",
+    "https://cvm.swisshealthweb.ch/en/article/doi/cvm.2018.00537/",
+    "https://www.guidelines.fmh.ch/downloads/19222870/download-de.pdf",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html#tabs-3e5292059f-item-54029d7fbd-tab",
+    "https://policy.cookiereports.com/b50c8635-de-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html",
+    "https://www.astrazeneca.ch/de/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com",
+    "https://cookienotice.astrazeneca.com/",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html#",
+    "https://www.digitalcontrolroom.com/",
+    "https://www.digitalcontrolroom.com/privacy-policy/",
+    "https://tealium.com/",
+    "https://tealium.com/privacy/",
+    "https://www.vmware.com/",
+    "https://www.vmware.com/help/privacy.html",
+    "https://aws.amazon.com/elasticloadbalancing/",
+    "https://aws.amazon.com/privacy/",
+    "https://www.amazon.com/",
+    "https://www.amazon.com/privacy",
+    "https://www.microsoft.com/",
+    "https://privacy.microsoft.com/",
+    "https://www.adobe.com/",
+    "https://www.adobe.com/privacy/policy.html",
+    "https://www.adobe.com/privacy.html",
+    "https://www.innovid.com/",
+    "https://www.innovid.com/privacy-policy/",
+    "https://mouseflow.com/",
+    "https://mouseflow.com/privacy/",
+    "https://www.flashtalking.com/",
+    "https://www.flashtalking.com/privacypolicy",
+    "https://www.google.com/",
+    "https://policies.google.com/privacy",
+    "https://support.microsoft.com/de-de/windows/verwalten-von-cookies-in-microsoft-edge-anzeigen-zulassen-blockieren-l%C3%B6schen-und-verwenden-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.google.com/chrome/answer/95647?hl=de-ch",
+    "https://support.apple.com/da-dk/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/Header/master/_jcr_content/root/image.coreimg.svg/1782161083945/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_copy_copy/teaser.coreimg.80.1920.jpeg/1724862293306/herzinsuffizienz-dekstop.jpeg",
+        "alt": "herzinsuffizienz",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/herzinsuffizienz-mob.jpg",
+        "alt": "herzinsuffizienz",
+        "w": 360,
+        "h": 350
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1724392484552/inzidenz-herzinsuffizienz.jpeg",
+        "alt": "Inzidenz - Herzinsuffizienz",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/Inzidenz-herz-mob.jpg",
+        "alt": "Inzidenz - Herzinsuffizienz",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1724392498319/mortalitat-herzinsuffizienz.jpeg",
+        "alt": "Mortalität - Herzinsuffizienz",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/mortalitat-herz-mob.jpg",
+        "alt": "Mortalität - Herzinsuffizienz",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1724392512028/lebensbedrohlich-herzinsuffizienz.jpeg",
+        "alt": "Lebensbedrohlich - Herzinsuffizienz",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/lebensbedrohlich-herz-mob.jpg",
+        "alt": "Lebensbedrohlich - Herzinsuffizienz",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1732519732159/symptome-herzinsuffizienz.jpeg",
+        "alt": "Symptome - Herzinsuffizienz",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/herzinsuffizienz-symptome-mob.jpg",
+        "alt": "Symptome - Herzinsuffizienz",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105__1174056237/teaser.coreimg.80.1920.jpeg/1724392590073/diagnose-herzinsuffizienz.jpeg",
+        "alt": "Diagnose - Herzinsuffizienz",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/diagnose-herz-mob.jpg",
+        "alt": "Diagnose - Herzinsuffizienz",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105__1751567670/teaser.coreimg.80.1920.jpeg/1724392616326/behandlung-herzinsuffizienz.jpeg",
+        "alt": "Behandlung - Herzinsuffizienz",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/herzinsuffizienz/behandlung-herz-mob.jpg",
+        "alt": "Behandlung - Herzinsuffizienz",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/_jcr_content/root/container/container_285268105__16850315/teaser.coreimg.80.1920.jpeg/1730810898584/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/productinformation/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/footer/master/_jcr_content/root/container/image.coreimg.svg/1782161293040/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 20,
+    "cssBackgrounds": [],
+    "modals": [
+      "Wir verwenden neben Cookies zur Bereitstellung von Funktionen unserer Webseite auch Cookies, welche die Nutzung der Webseite, die von Ihnen besuchten Inhalte und deren Verwendung analysieren, die Anzeigen von personalisierten Inhalten ermöglichen, sowie Social Media-Funktionen bereitstellen. Standardmässig werden nur für die Bereitstellung der Webseite erforderliche Cookies gespeichert. Wenn Sie auf die Schaltfläche «Alle Cookies akzeptieren» klicken, willigen Sie jedoch in die Speicherung aller Cookies auf Ihrem Gerät ein. Wenn Sie auf «Alle Cookies akzeptieren» klicken, erklären Sie sich damit einverstanden, dass Ihre Daten durch Dienstleister aus Drittländern weltweit auch ausserhalb des Europäischen Wirtschaftsraumes (insb. Den USA), in denen kein angemessenes datenschutzrechtliches Schutzniveau besteht, verarbeitet werden. In diesem Fall besteht die Möglichkeit, dass Behörden ohne Rechtsmittel auf die Daten zugreifen können. Wenn Sie auf «Optionale Cookies ablehnen» klicken, findet sie oben beschriebene Übermittlung nicht statt. Über das Menu «Cookie-Präferenzen» oder über die auf der Seite verlinkten Informationen zu Cookies können Sie Ihre Präferenzen anpassen, zusätzliche Informationen erhalten und erteilte Einwilligungen jederzeit zurückziehen oder ändern. Weitere Informationen über die Verwendung von Cookies finden Sie in unserem Hinweis zu Cookies auf unseren Websites.OKVollständige Details, wie wir Cookies verwendenBestätigen Sie Ihre PräferenzenNur erforderliche Cookies12NotwendigDiese Cookies sind für die der Website zugrundeliegenden Vorgänge wichtig und unterstützen wichtige Funktionen wie Einkaufswagen und die technischen Vorgänge der Website, die sicherstellen, dass sie so funktioniert wie Sie es erwarten.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweckwscrCookieConsent1 Jahrwww.myastrazeneca.chDigital Control Room LtdIhr BesuchSpeichert Ihre Cookie-Einwilligungssitzung für unsere Website. Es enthält keine anderen Informationen als die, ob Sie sich für jede Cookie-Ebene aktiviert oder deaktiviert haben.Digital Control Room Ltd - Datenschutzrichtlinie (Digital Control Room Ltd)+ ▼Speichert Ihre Cookie-Einwilligungssitzung für unsere Website. Es enthält keine anderen Informationen als die, ob Sie sich für jede Cookie-Ebene aktiviert oder deaktiviert haben.Digital Control Room Ltd - Datenschutzrichtlinie (Digital Control Room Ltd)utag_main_ses_id1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main_vapi_domain1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__pn1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__se1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__sn1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__ss1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__st1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)_vapi<digits>+Sitzungmyastrazeneca.chVMware, IncIhr BesuchCookie, das eine Sitzungskennung enthält, mit der die Verwendung authentifiziert und verschiedene APIs bereitgestellt werden. Das Cookie ist dynamisch und kann daher nicht aktualisiert werden, da jeder Kunde ein eindeutiges Cookie hat.VMware, Inc - Datenschutzrichtlinie (VMware, Inc)+ ▼Cookie, das eine Sitzungskennung enthält, mit der die Verwendung authentifiziert und verschiedene APIs bereitgestellt werden. Das Cookie ist dynamisch und kann daher nicht aktualisiert werden, da jeder Kunde ein eindeutiges Cookie hat.VMware, Inc - Datenschutzrichtlinie (VMware, Inc)AWSALB1 Stundewww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Ihr BesuchWird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)+ ▼Wird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)AWSALBCORS1 Wochewww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Ihr BesuchWird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)+ ▼Wird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)JSESSIONIDSitzungwww.myastrazeneca.chEIS, Microsoft CorporationIhr BesuchSpeichert Sitzungsdaten während eines von Jetty Web Server ausgegebenen Website-Besuchs.Microsoft Corporation - Datenschutzrichtlinie (Microsoft Corporation)+ ▼Speichert Sitzungsdaten während eines von Jetty Web Server ausgegebenen Website-Besuchs.Microsoft Corporation - Datenschutzrichtlinie (Microsoft Corporation)0Site-RoutineEinwilligung für: Site-RoutineDiese Cookies werden verwendet, um Ihre Zufriedenheit auf der Website zu unterstützen und enthalten vom Benutzer auszuwählende Optionen, Hilfe zur Navigation auf der Website, usw. Im Allgemeinen werden bei dieser Art von Cookies keine Daten verwendet, die eine Person identifizieren könnten.Für folgende Kategorien verwenden wir keine Cookies35Leistung und BetriebEinwilligung für: Leistung und BetriebDiese Cookies werden zur Verwaltung der Website verwendet und enthalten Kundenumfragen, Aufzeichnungen der Besucherzahlen und andere Web-Analysen. Es können möglicherweise begrenzt identifizierbare Daten gesammelt werden.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweckeverest_g_v22 Jahreeveresttech.netAdobe Inc.AnalysenDiese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Diese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)everest_session_v2Sitzungeveresttech.netAdobe Inc.AnalysenDiese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Diese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)im_cookie_ccreativeSitzungmyastrazeneca.chAdobe Inc.AnalysenZeichnet die Kampagnen-ID auf, die zum Navigieren auf der Website verwendet wird+ ▼Zeichnet die Kampagnen-ID auf, die zum Navigieren auf der Website verwendet wirdtestSitzungmyastrazeneca.chAdobe Inc.AnalysenInternes Cookie, das von Adobe Analytics geschrieben wurde, um die Browser-Cookie-Unterstützung zu testen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Internes Cookie, das von Adobe Analytics geschrieben wurde, um die Browser-Cookie-Unterstützung zu testen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)im_cookie_cadpubSitzungmyastrazeneca.chAstraZenecaAnalysenAlle im_-Cookies sind Analyse-Cookies. Dieses spezielle Beispiel ist ein Session-Cookie, das den URL-Parameter des Kampagnen-Werbetreibenden (cadpub) während der Sitzung speichert, damit er für Datenanalysen der erfassten Daten verwendet werden kann.+ ▼Alle im_-Cookies sind Analyse-Cookies. Dieses spezielle Beispiel ist ein Session-Cookie, das den URL-Parameter des Kampagnen-Werbetreibenden (cadpub) während der Sitzung speichert, damit er für Datenanalysen der erfassten Daten verwendet werden kann.im_cookie_cmediumSitzungmyastrazeneca.chAstraZenecaAnalysenCookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der das Medium (Kanal) der URL angibt.+ ▼Cookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der das Medium (Kanal) der URL angibt.im_cookie_cnameSitzungmyastrazeneca.chAstraZenecaAnalysenCookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der den Kampagnennamen der URL angibt.+ ▼Cookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der den Kampagnennamen der URL angibt.uuid90 Tageinnovid.comAstraZenecaAnalysenDieses Cookie wird verwendet, um die Anzeigenrelevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden. Dieser Austausch von Besucherdaten wird normalerweise von einem Rechenzentrum oder einem Anzeigenaustauschdienst eines Drittanbieters bereitgestelltAstraZeneca - Datenschutzrichtlinie (AstraZeneca)+ ▼Dieses Cookie wird verwendet, um die Anzeigenrelevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden. Dieser Austausch von Besucherdaten wird normalerweise von einem Rechenzentrum oder einem Anzeigenaustauschdienst eines Drittanbieters bereitgestelltAstraZeneca - Datenschutzrichtlinie (AstraZeneca)mf_*Sitzungmyastrazeneca.chMouseflow ApSAnalysenMessen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)+ ▼Messen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)mf_user90 Tagemyastrazeneca.chMouseflow ApSAnalysenMessen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)+ ▼Messen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)im_cookie_session_idSitzungmyastrazeneca.chAdobe, Adobe Inc.AnalysenVerwaltet Benutzersitzungen für die Site-Funktionalitäten und läuft ab, wenn der Browser geschlossen wird.+ ▼Verwaltet Benutzersitzungen für die Site-Funktionalitäten und läuft ab, wenn der Browser geschlossen wird.im_cookie_visitor_uid27 Jahre, 4 Monatemyastrazeneca.chAdobe, Adobe Inc.AnalysenVerfolgt das Besucherverhalten über mehrere Sitzungen hinweg, um das Benutzererlebnis zu verbessern, mit langfristiger Ablauffunktion.+ ▼Verfolgt das Besucherverhalten über mehrere Sitzungen hinweg, um das Benutzererlebnis zu verbessern, mit langfristiger Ablauffunktion.AMCVS_*AdobeOrgSitzungmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenSitzungscookie mit Adobe. Es zeigt an, dass eine Sitzung initialisiert wurde. Mithilfe der Organisations-ID kann Adobe nur den Datenverkehr von legitimen Websites analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Sitzungscookie mit Adobe. Es zeigt an, dass eine Sitzung initialisiert wurde. Mithilfe der Organisations-ID kann Adobe nur den Datenverkehr von legitimen Websites analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)AMCV_*AdobeOrg2 Jahremyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenHilft Adobe, nur den Datenverkehr von legitimen Websites zu analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Hilft Adobe, nur den Datenverkehr von legitimen Websites zu analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)astrazenecauklimited!mboxPC1 Tagastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalysenCookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)astrazenecauklimited!mboxSession30 Minutenastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalysenCookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)at_checkSitzungmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenCookie zum Erinnern an den Besucher, wenn experimentiert wird, welche Inhalte dem Besucher bereitgestellt werden sollen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie zum Erinnern an den Besucher, wenn experimentiert wird, welche Inhalte dem Besucher bereitgestellt werden sollen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)gpv_pn30 Minutenmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenDieses Cookie wird beim Laden der Seite vom Adobe Analytics-JavaScript-Code gesetzt und gelesen. Erfasst den Namen der Adobe Analytics-Seite. Es werden keine personenbezogenen Daten erfasst.+ ▼Dieses Cookie wird beim Laden der Seite vom Adobe Analytics-JavaScript-Code gesetzt und gelesen. Erfasst den Namen der Adobe Analytics-Seite. Es werden keine personenbezogenen Daten erfasst.mbox2 Jahremyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenDieses Cookie wird verwendet, um zu steuern, welche Elemente einem Besucher angezeigt werden sollen, und gibt Website-Betreibern die Möglichkeit zu testen, welche Online-Inhalte und -Angebote für Besucher relevanter sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Dieses Cookie wird verwendet, um zu steuern, welche Elemente einem Besucher angezeigt werden sollen, und gibt Website-Betreibern die Möglichkeit zu testen, welche Online-Inhalte und -Angebote für Besucher relevanter sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)demdex2 Jahredemdex.netAdobe Media Optimizer, Adobe Inc.AnalysenWird verwendet, um einen wiederkehrenden Besucher zu erkennen, einzigartige Zielgruppenprofile zu erstellen und mithilfe von Adobe Analytics gezielte Nachrichten zu übermitteln.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird verwendet, um einen wiederkehrenden Besucher zu erkennen, einzigartige Zielgruppenprofile zu erstellen und mithilfe von Adobe Analytics gezielte Nachrichten zu übermitteln.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)dextp6 Monatedemdex.netAdobe Media Optimizer, Adobe Inc.AnalysenAdobe Audience Manager setzt dieses Cookie, um den letzten Datensynchronisierungsaufruf aufzuzeichnen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Adobe Audience Manager setzt dieses Cookie, um den letzten Datensynchronisierungsaufruf aufzuzeichnen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)dpm2 Jahredpm.demdex.netAdobe Media Optimizer, Adobe Inc.AnalysenWird verwendet, um Adobe Audience Manager bei der Durchführung grundlegender Funktionen wie Besucheridentifikation, ID-Synchronisierung, Segmentierung, Modellierung, Berichterstellung usw. zu unterstützenAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird verwendet, um Adobe Audience Manager bei der Durchführung grundlegender Funktionen wie Besucheridentifikation, ID-Synchronisierung, Segmentierung, Modellierung, Berichterstellung usw. zu unterstützenAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)flashtalkingad12 Jahreflashtalking.comFlashtalking, Simplicity Marketing LtdAnalysenSammelt anonyme Daten und ermittelt im Auftrag der Werbeplattform Flashtalking von Simplicity Marketing Ltd., welche Werbung dem Nutzer bereits geliefert wurde.Flashtalking - Datenschutzrichtlinie (Flashtalking)+ ▼Sammelt anonyme Daten und ermittelt im Auftrag der Werbeplattform Flashtalking von Simplicity Marketing Ltd., welche Werbung dem Nutzer bereits geliefert wurde.Flashtalking - Datenschutzrichtlinie (Flashtalking)s_ccSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenSpeichert im Namen der SiteCatalyst Analytics-Plattform, ob Cookies aktiviert sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Speichert im Namen der SiteCatalyst Analytics-Plattform, ob Cookies aktiviert sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getDaysSinceLastVisit3 Jahremyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getDaysSinceLastVisit_s3 Jahremyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getNewRepeat30 Tagemyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenBestimmt, ob ein Besucher ein neuer Besucher oder ein wiederkehrender Besucher ist, und erfasst diese Informationen in einer Analytics-Variablen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Bestimmt, ob ein Besucher ein neuer Besucher oder ein wiederkehrender Besucher ist, und erfasst diese Informationen in einer Analytics-Variablen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_invisit30 Minutenmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenDieses Cookie wird von einem Omniture-Plugin verwendet, um die Besuchszahlen pro Monat für einen bestimmten Benutzer der Webseite zu zählen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Dieses Cookie wird von einem Omniture-Plugin verwendet, um die Besuchszahlen pro Monat für einen bestimmten Benutzer der Webseite zu zählen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pltSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pltpSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_ppvSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenSpeichert den Prozentsatz der Seite, der dem Endbenutzer vertikal angezeigt wurde.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Speichert den Prozentsatz der Seite, der dem Endbenutzer vertikal angezeigt wurde.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pvsSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_tpSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: Adobe Consulting PluginAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: Adobe Consulting PluginAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_tpsSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_vnum30 Tagemyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenAktiviert die Nachverfolgung der Besuchsnummer nach Monat für die SiteCatalyst Analytics-Plattform, indem aufgezeichnet wird, wie Sie auf der Site angekommen sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Aktiviert die Nachverfolgung der Besuchsnummer nach Monat für die SiteCatalyst Analytics-Plattform, indem aufgezeichnet wird, wie Sie auf der Site angekommen sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)3Marketing, anonymes Cross-Site-Tracking:Einwilligung für: Marketing, anonymes Cross-Site-Tracking:Diese Cookies werden dazu verwendet, die Besucher all unserer Websites nachzuverfolgen. Sie können dazu verwendet werden, ein Profil des Such- und/oder Navigationsverlaufs jedes Besuchers zu erstellen. Es können identifizierbare oder eindeutige Daten gesammelt werden. Anonymisierte Daten können mit Dritten geteilt werden.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweck_gcl_au3 Monatemyastrazeneca.chAdSense, Google LLCWerbungGoogle AdSense sammelt Statistiken über die Nutzung seines Dienstes, um Marketingentscheidungen zu treffenGoogle LLC - Datenschutzrichtlinie (Google LLC)+ ▼Google AdSense sammelt Statistiken über die Nutzung seines Dienstes, um Marketingentscheidungen zu treffenGoogle LLC - Datenschutzrichtlinie (Google LLC)IDE2 Jahredoubleclick.netDoubleClick, Google LLCWerbungEnthält einen eindeutigen Code, mit dem ermittelt wird, welche Anzeigen auf einem Gerät im Auftrag von Google Inc. angezeigt wurden. Werbeplattform DoubleClick. Ermöglicht die Überwachung der Effektivität der Anzeigen und macht die Anzeigen für den Nutzer relevanter.Google LLC - Datenschutzrichtlinie (Google LLC)+ ▼Enthält einen eindeutigen Code, mit dem ermittelt wird, welche Anzeigen auf einem Gerät im Auftrag von Google Inc. angezeigt wurden. Werbeplattform DoubleClick. Ermöglicht die Überwachung der Effektivität der Anzeigen und macht die Anzeigen für den Nutzer relevanter.Google LLC - Datenschutzrichtlinie (Google LLC)test_cookie15 Minutendoubleclick.netGoogle Analytics, Google LLCWerbungTestet, ob der Browser des Benutzers Cookies im Auftrag von Google Inc. unterstützt. Werbeplattform DoubleClick.Google LLC - Datenschutzrichtlinie (Google LLC)+ ▼Testet, ob der Browser des Benutzers Cookies im Auftrag von Google Inc. unterstützt. Werbeplattform DoubleClick.Google LLC - Datenschutzrichtlinie (Google LLC)Verwalten Sie Ihre CookiesWas sind Cookies, wie werden sie verwendet und verwaltet? Cookies sind kleine Textdateien, die Buchstaben und Zahlen enthalten und auf Ihren Computer oder entsprechendes Gerät platziert werden. Cookies werden dann platziert, wenn Sie eine Website besuchen, die Cookies verwendet und kann zum Nachverfolgen der Seiten verwendet werden, die Sie besucht haben. Sie können Ihnen auch helfen, dort fortzufahren, wo Sie abgebrochen haben oder sich Ihre Präferenzen merken – beispielsweise Spracheinstellungen. Cookies spielen eine wichtige Rolle bei unseren Bemühungen, die Verwendung von Online-Dienstleistungen sicherer zu gestalten, die Verwendung unserer Website zu überwachen und den Service zu verbessern, den wir Ihnen anbieten. Um Ihnen das Verständnis darüber zu erleichtern, wie Website Cookies verwendet werden, haben wir sie in leicht verständliche Kategorien gruppiert. Die Kategorie, der ein Cookie angehört, wird im Cookie-Bereich angezeigt. Die Informationen des Cookie-Bereichs werden Ihnen offen und transparent angezeigt, sodass Sie sehen, wie die Cookies verwendet werden, um Ihre Besucherzufriedenheit zu steigern, und dann eine sachkundige Entscheidung treffen können, ob Sie die Verwendung zulassen. Wenn Sie jedoch Cookies kontrollieren und entfernen möchten, können Sie dies anhand Ihrer Webbrowser-Einstellungen tun. Beachten Sie bitte, dass sich der eingeschränkte Einsatz von Cookies nachteilig auf die Funktionalität einer Website auswirken kann. Viele der von Websites angebotenen interaktiven Funktionen sind von Cookies abhängig und ihre Deaktivierung oder Blockierung kann zur Folge haben, dass diese Services nicht funktionieren oder ihre Nützlichkeit eingeschränkt ist. Unterschiedliche Browsers können verschiedene Methoden zur Cookie-Verwaltung haben. Folgen Sie bitte den Anweisungen unten, die von den Herstellern der Webbrowser direkt stammen, um Ihre Browser-Einstellungen zu konfigurieren*. Microsoft Edge Google Chrome Apple Safari Mozilla Firefox * Diese Links verbinden Sie mit Websites Dritter, über die wir keinerlei Kontrolle haben. Wir übernehmen für deren Genauigkeit keine Haftung.letzte am 2026-09-20 überprüftPowered by Digital Control Room"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 36582,
+    "realImageCount": 20,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 633,
+        "hits": 1,
+        "example": "https://dpm.demdex.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 40,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "policy.cookiereports.com",
+        "path": "/consent/",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://policy.cookiereports.com/consent/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "astrazenecaeurope.d3.sc.omtrdc.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_visid_ver",
+          "mcorgid",
+          "mid",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-javascript",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://astrazenecaeurope.d3.sc.omtrdc.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 5
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 4,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.png",
+  "renderedHtml": "pages/de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html.html",
+  "slots": {
+    "headline": "Herzinsuffizienz",
+    "sections": [
+      "Herzinsuffizienz kompakt",
+      "Inzidenz",
+      "Mortalität",
+      "Lebensbedrohlich",
+      "Herzinsuffizienz Symptome",
+      "Diagnose",
+      "Behandlung",
+      "Nützliche Produktinformationen"
+    ],
+    "references": true
+  }
+}

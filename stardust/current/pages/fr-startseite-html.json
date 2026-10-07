@@ -1,0 +1,476 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:07.477Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "fr-startseite-html",
+  "url": "https://www.myastrazeneca.ch/fr/startseite.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:07.477Z",
+  "finalUrl": "https://www.myastrazeneca.ch/fr/startseite.html",
+  "title": "Traitements du diabète, de l’asthme, de la BPCO et du cancer | MyAstraZeneca",
+  "description": "Découvrez nos options de traitement : diabète de type 2, asthme, MPOC, lupus et cancers, y compris le cancer du poumon et du sein pour les professionnels de la santé.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/home-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Bienvenue sur myAstraZeneca!"
+    },
+    {
+      "tag": "h3",
+      "text": "Nos domaines thérapeutiques"
+    },
+    {
+      "tag": "h4",
+      "text": "Maladies cardiovasculaires, rénales et métaboliques (CVRM)"
+    },
+    {
+      "tag": "h4",
+      "text": "Maladies respiratoires et immunologie"
+    },
+    {
+      "tag": "h4",
+      "text": "Oncologie et hématologie"
+    },
+    {
+      "tag": "h3",
+      "text": "Informations utiles sur les produits"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Nos médicaments Cardiovasculaire, rénal & métabolisme Insuffisance cardiaque Forxiga ® (Dapagliflozine) Maladie rénale chronique (MRC) Forxiga ® (Dapagliflozine) Diabète de type 2 Forxiga ® (Dapagliflozine) Xigduo® (Dapagliflozine/Metformine HCl) Amylose Wainzua® (Eplontersen) Hyperkaliémie Lokelma® (Sodium zirconium cyclosilicate) Respiratoire & Immunologie Bronchopneumopathie chronique obstructive Trixeo® (Formotérol/Glycopyrronium/Budésonide) Granulomatose éosinophilique avec polyangéite (EGPA) Fasenra® (Benralizumab) Lupus érythémateux systémique (LES) Saphnelo® (Anifrolumab) Asthme Fasenra® (Benralizumab) Symbicort® (Budésonide/Formotérol) Tezspire® (Tézépelumab) Oncologie et Hématologie Cancer du sein Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hématologie Calquence® (Acalabrutinib) Cancer des voies biliaires Imfinzi® (Durvalumab) Carcinome hépatocellulaire Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Cancer du poumon Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Cancer de l’ovaire Lynparza® (Olaparib) Cancer de l’endomètre Imfinzi® (Durvalumab) Cancer de la prostate Lynparza® (Olaparib) Cancer de la vessie infiltrant le muscle Imfinzi® (Durvalumab) Adénocarcinome de l'estomac ou de la jonction œsogastrique (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Cancer du pancréas Lynparza® (Olaparib) Cancer de l’estomac Imfinzi® (Durvalumab) Traitement agnostique de la tumeur Enhertu® (Trastuzumab Deruxtecan) Voir tous les médicaments",
+    "Aires thérapeutiques Cardiovasculaire, rénal & métabolisme Respiratoire & Immunologie Oncologie Cancer du foie et de la vésicule biliaire Cancer de l’ovaire Hématologie Cancer du poumon Cancer du sein",
+    "Contactez-nous",
+    "Bienvenue sur myAstraZeneca!",
+    "Vous trouverez ici des informations à propos de nos domaines thérapeutiques et de nos produits.",
+    "Le portail d’information pour les professionnels de la santé.",
+    "Sur notre site, nous vous proposons tout ce qui concerne nos domaines thérapeutiques, nos indications et nos produits de manière compacte, actuelle et selon les normes de qualité les plus élevées.",
+    "Maladies cardiovasculaires, rénales et métaboliques (CVRM)",
+    "Les maladies CVRM sont complexes et interdépendantes. Ce n’est qu’en comprenant leurs interactions et en s’attaquant de manière ciblée aux mécanismes qui les déclenchent que nous pouvons identifier, diagnostiquer et traiter les patientes et patients plus tôt et plus efficacement. Nous pouvons stopper la progression de la maladie et, en fin de compte, améliorer et sauver la vie des millions de patientes et patients qui vivent avec ces maladies.",
+    "En savoir plus sur les indications suivantes:",
+    "Acute Care Insuffisance rénale chronique Diabète de type 2 Insuffisance cardiaque",
+    "Maladies respiratoires et immunologie",
+    "Nous nous concentrons sur les maladies respiratoires chroniques telles que l’asthme et la bronchopneumopathie chronique obstructive (BPCO), ainsi que sur les maladies d’origine immunitaire comme le lupus. Nous nous inspirons de la science pour aborder des problèmes difficiles et complexes non résolus – en ciblant la biologie sous-jacente et en développant de nouvelles modalités et combinaisons médicamenteuses efficaces, dans le but ultime d’obtenir une modification de la maladie et une rémission clinique En savoir plus sur les indications suivantes:",
+    "Asthme BPCO Lupus",
+    "Oncologie et hématologie",
+    "Nous étudions des combinaisons de biothérapies et de traitements à bas poids moléculaire pour le traitement du cancer. Ces combinaisons ciblent directement la tumeur et certaines aident à renforcer le système immunitaire de l’organisme afin de provoquer la mort des cellules tumorales",
+    "En savoir plus sur les indications suivantes:",
+    "Cholangiocarcinome Cancer du sein Cancer des ovaires Hématologie Carcinome hépatocellulaire Cancer du poumon",
+    "Nous mettons à profit notre vaste expertise dans les domaines de la recherche et du développement tout au long du cycle de vie d’un médicament.",
+    "Découvrez maintenant nos indications ou parcourez tous nos produits!",
+    "Revision date 05/2026 CH-12812",
+    "Ces contenus sont exclusivement destinés aux professionnels de la santé en Suisse. AstraZeneca Suisse©",
+    "Règlement sur les cookies",
+    "Contact",
+    "Politique de confidentialité",
+    "Conditions d'utilisation",
+    "Déclaration d'effets secondaires",
+    "Rapport qualité défaut",
+    "Demandes médicales"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite.html"
+    },
+    {
+      "label": "Contactez-nous",
+      "href": "/fr/startseite/contact-us.html"
+    },
+    {
+      "label": "Se connecter",
+      "href": "/fr/user/login.html"
+    },
+    {
+      "label": "Acute Care Insuffisance rénale chronique",
+      "href": "/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html"
+    },
+    {
+      "label": "Diabète de type 2",
+      "href": "/fr/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "Insuffisance cardiaque",
+      "href": "/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html"
+    },
+    {
+      "label": "Asthme",
+      "href": "/fr/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "BPCO",
+      "href": "/fr/startseite/therapiegebiete/ri/copd.html"
+    },
+    {
+      "label": "Lupus",
+      "href": "/fr/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "Cholangiocarcinome",
+      "href": "/fr/startseite/therapiegebiete/onkologie/leberkrebs.html"
+    },
+    {
+      "label": "Cancer du sein",
+      "href": "/fr/startseite/therapiegebiete/onkologie/brustkrebs.html"
+    },
+    {
+      "label": "Cancer des ovaires",
+      "href": "/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html"
+    },
+    {
+      "label": "Hématologie",
+      "href": "/fr/startseite/therapiegebiete/onkologie/haematologie.html"
+    },
+    {
+      "label": "Carcinome hépatocellulaire",
+      "href": "/fr/startseite/therapiegebiete/onkologie/leberkrebs.html"
+    },
+    {
+      "label": "Cancer du poumon",
+      "href": "/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html"
+    },
+    {
+      "label": "Découvrir maintenant",
+      "href": "/fr/startseite/produkte.html"
+    },
+    {
+      "label": "Règlement sur les cookies",
+      "href": "https://policy.cookiereports.com/b50c8635-fr-ch.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.astrazeneca.ch/fr/contact-us.html"
+    },
+    {
+      "label": "Politique de confidentialité",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html"
+    },
+    {
+      "label": "Conditions d'utilisation",
+      "href": "https://www.astrazeneca.ch/fr/terms-of-use.html"
+    },
+    {
+      "label": "Déclaration d'effets secondaires",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/fr/amp-form.html"
+    },
+    {
+      "label": "Rapport qualité défaut",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Demandes médicales",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://www.myastrazeneca.ch/en/startseite.html",
+    "https://www.myastrazeneca.ch/fr/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "http://www.enhertu.ch/.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://enhertu.ch/.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/fr/user/login.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+    "https://policy.cookiereports.com/b50c8635-fr-ch.html",
+    "https://www.astrazeneca.ch/fr/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html",
+    "https://www.astrazeneca.ch/fr/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/fr/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/fr/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1742292435374/home-teaser-desktop.jpeg",
+        "alt": "",
+        "w": 1080,
+        "h": 183
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/home-teaser-mob.jpg",
+        "alt": "",
+        "w": 475,
+        "h": 462
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/_jcr_content/root/container/container_copy_copy/container_1646591385_1477624166/teaser_copy.coreimg.80.1920.jpeg/1742911488943/cvrm.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/cvrm-mob.jpg",
+        "alt": "Banner per Malattie Cardiovascolari, Renali e Metaboliche",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/_jcr_content/root/container/container_copy_copy/container_1646591385_1477624166/teaser_copy_1045094369.coreimg.80.1920.jpeg/1742911547807/atemwegserkrankungen-immunologie.jpeg",
+        "alt": "Banner per le Malattie Respiratorie e l'immunologia",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/atemwegserkrankungen-immunologie-mob.jpg",
+        "alt": "Banner per le Malattie Respiratorie e l'immunologia",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/_jcr_content/root/container/container_copy_copy/container_1646591385_1477624166/teaser_copy_83723111.coreimg.80.1920.jpeg/1742911665557/onkologie-hamatologie.jpeg",
+        "alt": "Banner per Oncologia Ematologia",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/onkologie-hamatologie-mob.jpg",
+        "alt": "Banner per Oncologia Ematologia",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/_jcr_content/root/container/container_copy_copy/container_285268105_/teaser.coreimg.80.1920.jpeg/1742891450708/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/fr/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 12,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 6,
+    "mainTextLen": 6201,
+    "realImageCount": 12,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 1,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/fr-startseite-html.png",
+  "renderedHtml": "pages/fr-startseite-html.html",
+  "slots": {
+    "headline": "Bienvenue sur myAstraZeneca!",
+    "cta": [
+      "Acute Care Insuffisance rénale chronique",
+      "Diabète de type 2",
+      "Insuffisance cardiaque",
+      "Asthme"
+    ]
+  }
+}

@@ -1,0 +1,1708 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract --prep --dynamics",
+    "writtenAt": "2026-10-07T10:58:31.204Z",
+    "againstInput": "https://www.myastrazeneca.ch",
+    "synthesized": [
+      "visionCheck",
+      "siblingCandidates",
+      "loginGated"
+    ],
+    "readArtifacts": [
+      "stardust/.work/extract/crawl-log-run1.json",
+      "stardust/.work/extract/crawl-log-batch*.json"
+    ]
+  },
+  "discovery": {
+    "fetchTechnique": "headless",
+    "count": 128,
+    "concurrency": 6,
+    "source": "sitemap.xml (129 <loc>, 2 PDFs dropped by crawler)",
+    "entry": "https://www.myastrazeneca.ch/de/startseite.html",
+    "filteredAsJunk": [],
+    "userChoice": "hands-off: --prep implies --all (no cap at extract; migration caps applied at rollout)"
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/icon-favicon.ico",
+    "file": "assets/favicon.ico"
+  },
+  "rateLimit": {
+    "cdn": "CloudFront WAF",
+    "observed": "65 pages 403'd at concurrency 6 (~1 min IP block); recovered by batched re-crawl at concurrency 1 (8 pages/batch, 40s pause)",
+    "guidance": "live probes must stay ≤ ~1 navigation / 5s; gate captures one at a time"
+  },
+  "crawl": {
+    "captured": 121,
+    "failures": [
+      {
+        "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+        "slug": "de-startseite-therapiegebiete-onkologie-leberkrebs-html",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-10-07T10:24:51.636Z"
+      },
+      {
+        "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/leberkrebs.html",
+        "slug": "fr-startseite-therapiegebiete-onkologie-leberkrebs-html",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-10-07T10:25:18.122Z"
+      },
+      {
+        "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+        "slug": "it-startseite-therapiegebiete-onkologie-leberkrebs-html",
+        "errorClass": "HTTPError",
+        "message": "HTTP 404",
+        "at": "2026-10-07T10:25:45.577Z"
+      },
+      {
+        "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/leberkrebs.html",
+        "slug": "en-startseite-therapiegebiete-onkologie-leberkrebs-html",
+        "errorClass": "HTTPError",
+        "message": "HTTP 403",
+        "at": "2026-10-07T10:25:55.519Z"
+      },
+      {
+        "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/haematologie.html",
+        "slug": "en-startseite-therapiegebiete-onkologie-haematologie-html",
+        "errorClass": "HTTPError",
+        "message": "HTTP 403",
+        "at": "2026-10-07T10:25:55.523Z"
+      },
+      {
+        "url": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/pattrns1.pdf",
+        "slug": "content-dam-intelligentcontent-portals-hcp-ch-de-home-therapiegebiete-pattrns-pattrns1-pdf",
+        "errorClass": "HTTPError",
+        "message": "HTTP 403",
+        "at": "2026-10-07T10:25:55.890Z"
+      },
+      {
+        "url": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/pattrns/pattrns2.pdf",
+        "slug": "content-dam-intelligentcontent-portals-hcp-ch-de-home-therapiegebiete-pattrns-pattrns2-pdf",
+        "errorClass": "HTTPError",
+        "message": "HTTP 403",
+        "at": "2026-10-07T10:25:55.915Z"
+      }
+    ]
+  },
+  "loginGated": {
+    "note": "Nav-linked product pages redirect to /<lang>/user/login.html (HCP login wall). Not in sitemap; out of scope (no authentication).",
+    "examples": [
+      "/de/startseite/produkte/fasenra/asthma/indication.html",
+      "/de/startseite/produkte/saphnelo.html",
+      "/de/startseite/produkte/wainzua.html",
+      "/de/startseite/produkte/lokelma/resources.html",
+      "/en/startseite/produkte/LYNPARZA.html",
+      "/en/startseite/produkte/truqap.html"
+    ]
+  },
+  "dynamicSurface": {
+    "pages": 56,
+    "pagesWithSameSiteData": 56,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 56,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/ccm/collect",
+        "query": [
+          "apvc",
+          "auid",
+          "did",
+          "dl",
+          "dma",
+          "dt",
+          "en",
+          "ep.enable_event_matching_conversions",
+          "fmt",
+          "frm",
+          "gcd",
+          "gdid",
+          "gtm",
+          "navt",
+          "npa",
+          "rcb",
+          "rnd",
+          "scrsrc",
+          "tag_exp",
+          "tfd",
+          "tft",
+          "tid",
+          "tids"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/ccm/collect",
+        "pages": 18,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.google.com",
+        "path": "/rmkt/collect/{n}/",
+        "query": [
+          "async",
+          "auid",
+          "bg",
+          "cv",
+          "data",
+          "did",
+          "dma",
+          "en",
+          "ept",
+          "fmt",
+          "frm",
+          "fst",
+          "gcd",
+          "gcp",
+          "gdid",
+          "gtm",
+          "guid",
+          "hn",
+          "npa",
+          "pscdl",
+          "random",
+          "rcb",
+          "tag_exp",
+          "tiba",
+          "u_h",
+          "u_w",
+          "uaa",
+          "uab",
+          "uafvl",
+          "uam",
+          "uamb",
+          "uap",
+          "uapv",
+          "uaw",
+          "url"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://www.google.com/rmkt/collect/17507076860/",
+        "pages": 18,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "px.ads.linkedin.com",
+        "path": "/wa/",
+        "query": [
+          "fmt",
+          "medium"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://px.ads.linkedin.com/wa/",
+        "pages": 15,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "ad.doubleclick.net",
+        "path": "/ccm/s/collect",
+        "query": [
+          "auid",
+          "fmt",
+          "gtm"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://ad.doubleclick.net/ccm/s/collect",
+        "pages": 7,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://dpm.demdex.net/id",
+        "pages": 6,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "policy.cookiereports.com",
+        "path": "/consent/",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://policy.cookiereports.com/consent/",
+        "pages": 6,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "astrazenecaeurope.d3.sc.omtrdc.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_visid_ver",
+          "mcorgid",
+          "mid",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-javascript",
+        "sameSite": false,
+        "example": "https://astrazenecaeurope.d3.sc.omtrdc.net/id",
+        "pages": 6,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-diabetes-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/acutecare/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-acutecare-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-ri-lupus-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-ri-copd-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-ri-asthma-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-haematologie-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-lungenkrebs-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-eierstockkrebs-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/trixeo/ressourcen/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-produkte-trixeo-ressourcen-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/produkte/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-produkte-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json",
+        "query": [
+          "analyticsFormName",
+          "analyticsObject",
+          "autopopulateMapping",
+          "consentCookieCheck",
+          "currentPath",
+          "fetchHCM",
+          "fetchProfile",
+          "formId",
+          "formName",
+          "formService",
+          "idx",
+          "marketCode",
+          "nc",
+          "nodePath",
+          "notAvailableText",
+          "pagePath",
+          "pageUrl",
+          "prepopulateFieldList",
+          "redirectPath",
+          "routerConfiguration",
+          "type"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getFormServices.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-contact-us-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.getSecureCookies.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-contact-us-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "de-startseite-contact-us-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-diabetes-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-herzinsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-ri-lupus-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-ri-copd-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-ri-asthma-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-haematologie-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-lungenkrebs-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.getFormServices.json",
+        "query": [
+          "analyticsFormName",
+          "analyticsObject",
+          "autopopulateMapping",
+          "consentCookieCheck",
+          "currentPath",
+          "fetchHCM",
+          "fetchProfile",
+          "formId",
+          "formName",
+          "formService",
+          "idx",
+          "marketCode",
+          "nc",
+          "nodePath",
+          "notAvailableText",
+          "pagePath",
+          "pageUrl",
+          "prepopulateFieldList",
+          "redirectPath",
+          "routerConfiguration",
+          "type"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.getFormServices.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-contact-us-html"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.getSecureCookies.json",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.getSecureCookies.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-contact-us-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/contact-us/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-contact-us-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/produkte/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "fr-startseite-produkte-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-diabetes-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/cvrm/see-the-pattrns/home/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-ri-lupus-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-ri-asthma-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/copd/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-ri-copd-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/haematologie/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-onkologie-haematologie-html"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-onkologie-lungenkrebs-html"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "host": "rum.hlx.page",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "host": "www.googletagmanager.com",
+        "pages": 18,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      },
+      {
+        "host": "googleads.g.doubleclick.net",
+        "pages": 18,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      },
+      {
+        "host": "snap.licdn.com",
+        "pages": 15,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      },
+      {
+        "host": "www.google.com",
+        "pages": 2,
+        "examples": [
+          "de-startseite-contact-us-html",
+          "fr-startseite-contact-us-html"
+        ]
+      },
+      {
+        "host": "www.gstatic.com",
+        "pages": 2,
+        "examples": [
+          "de-startseite-contact-us-html",
+          "fr-startseite-contact-us-html"
+        ]
+      }
+    ],
+    "frameworkHints": [
+      {
+        "hint": "aem-sites",
+        "pages": 56,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-diabetes-html",
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      }
+    ],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 18,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+          "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html"
+        ]
+      }
+    ],
+    "formTargets": [
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 2,
+        "examples": [
+          "de-startseite-contact-us-html",
+          "de-startseite-contact-us-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 2,
+        "examples": [
+          "fr-startseite-contact-us-html",
+          "fr-startseite-contact-us-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-diabetes-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-herzinsuffizienz-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-cvrm-acutecare-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-ri-lupus-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-ri-copd-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-ri-asthma-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/prostata.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-prostata-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-brustkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-haematologie-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-lungenkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-therapiegebiete-onkologie-eierstockkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/ressourcen.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-produkte-trixeo-ressourcen-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "de-startseite-produkte-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/diabetes.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-diabetes-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-cvrm-herzinsuffizienz-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-ri-lupus-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/copd.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-ri-copd-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-ri-asthma-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/prostata.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-prostata-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/brustkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-brustkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/haematologie.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-haematologie-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-lungenkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "fr-startseite-produkte-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-chronischeniereninsuffizienz-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-diabetes-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-cvrm-herzinsuffizienz-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-ri-lupus-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-ri-asthma-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/prostata.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-onkologie-prostata-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-ri-copd-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-onkologie-haematologie-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/brustkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-onkologie-brustkrebs-html"
+        ]
+      },
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "pages": 1,
+        "examples": [
+          "it-startseite-therapiegebiete-onkologie-lungenkrebs-html"
+        ]
+      }
+    ]
+  },
+  "visionCheck": [
+    {
+      "slug": "de-startseite-html",
+      "verdict": "ok",
+      "notes": "hero photo + 3 TA teaser cards + product-info teaser + footer match record"
+    },
+    {
+      "slug": "de-startseite-therapiegebiete-ri-asthma-html",
+      "verdict": "ok",
+      "notes": "banner, stat cards, alternating media/text, references, product promo all present"
+    },
+    {
+      "slug": "de-startseite-produkte-html",
+      "verdict": "ok",
+      "notes": "product cards intentionally blurred/dark for anonymous users (live design, not a capture failure)"
+    },
+    {
+      "slug": "de-startseite-contact-us-html",
+      "verdict": "ok",
+      "notes": "contact form rendered"
+    },
+    {
+      "slug": "de-startseite-produkte-trixeo-uberblick-html",
+      "verdict": "ok",
+      "notes": "banner, tabs, paywall CTA band"
+    },
+    {
+      "slug": "de-startseite-produkte-trixeo-ressourcen-html",
+      "verdict": "ok",
+      "notes": "same product-tab template"
+    },
+    {
+      "slug": "de-startseite-produkte-trixeo-ressourcen-copd-datenblatt-de-html",
+      "verdict": "ok",
+      "notes": "resource teaser + paywall band"
+    },
+    {
+      "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "de-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "fr-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-about-amylodosis-attr-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-diagnosis-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-home-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-symptomes-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    },
+    {
+      "slug": "it-startseite-therapiegebiete-cvrm-see-the-pattrns-treatement-html",
+      "verdict": "ok",
+      "notes": "screenshot carries the HCP self-certification modal (.cmp-selfcertification) over the top viewport; DOM record complete underneath. Gate captures dismiss via .self-certify-yes. Modal is a dynamic feature to replicate."
+    }
+  ],
+  "siblingCandidates": [
+    {
+      "origin": "https://www.astrazeneca.ch",
+      "confidence": "high",
+      "evidence": "footer Kontakt / Nutzungsbedingungen links on every page",
+      "decision": "excluded — corporate site with a different design system (brand-source would widen evidence away from this portal's own surface; replica needs none)"
+    },
+    {
+      "origin": "https://forxiga.ch",
+      "confidence": "medium",
+      "evidence": "mega-menu product link",
+      "decision": "excluded — product microsite"
+    },
+    {
+      "origin": "https://tagrisso.ch",
+      "confidence": "medium",
+      "evidence": "mega-menu product link",
+      "decision": "excluded — product microsite"
+    }
+  ]
+}

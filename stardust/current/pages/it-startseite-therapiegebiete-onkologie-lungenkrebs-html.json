@@ -1,0 +1,562 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:26:01.141Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "it-startseite-therapiegebiete-onkologie-lungenkrebs-html",
+  "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:26:01.141Z",
+  "finalUrl": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+  "title": "Cancro del polmone: Sintomi, Diagnosi, e Trattamento | AstraZeneca",
+  "description": "Scopri Cancro del polmone, cos'è, quali sono i sintomi più comuni, come viene diagnosticata e le opzioni di trattamento disponibili con gli operatori sanitari.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/lung-cancer/lungenkrebs-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Cancro del polmone"
+    },
+    {
+      "tag": "h2",
+      "text": "Le informazioni più importanti sul cancro ai polmoni"
+    },
+    {
+      "tag": "h4",
+      "text": "Incidenza"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalità"
+    },
+    {
+      "tag": "h4",
+      "text": "Tasso di sopravvivenza"
+    },
+    {
+      "tag": "h4",
+      "text": "Sintomi"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnosi"
+    },
+    {
+      "tag": "h4",
+      "text": "Trattamento"
+    },
+    {
+      "tag": "h3",
+      "text": "Informazioni utili sui prodotti"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "I nostri medicinali Cardiovascolare, renale & metabolismo Insufficienza cardiaca Forxiga ® (Dapagliflozina) Malattia renale cronica (MRC) Forxiga ® (Dapagliflozina) Diabete di tipo 2 Forxiga ® (Dapagliflozina) Xigduo® (Dapagliflozina/Metformina HCl) Amiloidosi Wainzua® (Eplontersen) Iperkaliemia Lokelma® (Sodium zirconium cyclosilicate) Respiratorio & Immunologia Broncopneumopatia cronica ostruttiva Trixeo® (Formoterolo/Glicopirronio/Budesonide) Granulomatosi eosinofilica con poliangioite (EGPA) Fasenra® (Benralizumab) Lupus eritematoso sistemico (LES) Saphnelo® (Anifrolumab) Asma Fasenra® (Benralizumab) Symbicort® (Budesonide/Formoterolo) Tezspire® (Tezepelumab) Oncologia ed Ematologia Carcinoma della mammella Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Ematologia Calquence® (Acalabrutinib) Carcinoma delle vie biliari Imfinzi® (Durvalumab) Carcinoma epatocellulare Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Carcinoma polmonare Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Carcinoma ovarico Lynparza® (Olaparib) Carcinoma endometriale Imfinzi® (Durvalumab) Carcinoma della prostata Lynparza® (Olaparib) Carcinoma della vescica muscolo-invasivo Imfinzi® (Durvalumab) Carcinoma gastrico (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Carcinoma del pancreas Lynparza® (Olaparib) Trattamento tumor-agnostico Enhertu® (Trastuzumab Deruxtecan) Vedi tutti i medicinali",
+    "Aree terapeutiche Cardiovascolare, renale & metabolismo Assistenza acuta Malattia renale cronica (MRC) Diabete Insufficienza cardiaca Respiratorio & Immunologia Asma Broncopneumopatia cronica ostruttiva Lupus eritematoso sistemico (LES) Oncologia Tumore del fegato e della cistifellea Tumore ovarico Ematologia Tumore al polmone Cancro al seno",
+    "Contattaci",
+    "Home",
+    "Aree terapeutiche",
+    "Oncology",
+    "Cancro del polmon",
+    "Cancro del polmone",
+    "Il cancro del polmone è la causa più comune di decessi legati al cancro e il secondo tipo di cancro più comunemente diagnosticato a livello mondiale.1",
+    "Il cancro ai polmoni è il secondo tipo di cancro più comune anche in Svizzera, con un’incidenza di 4900 nuovi casi all’anno e un tasso di mortalità di 3300 decessi all’anno.2",
+    "Il tasso di sopravvivenza a 5 anni in Svizzera è del 20% per gli uomini e del 28% per le donne (tasso di sopravvivenza assoluto, periodo 2013-2017).3",
+    "Il fumo è la causa principale del cancro ai polmoni ed è responsabile di circa l’85% di tutti i casi.4 Altri fattori di rischio per lo sviluppo del cancro ai polmoni sono il fumo passivo, l’inquinamento atmosferico, l’esposizione professionale (ad esempio all’amianto) e il radon.5 Anche i fattori genetici possono contribuire allo sviluppo del cancro ai polmoni.5",
+    "Una percentuale significativa di pazienti con cancro del polmone presenta alterazioni in alcuni geni che promuovono l’oncogenesi. Ad esempio, circa il 29% dei casi di NSCLC6 presenta una mutazione KRAS e circa il 14% una mutazione EGFR7 . Negli ultimi anni è stato identificato un numero maggiore di questi cosiddetti driver oncogenici e una migliore comprensione della loro biologia ha permesso lo sviluppo di nuovi principi attivi mirati.6",
+    "Incidenza",
+    "Con oltre 2,2 milioni di nuovi casi all’anno, il cancro ai polmoni è il secondo tipo di cancro più comunemente diagnosticato a livello mondiale1",
+    "Mortalità",
+    "In Svizzera muoiono in media circa 9 persone al giorno per cancro ai polmoni2",
+    "Tasso di sopravvivenza",
+    "I tassi di sopravvivenza a 5 anni per l’NSCLC variano dal 73% nello stadio IA al 13% nello stadio IV8",
+    "Sintomi",
+    "I sintomi più comuni del cancro ai polmoni includono:9",
+    "Tosse (circa 50% dei pazienti)",
+    "Respiro affannoso (circa 33-50% dei pazienti)",
+    "Tosse con sangue (emottisi) (circa 25% dei pazienti)",
+    "Polmonite ricorrente",
+    "Dolore al petto",
+    "Stanchezza",
+    "Perdita di peso",
+    "I sintomi iniziali possono essere lievi o essere classificati come comuni malattie respiratorie, con conseguente ritardo nella diagnosi. 4 Di conseguenza, il cancro al polmone viene spesso diagnosticato solo quando è già in fase avanzata. 9",
+    "Diagnosi",
+    "La diagnosi viene in genere effettuata mediante TC del torace. La diagnosi viene poi confermata dalla biopsia, in cui vengono prelevati campioni di tessuto per l’esame istopatologico e per i test molecolari volti a identificare mutazioni genetiche o biomarcatori specifici. Questi test aiutano a trovare la migliore opzione di trattamento.4",
+    "Una volta che il carcinoma polmonare primario è stato confermato e caratterizzato grazie all’esame istopatologico, è indicata uno studio diagnostico mirato della sua diffusione.3,4",
+    "Trattamento",
+    "Il trattamento del cancro del polmone dipende dal tipo di cancro e dallo stadio della malattia.",
+    "Il trattamento può includere quanto segue:4",
+    "Intervento chirurgico",
+    "Radioterapia",
+    "Chemioterapia",
+    "Immunoterapia",
+    "Terapie mirate",
+    "La chirurgia è il trattamento di scelta se non ci sono controindicazioni e il tumore è resecabile. A seconda dello stadio del tumore, la chirurgia viene integrata da altre terapie: le terapie sistemiche neoadiuvanti, perioperatorie e adiuvanti contribuiscono a migliorare i tassi di sopravvivenza. Se la malattia è più avanzata e l’asportazione chirurgica del tumore non è possibile, il trattamento si concentra su chemioterapia, radioterapia, immunoterapia e terapia mirata.4",
+    "TC: tomografia computerizzata; EGFR: Epidermal Growth Factor Receptor: KRAS: Kirsten rat sarcoma viral oncogene; NSCLC: non-small cell lung cancer.",
+    "Riferimenti:",
+    "Sung H, et al. Global Cancer Statistics 2020, GLOBOCAN Estimates of lncidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA Cancer J Clin. 2021 May;71(3),209-249.",
+    "Il cancro in Svizzera in cifre; Lega svizzera contro il cancro, stato: dicembre 2023. Disponibile online all’indirizzo: https://www.legacancro.ch/il-cancro/cifre-sul-cancro/-dl-/fileadmin/downloads/sheets/cancro-insvizzera-in-cifre.pdf. Ultimo accesso: 22.04.2024.",
+    "Schweizerischer Krebsbericht 2021, Ufficio federale della sanità pubblica, pubblicato il 14.10.2021, ultimo aggiornamento: 31.05.2022. Disponibile online all’indirizzo: https://www.bfs.admin.ch/asset/de/19305696. Ultimo accesso: 22.04.2024.",
+    "Lung cancer, Factsheet, WHO. Aggiornato al 26 giugno 2023. Disponibile online all’indirizzo: https://www.who.int/news-room/fact-sheets/detail/lung-cancer. Ultimo accesso: 22.04.2024.",
+    "de Groot P, Munden RF. Lung cancer epidemiology, risk factors, and prevention. Radiol Clin North Am. 2012 Sep;50(5):863-76.",
+    "Chevallier M, et al. Oncogenic driver mutations in non-small cell lung cancer: Past, present and future. World J Clin Oncol. 2021 Apr 24;12(4):217-237.",
+    "Zhang YL, et al. The prevalence of EGFR mutation in patients with non-small cell lung cancer: a systematic review and meta-analysis. Oncotarget. 2016 Nov 29;7(48):78985-78993.",
+    "Woodard GA, et al. Lung Cancer Staging and Prognosis. Cancer Treat Res. 2016;170:47-75.",
+    "Nasim F, et al. Lung Cancer. Med Clin North Am. 2019 May;103(3):463-473.",
+    "Applichiamo la nostra vasta esperienza nei settori della ricerca e dello sviluppo durante l’intero ciclo di vita di un medicamento.",
+    "Scopra subito le nostre indicazioni o esplori tutti i nostri prodotti!",
+    "Questi contenuti sono destinati esclusivamente al personale medico in Svizzera.",
+    "AstraZeneca Svizzera©",
+    "Normativa sui cookie",
+    "Contatti",
+    "Informativa sulla privacy",
+    "Condizioni di utilizzo",
+    "Notifica di effetti collaterali",
+    "Segnalare un difetto di qualità",
+    "Richieste mediche"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/onkologie/lungenkrebs.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/onkologie/lungenkrebs.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/onkologie/lungenkrebs.html"
+    },
+    {
+      "label": "Contattaci",
+      "href": "/it/startseite/contact-us.html"
+    },
+    {
+      "label": "Accedi",
+      "href": "/it/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/it/startseite.html"
+    },
+    {
+      "label": "Aree terapeutiche",
+      "href": "/it/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "Oncology",
+      "href": "/it/startseite/therapiegebiete/onkologie.html"
+    },
+    {
+      "label": "https://www.legacancro.ch/il-cancro/cifre-sul-cancro/-dl-/fileadmin/downloads/sheets/cancro-insvizzera-in-cifre.pdf",
+      "href": "https://www.krebsliga.ch/ueber-krebs/zahlen-fakten/-dl-/fileadmin/downloads/sheets/zahlen-krebs-in-der-schweiz.pdf"
+    },
+    {
+      "label": "https://www.bfs.admin.ch/asset/de/19305696",
+      "href": "https://www.bfs.admin.ch/asset/de/19305696"
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/lung-cancer"
+    },
+    {
+      "label": "Scopri ora",
+      "href": "/it/startseite/produkte.html"
+    },
+    {
+      "label": "Normativa sui cookie",
+      "href": "//policy.cookiereports.com/b50c8635-it-ch.html"
+    },
+    {
+      "label": "Contatti",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Informativa sulla privacy",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html"
+    },
+    {
+      "label": "Condizioni di utilizzo",
+      "href": "https://www.astrazeneca.ch/it/terms-of-use.html"
+    },
+    {
+      "label": "Notifica di effetti collaterali",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html"
+    },
+    {
+      "label": "Segnalare un difetto di qualità",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Richieste mediche",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/it/user/login.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie.html",
+    "https://www.krebsliga.ch/ueber-krebs/zahlen-fakten/-dl-/fileadmin/downloads/sheets/zahlen-krebs-in-der-schweiz.pdf",
+    "https://www.bfs.admin.ch/asset/de/19305696",
+    "https://www.who.int/news-room/fact-sheets/detail/lung-cancer",
+    "https://policy.cookiereports.com/b50c8635-it-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html",
+    "https://www.astrazeneca.ch/it/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1743085454000/lungenkrebs-desktop.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 250
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/lungenkrebs-mob.jpg",
+        "alt": "lungenkrebs header",
+        "w": 360,
+        "h": 350
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1743085706000/incisenz-lungenkrebs.jpeg",
+        "alt": "Inzidenz - Lungenkrebs",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/incisenz-lungenkrebs-mob.jpg",
+        "alt": "Inzidenz - Lungenkrebs",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1743085734000/mortalit-lungenkrebs.jpeg",
+        "alt": "Mortalität - Lungenkrebs",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/mortalit-lungenkrebs-mob.jpg",
+        "alt": "Mortalität - Lungenkrebs",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1743085763000/uberlenstrate-lungenkrebs.jpeg",
+        "alt": "Überlebensrate - Lungenkrebs",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/uberlenstrate-lungenkrebs-mob.jpg",
+        "alt": "Überlebensrate - Lungenkrebs",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1743085947000/symptome-lungenkrebs.jpeg",
+        "alt": "Symptome - Lungenkrebs",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/symptome-lungenkrebs-mob.jpg",
+        "alt": "Symptome - Lungenkrebs",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_285268105__2043536461/teaser.coreimg.80.1920.jpeg/1743086009000/diagnose-lungenkrebs.jpeg",
+        "alt": "Diagnose - Lungenkrebs",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/diagnose-lungenkrebs-mob.jpg",
+        "alt": "Diagnose - Lungenkrebs",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_285268105__898894156/teaser.coreimg.80.1920.jpeg/1743086094000/behandlung-lungenkrebs.jpeg",
+        "alt": "Behandlung - Lungenkrebs",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/oncology/lungenkrebs/behandlung-lungenkrebs-mob.jpg",
+        "alt": "Behandlung - Lungenkrebs",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/_jcr_content/root/container/container_285268105__1535192680/teaser.coreimg.80.1920.jpeg/1742304119000/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 9215,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "status": 403,
+        "bytes": 919,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/onkologie/lungenkrebs/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/html",
+        "status": 403,
+        "bytes": 919,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/it-startseite-therapiegebiete-onkologie-lungenkrebs-html.png",
+  "renderedHtml": "pages/it-startseite-therapiegebiete-onkologie-lungenkrebs-html.html",
+  "slots": {
+    "headline": "Cancro del polmone",
+    "sections": [
+      "Le informazioni più importanti sul cancro ai polmoni",
+      "Incidenza",
+      "Mortalità",
+      "Tasso di sopravvivenza",
+      "Sintomi",
+      "Diagnosi",
+      "Trattamento",
+      "Informazioni utili sui prodotti"
+    ],
+    "references": true
+  }
+}

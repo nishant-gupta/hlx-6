@@ -1,0 +1,579 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:54.799Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "it-startseite-therapiegebiete-ri-asthma-html",
+  "url": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:54.799Z",
+  "finalUrl": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+  "title": "Asma",
+  "description": "Accesso rapido alle informazioni sull’area terapeutica dedicata all’asma.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/ri-asthma-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Asma"
+    },
+    {
+      "tag": "h2",
+      "text": "L’asma in sintesi"
+    },
+    {
+      "tag": "h4",
+      "text": "Prevalenza"
+    },
+    {
+      "tag": "h4",
+      "text": "Svizzera"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalità"
+    },
+    {
+      "tag": "h4",
+      "text": "Sintomi"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnosi"
+    },
+    {
+      "tag": "h4",
+      "text": "Trattamento"
+    },
+    {
+      "tag": "h3",
+      "text": "Informazioni utili sui prodotti"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "I nostri medicinali Cardiovascolare, renale & metabolismo Insufficienza cardiaca Forxiga ® (Dapagliflozina) Malattia renale cronica (MRC) Forxiga ® (Dapagliflozina) Diabete di tipo 2 Forxiga ® (Dapagliflozina) Xigduo® (Dapagliflozina/Metformina HCl) Amiloidosi Wainzua® (Eplontersen) Iperkaliemia Lokelma® (Sodium zirconium cyclosilicate) Respiratorio & Immunologia Broncopneumopatia cronica ostruttiva Trixeo® (Formoterolo/Glicopirronio/Budesonide) Granulomatosi eosinofilica con poliangioite (EGPA) Fasenra® (Benralizumab) Lupus eritematoso sistemico (LES) Saphnelo® (Anifrolumab) Asma Fasenra® (Benralizumab) Symbicort® (Budesonide/Formoterolo) Tezspire® (Tezepelumab) Oncologia ed Ematologia Carcinoma della mammella Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Ematologia Calquence® (Acalabrutinib) Carcinoma delle vie biliari Imfinzi® (Durvalumab) Carcinoma epatocellulare Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Carcinoma polmonare Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Carcinoma ovarico Lynparza® (Olaparib) Carcinoma endometriale Imfinzi® (Durvalumab) Carcinoma della prostata Lynparza® (Olaparib) Carcinoma della vescica muscolo-invasivo Imfinzi® (Durvalumab) Carcinoma gastrico (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Carcinoma del pancreas Lynparza® (Olaparib) Trattamento tumor-agnostico Enhertu® (Trastuzumab Deruxtecan) Vedi tutti i medicinali",
+    "Aree terapeutiche Cardiovascolare, renale & metabolismo Assistenza acuta Malattia renale cronica (MRC) Diabete Insufficienza cardiaca Respiratorio & Immunologia Asma Broncopneumopatia cronica ostruttiva Lupus eritematoso sistemico (LES) Oncologia Tumore del fegato e della cistifellea Tumore ovarico Ematologia Tumore al polmone Cancro al seno",
+    "Contattaci",
+    "Home",
+    "Aree terapeutiche",
+    "R&I",
+    "Asma",
+    "Asma",
+    "L’asma bronchiale è una malattia infiammatoria cronica delle vie aeree di natura eterogenea. Le persone colpite soffrono di episodi di affanno dovuti a un restringimento delle vie aeree. 1 Il processo infiammatorio porta a un’aumentata sensibilità delle vie aeree (iperreattività bronchiale) a vari stimoli esterni.1 L’asma colpisce sia i bambini che gli adulti ed è la malattia cronica più comune nei bambini.2",
+    "Si stima che nel 2019 le persone affette da asma nel mondo fossero 262 milioni e 455 000 persone siano morte a causa dell’asma.3 L’asma è molto diffusa anche in Svizzera: un bambino su 10 e un adulto su 14 soffrono di asma.4 Negli anni 2018-2022, in Svizzera sono morte di asma in media 78 persone all'anno.5",
+    "Le cause fondamentali dell’asma non sono ancora del tutto note. I fattori di rischio per l’asma nell’infanzia e nell’età adulta includono:6,7",
+    "Predisposizione genetica",
+    "Fumo/esposizione al fumo di sigaretta",
+    "Esposizione agli allergeni in ambienti chiusi/esposizione professionale",
+    "Allergie (ad es. rinite allergica)",
+    "Inquinamento atmosferico",
+    "Infezioni virali delle vie respiratorie",
+    "Sovrappeso",
+    "Stress",
+    "Sono stati identificati molti fenotipi clinici di asma, la cui forma più comune è l’asma allergico, spesso associato a un’infiammazione eosinofila delle vie aeree.8 Fino all'84% di pazienti con asma grave ha un’alta probabilità di presentare un fenotipo eosinofilo.9",
+    "Prevalenza",
+    "La prevalenza dell’asma è aumentata a livello mondiale negli ultimi decenni6",
+    "Svizzera",
+    "Circa il 10% dei bambini e il 7% degli adulti in Svizzera soffre di asma4",
+    "Mortalità",
+    "In Svizzera muore di asma circa una persona ogni cinque giorni5*",
+    "Sintomi",
+    "L’asma è caratterizzato dai seguenti sintomi:8",
+    "Respiro sibilante",
+    "Affanno",
+    "Senso di costrizione al petto",
+    "Tosse",
+    "I sintomi variano nella loro intensità e nel tempo. Sono accompagnati da una restrizione variabile del flusso aereo espiratorio.8",
+    "I sintomi a volte peggiorano improvvisamente e in modo significativo, generando un cosiddetto attacco d’asma, chiamato anche esacerbazione.2,8 I sintomi sono spesso peggiori di notte o durante l’esercizio fisico.2",
+    "Diagnosi",
+    "L’asma viene diagnosticato sulla base di sintomi respiratori tipici insieme a segni fisiologici di limitazione variabile del flusso aereo espiratorio.8",
+    "La spirometria può essere utilizzata per valutare sia la limitazione del flusso d’aria che la risposta ai broncodilatatori.10 I test di provocazione bronchiale consentono una valutazione non invasiva dell’iperreattività delle vie aeree.10 L’analisi del sangue e dell’espettorato per la ricerca di eosinofilia e la misurazione della frazione di ossido nitrico esalato (FeNO) possono aiutare a rilevare l’infiammazione delle vie aeree caratteristica di alcuni fenotipi di asma.10",
+    "Trattamento",
+    "L’asma è considerato incurabile ma ben gestibile.1 Gli obiettivi a lungo termine del trattamento dell’asma sono il raggiungimento di un buon controllo dei sintomi e la riduzione al minimo del rischio futuro di mortalità correlata all’asma, esacerbazioni e limitazione persistente del flusso aereo.8 Nel trattamento dell’asma sono utilizzati solitamente i seguenti medicamenti per via inalatoria:2",
+    "Broncodilatatori, che aprono le vie respiratorie e alleviano i sintomi",
+    "Steroidi, che riducono l’infiammazione delle vie aeree, migliorando i sintomi dell’asma e riducendo il rischio di esacerbazioni gravi e di morte",
+    "In pazienti con asma grave che presentano uno scarso controllo dei sintomi e/o esacerbazioni nonostante il trattamento con corticosteroidi per via inalatoria e beta2- agonisti a lunga durata d’azione, si raccomanda di effettuare una valutazione fenotipica e considerare una terapia aggiuntiva con antagonisti muscarinici a lunga durata d’azione (LAMA), antibiotici, termoplastica bronchiale, biologici o corticosteroidi orali.8",
+    "Riferimenti:",
+    "UFSP, Malattie croniche delle vie respiratorie. Stato: 20.11.2020. Disponibile online all’indirizzo: https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html. Ultimo accesso: 08.05.2024.",
+    "WHO Factsheet WHO, Fact sheet Asthma. Stato: 6 maggio 2024. Disponibile online all’indirizzo: https://www.who.int/news-room/fact-sheets/detail/asthma. Ultimo accesso: 08.05.2024.",
+    "Global burden of 369 diseases and injuries in 204 countries and territories, 1990-2019: a systematic analysis for the Global Burden of Disease Study 2019. Lancet. 2020;396(10258):1204-22.",
+    "Lega polmonare, Malattie e terapie, Asma. Disponibile online all’indirizzo: https://www.legapolmonare.ch/malattie-e-terapie/asma. Ultimo accesso: 08.05.2024.",
+    "Ufficio federale di statistica: Sterbefälle und Sterbeziffern wichtiger Todesursachen, nach Alter, Frauen/Männer. Pubblicato l’11.12.2023. Periodo di riferimento 1990-2022. Tabelle disponibili all’indirizzo: https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/stato-salute/mortalita-cause-morte/specifiche.html. Ultimo accesso: 17.05.2024.",
+    "Kuruvilla ME, et al. Epidemiology and risk factors for asthma. Respir Med. 2019 Mar;149:16-22.",
+    "American Lung Association. Asthma Causes and Risk factors. Disponibile online all’indirizzo: https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma. Ultimo accesso: 17.05.2024.",
+    "Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2024. Updated May 2024. Available from: www.ginasthma.org, ultimo accesso: 08.05.2024.",
+    "Heaney LG et al. Eosinophilic and Noneosinophilic Asthma: An Expert Consensus Framework to Characterize Phenotypes in a Global Real-Life Severe Asthma Cohort. Chest 2021;160(3):814-830.",
+    "Aaron SD, et al. Underdiagnosis and Overdiagnosis of Asthma. Am J Respir Crit Care Med. 2018 Oct 15;198(8):1012-1020.",
+    "Applichiamo la nostra vasta esperienza nei settori della ricerca e dello sviluppo durante l’intero ciclo di vita di un medicamento.",
+    "Scopra subito le nostre indicazioni o esplori tutti i nostri prodotti!",
+    "CH-12797 Revision date 05/2026",
+    "Questi contenuti sono destinati esclusivamente al personale medico in Svizzera.",
+    "AstraZeneca Svizzera©",
+    "Normativa sui cookie",
+    "Contatti",
+    "Informativa sulla privacy",
+    "Condizioni di utilizzo",
+    "Notifica di effetti collaterali",
+    "Segnalare un difetto di qualità",
+    "Richieste mediche"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/ri/asthma.html"
+    },
+    {
+      "label": "Contattaci",
+      "href": "/it/startseite/contact-us.html"
+    },
+    {
+      "label": "Accedi",
+      "href": "/it/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/it/startseite.html"
+    },
+    {
+      "label": "Aree terapeutiche",
+      "href": "/it/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "R&I",
+      "href": "/it/startseite/therapiegebiete/ri.html"
+    },
+    {
+      "label": "https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html",
+      "href": "https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html"
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/asthma",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/asthma"
+    },
+    {
+      "label": "https://www.legapolmonare.ch/malattie-e-terapie/asma",
+      "href": "https://www.legapolmonare.ch/malattie-e-terapie/asma"
+    },
+    {
+      "label": "https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/stato-salute/mortalita-cause-morte/specifiche.html",
+      "href": "https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/stato-salute/mortalita-cause-morte/specifiche.html"
+    },
+    {
+      "label": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma",
+      "href": "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma"
+    },
+    {
+      "label": "www.ginasthma.org",
+      "href": "https://ginasthma.org/"
+    },
+    {
+      "label": "Scopri ora",
+      "href": "/it/startseite/produkte.html"
+    },
+    {
+      "label": "Normativa sui cookie",
+      "href": "//policy.cookiereports.com/b50c8635-it-ch.html"
+    },
+    {
+      "label": "Contatti",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Informativa sulla privacy",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html"
+    },
+    {
+      "label": "Condizioni di utilizzo",
+      "href": "https://www.astrazeneca.ch/it/terms-of-use.html"
+    },
+    {
+      "label": "Notifica di effetti collaterali",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html"
+    },
+    {
+      "label": "Segnalare un difetto di qualità",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Richieste mediche",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/it/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/it/user/login.html",
+    "https://www.myastrazeneca.ch/it/startseite.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri.html",
+    "https://www.bag.admin.ch/bag/de/home/krankheiten/krankheiten-im-ueberblick/chronische-atemwegserkrankungen.html",
+    "https://www.who.int/news-room/fact-sheets/detail/asthma",
+    "https://www.legapolmonare.ch/malattie-e-terapie/asma",
+    "https://www.bfs.admin.ch/bfs/it/home/statistiche/salute/stato-salute/mortalita-cause-morte/specifiche.html",
+    "https://www.lung.org/lung-health-diseases/lung-disease-lookup/asthma/learn-about-asthma/what-causes-asthma",
+    "https://ginasthma.org/",
+    "https://policy.cookiereports.com/b50c8635-it-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-it/privacy-notices.html",
+    "https://www.astrazeneca.ch/it/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/it/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1743038906963/banner-header.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/banner-header-mobile.jpg",
+        "alt": "",
+        "w": 576,
+        "h": 560
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1743039479633/prevalance-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/prevalance-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1743039511674/switzerland-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/switzerland-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1743039551240/mortality-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/mortality-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1743039653252/symptome-desktop.jpeg",
+        "alt": "",
+        "w": 1123,
+        "h": 546
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/symptome-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105__975112452/teaser.coreimg.80.1920.jpeg/1743039765177/diagnose-desktop.jpeg",
+        "alt": "",
+        "w": 899,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/diagnose-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105__634321743/teaser.coreimg.80.1920.jpeg/1743418035058/behandlung-desktop.jpeg",
+        "alt": "",
+        "w": 899,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/asthma/behandlung-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/_jcr_content/root/container/container_285268105__499878329/teaser.coreimg.80.1920.jpeg/1742304119207/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/it/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 9833,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/it/startseite/therapiegebiete/ri/asthma/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/asthma.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/it-startseite-therapiegebiete-ri-asthma-html.png",
+  "renderedHtml": "pages/it-startseite-therapiegebiete-ri-asthma-html.html",
+  "slots": {
+    "headline": "Asma",
+    "sections": [
+      "L’asma in sintesi",
+      "Prevalenza",
+      "Svizzera",
+      "Mortalità",
+      "Sintomi",
+      "Diagnosi",
+      "Trattamento",
+      "Informazioni utili sui prodotti"
+    ],
+    "references": true
+  }
+}

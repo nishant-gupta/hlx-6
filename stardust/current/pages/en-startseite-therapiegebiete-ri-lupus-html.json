@@ -1,0 +1,580 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:32:29.660Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "en-startseite-therapiegebiete-ri-lupus-html",
+  "url": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:32:29.660Z",
+  "finalUrl": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+  "title": "Lupus Insights and Treatment Guidance – For HCPs",
+  "description": "Access the latest information, expert perspectives, and key resources for the diagnosis and management of lupus in clinical practice.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/lupus-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Systemic lupus erythematosus"
+    },
+    {
+      "tag": "h2",
+      "text": "Lupus - a disease with a thousand faces"
+    },
+    {
+      "tag": "h4",
+      "text": "Characteristics"
+    },
+    {
+      "tag": "h4",
+      "text": "Unequal gender distribution"
+    },
+    {
+      "tag": "h4",
+      "text": "Prevalence"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptoms"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnosis"
+    },
+    {
+      "tag": "h4",
+      "text": "Treatment"
+    },
+    {
+      "tag": "h3",
+      "text": "Useful product information"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Our medicines Cardiovascular, Renal & Metabolism Heart Failure Forxiga® (Dapagliflozin) Chronic Kidney Disease (CKD) Forxiga® (Dapagliflozin) Type 2 diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidosis Wainzua® (Eplontersen) Respiratory & Immunology COPD Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophilic granulomatosis with polyangiitis (EGPA) Fasenra® (Benralizumab) Systemic lupus erythematosus (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Oncology & Hematology Breast Cancer Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hematology Calquence® (Acalabrutinib) Hepatocellular Carcinoma Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Biliary Tract Cancer Imfinzi® (Durvalumab) Lung Cancer Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarian Cancer Lynparza® (Olaparib) Endometrial Cancer Imfinzi® (Durvalumab) Prostate Cancer Lynparza® (Olaparib) Muscle Invasive Bladder Cancer Imfinzi® (Durvalumab) Pancreatic Cancer Lynparza® (Olaparib) Gastric Cancer & Gastroesophageal adenocarcinoma (GC/GEJC) Enhertu® (Trastuzumab Deruxtecan) Imfinzi® (Durvalumab) Tumor Agnostic Enhertu® (Trastuzumab Deruxtecan) View all Medicines",
+    "Therapeutic Areas Cardiovascular, Renal & Metabolism Acute care Chronic Kidney Disease (CKD) Diabetes Heart failure Respiratory & Immunology Asthma COPD Systemic lupus erythematosus (SLE) Oncology Breast Cancer Liver and gallbladder cancer Ovarian cancer Haematology Lung cancer",
+    "Contact us",
+    "Home",
+    "Therapy areas",
+    "R&I",
+    "Lupus",
+    "Systemic lupus erythematosus",
+    "Systemic lupus erythematosus (SLE) is a chronic autoimmune disease that can affect various organs, including the skin, joints, central nervous system and the kidneys.1 SLE is characterised by the production of pathogenic auto-antibodies and the loss of tolerance to nuclear self-antigens.2 Clinical heterogeneity, an unpredictable course and the occurrence of relapses are further typical features of SLE.3",
+    "Worldwide, more than 3.4 million people are affected by SLE4, of whom around 90% are women.5 It is estimated that around 1,200-4,000 patients in Switzerland suffer from SLE.5",
+    "In most cases, the development of SLE is multifactorial.5 Genetic interactions with environmental factors, in particular exposure to UV light, Epstein-Barr virus infection and hormonal factors, can trigger the disease and lead to dysregulation of the immune system.1",
+    "The physical and emotional burden for people suffering from SLE is substantial.7 The high morbidity, chronic course of the disease and dependence on corticosteroid therapy contribute to long-term organ damage, which can even lead to life-threatening systemic organ damage.4 However, new drugs and a better understanding of the disease have significantly improved the life expectancy and quality of life for those affected in recent years.5",
+    "Characteristics",
+    "SLE is a chronic autoimmune disease that can affect all organs and tissues6",
+    "Unequal gender distribution",
+    "9 out of 10 of those affected are women, predominantly of childbearing age5",
+    "Prevalence",
+    "The prevalence of SLE is 20-50 cases per 100,000 inhabitants5",
+    "Symptoms",
+    "The clinical manifestations and the pattern of organ involvement are very heterogeneous in SLE.6 About 70% of patients have a relapsing-remitting course, the remaining patients divided equally between a prolonged remission and a persistently active disease.3 Symptoms that may be present at diagnosis:8",
+    "Joint pain (arthralgia/arthritis) (75%)",
+    "Photosensitive skin rash (55%)",
+    "Tiredness (fatigue) (48%)",
+    "Hair loss (alopecia) (41%)",
+    "Butterfly-shaped rash (butterfly erythema) (38%)",
+    "Raynaud’s syndrome (31%)",
+    "Blood count changes (haematological abnormalities) (31%)",
+    "Mucosal changes in the mouth (aphthae) (26%)",
+    "Fever (22%)",
+    "Inflammation of the costal pleura/pericardium (pleurisy/pericarditis) (12%)",
+    "Sjögren’s syndrome (8%)",
+    "Urine abnormalities (6%)",
+    "Neuropsychiatric symptoms (6%)",
+    "Weight loss/anorexia (3%)",
+    "If the disease is not recognised in time, the costal pleura, pleura, pericardium or heart valves can become inflamed. Also threatening is kidney inflammation (lupus nephritis), which can lead to kidney failure and dialysis.5",
+    "Diagnosis",
+    "The diagnosis of SLE is usually delayed due to the often diffuse symptoms. In the USA, it is estimated that it takes around 6 years from the onset of the first symptoms to diagnosis.9",
+    "The diagnosis of SLE is made clinically and is supported by laboratory tests that indicate immune reactivity or inflammation in various organs.3",
+    "Since 2019, EULAR and ACR have established new classification criteria to better recognise SLE.10",
+    "The following features are considered:10",
+    "Constitutional: fever",
+    "Haematological: leukocytes <4000, thrombocytes <100,000, haemolysis",
+    "Neuropsychiatric: delirium, psychosis or epilepsy",
+    "Mucocutaneous: acute cutaneous lupus (butterfly-shaped), subacute cutaneous or discoid lupus, alopecia or oral ulcers",
+    "Serosal: pleural or pericardial effusion or acute pericarditis",
+    "Muscle/skeleton: joint involvement (synovitis, pain on palpation, morning stiffness)",
+    "Kidneys: lupus nephritis, proteinuria >0.5 g/day",
+    "Immunological: antiphospholipid antibodies, low complement proteins (C3 and/or C4), SLE-specific antibodies (anti-dsDNA or anti-Smith antibodies)",
+    "Treatment",
+    "SLE is not curable.5 Early diagnosis, regular screening for organ involvement (especially nephritis), immediate initiation of treatment and strict adherence to treatment are essential to prevent relapses and organ damage, improve the prognosis and enhance the quality of life.11",
+    "Non-pharmacological measures, such as sun protection, not smoking, a healthy, balanced diet and regular exercise, are important to improve the long-term outcomes of treatment.11 The pharmacological therapies depend on the type and severity of organ involvement, concomitant diseases and the risk of progressive organ damage.11",
+    "According to the 2023 EULAR recommendations, hydroxychloroquine is recommended for all patients unless it is contraindicated. Glucocorticoids (GC) can be used as “bridging therapy” during phases of disease activity. For maintenance therapy, these should be minimised to equal to or less than 5 mg/day (prednisone equivalent) and, if possible, discontinued.11 If disease control is inadequate and to facilitate tapering off/stopping GC therapy, early initiation of immunosuppressive drugs (ISDs), such as methotrexate, azathioprine, mycophenolate, and/or biologic agents, such as anifrolumab, belimumab, should be considered.11",
+    "ACR: American College of Rheumatology; dsDNA: double-stranded DNA; EULAR: European Alliance of Associations for Rheumatology; SLE: systemic lupus erythematosus.",
+    "References:",
+    "Kaul A, et al. Systemic lupus erythematosus. Nat Rev Dis Primers. 2016 Jun 16;2:16039.",
+    "Liu Z, Davidson A. Taming lupus-a new understanding of pathogenesis is leading to clinical advances. Nat Med. 2012 Jun 6;18(6):871-82.",
+    "Fanouriakis A, et al. Update on the diagnosis and management of systemic lupus erythematosus. Ann Rheum Dis. 2021 Jan;80(1):14-25.",
+    "Tian J, et al. Global epidemiology of systemic lupus erythematosus: a comprehensive systematic analysis and modelling study. Ann Rheum Dis. 2023 Mar;82(3):351-356.",
+    "University Hospital Zurich, Diseases and treatments, Systemic lupus erythematosus. Available online at: https://www.usz.ch/en/disease/systemic-lupus-erythematosus/. Last accessed on: 16/05/2024.",
+    "Fava A, Petri M. Systemic lupus erythematosus: Diagnosis and clinical management. J Autoimmun. 2019 Jan;96:1-13.",
+    "Rheumatism League Switzerland (2019): Systemic lupus erythematosus. Available online at: https://www.rheumaliga.ch/assets/doc/ZH_Dokumente/Broschueren-Merkblaetter/Krankheitsbilder/Lupus.pdf. Last accessed on: 16/05/2024.",
+    "Kapsala NN, et al. From first symptoms to diagnosis of systemic lupus erythematosus: mapping the journey of patients in an observational study. Clin Exp Rheumatol. 2023 Jan;41(1):74-81.",
+    "Al Sawah S et al. Understanding Delay in Diagnosis, Access to Care and Satisfaction with Care in Lupus: Findings from a Cross-Sectional Online Survey in the United States. Annals of the Rheumatic Diseases. 74. 812.3-812. 10.1136/annrheumdis-2015-eular.1159.",
+    "Aringer M. EULAR/ACR classification criteria for SLE. Semin Arthritis Rheum. 2019 Dec;49(3S):S14-S17.",
+    "Fanouriakis A, et al. EULAR recommendations for the management of systemic lupus erythematosus: 2023 update. Ann Rheum Dis. 2024 Jan 2;83(1):15-29.",
+    "We apply our broad expertise in the areas of research and development throughout the entire lifecycle of a medication. Discover our indications or browse through all our products.",
+    "CH-12949-Revision date 06/2026",
+    "This website is intended for healthcare professionals in Switzerland only.",
+    "Cookie policy",
+    "Contact",
+    "Terms of use",
+    "Report side effects",
+    "Report quality complaint",
+    "Medical enquiries"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/ri/lupus.html"
+    },
+    {
+      "label": "Contact us",
+      "href": "/en/startseite/contact-us.html"
+    },
+    {
+      "label": "Login",
+      "href": "/en/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/en/startseite.html"
+    },
+    {
+      "label": "Therapy areas",
+      "href": "/en/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "R&I",
+      "href": "/en/startseite/therapiegebiete/ri.html"
+    },
+    {
+      "label": "https://www.usz.ch/en/disease/systemic-lupus-erythematosus/",
+      "href": "https://www.usz.ch/en/disease/systemic-lupus-erythematosus/"
+    },
+    {
+      "label": "https://www.rheumaliga.ch/assets/doc/ZH_Dokumente/Broschueren-Merkblaetter/Krankheitsbilder/Lupus.pdf",
+      "href": "https://www.rheumaliga.ch/assets/doc/ZH_Dokumente/Broschueren-Merkblaetter/Krankheitsbilder/Lupus.pdf"
+    },
+    {
+      "label": "Discover now",
+      "href": "/en/startseite/produkte.html#tabs-f628d3cc6a-item-71c798e524-tab"
+    },
+    {
+      "label": "Cookie policy",
+      "href": "//policy.cookiereports.com/b50c8635-en-gb.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.astrazeneca.ch/en/contact-us.html"
+    },
+    {
+      "label": "Terms of use",
+      "href": "https://www.astrazeneca.ch/en/terms-of-use.html"
+    },
+    {
+      "label": "Report side effects",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html"
+    },
+    {
+      "label": "Report quality complaint",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medical enquiries",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    },
+    {
+      "label": "Cookie Notice on our websites",
+      "href": "https://cookienotice.astrazeneca.com/"
+    },
+    {
+      "label": "Allow All Cookies",
+      "href": "#"
+    },
+    {
+      "label": "Cookie Preferences",
+      "href": "#"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/en/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://tagrisso.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/en/user/login.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri.html",
+    "https://www.usz.ch/en/disease/systemic-lupus-erythematosus/",
+    "https://www.rheumaliga.ch/assets/doc/ZH_Dokumente/Broschueren-Merkblaetter/Krankheitsbilder/Lupus.pdf",
+    "https://www.myastrazeneca.ch/en/startseite/produkte.html#tabs-f628d3cc6a-item-71c798e524-tab",
+    "https://policy.cookiereports.com/b50c8635-en-gb.html",
+    "https://www.astrazeneca.ch/en/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-en/privacy-notices.html",
+    "https://www.astrazeneca.ch/en/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/global/en/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com",
+    "https://cookienotice.astrazeneca.com/",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html#",
+    "https://www.digitalcontrolroom.com/",
+    "https://www.digitalcontrolroom.com/privacy-policy/",
+    "https://tealium.com/",
+    "https://tealium.com/privacy/",
+    "https://www.vmware.com/",
+    "https://www.vmware.com/help/privacy.html",
+    "https://aws.amazon.com/elasticloadbalancing/",
+    "https://aws.amazon.com/privacy/",
+    "https://www.amazon.com/",
+    "https://www.amazon.com/privacy",
+    "https://www.microsoft.com/",
+    "https://privacy.microsoft.com/",
+    "https://www.adobe.com/",
+    "https://www.adobe.com/privacy/policy.html",
+    "https://www.adobe.com/privacy.html",
+    "https://www.innovid.com/",
+    "https://www.innovid.com/privacy-policy/",
+    "https://mouseflow.com/",
+    "https://mouseflow.com/privacy/",
+    "https://www.flashtalking.com/",
+    "https://www.flashtalking.com/privacypolicy",
+    "https://www.google.com/",
+    "https://policies.google.com/privacy",
+    "https://support.microsoft.com/en-us/windows/manage-cookies-in-microsoft-edge-view-allow-block-delete-and-use-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.google.com/chrome/answer/95647?hl=en",
+    "https://support.apple.com/en-gb/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/en/Header/master/_jcr_content/root/image.coreimg.svg/1789487620440/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 82,
+        "h": 20
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 82,
+        "h": 20
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1724995675307/banner-header.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/banner-header-mob.jpg",
+        "alt": "",
+        "w": 540,
+        "h": 525
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1724995693544/sle-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/sle-mob.jpg",
+        "alt": "",
+        "w": 1080,
+        "h": 471
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1724995706238/ugd-dsektop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/betroffenen-mob.jpg",
+        "alt": "",
+        "w": 3236,
+        "h": 1310
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1724995720243/prevelance-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/inzidenz-mob.jpg",
+        "alt": "",
+        "w": 2427,
+        "h": 983
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1731405146403/symtome-desktop.jpeg",
+        "alt": "",
+        "w": 898,
+        "h": 438
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/symtome-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105__994161536/teaser.coreimg.80.1920.jpeg/1731402655129/diagnose-desktop.jpeg",
+        "alt": "",
+        "w": 1079,
+        "h": 525
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/diagnose-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/_jcr_content/root/container/container_285268105__963538849/teaser.coreimg.80.1920.jpeg/1724995901273/behandlung-desktop.jpeg",
+        "alt": "",
+        "w": 1123,
+        "h": 547
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/r-and-i/systematischer-lupus-erythematodes/behandlung-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/en/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337901081/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 82,
+        "h": 20
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [
+      "CookiesIn addition to cookies to provide functions of our website, we also use cookies that analyse the use of the website, the content you visit and its use, enable the display of personalized content, and provide social media functions. By default, only cookies required to provide the website are stored. However, if you click on the “Accept all cookies” button, you consent to the storage of all cookies on your device. If you click on “Accept all cookies”, you agree that your data will be processed by service providers from third countries worldwide, including outside the European Economic Area (in particular the USA), which do not have an adequate level of data protection. In this case, it is possible that authorities can access the data without legal remedies. If you click on “Reject optional cookies,” the transmission described above will not take place. You can adjust your preferences, obtain additional information, and withdraw or change your consent at any time via the “Cookie Preferences” menu or via the information about cookies linked on the page. For more information about the use of cookies, please see our Cookie Notice on our websites .Allow All CookiesCookie PreferencesConfirm Your PreferencesNecessary cookies only12Strictly Necessary CookiesThe strictly necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You may be able to decline these cookies through your browser, but necessary parts of the site will not then work. These cookies do not store any personally identifiable information.Detailed description of cookies categorised as: Strictly Necessary Cookies. CookieExpiryDomainCompanyPurposewscrCookieConsent1 yearwww.myastrazeneca.chDigital Control Room LtdYour visitStores your cookie consent session for our site. It contains no information other than whether you have opted in or out for each cookie level.Digital Control Room Ltd - Privacy Policy (Digital Control Room Ltd)+ ▼Stores your cookie consent session for our site. It contains no information other than whether you have opted in or out for each cookie level.Digital Control Room Ltd - Privacy Policy (Digital Control Room Ltd)utag_main_ses_id1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main_vapi_domain1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__pn1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__se1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__sn1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__ss1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)utag_main__st1 yearmyastrazeneca.chTealiumYour visitUsed to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)+ ▼Used to store the Tealium ID required to enable visitor information to be analysed.Tealium - Privacy Policy (Tealium)_vapi<digits>+Sessionmyastrazeneca.chVMware, IncYour visitCookie that contains a session identifier used to authenticate the use and deliver different APIs. The cookie is dynamic so it cannot be updated, as each customer will have a unique cookie.VMware, Inc - Privacy Policy (VMware, Inc)+ ▼Cookie that contains a session identifier used to authenticate the use and deliver different APIs. The cookie is dynamic so it cannot be updated, as each customer will have a unique cookie.VMware, Inc - Privacy Policy (VMware, Inc)AWSALB1 hourwww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Your visitUsed by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)+ ▼Used by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)AWSALBCORS1 weekwww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Your visitUsed by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)+ ▼Used by Elastic Load Balancing from Amazon Web Services to effectively balance load on the servers.Amazon Web Services - Privacy Policy (Amazon Web Services)Amazon.com, Inc. - Privacy Policy (Amazon.com, Inc.)JSESSIONIDSessionwww.myastrazeneca.chEIS, Microsoft CorporationYour visitStores session data during a website visit, issued by Jetty Web Server.Microsoft Corporation - Privacy Policy (Microsoft Corporation)+ ▼Stores session data during a website visit, issued by Jetty Web Server.Microsoft Corporation - Privacy Policy (Microsoft Corporation)0Functional CookiesConsent for: Functional CookiesThese cookies enable the website to provide enhanced functionality, aid site personalisation, maintain user-selected options and site navigation aids. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.We do not use any cookies in this category.35Performance and Operational CookiesConsent for: Performance and Operational CookiesThese cookies allow us to count visits and traffic sources, perform customer surveys and other web analytics, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. The information these cookies collect is aggregated and in some instances limited identifiable data may be collected.Detailed description of cookies categorised as: Performance and Operational Cookies. CookieExpiryDomainCompanyPurposeeverest_g_v22 yearseveresttech.netAdobe Inc.AnalyticsThese cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼These cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)everest_session_v2Sessioneveresttech.netAdobe Inc.AnalyticsThese cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼These cookies provide feedback on the effectiveness of the advertising displayed on our site and helps show you offers which may be of interest to you.Adobe Inc. - Privacy Policy (Adobe Inc.)im_cookie_ccreativeSessionmyastrazeneca.chAdobe Inc.AnalyticsRecords the Campaign ID used to navigate to the website+ ▼Records the Campaign ID used to navigate to the websitetestSessionmyastrazeneca.chAdobe Inc.AnalyticsInternal cookie written by Adobe Analytics to test browser cookie support.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Internal cookie written by Adobe Analytics to test browser cookie support.Adobe Inc. - Privacy Policy (Adobe Inc.)im_cookie_cadpubSessionmyastrazeneca.chAstraZenecaAnalyticsAll the im_ cookies are Analytics cookies. This specific example is a session cookie used to store the campaign advertiser publisher (cadpub) URL parameter during the session so it can be used for data analytics in the data captured.+ ▼All the im_ cookies are Analytics cookies. This specific example is a session cookie used to store the campaign advertiser publisher (cadpub) URL parameter during the session so it can be used for data analytics in the data captured.im_cookie_cmediumSessionmyastrazeneca.chAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.+ ▼Used for analytics of navigation methods to the website.im_cookie_cnameSessionmyastrazeneca.chAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.+ ▼Used for analytics of navigation methods to the website.uuid90 daysinnovid.comAstraZenecaAnalyticsUsed for analytics of navigation methods to the website.AstraZeneca - Privacy Policy (AstraZeneca)+ ▼Used for analytics of navigation methods to the website.AstraZeneca - Privacy Policy (AstraZeneca)mf_*Sessionmyastrazeneca.chMouseflow ApSAnalyticsMeasure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)+ ▼Measure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)mf_user90 daysmyastrazeneca.chMouseflow ApSAnalyticsMeasure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)+ ▼Measure website traffic via anonymous statistics. Among other things, which links users click on and where they most often move the mouse, so that we can optimize the user experience on our website.Mouseflow ApS - Privacy Policy (Mouseflow ApS)im_cookie_session_idSessionmyastrazeneca.chAdobe, Adobe Inc.AnalyticsManages user session for site functionality, expiring when browser closes.+ ▼Manages user session for site functionality, expiring when browser closes.im_cookie_visitor_uid27 years, 4 monthsmyastrazeneca.chAdobe, Adobe Inc.AnalyticsTracks visitor behaviour across multiple sessions to improve user experience, with a long-term expiry.+ ▼Tracks visitor behaviour across multiple sessions to improve user experience, with a long-term expiry.AMCVS_*AdobeOrgSessionmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsSession cookie with Adobe. It indicates that a session has been initialized. The organisation ID helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Session cookie with Adobe. It indicates that a session has been initialized. The organisation ID helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)AMCV_*AdobeOrg2 yearsmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsHelps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Helps Adobe to only analyse traffic from legitimate websites.Adobe Inc. - Privacy Policy (Adobe Inc.)astrazenecauklimited!mboxPC1 dayastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)astrazenecauklimited!mboxSession30 minutesastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor's session.Adobe Inc. - Privacy Policy (Adobe Inc.)at_checkSessionmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsCookie set to remember the visitor, when experimenting with which content should be served to the visitor.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Cookie set to remember the visitor, when experimenting with which content should be served to the visitor.Adobe Inc. - Privacy Policy (Adobe Inc.)gpv_pn30 minutesmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsThis cookie is set and read by the Adobe Analytics JavaScript code when the page is loaded. Captures Adobe Analytics page name. No Personally Identifiable Information collected.+ ▼This cookie is set and read by the Adobe Analytics JavaScript code when the page is loaded. Captures Adobe Analytics page name. No Personally Identifiable Information collected.mbox2 yearsmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalyticsThis cookie is used to control which elements should be shown to a visitor and gives website operators the ability to test which online content and offers are more relevant to visitors.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼This cookie is used to control which elements should be shown to a visitor and gives website operators the ability to test which online content and offers are more relevant to visitors.Adobe Inc. - Privacy Policy (Adobe Inc.)demdex2 yearsdemdex.netAdobe Media Optimizer, Adobe Inc.Analytics​Used to recognize a returning visitor, build unique audience profiles and deliver targeted messages using Adobe Analytics.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼​Used to recognize a returning visitor, build unique audience profiles and deliver targeted messages using Adobe Analytics.Adobe Inc. - Privacy Policy (Adobe Inc.)dextp6 monthsdemdex.netAdobe Media Optimizer, Adobe Inc.AnalyticsAdobe Audience Manager sets this cookie to record the last time it made a data synchronization call.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Adobe Audience Manager sets this cookie to record the last time it made a data synchronization call.Adobe Inc. - Privacy Policy (Adobe Inc.)dpm2 yearsdpm.demdex.netAdobe Media Optimizer, Adobe Inc.AnalyticsUsed to help Adobe Audience Manager perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etcAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Used to help Adobe Audience Manager perform basic functions such as visitor identification, ID synchronization, segmentation, modelling, reporting, etcAdobe Inc. - Privacy Policy (Adobe Inc.)flashtalkingad12 yearsflashtalking.comFlashtalking, Simplicity Marketing LtdAnalyticsCollects anonymous data and determines what advertising has been delivered to the user already, on behalf of Advertising platform Flashtalking by Simplicity Marketing Ltd.Flashtalking - Privacy Policy (Flashtalking)+ ▼Collects anonymous data and determines what advertising has been delivered to the user already, on behalf of Advertising platform Flashtalking by Simplicity Marketing Ltd.Flashtalking - Privacy Policy (Flashtalking)s_ccSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsStores whether cookies are enabled, on behalf of the SiteCatalyst Analytics platform.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Stores whether cookies are enabled, on behalf of the SiteCatalyst Analytics platform.Adobe Inc. - Privacy Policy (Adobe Inc.)s_getDaysSinceLastVisit3 yearsmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)s_getDaysSinceLastVisit_s3 yearsmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getDaysSinceLastVisitAdobe Inc. - Privacy Policy (Adobe Inc.)s_getNewRepeat30 daysmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsDetermines whether a visitor is a new visitor or a repeat visitor, and captures this information in an Analytics variable.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Determines whether a visitor is a new visitor or a repeat visitor, and captures this information in an Analytics variable.Adobe Inc. - Privacy Policy (Adobe Inc.)s_invisit30 minutesmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsThis cookie is used by an Omniture plugin to count the visit numbers per month for a specific user of the web page.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼This cookie is used by an Omniture plugin to count the visit numbers per month for a specific user of the web page.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pltSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pltpSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageLoadTime, to store the time, in seconds, that the previous page took to load.Adobe Inc. - Privacy Policy (Adobe Inc.)s_ppvSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsStores the percentage of the page that was displayed vertically to the end user.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Stores the percentage of the page that was displayed vertically to the end user.Adobe Inc. - Privacy Policy (Adobe Inc.)s_pvsSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)s_tpSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: Adobe Consulting PluginAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: Adobe Consulting PluginAdobe Inc. - Privacy Policy (Adobe Inc.)s_tpsSessionmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsSet by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Set by the optional plugin to SiteCatalyst: getPageVisibilityAdobe Inc. - Privacy Policy (Adobe Inc.)s_vnum30 daysmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalyticsEnables Visit Number By Month tracking for the SiteCatalyst Analytics platform by recording how you arrived at the site.Adobe Inc. - Privacy Policy (Adobe Inc.)+ ▼Enables Visit Number By Month tracking for the SiteCatalyst Analytics platform by recording how you arrived at the site.Adobe Inc. - Privacy Policy (Adobe Inc.)3Marketing and targeted advertising CookiesConsent for: Marketing and targeted advertising CookiesThese cookies are used to track our visitors browsing habits and activity across our websites. They can be used to build up a profile of search and/or browsing history for every visitor. Identifiable or unique data may be collected which enables us to show you relevant/personalized marketing content. We do not store directly personal information, but information that uniquely identify your browser and internet device and use this to display targeted advertising and/or share this data with third parties for the same purpose. If you do not allow these cookies, you will experience less personalized marketing content and targeted advertising.Detailed description of cookies categorised as: Marketing and targeted advertising Cookies. CookieExpiryDomainCompanyPurpose_gcl_au3 monthsmyastrazeneca.chAdSense, Google LLCAdvertisingGoogle AdSense gather statistics on the use of their service to help inform marketing decisionsGoogle LLC - Privacy Policy (Google LLC)+ ▼Google AdSense gather statistics on the use of their service to help inform marketing decisionsGoogle LLC - Privacy Policy (Google LLC)IDE2 yearsdoubleclick.netDoubleClick, Google LLCAdvertisingContains a unique code to determine which advertisements have been shown on a device, on behalf of Google Inc. Advertising platform DoubleClick. Allows monitoring of the effectiveness of the ads and make the ads more relevant to the user.Google LLC - Privacy Policy (Google LLC)+ ▼Contains a unique code to determine which advertisements have been shown on a device, on behalf of Google Inc. Advertising platform DoubleClick. Allows monitoring of the effectiveness of the ads and make the ads more relevant to the user.Google LLC - Privacy Policy (Google LLC)test_cookie15 minutesdoubleclick.netGoogle Analytics, Google LLCAdvertisingTests if the user's browser supports cookies, on behalf of Google Inc. Advertising platform DoubleClick.Google LLC - Privacy Policy (Google LLC)+ ▼Tests if the user's browser supports cookies, on behalf of Google Inc. Advertising platform DoubleClick.Google LLC - Privacy Policy (Google LLC)Manage Your CookiesWhat are cookies, how are they used and how are they managed? Cookies are small text files that contain letters and numbers and are placed on your computer or device. Cookies are set when you visit a website that uses cookies and may be used to keep track of pages visited within the site, help you continue where you left off or remember your preferences, such as language settings. Cookies are very important to help us make online services easier to use, to monitor the use of our site and to help us improve the service to you. To make it easier for you to understand the way a website uses cookies, we have grouped them into easy to understand categories. The category to which a cookie belongs can be seen in the Cookie Panel. The information in the Cookie Panel is provided to you in an open and transparent way, so that you can see how cookies are used to enrich your visitor experience and make an informed choice to allow their usage. However, if you wish to control and remove cookies, this can be done via settings in your web browser. Please be aware that restricting cookies may impact the functionality of a website. Many of the interactive functions offered by websites are dependent on cookies and disabling or blocking cookies can prevent these services from working or reduce their usefulness. Different web browsers may use different methods for managing cookies. Please follow the instructions below, from the web browser manufacturers directly, to configure your browser settings*. Microsoft Edge Google Chrome Apple Safari Mozilla Firefox * These links are to third party sites, over which we have no control – no liability can be claimed if they are inaccurate.Last updated 2026-09-20Powered by Digital Control Room"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 2,
+    "distinctHeadings": 9,
+    "mainTextLen": 34350,
+    "realImageCount": 18,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/en/startseite/therapiegebiete/ri/lupus/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/ri/lupus.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 0,
+      "thirdPartyScriptHosts": 3,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/en-startseite-therapiegebiete-ri-lupus-html.png",
+  "renderedHtml": "pages/en-startseite-therapiegebiete-ri-lupus-html.html",
+  "slots": {
+    "headline": "Systemic lupus erythematosus",
+    "sections": [
+      "Lupus - a disease with a thousand faces",
+      "Characteristics",
+      "Unequal gender distribution",
+      "Prevalence",
+      "Symptoms",
+      "Diagnosis",
+      "Treatment",
+      "Useful product information"
+    ],
+    "references": true
+  }
+}

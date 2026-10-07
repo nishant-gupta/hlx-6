@@ -1,0 +1,568 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:25:32.290Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html",
+  "url": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:25:32.290Z",
+  "finalUrl": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+  "title": "Cancer de l’Ovaire – Carcinome épithélial, symptômes & prise en charge | MyAstraZeneca",
+  "description": "Découvrez le cancer de l’ovaire: facteurs de risque, symptômes, diagnostic et options de traitement pour les professionnels de la santé.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/eierstockkrebs-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Cancer de l’ovaire"
+    },
+    {
+      "tag": "h2",
+      "text": "Informations actuelles sur le cancer de l’ovaire"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalité"
+    },
+    {
+      "tag": "h4",
+      "text": "Suisse"
+    },
+    {
+      "tag": "h4",
+      "text": "Mauvais pronostic"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptômes"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnostic"
+    },
+    {
+      "tag": "h4",
+      "text": "Traitement"
+    },
+    {
+      "tag": "h3",
+      "text": "Informations utiles sur les produits"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Nos médicaments Cardiovasculaire, rénal & métabolisme Insuffisance cardiaque Forxiga ® (Dapagliflozine) Maladie rénale chronique (MRC) Forxiga ® (Dapagliflozine) Diabète de type 2 Forxiga ® (Dapagliflozine) Xigduo® (Dapagliflozine/Metformine HCl) Amylose Wainzua® (Eplontersen) Hyperkaliémie Lokelma® (Sodium zirconium cyclosilicate) Respiratoire & Immunologie Bronchopneumopathie chronique obstructive Trixeo® (Formotérol/Glycopyrronium/Budésonide) Granulomatose éosinophilique avec polyangéite (EGPA) Fasenra® (Benralizumab) Lupus érythémateux systémique (LES) Saphnelo® (Anifrolumab) Asthme Fasenra® (Benralizumab) Symbicort® (Budésonide/Formotérol) Tezspire® (Tézépelumab) Oncologie et Hématologie Cancer du sein Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hématologie Calquence® (Acalabrutinib) Cancer des voies biliaires Imfinzi® (Durvalumab) Carcinome hépatocellulaire Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Cancer du poumon Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Cancer de l’ovaire Lynparza® (Olaparib) Cancer de l’endomètre Imfinzi® (Durvalumab) Cancer de la prostate Lynparza® (Olaparib) Cancer de la vessie infiltrant le muscle Imfinzi® (Durvalumab) Adénocarcinome de l'estomac ou de la jonction œsogastrique (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Cancer du pancréas Lynparza® (Olaparib) Cancer de l’estomac Imfinzi® (Durvalumab) Traitement agnostique de la tumeur Enhertu® (Trastuzumab Deruxtecan) Voir tous les médicaments",
+    "Aires thérapeutiques Cardiovasculaire, rénal & métabolisme Respiratoire & Immunologie Oncologie Cancer du foie et de la vésicule biliaire Cancer de l’ovaire Hématologie Cancer du poumon Cancer du sein",
+    "Contactez-nous",
+    "Home",
+    "Domaines thérapeutiques",
+    "Oncology",
+    "Cancer de l’ovair",
+    "Cancer de l’ovaire",
+    "Le cancer de l’ovaire est un type de cancer qui se développe dans les organes reproducteurs féminins qui produisent et stockent les ovules (ovaires). Il se développe lorsque des cellules ovariennes anormales se divisent et se multiplient de manière incontrôlée.1",
+    "Environ 90% des cancers de l’ovaire sont des tumeurs épithéliales, qui apparaissent surtout chez les femmes ménopausées. D’autres types rares de cancer de l’ovaire comprennent les tumeurs germinales et les tumeurs stromales et des cordons sexuels.2",
+    "Le cancer de l’ovaire est le type de cancer le plus mortel en gynécologie. Moins de la moitié des patientes survivent plus de cinq ans après le diagnostic.2 Le taux de survie est de 80 à 90% pour les cancers de l’ovaire au stade précoce (stades 1 et 2), mais seulement de 25% pour les cancers de l’ovaire au stade avancé (stades 3 et 4).3",
+    "Plus de 75% des femmes atteintes sont diagnostiquées à un stade avancé, car la maladie est généralement asymptomatique au stade précoce et les symptômes au stade tardif de la maladie ne sont pas spécifiques.2",
+    "En Suisse, 600 femmes sont atteintes chaque année d’un cancer de l’ovaire et 390 femmes en meurent. Selon les chiffres suisses actuels, le taux de survie à 5 ans est de 47%.4",
+    "Les principaux facteurs de risque du cancer de l’ovaire sont l’âge avancé et les antécédents familiaux de cancer de l’ovaire et du sein.2 Parmi les facteurs de risque génétiques figurent les mutations du gène BRCA1 ou BRCA2 (21% des patientes).5",
+    "En outre, un nombre élevé d’ovulations au cours de la vie (premières règles précoces, ménopause tardive, absence d’enfants) semble augmenter le risque. Une forte obésité et le diabète augmentent également la probabilité de développer un cancer de l’ovaire.6",
+    "Mortalité",
+    "Plus de 200 000 décès ont été causés par le cancer de l’ovaire dans le monde en 20227",
+    "Suisse",
+    "Le cancer de l’ovaire est la sixième cause de décès par cancer chez la femme en Suisse6",
+    "Mauvais pronostic",
+    "Plus de 75% des femmes atteintes ne sont diagnostiquées qu’à un stade avancé2",
+    "Symptômes",
+    "Le cancer de l’ovaire n’est souvent diagnostiqué qu’à un stade avancé en raison de l’absence de symptômes d’alerte évidents.8",
+    "Les symptômes possibles incluent:8",
+    "douleurs dans l’abdomen ou la région pelvienne (39,5%)",
+    "augmentation du tour de taille (39,2%)",
+    "modification du transit intestinal (20,0%)",
+    "manque d’appétit/lourdeurs d’estomac (14,6%)",
+    "perte de poids (11,7%)",
+    "masse cellulaire ressentie par la femme (7,8%)",
+    "symptômes respiratoires (7,7%)",
+    "saignements vaginaux (7,7%)",
+    "fréquence mictionnelle (6,8%)",
+    "nausée (5,9%)",
+    "Il n’existe pas de test de dépistage efficace, de sorte que la principale perspective d’un diagnostic précoce réside dans une meilleure détection des cancers symptomatiques.3",
+    "Diagnostic",
+    "En cas de suspicion de masse ovarienne, un examen gynécologique et une échographie transvaginale sont effectués.2",
+    "Pendant la préménopause, des kystes fonctionnels réversibles apparaissent fréquemment. En cas de persistance, une exploration chirurgicale est nécessaire. Après la ménopause, le risque de cancer de l’ovaire est nettement plus élevé.9",
+    "Le diagnostic avancé comprend des techniques d’imagerie, généralement un scanner, pour évaluer l’étendue de la tumeur. Le diagnostic définitif est confirmé histologiquement, généralement dans le cadre du traitement chirurgical primaire.9",
+    "Lors du diagnostic, il est recommandé de procéder à un test de dépistage des mutations BRCA, quel que soit le stade.9",
+    "Le stade du cancer de l’ovaire détermine le traitement et est également le facteur le plus important pour le pronostic.10 Le stade est déterminé par une opération qui consiste à examiner ou à enlever les ovaires et d’autres organes gynécologiques, ainsi que des ganglions lymphatiques et d’autres tissus auxquels le cancer pourrait s’être propagé.10",
+    "Traitement",
+    "Le traitement du cancer de l’ovaire consiste généralement en une opération suivie éventuellement d’une chimiothérapie adjuvante et d’un traitement d’entretien.9 Une chimiothérapie néoadjuvante peut être envisagée chez les patientes présentant un risque périopératoire élevé et peu de chances d’obtenir une bonne cytoréduction.9",
+    "Le traitement d’entretien peut comprendre:9",
+    "inhibiteurs de l’angiogenèse",
+    "inhibiteurs de la PARP (poly (ADP‐ribose) polymérase)",
+    "Références:",
+    "Ovarian Cancer, Stand 2024. Disponible en ligne sur https://www.mdanderson.org/cancer-types/ovarian-cancer.html. Dernière consultation: 06.06.2024.",
+    "Doubeni CA, et al. Diagnosis and Management of Ovarian Cancer. Am Fam Physician. 2016 Jun 1;93(11):937-44.",
+    "Gajjar K, et al. Symptoms and risk factors of ovarian cancer: a survey in primary care. ISRN Obstet Gynecol. 2012;2012:754197.",
+    "Le cancer en Suisse: les chiffres; Ligue suisse contre le cancer, état: Novembre 2025. Disponible en ligne sur: https://www.liguecancer.ch/a-propos-du-cancer/les-chiffres-du-cancer/-dl- /fileadmin/downloads/sheets/chiffres-le-cancer-en-suisse.pdf Dernière consultation: 29.05.2026.",
+    "Harter P, et al. Prevalence of deleterious germline variants in risk genes including BRCA1/2 in consecutive ovarian cancer patients (AGO-TR-1). PLoS One. 2017;12(10):e0186043.",
+    "Le cancer en Suisse, rapport 2021, Office fédéral de la santé publique, publié le 14.10.2021, dernière mise à jour: 31.05.2022. Disponible en ligne sur: https://www.bfs.admin.ch/asset/fr/19305697. Dernière consultation: 29.05.2026.",
+    "Bray F, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin. 2024 Apr 4.",
+    "Dilley J, et al. Ovarian cancer symptoms, routes to diagnosis and survival - Population cohort study in the 'no screen' arm of the UK Collaborative Trial of Ovarian Cancer Screening (UKCTOCS). Gynecol Oncol. 2020 Aug;158(2):316-322.",
+    "NCCN Guidelines for Patients, état: Novembre 2025. Disponible en ligne sur: https://www.nccn.org/patients/guidelines/content/PDF/ovarian-patient.pdf. Dernière consultation: 29.05.2026.",
+    "O'Shea AS. Clinical Staging of Ovarian Cancer. Methods Mol Biol. 2022;2424:3-10.",
+    "Nous mettons à profit notre vaste expertise dans les domaines de la recherche et du développement tout au long du cycle de vie d’un médicament.",
+    "Découvrez maintenant nos indications ou parcourez tous nos produits!",
+    "CH-12868 Revision date 06/2026",
+    "Ces contenus sont exclusivement destinés aux professionnels de la santé en Suisse. AstraZeneca Suisse©",
+    "Règlement sur les cookies",
+    "Contact",
+    "Politique de confidentialité",
+    "Conditions d'utilisation",
+    "Déclaration d'effets secondaires",
+    "Rapport qualité défaut",
+    "Demandes médicales"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/onkologie/eierstockkrebs.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html"
+    },
+    {
+      "label": "Contactez-nous",
+      "href": "/fr/startseite/contact-us.html"
+    },
+    {
+      "label": "Se connecter",
+      "href": "/fr/user/login.html"
+    },
+    {
+      "label": "Home",
+      "href": "/fr/startseite.html"
+    },
+    {
+      "label": "Domaines thérapeutiques",
+      "href": "/fr/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "Oncology",
+      "href": "/fr/startseite/therapiegebiete/onkologie.html"
+    },
+    {
+      "label": "https://www.mdanderson.org/cancer-types/ovarian-cancer.html",
+      "href": "https://www.mdanderson.org/cancer-types/ovarian-cancer.html.Letzter"
+    },
+    {
+      "label": "https://www.liguecancer.ch/a-propos-du-cancer/les-chiffres-du-cancer/-dl- /fileadmin/downloads/sheets/chiffres-le-cancer-en-suisse.pdf",
+      "href": "https://www.liguecancer.ch/a-propos-du-cancer/les-chiffres-du-cancer/-dl-/fileadmin/downloads/sheets/chiffres-le-cancer-en-suisse.pdf"
+    },
+    {
+      "label": "https://www.bfs.admin.ch/asset/fr/19305697",
+      "href": "https://www.bfs.admin.ch/asset/de/19305696"
+    },
+    {
+      "label": "https://www.nccn.org/patients/guidelines/content/PDF/ovarian-patient.pdf",
+      "href": "https://www.nccn.org/patients/guidelines/content/PDF/ovarian-patient.pdf"
+    },
+    {
+      "label": "Découvrir maintenant",
+      "href": "/fr/startseite/produkte.html"
+    },
+    {
+      "label": "Règlement sur les cookies",
+      "href": "https://policy.cookiereports.com/b50c8635-fr-ch.html"
+    },
+    {
+      "label": "Contact",
+      "href": "https://www.astrazeneca.ch/fr/contact-us.html"
+    },
+    {
+      "label": "Politique de confidentialité",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html"
+    },
+    {
+      "label": "Conditions d'utilisation",
+      "href": "https://www.astrazeneca.ch/fr/terms-of-use.html"
+    },
+    {
+      "label": "Déclaration d'effets secondaires",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/fr/amp-form.html"
+    },
+    {
+      "label": "Rapport qualité défaut",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Demandes médicales",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/fasenra/egpa/summary.html",
+    "https://saphnelo.ch/",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/breast-cancer.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://imfinzi.ch/",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "http://www.enhertu.ch/.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://enhertu.ch/.html",
+    "https://www.myastrazeneca.ch/fr/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/fr/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/fr/user/login.html",
+    "https://www.myastrazeneca.ch/fr/startseite.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie.html",
+    "https://www.mdanderson.org/cancer-types/ovarian-cancer.html.Letzter",
+    "https://www.liguecancer.ch/a-propos-du-cancer/les-chiffres-du-cancer/-dl-/fileadmin/downloads/sheets/chiffres-le-cancer-en-suisse.pdf",
+    "https://www.bfs.admin.ch/asset/de/19305696",
+    "https://www.nccn.org/patients/guidelines/content/PDF/ovarian-patient.pdf",
+    "https://policy.cookiereports.com/b50c8635-fr-ch.html",
+    "https://www.astrazeneca.ch/fr/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-fr/privacy-notices.html",
+    "https://www.astrazeneca.ch/fr/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/fr/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/fr/Header/master/_jcr_content/root/image.coreimg.svg/1724337955585/astrazeneca-logo.svg",
+        "alt": "Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_copy_copy_/teaser.coreimg.80.1920.jpeg/1742829979163/banner-header.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 249
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/banner-header-mobile.jpg",
+        "alt": "",
+        "w": 584,
+        "h": 600
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1742830381783/mortality-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/mortality-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1742830408869/switzerland-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/switzerland-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1742830435572/poorprognsis-desktop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/poorprognsis-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1742830579969/symtom-desktop.jpeg",
+        "alt": "",
+        "w": 853,
+        "h": 417
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/symtom-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_285268105__89315715/teaser.coreimg.80.1920.jpeg/1742830688331/diagnose-desktop.jpeg",
+        "alt": "",
+        "w": 854,
+        "h": 417
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/diagnose-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_285268105__677578986/teaser.coreimg.80.1920.jpeg/1742830852399/behandlung-desktop.jpeg",
+        "alt": "",
+        "w": 808,
+        "h": 394
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/oncology/ovarian-cancer/behandlung-mob.jpg",
+        "alt": "",
+        "w": 324,
+        "h": 203
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/_jcr_content/root/container/container_285268105__637470/teaser_copy.coreimg.80.1920.jpeg/1742891450708/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/fr/footer/master/_jcr_content/root/container/image.coreimg.svg/1724337935108/astrazeneca-logo.svg",
+        "alt": "Connessiallasalute.it",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 19,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 10199,
+    "realImageCount": 19,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 4
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 1,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html.png",
+  "renderedHtml": "pages/fr-startseite-therapiegebiete-onkologie-eierstockkrebs-html.html",
+  "slots": {
+    "headline": "Cancer de l’ovaire",
+    "sections": [
+      "Informations actuelles sur le cancer de l’ovaire",
+      "Mortalité",
+      "Suisse",
+      "Mauvais pronostic",
+      "Symptômes",
+      "Diagnostic",
+      "Traitement",
+      "Informations utiles sur les produits"
+    ],
+    "references": true
+  }
+}

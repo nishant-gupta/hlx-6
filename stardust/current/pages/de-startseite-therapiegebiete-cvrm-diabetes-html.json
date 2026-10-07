@@ -1,0 +1,655 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-07T10:24:38.590Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "de-startseite-therapiegebiete-cvrm-diabetes-html",
+  "url": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-07T10:24:38.590Z",
+  "finalUrl": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+  "title": "Diabetes",
+  "description": "Hier finden Sie Informationen zu unserem Therapiegebiet Diabetes.",
+  "og": {
+    "title": null,
+    "description": null,
+    "image": "https://www.myastrazeneca.ch//content/dam/intelligentcontent/portals/hcp/ch/en/home/therapy-areas/cvrm/diabetes/diabetes-thumb.jpg",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Diabetes"
+    },
+    {
+      "tag": "h2",
+      "text": "Diabetes im Überblick – fachspezifisch und aktuell"
+    },
+    {
+      "tag": "h4",
+      "text": "Inzidenz"
+    },
+    {
+      "tag": "h4",
+      "text": "Folgeerkrankungen"
+    },
+    {
+      "tag": "h4",
+      "text": "Mortalität"
+    },
+    {
+      "tag": "h4",
+      "text": "Symptome"
+    },
+    {
+      "tag": "h4",
+      "text": "Diagnose"
+    },
+    {
+      "tag": "h4",
+      "text": "Behandlung"
+    },
+    {
+      "tag": "h3",
+      "text": "Nützliche Produktinformationen"
+    }
+  ],
+  "body": [
+    "DE",
+    "EN",
+    "FR",
+    "IT",
+    "Unsere Arzneimittel Herz, Niere & Stoffwechsel Herzinsuffizienz Forxiga® (Dapagliflozin) Nierenkrankheit (CKD) Forxiga® (Dapagliflozin) Typ‑2‑Diabetes Forxiga® (Dapagliflozin) Xigduo® (Dapagliflozin/Metformin HCI) Amyloidose Wainzua® (Eplontersen) Hyperkaliämie Lokelma® (Sodium zirconium cyclosilicate) Atemwege & Immunologie Chronisch obstruktive Lungenerkrankung Trixeo® (Formoterol/Glycopyrronium/Budesonid) Eosinophile Granulomatose mit Polyangiitis (EGPA) Fasenra® (Benralizumab) Systemischer Lupus erythematodes (SLE) Saphnelo® (Anifrolumab) Asthma Fasenra® (Benralizumab) Symbicort® (Budesonid/Formoterol) Tezspire® (Tezepelumab) Onkologie & Hämatologie Mammakarzinom Lynparza® (Olaparib) Enhertu® (Trastuzumab Deruxtecan) Truqap® (Capivasertib) Hämatologie Calquence® (Acalabrutinib) Leberkarzinom Imfinzi® (Durvalumab) + Imjudo® (Tremelimumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Biliäres Karzinom Imfinzi® (Durvalumab) Lungenkarzinom Imfinzi® (Durvalumab) Tagrisso® (Osimertinib) Enhertu® (Trastuzumab Deruxtecan) Ovarialkarzinom Lynparza® (Olaparib) Endometriumkarzinom Imfinzi® (Durvalumab) Prostatakarzinom Lynparza® (Olaparib) Muskelinvasives Harnblasenkarzinom Imfinzi® (Durvalumab) Pankreaskarzinom Lynparza® (Olaparib) Adenokarzinom des Magens oder des gastroösophagealen Übergangs (GC/GEJC) Imfinzi® (Durvalumab) Enhertu® (Trastuzumab Deruxtecan) Tumoragnostisch Enhertu® (Trastuzumab Deruxtecan) Alle Arzneimittel anzeigen",
+    "Therapiegebiete Herz, Niere & Stoffwechsel Akutversorgung Nierenkrankheit (CKD) Diabetes Herzinsuffizienz Atemwege & Immunologie Asthma Chronisch obstruktive Lungenerkrankung Systemischer Lupus erythematodes (SLE) Onkologie Leber- und Gallenblasenkrebs Ovarialkarzinom Hämatologie Lungenkrebs Brustkrebs",
+    "Kontaktieren Sie uns",
+    "Startseite",
+    "Therapiegebiete",
+    "CVRM",
+    "Diabetes",
+    "Diabetes",
+    "Diabetes mellitus ist eine chronische Stoffwechselerkrankung. Sie tritt auf, wenn die Insulinproduktion der Bauchspeicheldrüse gestört ist, oder wenn die Körperzellen für die Aufnahme von Insulin unempfindlich werden (Insulinresistenz).1 Hyperglykämie ist eine häufige Folge von unkontrolliertem Diabetes und führt mit der Zeit zu schweren Schäden an vielen Organen, insbesondere an Herz, Niere, Nerven und Blutgefässen.2 Ungefähr die Hälfte aller Patient:innen mit Diabetes Typ 2 entwickelt eine chronische Nierenerkrankung3 und das Risiko für eine chronische Herzinsuffizienz erhöht sich um Faktor 2-5.4",
+    "Die Zahl der Menschen mit Diabetes mellitus stieg weltweit von 108 Millionen im Jahr 1980 auf 422 Millionen im Jahr 2014.2 In der Schweiz sind rund eine halbe Million Menschen von Diabetes mellitus betroffen, wobei Diabetes Typ 2 die weitaus am häufigsten anzutreffende Form von Diabetes ist und bei rund 90% der Betroffenen auftritt.1",
+    "Genetische, umweltbedingte und metabolische Risikofaktoren sind miteinander verknüpft und tragen zur Entwicklung von Diabetes Typ 2 bei. Eine familiäre Vorbelastung, Alter, Übergewicht und Bewegungsmangel kennzeichnen die Personen mit dem höchsten Risiko.5",
+    "Inzidenz",
+    "In der Schweiz leben ca. 500.000 Menschen mit Diabetes1",
+    "Folgeerkrankungen",
+    "Diabetes ist eine der Hauptursachen für Nierenversagen, Herzinfarkt, Schlaganfall, Erblindung und Amputation der unteren Gliedmassen2",
+    "Mortalität",
+    "Im Jahr 2019 verursachten Diabetes und diabetesbedingte Nierenerkrankungen ca. 2 Millionen Todesfälle weltweit6",
+    "Symptome",
+    "Zu den Hauptsymptomen von Diabetes mellitus gehören:8",
+    "hohe Blutzuckerwerte über einen längeren Zeitraum",
+    "häufiges Wasserlassen",
+    "gesteigerter Durst",
+    "erhöhter Appetit",
+    "Weitere Anzeichen können folgendes beinhalten:8",
+    "Verschwommene Sicht",
+    "Häufige Infektionen oder langsam heilende Wunden",
+    "Gewichtsverlust - auch bei gesteigerter Nahrungszufuhr (Typ-1-Diabetes)",
+    "Kribbeln, Schmerzen oder Taubheit in den Händen oder Füssen (Typ-2-Diabetes)",
+    "Diagnose",
+    "Diabetes mellitus kann anhand des Blutzuckerspiegels diagnostiziert werden. Dabei kann ein Nüchtern-Glukose-Wert ermittelt werden und/oder ein oraler Glukosetoleranztest durchgeführt werden. Mit Hilfe des HbA1c-Wertes kann zusätzlich der Langzeitblutzucker-Wert bestimmt werden.9",
+    "Da eine unbehandelte Diabetes mellitus zu schwerwiegenden Komplikationen führen kann, ist eine frühzeitige Diagnose wichtig.7",
+    "Behandlung",
+    "Die Schweizerische Gesellschaft für Endokrinologie und Diabetologie (SGED) empfiehlt als ersten Schritt zur Therapie von Diabetes Typ 2 eine Veränderung der Lebensgewohnheiten (Ernährung, Bewegung) sowie eine multifaktorielle Behandlung (Behandlung arterielle Hypertonie, Reduktion des LDL-Cholesterins und Rauchstopp).10 Im Vordergrund einer medikamentösen Therapie steht auf der einen Seite der kardiorenale Schutz sowie die Prävention bzw. Behandlung von Herz- und Niereninsuffizienz und auf der anderen Seite die Bedeutung der Gewichtsreduktion und der Senkung des Blutzuckerspiegels.10,11",
+    "Die medizinische Erstbehandlung sollte daher aus einer Kombination eines",
+    "Biguanid-Derivates (Metformin) mit einem SGLT2-Hemmer bzw. einem GLP-1-Rezeptor-Agonisten bestehen. Ist diese initiale Zweifachkombination nicht ausreichend, wird eine Dreifachkombination mit allen drei Wirkstoffen empfohlen. Reicht die Dreifachkombination nicht aus, um den HbA1c-Wert auf den gewünschten Zielwert zu verringern, ist eine Insulinbehandlung erforderlich. Ist jedoch zu Beginn der Insulinmangel der vorherrschende Faktor, steht die Insulinbehandlung im Vordergrund der Therapie.10",
+    "GLP-1: Glucagon-like peptide-1; HbA1c: Hämoglobin A1c; SGLT: sodium-dependent glucose co-transporter 2 (natriumabhängiger Glukosetransporter 2).",
+    "Referenzen:",
+    "Bundesamt für Gesundheit. Krankheiten im Überblick, Diabetes. Online verfügbar unter: https://www.bag.admin.ch/de/diabetes. Letzter Zugriff: 18.06.2026.",
+    "WHO Factsheet Diabetes. Online verfügbar unter: https://www.who.int/news-room/fact-sheets/detail/diabetes. Stand 5. April 2023. Letzter Zugriff: 18.06.2026.",
+    "Thomas MC, et al. Diabetic kidney disease. Nat Rev Dis Primers. 2015 Jul 30;1:15018.",
+    "Nichols GA, et al. Congestive heart failure in type 2 diabetes: prevalence, incidence, and risk factors. Diabetes Care. 2001 Sep;24(9):1614-9.",
+    "Fletcher B, Gulanick M, Lamendola C. Risk factors for type 2 diabetes mellitus. J Cardiovasc Nurs. 2002 Jan;16(2):17-23.",
+    "Global Burden of Disease Collaborative Network. Global Burden of Disease Study 2019. Results. Institute for Health Metrics and Evaluation. 2020. Online verfügbar unter: https://vizhub.healthdata.org/gbd-results/. Letzter Zugriff: 18.06.2026.",
+    "Alam S, et al. Diabetes Mellitus: Insights from Epidemiology, Biochemistry, Risk Factors, Diagnosis, Complications and Comprehensive Management. Diabetology. 2021; 2(2):36-50.",
+    "Good to Know: Diabetes Symptoms and Tests. Clin Diabetes. 2020 Jan;38(1):108.",
+    "ElSayed NA, et al. on behalf of the American Diabetes Association. 2. Classification and Diagnosis of Diabetes: Standards of Care in Diabetes-2023. Diabetes Care. 2023 Jan 1;46(Suppl 1):S19-S40.",
+    "Empfehlungen der Schweizerischen Gesellschaft für Endokrinologie und Diabetologie (SGED/SSED) für die Behandlung von Diabetes mellitus Typ 2 (2023). Online verfügbar unter: https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long_Recommendations_2023_de.pdf. Letzter Zugriff: 18.06.2026.",
+    "Davies MJ, et al. Management of Hyperglycemia in Type 2 Diabetes, 2022. A Consensus Report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD). Diabetes Care. 2022 Nov 1;45(11):2753-2786.",
+    "Fachpersonen können die genannten Publikationen bei AstraZeneca anfordern.",
+    "Unser breit gefächertes Fachwissen in den Bereichen Forschung und Entwicklung setzen wir im gesamten Lebenszyklus eines Medikaments ein.",
+    "Entdecken Sie jetzt unsere Indikationen oder stöbern Sie durch alle unsere Produkte!",
+    "CH-12953-Revision date 06/2026",
+    "Diese Inhalte sind ausschliesslich für medizinisches Fachpersonal in der Schweiz bestimmt.",
+    "Cookie Regelung",
+    "Kontakt",
+    "Datenschutzbestimmung",
+    "Nutzungsbedingung",
+    "Nebenwirkungsmeldung",
+    "Qualitätsmangel melden",
+    "Medizinische Anfragen"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "DE",
+      "href": "/de/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "EN",
+      "href": "/en/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "FR",
+      "href": "/fr/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "IT",
+      "href": "/it/startseite/therapiegebiete/cvrm/diabetes.html"
+    },
+    {
+      "label": "Kontaktieren Sie uns",
+      "href": "/de/startseite/contact-us.html"
+    },
+    {
+      "label": "Anmelden",
+      "href": "/de/user/login.html"
+    },
+    {
+      "label": "Startseite",
+      "href": "/de/startseite.html"
+    },
+    {
+      "label": "Therapiegebiete",
+      "href": "/de/startseite/therapiegebiete.html"
+    },
+    {
+      "label": "CVRM",
+      "href": "/de/startseite/therapiegebiete/cvrm.html"
+    },
+    {
+      "label": "https://www.bag.admin.ch/de/diabetes",
+      "href": "https://www.bag.admin.ch/de/diabetes"
+    },
+    {
+      "label": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+      "href": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+    },
+    {
+      "label": "https://vizhub.healthdata.org/gbd-results/",
+      "href": "https://vizhub.healthdata.org/gbd-results/"
+    },
+    {
+      "label": "https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long_Recommendations_2023_de.pdf",
+      "href": "https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long_Recommendations_2023_de.pdf"
+    },
+    {
+      "label": "Jetzt entdecken",
+      "href": "/de/startseite/produkte.html#tabs-3e5292059f-item-54029d7fbd-tab"
+    },
+    {
+      "label": "Cookie Regelung",
+      "href": "//policy.cookiereports.com/b50c8635-de-ch.html"
+    },
+    {
+      "label": "Kontakt",
+      "href": "https://www.astrazeneca.ch/de/contact-us.html"
+    },
+    {
+      "label": "Datenschutzbestimmung",
+      "href": "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html"
+    },
+    {
+      "label": "Nutzungsbedingung",
+      "href": "https://www.astrazeneca.ch/de/terms-of-use.html"
+    },
+    {
+      "label": "Nebenwirkungsmeldung",
+      "href": "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html"
+    },
+    {
+      "label": "Qualitätsmangel melden",
+      "href": "mailto:Swiss-QA@astrazeneca.com"
+    },
+    {
+      "label": "Medizinische Anfragen",
+      "href": "mailto:medinfo.ch@astrazeneca.com"
+    }
+  ],
+  "links": [
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/en/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/fr/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/it/startseite/therapiegebiete/cvrm/diabetes.html",
+    "https://www.myastrazeneca.ch/de/startseite.html",
+    "https://forxiga.ch/",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/wainzua.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/lokelma/resources.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/trixeo/uberblick.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/egpa/summary.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/saphnelo.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte/fasenra/asthma/indication.html",
+    "https://www.swissmedicinfo-pro.ch/showText.html?textType=FI&lang=DE&authNr=55568&supportMultipleResults=1",
+    "https://tezspire.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA.html",
+    "http://www.enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/truqap.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/calquence/calquence-overview.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/uhcc.html",
+    "https://tagrisso.ch/",
+    "https://enhertu.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/biliary-tract-cancer.html",
+    "https://imfinzi.ch/",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/ovarian-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/endometrial-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/prostate-cancer.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/imfinzi/mibc.html",
+    "https://www.myastrazeneca.ch/en/startseite/produkte/LYNPARZA/pancreatic-cancer.html",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/acutecare.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/chronischeniereninsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/herzinsuffizienz.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/asthma.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/copd.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/ri/lupus.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/leberkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/eierstockkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/haematologie.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/lungenkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/onkologie/brustkrebs.html",
+    "https://www.myastrazeneca.ch/de/startseite/contact-us.html",
+    "https://www.myastrazeneca.ch/de/user/login.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete.html",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm.html",
+    "https://www.bag.admin.ch/de/diabetes",
+    "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+    "https://vizhub.healthdata.org/gbd-results/",
+    "https://www.sgedssed.ch/SgedSsed/fileadmin/6_Diabetologie/61_Empfehlungen_Facharzt/SGED-SSED_long_Recommendations_2023_de.pdf",
+    "https://www.myastrazeneca.ch/de/startseite/produkte.html#tabs-3e5292059f-item-54029d7fbd-tab",
+    "https://policy.cookiereports.com/b50c8635-de-ch.html",
+    "https://www.astrazeneca.ch/de/contact-us.html",
+    "https://www.azprivacy.astrazeneca.com/europe/switzerland/ch-de/privacy-notices.html",
+    "https://www.astrazeneca.ch/de/terms-of-use.html",
+    "https://contactazmedical.astrazeneca.com/content/astrazeneca-champion/ch/de/amp-form.html",
+    "mailto:Swiss-QA@astrazeneca.com",
+    "mailto:medinfo.ch@astrazeneca.com",
+    "https://cookienotice.astrazeneca.com/",
+    "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html#",
+    "https://www.digitalcontrolroom.com/",
+    "https://www.digitalcontrolroom.com/privacy-policy/",
+    "https://tealium.com/",
+    "https://tealium.com/privacy/",
+    "https://www.vmware.com/",
+    "https://www.vmware.com/help/privacy.html",
+    "https://aws.amazon.com/elasticloadbalancing/",
+    "https://aws.amazon.com/privacy/",
+    "https://www.amazon.com/",
+    "https://www.amazon.com/privacy",
+    "https://www.microsoft.com/",
+    "https://privacy.microsoft.com/",
+    "https://www.adobe.com/",
+    "https://www.adobe.com/privacy/policy.html",
+    "https://www.adobe.com/privacy.html",
+    "https://www.innovid.com/",
+    "https://www.innovid.com/privacy-policy/",
+    "https://mouseflow.com/",
+    "https://mouseflow.com/privacy/",
+    "https://www.flashtalking.com/",
+    "https://www.flashtalking.com/privacypolicy",
+    "https://www.google.com/",
+    "https://policies.google.com/privacy",
+    "https://support.microsoft.com/de-de/windows/verwalten-von-cookies-in-microsoft-edge-anzeigen-zulassen-blockieren-l%C3%B6schen-und-verwenden-168dab11-0753-043d-7c16-ede5947fc64d",
+    "https://support.google.com/chrome/answer/95647?hl=de-ch",
+    "https://support.apple.com/da-dk/guide/safari/sfri11471/mac",
+    "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/Header/master/_jcr_content/root/image.coreimg.svg/1782161083945/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/icons/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_copy/teaser.coreimg.80.1920.jpeg/1724814579948/diabetes-banner-desktop.jpeg",
+        "alt": "",
+        "w": 1440,
+        "h": 250
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/diabetes-teaser-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 350
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/en/social-sharing/mail.svg",
+        "alt": "",
+        "w": 32,
+        "h": 32
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_1905038694/teaser.coreimg.80.1920.jpeg/1724391217111/inzidenz-dekstop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/inzidenz-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_1905038694/teaser_copy.coreimg.80.1920.jpeg/1725525510955/folgeerkrankungen-dekstop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/folgeerkrankungen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_1905038694/teaser_copy_1034236098.coreimg.80.1920.jpeg/1724391242197/mortalitat-dekstop.jpeg",
+        "alt": "",
+        "w": 291,
+        "h": 117
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/mortalitat-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 157
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105_/teaser.coreimg.80.1920.jpeg/1732279378996/symptome-diabetes-desk.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/symptome-diabetes-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105__684919719/teaser.coreimg.80.1920.jpeg/1737987425075/diagnose-diabetes-desk.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/diagnose-diabetes-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105__599185801/teaser.coreimg.80.1920.jpeg/1724391335331/behandlung-diabetes-desktop.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/therapiegebiete/cvrm/diabetes/behandlung-diabetes-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/_jcr_content/root/container/container_285268105__1653001769/teaser.coreimg.80.1920.jpeg/1730810892739/nutzliche-produktinformationen.jpeg",
+        "alt": "",
+        "w": 431,
+        "h": 210
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/dam/intelligentcontent/portals/hcp/ch/de/home/productinformation/nutzliche-produktinformationen-mob.jpg",
+        "alt": "",
+        "w": 360,
+        "h": 225
+      },
+      {
+        "src": "https://www.myastrazeneca.ch/content/experience-fragments/intelligentcontent/portals/hcp/ch/de/footer/master/_jcr_content/root/container/image.coreimg.svg/1782161293040/astrazeneca-logo.svg",
+        "alt": "AstraZeneca Logo",
+        "w": 165,
+        "h": 40
+      }
+    ],
+    "allImgCount": 20,
+    "cssBackgrounds": [],
+    "modals": [
+      "Wir verwenden neben Cookies zur Bereitstellung von Funktionen unserer Webseite auch Cookies, welche die Nutzung der Webseite, die von Ihnen besuchten Inhalte und deren Verwendung analysieren, die Anzeigen von personalisierten Inhalten ermöglichen, sowie Social Media-Funktionen bereitstellen. Standardmässig werden nur für die Bereitstellung der Webseite erforderliche Cookies gespeichert. Wenn Sie auf die Schaltfläche «Alle Cookies akzeptieren» klicken, willigen Sie jedoch in die Speicherung aller Cookies auf Ihrem Gerät ein. Wenn Sie auf «Alle Cookies akzeptieren» klicken, erklären Sie sich damit einverstanden, dass Ihre Daten durch Dienstleister aus Drittländern weltweit auch ausserhalb des Europäischen Wirtschaftsraumes (insb. Den USA), in denen kein angemessenes datenschutzrechtliches Schutzniveau besteht, verarbeitet werden. In diesem Fall besteht die Möglichkeit, dass Behörden ohne Rechtsmittel auf die Daten zugreifen können. Wenn Sie auf «Optionale Cookies ablehnen» klicken, findet sie oben beschriebene Übermittlung nicht statt. Über das Menu «Cookie-Präferenzen» oder über die auf der Seite verlinkten Informationen zu Cookies können Sie Ihre Präferenzen anpassen, zusätzliche Informationen erhalten und erteilte Einwilligungen jederzeit zurückziehen oder ändern. Weitere Informationen über die Verwendung von Cookies finden Sie in unserem Hinweis zu Cookies auf unseren Websites.OKVollständige Details, wie wir Cookies verwendenBestätigen Sie Ihre PräferenzenNur erforderliche Cookies12NotwendigDiese Cookies sind für die der Website zugrundeliegenden Vorgänge wichtig und unterstützen wichtige Funktionen wie Einkaufswagen und die technischen Vorgänge der Website, die sicherstellen, dass sie so funktioniert wie Sie es erwarten.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweckwscrCookieConsent1 Jahrwww.myastrazeneca.chDigital Control Room LtdIhr BesuchSpeichert Ihre Cookie-Einwilligungssitzung für unsere Website. Es enthält keine anderen Informationen als die, ob Sie sich für jede Cookie-Ebene aktiviert oder deaktiviert haben.Digital Control Room Ltd - Datenschutzrichtlinie (Digital Control Room Ltd)+ ▼Speichert Ihre Cookie-Einwilligungssitzung für unsere Website. Es enthält keine anderen Informationen als die, ob Sie sich für jede Cookie-Ebene aktiviert oder deaktiviert haben.Digital Control Room Ltd - Datenschutzrichtlinie (Digital Control Room Ltd)utag_main_ses_id1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main_vapi_domain1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__pn1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__se1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__sn1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__ss1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)utag_main__st1 Jahrmyastrazeneca.chTealiumIhr BesuchDient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)+ ▼Dient zum Speichern der Tealium-ID, die für die Analyse von Besucherinformationen erforderlich ist.Tealium - Datenschutzrichtlinie (Tealium)_vapi<digits>+Sitzungmyastrazeneca.chVMware, IncIhr BesuchCookie, das eine Sitzungskennung enthält, mit der die Verwendung authentifiziert und verschiedene APIs bereitgestellt werden. Das Cookie ist dynamisch und kann daher nicht aktualisiert werden, da jeder Kunde ein eindeutiges Cookie hat.VMware, Inc - Datenschutzrichtlinie (VMware, Inc)+ ▼Cookie, das eine Sitzungskennung enthält, mit der die Verwendung authentifiziert und verschiedene APIs bereitgestellt werden. Das Cookie ist dynamisch und kann daher nicht aktualisiert werden, da jeder Kunde ein eindeutiges Cookie hat.VMware, Inc - Datenschutzrichtlinie (VMware, Inc)AWSALB1 Stundewww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Ihr BesuchWird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)+ ▼Wird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)AWSALBCORS1 Wochewww.myastrazeneca.chAmazon Web Services, Amazon.com, Inc.Ihr BesuchWird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)+ ▼Wird von Elastic Load Balancing von Amazon Web Services verwendet, um die Last auf den Servern effektiv auszugleichen.Amazon Web Services - Datenschutzrichtlinie (Amazon Web Services)Amazon.com, Inc. - Datenschutzrichtlinie (Amazon.com, Inc.)JSESSIONIDSitzungwww.myastrazeneca.chEIS, Microsoft CorporationIhr BesuchSpeichert Sitzungsdaten während eines von Jetty Web Server ausgegebenen Website-Besuchs.Microsoft Corporation - Datenschutzrichtlinie (Microsoft Corporation)+ ▼Speichert Sitzungsdaten während eines von Jetty Web Server ausgegebenen Website-Besuchs.Microsoft Corporation - Datenschutzrichtlinie (Microsoft Corporation)0Site-RoutineEinwilligung für: Site-RoutineDiese Cookies werden verwendet, um Ihre Zufriedenheit auf der Website zu unterstützen und enthalten vom Benutzer auszuwählende Optionen, Hilfe zur Navigation auf der Website, usw. Im Allgemeinen werden bei dieser Art von Cookies keine Daten verwendet, die eine Person identifizieren könnten.Für folgende Kategorien verwenden wir keine Cookies35Leistung und BetriebEinwilligung für: Leistung und BetriebDiese Cookies werden zur Verwaltung der Website verwendet und enthalten Kundenumfragen, Aufzeichnungen der Besucherzahlen und andere Web-Analysen. Es können möglicherweise begrenzt identifizierbare Daten gesammelt werden.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweckeverest_g_v22 Jahreeveresttech.netAdobe Inc.AnalysenDiese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Diese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)everest_session_v2Sitzungeveresttech.netAdobe Inc.AnalysenDiese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Diese Cookies geben Feedback zur Wirksamkeit der auf unserer Website angezeigten Werbung und zeigen Ihnen Angebote, die für Sie von Interesse sein könnten.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)im_cookie_ccreativeSitzungmyastrazeneca.chAdobe Inc.AnalysenZeichnet die Kampagnen-ID auf, die zum Navigieren auf der Website verwendet wird+ ▼Zeichnet die Kampagnen-ID auf, die zum Navigieren auf der Website verwendet wirdtestSitzungmyastrazeneca.chAdobe Inc.AnalysenInternes Cookie, das von Adobe Analytics geschrieben wurde, um die Browser-Cookie-Unterstützung zu testen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Internes Cookie, das von Adobe Analytics geschrieben wurde, um die Browser-Cookie-Unterstützung zu testen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)im_cookie_cadpubSitzungmyastrazeneca.chAstraZenecaAnalysenAlle im_-Cookies sind Analyse-Cookies. Dieses spezielle Beispiel ist ein Session-Cookie, das den URL-Parameter des Kampagnen-Werbetreibenden (cadpub) während der Sitzung speichert, damit er für Datenanalysen der erfassten Daten verwendet werden kann.+ ▼Alle im_-Cookies sind Analyse-Cookies. Dieses spezielle Beispiel ist ein Session-Cookie, das den URL-Parameter des Kampagnen-Werbetreibenden (cadpub) während der Sitzung speichert, damit er für Datenanalysen der erfassten Daten verwendet werden kann.im_cookie_cmediumSitzungmyastrazeneca.chAstraZenecaAnalysenCookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der das Medium (Kanal) der URL angibt.+ ▼Cookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der das Medium (Kanal) der URL angibt.im_cookie_cnameSitzungmyastrazeneca.chAstraZenecaAnalysenCookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der den Kampagnennamen der URL angibt.+ ▼Cookie-Feld zum Verfolgen des eingehenden UTM-Parameters, der den Kampagnennamen der URL angibt.uuid90 Tageinnovid.comAstraZenecaAnalysenDieses Cookie wird verwendet, um die Anzeigenrelevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden. Dieser Austausch von Besucherdaten wird normalerweise von einem Rechenzentrum oder einem Anzeigenaustauschdienst eines Drittanbieters bereitgestelltAstraZeneca - Datenschutzrichtlinie (AstraZeneca)+ ▼Dieses Cookie wird verwendet, um die Anzeigenrelevanz zu optimieren, indem Besucherdaten von verschiedenen Websites gesammelt werden. Dieser Austausch von Besucherdaten wird normalerweise von einem Rechenzentrum oder einem Anzeigenaustauschdienst eines Drittanbieters bereitgestelltAstraZeneca - Datenschutzrichtlinie (AstraZeneca)mf_*Sitzungmyastrazeneca.chMouseflow ApSAnalysenMessen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)+ ▼Messen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)mf_user90 Tagemyastrazeneca.chMouseflow ApSAnalysenMessen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)+ ▼Messen Sie den Website-Verkehr über anonyme Statistiken. Unter anderem, welche Links Benutzer anklicken und wo sie am häufigsten die Maus bewegen, damit wir die Benutzererfahrung auf unserer Website optimieren können.Mouseflow ApS - Datenschutzrichtlinie (Mouseflow ApS)im_cookie_session_idSitzungmyastrazeneca.chAdobe, Adobe Inc.AnalysenVerwaltet Benutzersitzungen für die Site-Funktionalitäten und läuft ab, wenn der Browser geschlossen wird.+ ▼Verwaltet Benutzersitzungen für die Site-Funktionalitäten und läuft ab, wenn der Browser geschlossen wird.im_cookie_visitor_uid27 Jahre, 4 Monatemyastrazeneca.chAdobe, Adobe Inc.AnalysenVerfolgt das Besucherverhalten über mehrere Sitzungen hinweg, um das Benutzererlebnis zu verbessern, mit langfristiger Ablauffunktion.+ ▼Verfolgt das Besucherverhalten über mehrere Sitzungen hinweg, um das Benutzererlebnis zu verbessern, mit langfristiger Ablauffunktion.AMCVS_*AdobeOrgSitzungmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenSitzungscookie mit Adobe. Es zeigt an, dass eine Sitzung initialisiert wurde. Mithilfe der Organisations-ID kann Adobe nur den Datenverkehr von legitimen Websites analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Sitzungscookie mit Adobe. Es zeigt an, dass eine Sitzung initialisiert wurde. Mithilfe der Organisations-ID kann Adobe nur den Datenverkehr von legitimen Websites analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)AMCV_*AdobeOrg2 Jahremyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenHilft Adobe, nur den Datenverkehr von legitimen Websites zu analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Hilft Adobe, nur den Datenverkehr von legitimen Websites zu analysieren.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)astrazenecauklimited!mboxPC1 Tagastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalysenCookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)astrazenecauklimited!mboxSession30 Minutenastrazenecauklimited.tt.omtrdc.netAdobe Analytics, Adobe Inc.AnalysenCookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie-Set, um sich an die Sitzung des Besuchers zu erinnern.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)at_checkSitzungmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenCookie zum Erinnern an den Besucher, wenn experimentiert wird, welche Inhalte dem Besucher bereitgestellt werden sollen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Cookie zum Erinnern an den Besucher, wenn experimentiert wird, welche Inhalte dem Besucher bereitgestellt werden sollen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)gpv_pn30 Minutenmyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenDieses Cookie wird beim Laden der Seite vom Adobe Analytics-JavaScript-Code gesetzt und gelesen. Erfasst den Namen der Adobe Analytics-Seite. Es werden keine personenbezogenen Daten erfasst.+ ▼Dieses Cookie wird beim Laden der Seite vom Adobe Analytics-JavaScript-Code gesetzt und gelesen. Erfasst den Namen der Adobe Analytics-Seite. Es werden keine personenbezogenen Daten erfasst.mbox2 Jahremyastrazeneca.chAdobe Analytics, Adobe Inc.AnalysenDieses Cookie wird verwendet, um zu steuern, welche Elemente einem Besucher angezeigt werden sollen, und gibt Website-Betreibern die Möglichkeit zu testen, welche Online-Inhalte und -Angebote für Besucher relevanter sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Dieses Cookie wird verwendet, um zu steuern, welche Elemente einem Besucher angezeigt werden sollen, und gibt Website-Betreibern die Möglichkeit zu testen, welche Online-Inhalte und -Angebote für Besucher relevanter sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)demdex2 Jahredemdex.netAdobe Media Optimizer, Adobe Inc.AnalysenWird verwendet, um einen wiederkehrenden Besucher zu erkennen, einzigartige Zielgruppenprofile zu erstellen und mithilfe von Adobe Analytics gezielte Nachrichten zu übermitteln.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird verwendet, um einen wiederkehrenden Besucher zu erkennen, einzigartige Zielgruppenprofile zu erstellen und mithilfe von Adobe Analytics gezielte Nachrichten zu übermitteln.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)dextp6 Monatedemdex.netAdobe Media Optimizer, Adobe Inc.AnalysenAdobe Audience Manager setzt dieses Cookie, um den letzten Datensynchronisierungsaufruf aufzuzeichnen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Adobe Audience Manager setzt dieses Cookie, um den letzten Datensynchronisierungsaufruf aufzuzeichnen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)dpm2 Jahredpm.demdex.netAdobe Media Optimizer, Adobe Inc.AnalysenWird verwendet, um Adobe Audience Manager bei der Durchführung grundlegender Funktionen wie Besucheridentifikation, ID-Synchronisierung, Segmentierung, Modellierung, Berichterstellung usw. zu unterstützenAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird verwendet, um Adobe Audience Manager bei der Durchführung grundlegender Funktionen wie Besucheridentifikation, ID-Synchronisierung, Segmentierung, Modellierung, Berichterstellung usw. zu unterstützenAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)flashtalkingad12 Jahreflashtalking.comFlashtalking, Simplicity Marketing LtdAnalysenSammelt anonyme Daten und ermittelt im Auftrag der Werbeplattform Flashtalking von Simplicity Marketing Ltd., welche Werbung dem Nutzer bereits geliefert wurde.Flashtalking - Datenschutzrichtlinie (Flashtalking)+ ▼Sammelt anonyme Daten und ermittelt im Auftrag der Werbeplattform Flashtalking von Simplicity Marketing Ltd., welche Werbung dem Nutzer bereits geliefert wurde.Flashtalking - Datenschutzrichtlinie (Flashtalking)s_ccSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenSpeichert im Namen der SiteCatalyst Analytics-Plattform, ob Cookies aktiviert sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Speichert im Namen der SiteCatalyst Analytics-Plattform, ob Cookies aktiviert sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getDaysSinceLastVisit3 Jahremyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getDaysSinceLastVisit_s3 Jahremyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getDaysSinceLastVisitAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_getNewRepeat30 Tagemyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenBestimmt, ob ein Besucher ein neuer Besucher oder ein wiederkehrender Besucher ist, und erfasst diese Informationen in einer Analytics-Variablen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Bestimmt, ob ein Besucher ein neuer Besucher oder ein wiederkehrender Besucher ist, und erfasst diese Informationen in einer Analytics-Variablen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_invisit30 Minutenmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenDieses Cookie wird von einem Omniture-Plugin verwendet, um die Besuchszahlen pro Monat für einen bestimmten Benutzer der Webseite zu zählen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Dieses Cookie wird von einem Omniture-Plugin verwendet, um die Besuchszahlen pro Monat für einen bestimmten Benutzer der Webseite zu zählen.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pltSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pltpSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageLoadTime, um die Zeit in Sekunden zu speichern, die die vorherige Seite zum Laden benötigt hat.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_ppvSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenSpeichert den Prozentsatz der Seite, der dem Endbenutzer vertikal angezeigt wurde.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Speichert den Prozentsatz der Seite, der dem Endbenutzer vertikal angezeigt wurde.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_pvsSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_tpSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: Adobe Consulting PluginAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: Adobe Consulting PluginAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_tpsSitzungmyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenWird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Wird vom optionalen Plugin auf SiteCatalyst festgelegt: getPageVisibilityAdobe Inc. - Datenschutzrichtlinie (Adobe Inc.)s_vnum30 Tagemyastrazeneca.chSiteCatalyst, Adobe Inc.AnalysenAktiviert die Nachverfolgung der Besuchsnummer nach Monat für die SiteCatalyst Analytics-Plattform, indem aufgezeichnet wird, wie Sie auf der Site angekommen sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)+ ▼Aktiviert die Nachverfolgung der Besuchsnummer nach Monat für die SiteCatalyst Analytics-Plattform, indem aufgezeichnet wird, wie Sie auf der Site angekommen sind.Adobe Inc. - Datenschutzrichtlinie (Adobe Inc.)3Marketing, anonymes Cross-Site-Tracking:Einwilligung für: Marketing, anonymes Cross-Site-Tracking:Diese Cookies werden dazu verwendet, die Besucher all unserer Websites nachzuverfolgen. Sie können dazu verwendet werden, ein Profil des Such- und/oder Navigationsverlaufs jedes Besuchers zu erstellen. Es können identifizierbare oder eindeutige Daten gesammelt werden. Anonymisierte Daten können mit Dritten geteilt werden.Detailed description of cookies categorised as: . CookieVerfalldatumDomäneUnternehmenZweck_gcl_au3 Monatemyastrazeneca.chAdSense, Google LLCWerbungGoogle AdSense sammelt Statistiken über die Nutzung seines Dienstes, um Marketingentscheidungen zu treffenGoogle LLC - Datenschutzrichtlinie (Google LLC)+ ▼Google AdSense sammelt Statistiken über die Nutzung seines Dienstes, um Marketingentscheidungen zu treffenGoogle LLC - Datenschutzrichtlinie (Google LLC)IDE2 Jahredoubleclick.netDoubleClick, Google LLCWerbungEnthält einen eindeutigen Code, mit dem ermittelt wird, welche Anzeigen auf einem Gerät im Auftrag von Google Inc. angezeigt wurden. Werbeplattform DoubleClick. Ermöglicht die Überwachung der Effektivität der Anzeigen und macht die Anzeigen für den Nutzer relevanter.Google LLC - Datenschutzrichtlinie (Google LLC)+ ▼Enthält einen eindeutigen Code, mit dem ermittelt wird, welche Anzeigen auf einem Gerät im Auftrag von Google Inc. angezeigt wurden. Werbeplattform DoubleClick. Ermöglicht die Überwachung der Effektivität der Anzeigen und macht die Anzeigen für den Nutzer relevanter.Google LLC - Datenschutzrichtlinie (Google LLC)test_cookie15 Minutendoubleclick.netGoogle Analytics, Google LLCWerbungTestet, ob der Browser des Benutzers Cookies im Auftrag von Google Inc. unterstützt. Werbeplattform DoubleClick.Google LLC - Datenschutzrichtlinie (Google LLC)+ ▼Testet, ob der Browser des Benutzers Cookies im Auftrag von Google Inc. unterstützt. Werbeplattform DoubleClick.Google LLC - Datenschutzrichtlinie (Google LLC)Verwalten Sie Ihre CookiesWas sind Cookies, wie werden sie verwendet und verwaltet? Cookies sind kleine Textdateien, die Buchstaben und Zahlen enthalten und auf Ihren Computer oder entsprechendes Gerät platziert werden. Cookies werden dann platziert, wenn Sie eine Website besuchen, die Cookies verwendet und kann zum Nachverfolgen der Seiten verwendet werden, die Sie besucht haben. Sie können Ihnen auch helfen, dort fortzufahren, wo Sie abgebrochen haben oder sich Ihre Präferenzen merken – beispielsweise Spracheinstellungen. Cookies spielen eine wichtige Rolle bei unseren Bemühungen, die Verwendung von Online-Dienstleistungen sicherer zu gestalten, die Verwendung unserer Website zu überwachen und den Service zu verbessern, den wir Ihnen anbieten. Um Ihnen das Verständnis darüber zu erleichtern, wie Website Cookies verwendet werden, haben wir sie in leicht verständliche Kategorien gruppiert. Die Kategorie, der ein Cookie angehört, wird im Cookie-Bereich angezeigt. Die Informationen des Cookie-Bereichs werden Ihnen offen und transparent angezeigt, sodass Sie sehen, wie die Cookies verwendet werden, um Ihre Besucherzufriedenheit zu steigern, und dann eine sachkundige Entscheidung treffen können, ob Sie die Verwendung zulassen. Wenn Sie jedoch Cookies kontrollieren und entfernen möchten, können Sie dies anhand Ihrer Webbrowser-Einstellungen tun. Beachten Sie bitte, dass sich der eingeschränkte Einsatz von Cookies nachteilig auf die Funktionalität einer Website auswirken kann. Viele der von Websites angebotenen interaktiven Funktionen sind von Cookies abhängig und ihre Deaktivierung oder Blockierung kann zur Folge haben, dass diese Services nicht funktionieren oder ihre Nützlichkeit eingeschränkt ist. Unterschiedliche Browsers können verschiedene Methoden zur Cookie-Verwaltung haben. Folgen Sie bitte den Anweisungen unten, die von den Herstellern der Webbrowser direkt stammen, um Ihre Browser-Einstellungen zu konfigurieren*. Microsoft Edge Google Chrome Apple Safari Mozilla Firefox * Diese Links verbinden Sie mit Websites Dritter, über die wir keinerlei Kontrolle haben. Wir übernehmen für deren Genauigkeit keine Haftung.letzte am 2026-09-20 überprüftPowered by Digital Control Room"
+    ],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--bgColor-core-1": "#830051",
+    "--bgColor-core-2": "#4F0031",
+    "--bgColor-core-3": "#D0006F",
+    "--bgColor-secondary-1": "#F0AB00",
+    "--bgColor-secondary-2": "#9DB0AC",
+    "--bgColor-secondary-3": "#3C4242",
+    "--bgColor-supporting-1": "#EBEFEE",
+    "--bgColor-supporting-2": "#ffffff",
+    "--textColor-body-1": "#3C4242",
+    "--textColor-body-2": "#ffffff",
+    "--textColor-placeholder-1": "#B2B4B4",
+    "--textColor-placeholder-2": "#656969",
+    "--textColor-title-1": "#830051",
+    "--textColor-title-2": "#D0006F",
+    "--textColor-warning": "#D0006F",
+    "--textColor-label-1": "#8D8F8F",
+    "--textColor-label-2": "#656969",
+    "--textColor-interaction": "#D0006F",
+    "--borderColor-1": "#EBEFEE",
+    "--borderColor-2": "#D8DFDE",
+    "--borderColor-3": "#D8DADA",
+    "--borderColor-4": "#3C4242",
+    "--borderColor-5": "#ffffff",
+    "--borderColor-6": "#D0006F",
+    "--borderColor-7": "#B2B4B4",
+    "--borderColor-8": "#656969",
+    "--button-primary-bgColor": "#D0006F",
+    "--button-secondary-bgColor": "#ffffff",
+    "--button-tertiary-bgColor": "#ffffff",
+    "--button-primary-borderColor": "#D0006F",
+    "--button-secondary-borderColor": "#D0006F",
+    "--button-tertiary-borderColor": "#3C4242",
+    "--button-primary-textColor": "#ffffff",
+    "--button-secondary-textColor": "#D0006F",
+    "--button-tertiary-textColor": "#3C4242",
+    "--popup-backdrop-color": "#3C4242",
+    "--table-bgColor-1": "#C4CFCD",
+    "--tableHeader": "#D8DFDE",
+    "--tableRowBG-1": "#ffffff",
+    "--tableRowBG-2": "#EBEFEE",
+    "--tableHighlight": "#E6CCDC",
+    "--tabsOn": "#D0006F",
+    "--tabsOff": "#EBEFEE",
+    "--inpage-textColor-1": "#E366A9",
+    "--icon-color-light": "#ffffff",
+    "--icon-color-dark": "#3C4242"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 9,
+    "mainTextLen": 36262,
+    "realImageCount": 20,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "www.myastrazeneca.ch",
+        "path": "/bin/secureCookies",
+        "query": [
+          "cookieName"
+        ],
+        "resourceType": "xhr",
+        "contentType": null,
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.myastrazeneca.ch/bin/secureCookies",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 631,
+        "hits": 1,
+        "example": "https://dpm.demdex.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.myastrazeneca.ch",
+        "path": "/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21,
+        "hits": 1,
+        "example": "https://www.myastrazeneca.ch/content/intelligentcontent/portals/hcp/ch/de/startseite/therapiegebiete/cvrm/diabetes/jcr:content.socialFeaturesPost.json",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "policy.cookiereports.com",
+        "path": "/consent/",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://policy.cookiereports.com/consent/",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "astrazenecaeurope.d3.sc.omtrdc.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_visid_ver",
+          "mcorgid",
+          "mid",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/x-javascript",
+        "status": 200,
+        "bytes": 2,
+        "hits": 1,
+        "example": "https://astrazenecaeurope.d3.sc.omtrdc.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "astrazenecauklimited.tt.omtrdc.net",
+        "path": "/rest/v1/delivery",
+        "query": [
+          "client",
+          "sessionId",
+          "version"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://astrazenecauklimited.tt.omtrdc.net/rest/v1/delivery",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "tags.tiqcdn.com",
+        "count": 5
+      },
+      {
+        "host": "policy.cookiereports.com",
+        "count": 2
+      },
+      {
+        "host": "rum.hlx.page",
+        "count": 1
+      },
+      {
+        "host": "cdn.mouseflow.com",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [
+      "aem-sites"
+    ],
+    "forms": [
+      {
+        "action": "https://www.myastrazeneca.ch/de/startseite/therapiegebiete/cvrm/diabetes.html",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "search-text-box"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 2,
+    "triggers": [],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 4,
+      "thirdPartyScriptHosts": 4,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": true
+    }
+  },
+  "screenshot": "assets/screenshots/de-startseite-therapiegebiete-cvrm-diabetes-html.png",
+  "renderedHtml": "pages/de-startseite-therapiegebiete-cvrm-diabetes-html.html",
+  "slots": {
+    "headline": "Diabetes",
+    "sections": [
+      "Diabetes im Überblick – fachspezifisch und aktuell",
+      "Inzidenz",
+      "Folgeerkrankungen",
+      "Mortalität",
+      "Symptome",
+      "Diagnose",
+      "Behandlung",
+      "Nützliche Produktinformationen"
+    ],
+    "references": true
+  }
+}
