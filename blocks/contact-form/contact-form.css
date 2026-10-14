@@ -1,0 +1,34 @@
+.contact-form .contact-form-form {
+  display: grid;
+  gap: 20px;
+  max-width: 640px;
+}
+
+.contact-form .contact-form-field {
+  display: grid;
+  gap: 6px;
+}
+
+.contact-form .contact-form-field input,
+.contact-form .contact-form-field textarea {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid var(--dark-color);
+  border-radius: 4px;
+  padding: 10px 12px;
+  color: var(--text-color);
+}
+
+.contact-form .contact-form-field textarea {
+  min-height: 140px;
+  resize: vertical;
+}
+
+.contact-form .contact-form-captcha {
+  min-height: 78px;
+}
+
+.contact-form .contact-form-message {
+  margin: 0;
+  font-size: var(--body-font-size-s);
+}

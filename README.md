@@ -32,3 +32,11 @@ npm run lint
 1. Install the [AEM CLI](https://github.com/adobe/helix-cli): `npm install -g @adobe/aem-cli`
 1. Start AEM Proxy: `aem up` (opens your browser at `http://localhost:3000`)
 1. Open the `hlx-6` directory in your favorite IDE and start coding :)
+
+## Contact form block
+
+Add `sitekey` and `endpoint` rows to the Contact Form block. The site key must be a
+Google reCAPTCHA v2 Checkbox site key; the endpoint must accept a `multipart/form-data`
+POST containing `firstName`, `lastName`, `email`, `comment`, and
+`g-recaptcha-response`. Verify the captcha token server-side with Google's verification
+API. Never put the reCAPTCHA secret key in page content or client-side code.
